@@ -1,4 +1,19 @@
 
+## 2026-06-08 00:19 PHT | threads | anti-dynasty-bill-hollow
+
+**Topic:** House passes anti-political dynasty bill on June 3, 2026 - first chamber in Philippine history to do so since the 1987 Constitution; critics call it deliberately hollow for lacking a succession ban
+**Angle:** 39 years after the Constitution mandated an anti-dynasty law, the bill that finally passed only bans simultaneous office-holding - succession, different offices, different terms still allowed
+**Hook:** "The 1987 Constitution required Congress to pass an anti-dynasty law. Congress took 39 years."
+**Tagalog beat:** "Dinesenyo para hindi gumana." (placement: closing_verdict)
+**Char count:** 410
+**Status:** LIVE (post_id: sp_6ukTgkclWkdfNLgcRCHXt, ext_id: direct-e8d812c5a8c38cf8)
+**Sources:**
+- https://www.philstar.com/headlines/2026/06/04/2532766/house-oks-anti-political-dynasty-bill-opposition-slams-it-fake-watered-down
+- https://newsinfo.inquirer.net/2239590/house-approves-anti-dynasty-bill-on-final-reading
+- https://www.manilatimes.net/2026/06/03/news/house-okays-watered-down-version-of-anti-dynasty-bill-on-third-reading/2357631
+- https://www.pna.gov.ph/articles/1276504
+- https://www.rappler.com/philippines/house-passes-weak-anti-dynasty-bill-june-3-2026/
+
 ## 2026-06-07 22:54 PHT | threads | deped-school-opening-no-books
 
 **Topic:** DepEd school year opens June 8, 2026 with 28 million students; committed to only 80% textbook delivery for Grades 1, 4, and 7 by July - not by Day 1; 27 textbook titles approved in past decade

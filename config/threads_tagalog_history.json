@@ -9,14 +9,6 @@
   ],
   "entries": [
     {
-      "task_id": "86d37y2t7",
-      "task_name": "2026-06-04 Political Commentary UNSC Loss Kyrgyzstan TH",
-      "placement": "mid_pivot",
-      "tagalog_phrase": "Dapat idemand natin ang gobyernong gumagana.",
-      "source_skill": "threads-creator",
-      "created_at_pht": "2026-06-04T18:11:32+08:00"
-    },
-    {
       "task_id": "86d37zvza",
       "task_name": "2026-06-04 Political Commentary Third Plunder 25 Years TH",
       "placement": "standalone_beat",
@@ -63,6 +55,14 @@
       "tagalog_phrase": "Sila ang pumapasok. Hindi ang Senado.",
       "source_skill": "threads-creator",
       "created_at_pht": "2026-06-07T07:11:06+08:00"
+    },
+    {
+      "task_id": "86d38pzum",
+      "task_name": "2026-06-07 Constitutional Awareness FOI Bill Constitution Catching Up TH",
+      "placement": "closing_line",
+      "tagalog_phrase": "Apat na dekada para sa karapatan na atin na pala.",
+      "source_skill": "threads-creator",
+      "created_at_pht": "2026-06-07T12:45:24+08:00"
     }
   ]
 }

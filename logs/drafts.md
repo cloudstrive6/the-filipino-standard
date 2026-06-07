@@ -14,6 +14,19 @@
 - https://www.bworldonline.com/the-nation/2026/05/04/747281/foi-bill-gets-senate-nod/
 - https://www.pna.gov.ph/articles/1274264
 
+## 2026-06-07 12:00 PHT | threads | ph-gdp-graft-oecd
+
+**Topic:** OECD cuts Philippines 2026 GDP growth forecast to 3.2% - infrastructure corruption scandal cited
+**Angle:** Corruption in public works didn't just drain the budget; it directly caused the collapse in public construction investment and shaved growth points off the economy
+**Hook:** "Corruption in public works didn't just steal from the budget. It stole from the GDP."
+**Tagalog beat:** "Ninakaw pati ang paglago."
+**Char count:** 301
+**Post ID:** sp_27GdrRmFtXAJpx5G6Wqqe (LIVE - ext_id: direct-0c8e26252be4ee35)
+**Sources:**
+- https://business.inquirer.net/593475/oecd-cuts-2026-ph-gdp-growth-forecast-to-3-2
+- https://www.pressreader.com/philippines/philippine-daily-inquirer-1109/20260604/281900189883900
+- https://www.iseas.edu.sg/articles-commentaries/iseas-perspective/2026-38-the-philippine-economy-in-2026-growth-under-siege-by-jc-punongbayan/
+
 ## 2026-06-07 11:30 PHT | threads | energy-crisis-fragile
 
 **Topic:** 2026 Philippine energy emergency - oil import dependency, brownouts, systemic fragility

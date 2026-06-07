@@ -1,4 +1,18 @@
 
+## 2026-06-07 20:20 PHT | facebook,instagram | pnp-accountability-survey
+
+**Topic:** PNP Chief cites Boses ng Bayan survey giving PNP a 78.8% trust rating - survey presented by the PNP itself; 53 dismissed, 88 suspended, 27 reprimanded in January 2026 via internal process (PNA / Manila Times, June 7, 2026)
+**Angle:** Self-graded accountability is not accountability. The structural difference between the PNP's Internal Affairs Service (reports to PNP Chief) and NZ's Independent Police Conduct Authority (reports to Parliament). Most PH agencies grade their own homework.
+**Hook:** "The PNP chief says the police have a 78.8% trust rating. The survey was presented by the PNP."
+**Tagalog beat:** "Sariling tanong, sariling sagot." (placement: closing_verdict)
+**Image:** output/images/2026-06-07-pnp-accountability-survey.png (1.7 MB, Gemini-generated)
+**Chars:** 1744
+**Scheduled:** 2026-06-07 21:00 PHT (dry run - ext_id direct-c764d170dbd4de2b)
+**Sources:**
+- https://www.manilatimes.net/2026/06/07/news/national/nartatez-cites-poll-results-affirming-police-reforms/2360051
+- https://www.pna.gov.ph/articles/1268459
+- https://www.philstar.com/nation/2026/05/31/2531707/nartatez-welcomes-boses-ng-bayan-survey-results
+
 ## 2026-06-07 18:33 PHT | threads | romualdez-us-visa-revocation
 
 **Topic:** US revokes Martin Romualdez's diplomatic (A-1) and tourist (B1/B2) visas; confirmed June 5, 2026 by PH Ambassador to Washington Jose Manuel Romualdez

@@ -1,0 +1,17 @@
+{
+  "list_id": "901614911598",
+  "name": "FB Post: Angeles Collapse - The Permit Enforcement Gap",
+  "status": "APPROVED",
+  "priority": "normal",
+  "tags": ["facebook", "morning-scan", "pillar-6"],
+  "markdown_description": "## Hook\nA sari-sari store owner in Quezon City needs three months of paperwork to legally sell five-peso candies. A nine-story building in Angeles City got a 2025 work stoppage order, ignored it, added an unpermitted floor, and was still standing tall on May 23. On May 24 at 3 AM, that building collapsed.\n\n## Core argument (2-3 lines)\nThe Angeles City building collapse (5 dead, 15 missing as of May 28) exposes a selective enforcement gap, not a permit gap. The same state that buries SME owners under months of architectural, structural, electrical, sanitary and fire-safety signatures failed to enforce a 2025 DOLE work stoppage order against a 9-story commercial project with unpermitted floor additions. The rules exist. The state has just decided who they apply to.\n\n## Constitutional citation\nArticle II, Section 4: \"The prime duty of the Government is to serve and protect the people.\"\n\n## File paths (Z:\\Business Empire\\The Filipino Standard\\)\n- Brief: output\\briefs\\2026-05-29-angeles-collapse-permit-enforcement-gap-morning.md\n- Post: output\\posts\\2026-05-29-angeles-collapse-permit-enforcement-gap-fb.md\n- Image prompt A (Split-Panel Editorial): output\\images\\2026-05-29-angeles-collapse-permit-enforcement-gap-variation-a.md\n- Image prompt B (Satirical Editorial Cartoon): output\\images\\2026-05-29-angeles-collapse-permit-enforcement-gap-variation-b.md\n\n## Scheduled Publish\n2026-05-29 12:00 PHT (Asia/Manila)\n\n## Status note\nFully automated; no manual review required by default. Changing the status to NEEDS-REVISION at any time before publish will halt auto-publish.\n\n## Pillar\nPillar 6 (Business & SME Advocacy, 6.4 + 6.19) + Pillar 1 (Governance Comparison, 1.10) + Pillar 5 (Filipino Empowerment)\n\n## Sources (verified to 2+ each)\n- https://en.wikipedia.org/wiki/2026_Angeles_City_building_collapse\n- https://www.gmanetwork.com/news/topstories/regions/989264/angeles-city-building-collapse-death-toll-rises-to-5/story/\n- https://www.abs-cbn.com/news/regions/2026/5/25/collapsed-pampanga-building-issued-work-stoppage-order-last-year-over-safety-violations-dole-1159\n- https://www.dzrh.com.ph/post/owner-contractor-of-collapsed-angeles-city-building-face-summons-over-unpermitted-expansion\n- https://newsinfo.inquirer.net/2234512/contractor-liability-eyed-in-angeles-city-building-collapse\n- https://mb.com.ph/2026/05/26/senate-probe-into-pampanga-building-collapse-sought\n- https://www.gmanetwork.com/news/topstories/regions/988864/what-we-know-so-far-angeles-city-nine-story-building-collapse/story/\n- https://www.lawyer-philippines.com/articles/building-permit-application-process-and-requirements-for-new-business\n- https://www.building.govt.nz/projects-and-consents/apply-for-building-consent",
+  "attachments": [
+    "Z:\\Business Empire\\The Filipino Standard\\output\\images\\2026-05-29-angeles-collapse-permit-enforcement-gap-variation-a.md",
+    "Z:\\Business Empire\\The Filipino Standard\\output\\images\\2026-05-29-angeles-collapse-permit-enforcement-gap-variation-b.md"
+  ],
+  "custom_fields": {
+    "Scheduled Publish": 1780027200000,
+    "Scheduled Publish (PHT readable)": "2026-05-29 12:00 PHT",
+    "Scheduled Publish (ISO with offset)": "2026-05-29T12:00:00+08:00"
+  }
+}

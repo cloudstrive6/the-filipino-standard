@@ -1,0 +1,16 @@
+{
+  "_doc": "Tasks listed here are PERMANENTLY LOCKED. The image pipeline (scripts/generate_image.py) reads this file on startup and refuses to process any locked task, no matter what - even with explicit --task <id> invocation, even if Image URL is cleared, even if status is changed. The lock exists because the task has an approved, human-blessed final image that must never be silently destroyed by a re-run. To unlock a task, remove its entry here (intentional human action). To validate a future change on a locked archetype, create a NEW throwaway task; never re-run a locked one.",
+  "locked_tasks": [
+    {
+      "task_id": "86d30n0ne",
+      "task_name": "2026-05-16 Constitutional Awareness TEST Sovereignty Quote FB",
+      "archetype": "constitutional_quote",
+      "reason": "Original model-rendered image is the brand benchmark for constitutional_quote. The model's composed, framed, decorated rendering with integrated typography cannot be reproduced by Pillow overlay. Locked permanently after a Pillow-overlay re-run destroyed the canonical PNG on disk; the original was recovered from ClickUp CDN and restored.",
+      "locked_at_pht": "2026-05-16T17:25:18+08:00",
+      "approved_attachment_id": "153bd0cc-fdf7-48fe-a2cc-2d89c9df8462.png",
+      "approved_attachment_url": "https://t90161481976.p.clickup-attachments.com/t90161481976/153bd0cc-fdf7-48fe-a2cc-2d89c9df8462/2026-05-16-constitutional-awareness-test-sovereignty-quote.png",
+      "approved_local_path": "output/images/2026-05-16-constitutional-awareness-test-sovereignty-quote.png",
+      "approved_sha256": "fea49113211c2e1a97c9b2d3618f116c8ec8346bb02d029ebd9a4cae838953b5"
+    }
+  ]
+}

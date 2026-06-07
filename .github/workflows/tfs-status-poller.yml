@@ -1,0 +1,38 @@
+name: TFS Status Poller
+
+# Two jobs in one pass: (1) backfill real Facebook/Instagram/Threads URLs onto
+# PUBLISHED tasks, and (2) the description-reconciliation self-heal (repairs
+# brief-leak descriptions from output/posts, else quarantines). Replaces the
+# "TFS Status Poller" Windows scheduled task.
+#
+# Note: the self-heal can only repair a task if its output/posts/*.md file is
+# present in the repo. If content is still written on your PC, commit those
+# files (or accept that the self-heal falls back to quarantining on the runner).
+
+on:
+  schedule:
+    - cron: "*/10 * * * *"   # every 10 minutes
+  workflow_dispatch: {}
+
+concurrency:
+  group: tfs-status-poller
+  cancel-in-progress: false
+
+jobs:
+  poll:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Create empty .env (scripts require the file to exist; secrets come from env)
+        run: touch .env
+      - name: Run status poller (URL backfill + reconcile self-heal)
+        env:
+          CLICKUP_API_TOKEN: ${{ secrets.CLICKUP_API_TOKEN }}
+          POSTFORME_API_KEY: ${{ secrets.POSTFORME_API_KEY }}
+        run: python scripts/status_poller.py

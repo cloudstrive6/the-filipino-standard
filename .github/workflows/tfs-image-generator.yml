@@ -1,0 +1,33 @@
+name: TFS Image Generator
+
+# Generates a Gemini (Nano Banana) image for every approved/scheduled FB/IG task
+# that has no image yet, and attaches it to the ClickUp task. Replaces the
+# "TFS Image Generator" Windows scheduled task (which used OpenAI gpt-image-1).
+
+on:
+  schedule:
+    - cron: "5,20,35,50 * * * *"   # every 15 min, offset 5 from the publisher
+  workflow_dispatch: {}
+
+concurrency:
+  group: tfs-image-generator
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Create empty .env (scripts require the file to exist; secrets come from env)
+        run: touch .env
+      - name: Run Gemini image generator (--pending)
+        env:
+          CLICKUP_API_TOKEN: ${{ secrets.CLICKUP_API_TOKEN }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python scripts/generate_image_gemini.py --pending

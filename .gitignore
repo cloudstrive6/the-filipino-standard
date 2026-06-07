@@ -1,0 +1,22 @@
+.env
+__pycache__/
+*.pyc
+/logs/*.log
+
+# Generated / transient (never needed by the GitHub Actions runtime)
+/output/images/
+/outputs_payload.json
+/.claude/
+
+# --- Minimal public repo: keep content strategy + analytics PRIVATE ---
+# The runtime automation does not need these. They hold the brand playbook,
+# research briefs, and analytics. (output/posts/ stays tracked: published
+# captions, already public, needed by the status_poller self-heal.)
+/skills/
+/raw/
+/published/
+/failed/
+/queue/
+/output/briefs/
+/context/*
+!/context/key_facts.md

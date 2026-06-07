@@ -1,0 +1,12 @@
+{
+  "list_id": "901614911598",
+  "name": "Threads Post: Filipina caregivers and Asia's aging crisis",
+  "status": "APPROVED",
+  "priority": "normal",
+  "tags": ["threads", "mid-morning", "pillar-5"],
+  "markdown_description": "## Hook\nThree aging economies are building their elder-care systems on Filipino backs.\n\n## Full Threads post (publish text)\nThree aging economies are building their elder-care systems on Filipino backs.\n\nSingapore deployed 195,346 Filipino workers in 2024. Japan: 49,825. Australia: 19,779.\n\nA new PIDS study warns the Philippines itself is entering a care crisis. The country exporting caregivers cannot find enough to take care of its own parents.\n\nGanun kalala.\n\n## Pillar\nPillar 5 (Filipino Empowerment) topics 5.12 + 5.14, with secondary anchor in Pillar 4 (Economic & Utility Reform) topic 4.9.\n\n## Type\nHybrid (news anchor: PIDS study coverage May 26-29, 2026 + evergreen brain drain angle).\n\n## File paths (Z:\\Business Empire\\The Filipino Standard\\)\n- Brief: output\\briefs\\2026-05-29-filipina-caregivers-aging-asia-threads-mid-morning.md\n- Post: output\\posts\\2026-05-29-filipina-caregivers-aging-asia-threads-mid-morning.md\n- Spec (validator input): output\\posts\\2026-05-29-filipina-caregivers-aging-asia-threads-mid-morning.spec.json\n\n## Scheduled Publish\n2026-05-29 10:00 PHT (Asia/Manila)\nepoch_ms: 1780020000000\n\n## Status note\nFully automated; no manual review required by default. Changing the status to NEEDS-REVISION before publish will halt the publisher daemon for this task.\n\n## Voice + style check\n- Third-person voice throughout. Zero first-person pronouns. Collective framing only.\n- Zero em dashes anywhere.\n- Tagalog closer 'Ganun kalala.' is on the pre-cleared safe list (brand-context.md Section 4).\n- Character count: 348 (well under the 500 Threads ideal).\n- No individual politicians named. Argument is structural.\n\n## Sources (verified to 2+ each)\n- https://mb.com.ph/2026/05/26/aging-asia-pacific-economies-increasingly-relying-on-filipina-care-workerspids-study\n- https://www.bworldonline.com/economy/2026/05/27/752601/phl-needs-strategy-to-manage-healthcare-worker-migration/\n- https://www.manilatimes.net/2026/05/29/business/top-business/aging-fueling-demand-for-filipina-caregivers/2353554\n- https://mb.com.ph/2026/05/07/pids-philippines-faces-looming-care-crisis-as-aging-population-grows\n- https://www.pids.gov.ph/",
+  "custom_fields": {
+    "Scheduled Publish": "2026-05-29T10:00:00+08:00",
+    "Scheduled Publish (epoch_ms)": 1780020000000
+  }
+}

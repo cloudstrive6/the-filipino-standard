@@ -1,0 +1,6 @@
+# The Filipino Standard - runtime automation (publisher, image generators, status poller)
+requests>=2.31
+python-dotenv>=1.0
+truststore>=0.9
+pillow>=10.0
+openai>=1.30   # only used by the legacy OpenAI image worker (generate_image.py); Gemini path uses REST

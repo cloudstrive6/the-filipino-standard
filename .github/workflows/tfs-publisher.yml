@@ -1,0 +1,39 @@
+name: TFS Publisher
+
+# Publishes SCHEDULED tasks whose time has arrived (within the 6h grace window),
+# via Post for Me. Replaces the "TFS Publisher Monitor" Windows scheduled task.
+# Cron is UTC and best-effort (GitHub may delay/skip runs under load); the 6h
+# staleness window in publisher.py absorbs that.
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"   # every 15 minutes
+  workflow_dispatch: {}       # manual "Run workflow" button for testing
+
+concurrency:
+  group: tfs-publisher
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Create empty .env (scripts require the file to exist; secrets come from env)
+        run: touch .env
+      - name: Run publisher
+        env:
+          CLICKUP_API_TOKEN: ${{ secrets.CLICKUP_API_TOKEN }}
+          POSTFORME_API_KEY: ${{ secrets.POSTFORME_API_KEY }}
+          POSTFORME_PROJECT_ID: ${{ secrets.POSTFORME_PROJECT_ID }}
+          POSTFORME_FB_PAGE_ID: ${{ secrets.POSTFORME_FB_PAGE_ID }}
+          POSTFORME_IG_ACCOUNT_ID: ${{ secrets.POSTFORME_IG_ACCOUNT_ID }}
+          POSTFORME_THREADS_ACCOUNT_ID: ${{ secrets.POSTFORME_THREADS_ACCOUNT_ID }}
+          PUBLISHER_LIVE_MODE: ${{ secrets.PUBLISHER_LIVE_MODE }}
+        run: python scripts/publisher.py --monitor

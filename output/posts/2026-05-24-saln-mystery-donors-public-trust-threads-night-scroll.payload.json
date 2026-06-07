@@ -1,0 +1,20 @@
+{
+  "name": "2026-05-24 Political Commentary SALN Mystery Donors TH",
+  "description": "Declared on his SALN: P16.7 million in cash.\nAdmitted to investigators: P75 million in campaign donations he never put on that form.\n\nGovernment investigators now want him charged with plunder. His reason for hiding the donors: keeping them secret is how he repays them.\n\nDapat idemand natin ang buong listahan.\n\nThe SALN was never a formality. It is the receipt for a public trust.",
+  "status": "approved",
+  "_clickup_task_id": "86d33fgww",
+  "_clickup_task_url": "https://app.clickup.com/t/86d33fgww",
+  "_intended_scheduled_publish_pht": "2026-05-24 21:00 +08:00 (unix-ms 1779627600000)",
+  "_stored_scheduled_publish_pht": "2026-05-25 00:00 +08:00 (unix-ms 1779638400000)",
+  "_scheduling_note": "MCP date custom field is date-only and drops the time-of-day; precise 9:00 PM PHT could not be stored via MCP (validator that sets precise time is unreachable from the sandbox). Midnight 2026-05-24 PHT was already >6h stale (publisher staleness floor), so the nearest valid future instant that still auto-publishes was 2026-05-25 00:00 PHT.",
+  "custom_fields": [
+    {"id": "b2ffb6c6-7fe3-412d-9ba3-a7ca2ca5e9f1", "value": "891ebe37-d6db-4949-9f09-11c5360b9b16"},
+    {"id": "6a3e613e-524d-4471-b9eb-8fc5451e3077", "value": "95f47825-d966-4381-a856-1e2a709e3da9"},
+    {"id": "ef8cfddd-c950-40b8-95ca-6da001c6ac50", "value": ["225e6544-1287-44b7-a019-7f3b1fdc31e1"]},
+    {"id": "8a89f1c0-f964-4281-bbe8-82f2bc187ca0", "value": "1779638400000"},
+    {"id": "54a8d8d0-f051-4e70-a50c-0ec526bbc1cf", "value": "Declared on his SALN: P16.7 million in cash.\nAdmitted to investigators: P75 million in campaign donations he never put on that form.\n\nGovernment investigators now want him charged with plunder. His reason for hiding the donors: keeping them secret is how he repays them.\n\nDapat idemand natin ang buong listahan.\n\nThe SALN was never a formality. It is the receipt for a public trust."},
+    {"id": "f9e3e3eb-de98-406a-a716-84760d13457a", "value": "Declared on his SALN: P16.7 million in cash.\nAdmitted to investigators: P75 million in campaign donations he never put on that form.\n\nGovernment investigators now want him charged with plunder. His reason for hiding the donors: keeping them secret is how he repays them.\n\nDapat idemand natin ang buong listahan.\n\nThe SALN was never a formality. It is the receipt for a public trust."},
+    {"id": "f74ba9b7-c635-48b8-a762-5ccb093eeeaa", "value": ""},
+    {"id": "fa544f0a-85e2-4b55-bf41-9c121898930f", "value": "May 18, 2026: Ombudsman (Deputy Ombudsman for Luzon, Field Investigation Bureau) complaint recommends plunder + 3 counts of indirect bribery vs a senator over P75M in Jan 2025 campaign donations (P30M+P25M+P20M) not reflected in his SALN/SOCE; exceeds P50M plunder threshold. Senator's defense: will not name donors as a way to repay them. Comelec dismissed its own probe (donations pre-campaign period) but ready to assist Ombudsman (May 23). Sources: Philstar, Inquirer, Manila Times, GMA (all May 23, 2026)."}
+  ]
+}

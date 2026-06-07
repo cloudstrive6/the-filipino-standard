@@ -1,0 +1,68 @@
+{
+  "_doc": "Rolling history of the Tagalog placement pattern + key Tagalog phrase used in recent Threads-targeted posts. Selection is deterministic and history-aware - never random. Max 7 entries.",
+  "patterns": [
+    "opening_hook",
+    "mid_pivot",
+    "closing_line",
+    "inline_woven",
+    "standalone_beat"
+  ],
+  "entries": [
+    {
+      "task_id": "86d37y2t7",
+      "task_name": "2026-06-04 Political Commentary UNSC Loss Kyrgyzstan TH",
+      "placement": "mid_pivot",
+      "tagalog_phrase": "Dapat idemand natin ang gobyernong gumagana.",
+      "source_skill": "threads-creator",
+      "created_at_pht": "2026-06-04T18:11:32+08:00"
+    },
+    {
+      "task_id": "86d37zvza",
+      "task_name": "2026-06-04 Political Commentary Third Plunder 25 Years TH",
+      "placement": "standalone_beat",
+      "tagalog_phrase": "Eh ano ngayon?",
+      "source_skill": "threads-creator",
+      "created_at_pht": "2026-06-04T21:10:40+08:00"
+    },
+    {
+      "task_id": "86d383yjh",
+      "task_name": "2026-06-05 Political Commentary Two Blue Ribbon Panels TH",
+      "placement": "closing_line",
+      "tagalog_phrase": "Sino ba talaga ang nag-iimbestiga?",
+      "source_skill": "threads-creator",
+      "created_at_pht": "2026-06-05T07:20:18+08:00"
+    },
+    {
+      "task_id": "86d385xg7",
+      "task_name": "2026-06-05 Filipino Empowerment Fuel Rollback Weather TH",
+      "placement": "inline_woven",
+      "tagalog_phrase": "Hindi 'yan galing sa gobyerno.",
+      "source_skill": "threads-creator",
+      "created_at_pht": "2026-06-05T10:12:53+08:00"
+    },
+    {
+      "task_id": "86d388m0z",
+      "task_name": "2026-06-05 Political Commentary Procurement Reform vs Prosecutions TH",
+      "placement": "opening_hook",
+      "tagalog_phrase": "Hindi tayo dapat sanay sa mediocre.",
+      "source_skill": "threads-creator",
+      "created_at_pht": "2026-06-05T12:44:29+08:00"
+    },
+    {
+      "task_id": "86d38hkc1",
+      "task_name": "2026-06-06 Filipino Empowerment Brigada Eskwela Photo Op TH",
+      "placement": "mid_pivot",
+      "tagalog_phrase": "Kailan pa ba?",
+      "source_skill": "threads-creator",
+      "created_at_pht": "2026-06-06T10:36:52+08:00"
+    },
+    {
+      "task_id": "86d38nvua",
+      "task_name": "2026-06-07 Political Commentary BHW Magna Carta Stalled TH",
+      "placement": "standalone_beat",
+      "tagalog_phrase": "Sila ang pumapasok. Hindi ang Senado.",
+      "source_skill": "threads-creator",
+      "created_at_pht": "2026-06-07T07:11:06+08:00"
+    }
+  ]
+}

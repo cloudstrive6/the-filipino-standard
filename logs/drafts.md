@@ -1,4 +1,18 @@
 
+## 2026-06-08 07:10 PHT | threads | marcos-forfeiture-dismissed
+
+**Topic:** Sandiganbayan dismisses remaining $5 billion Marcos forfeiture case (Civil Case No. 0141) on June 2, 2026 after PCGG files manifestation it will no longer present evidence for unresolved asset claims
+**Angle:** The agency created specifically to recover Marcos ill-gotten wealth voluntarily stopped pursuing the case - 35 years after it was filed. The dismissal is not a legal defeat; it is a policy choice by the government to stop.
+**Hook:** "35 years. A $5 billion forfeiture case. Gone."
+**Tagalog beat:** "Inabandona. Hindi natalo." (placement: closing_verdict)
+**Char count:** 303
+**Status:** LIVE (post_id: sp_RpOynyU6yYYvNkITUSZqn, ext_id: direct-1bdd072f70a60077)
+**Sources:**
+- https://www.philstar.com/headlines/2026/06/07/2533356/forfeiture-case-vs-marcoses-assets-junked
+- https://www.manilatimes.net/2026/06/06/news/sandigan-terminates-5b-forfeiture-case-against-ferdinand-imelda-marcos/2359935
+- https://www.gmanetwork.com/news/topstories/nation/990407/sandiganbayan-claims-marcos-heirs/story/
+- https://newsinfo.inquirer.net/2241358/sandigan-junks-remaining-claims-in-forfeiture-case-vs-marcoses-ill-gotten-wealth
+
 ## 2026-06-08 00:19 PHT | threads | anti-dynasty-bill-hollow
 
 **Topic:** House passes anti-political dynasty bill on June 3, 2026 - first chamber in Philippine history to do so since the 1987 Constitution; critics call it deliberately hollow for lacking a succession ban

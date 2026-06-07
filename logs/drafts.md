@@ -1,4 +1,19 @@
 
+## 2026-06-07 16:03 PHT | threads | sss-pension-rice-inflation
+
+**Topic:** SSS advances 10% pension increase to June 2026 for 4.1M pensioners; PSA May CPI shows rice inflation at 15.6% year-on-year
+**Angle:** The pension raise is real but the math doesn't close - a 10% increase against 15.6% rice inflation leaves pensioners short, every time.
+**Hook:** "SSS gave 4.1 million Filipino pensioners a raise this month."
+**Tagalog beat:** "Sampung porsyento ang dagdag. Labinlima ang nawala."
+**Char count:** 280
+**Post file:** output/posts/2026-06-07-sss-pension-rice-inflation-threads.md
+**Status:** dry run (ext_id: direct-f00240430eaabbcd)
+**Sources:**
+- https://www.sss.gov.ph/news-and-updates/sss-begins-early-june-rollout-of-2026-pension-hike-citing-need-for-early-relief-for-pensioners/
+- https://www.sunstar.com.ph/amp/story/manila/ph-inflation-slows-to-68-in-may-as-transport-food-price-pressures-ease
+- https://newsinfo.inquirer.net/2240751/new-pensioners-not-yet-included-in-sss-advanced-pension-hike-this-june
+- https://tribune.net.ph/2026/06/02/sss-fast-tracks-pension-hike-41m-to-benefit
+
 ## 2026-06-07 15:51 PHT | facebook,instagram | ghost-projects-procurement
 
 **Topic:** Philippines flood control ghost projects + EU-UNDP €3.6M procurement reform deal (June 4, 2026)

@@ -1,0 +1,67 @@
+name: TFS Agent - Facebook + Instagram
+
+# Autonomous research+write+image+publish for Facebook + Instagram at PH peak
+# slots: 8am / 12pm / 7pm PHT = UTC 0,4,11 (PHT = UTC+8).
+# Runs in DRY RUN until the repo variable TFS_LIVE is set to "true".
+
+on:
+  schedule:
+    - cron: "0 0,4,11 * * *"
+  workflow_dispatch: {}
+
+concurrency:
+  group: tfs-agent          # shared with Threads so runs serialize
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+      - run: npm install -g @anthropic-ai/claude-code
+      - run: touch .env logs/drafts.md logs/posted_log.jsonl
+
+      - name: Run post agent (DRY RUN unless TFS_LIVE=true)
+        env:
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          POSTFORME_API_KEY: ${{ secrets.POSTFORME_API_KEY }}
+          POSTFORME_PROJECT_ID: ${{ secrets.POSTFORME_PROJECT_ID }}
+          POSTFORME_FB_PAGE_ID: ${{ secrets.POSTFORME_FB_PAGE_ID }}
+          POSTFORME_IG_ACCOUNT_ID: ${{ secrets.POSTFORME_IG_ACCOUNT_ID }}
+          POSTFORME_THREADS_ACCOUNT_ID: ${{ secrets.POSTFORME_THREADS_ACCOUNT_ID }}
+          TFS_LIVE: ${{ vars.TFS_LIVE }}
+        run: |
+          claude -p "Read agent/post_agent.md and perform exactly ONE run for PLATFORM=facebook,instagram (write the FB/IG long-form post, generate the image, schedule to today's nearest PH peak slot). Dry-run unless TFS_LIVE is exactly 'true'." \
+            --allowedTools "Bash,WebSearch,Read,Write,Edit,Glob,Grep" \
+            --dangerously-skip-permissions \
+            --max-turns 50
+
+      - name: Persist agent memory (drafts + posted log)
+        if: always()
+        run: |
+          git config user.name "TFS Agent"
+          git config user.email "tfs-bot@users.noreply.github.com"
+          git add logs/drafts.md logs/posted_log.jsonl || true
+          git diff --cached --quiet || git commit -m "agent(fb-ig): memory $(date -u +%FT%TZ)"
+          git push || true
+
+      - name: Upload drafts for review
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: drafts-fbig-${{ github.run_id }}
+          path: logs/drafts.md
+          if-no-files-found: ignore

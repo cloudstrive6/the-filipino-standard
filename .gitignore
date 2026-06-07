@@ -8,15 +8,13 @@ __pycache__/
 /outputs_payload.json
 /.claude/
 
-# --- Minimal public repo: keep content strategy + analytics PRIVATE ---
-# The runtime automation does not need these. They hold the brand playbook,
-# research briefs, and analytics. (output/posts/ stays tracked: published
-# captions, already public, needed by the status_poller self-heal.)
-/skills/
+# --- Private repo (the agent needs skills/ + context/ at runtime) ---
+# Still ignore transient runtime state + bulky data the agent does not need:
 /raw/
 /published/
 /failed/
 /queue/
 /output/briefs/
-/context/*
-!/context/key_facts.md
+# NOTE: logs/drafts.md and logs/posted_log.jsonl ARE tracked on purpose -
+# they are the agent's cross-run memory (anti-repeat + idempotency), committed
+# back after each run. Only *.log files are ignored (see /logs/*.log above).

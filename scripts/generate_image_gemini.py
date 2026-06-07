@@ -199,6 +199,10 @@ def main() -> int:
     group.add_argument("--pending", action="store_true",
                        help="Scan the list and image every approved/scheduled FB/IG "
                             "task that has no image yet (the scheduled-worker mode).")
+    group.add_argument("--from-caption", metavar="CAPTION_FILE",
+                       help="ClickUp-free: generate an image from a caption file and "
+                            "save it to --out (used by the direct-publish pipeline).")
+    parser.add_argument("--out", help="Output PNG path (used with --from-caption).")
     parser.add_argument("--dry-run", action="store_true",
                         help="Generate and save locally; no ClickUp writes.")
     args = parser.parse_args()
@@ -213,14 +217,34 @@ def main() -> int:
     gkey = (os.environ.get("GEMINI_API_KEY") or "").strip()
     ctoken = (os.environ.get("CLICKUP_API_TOKEN") or "").strip()
     model = (os.environ.get("GEMINI_IMAGE_MODEL") or "").strip() or DEFAULT_GEMINI_MODEL
-    if not gkey or not ctoken:
-        missing = [n for n, v in {"GEMINI_API_KEY": gkey, "CLICKUP_API_TOKEN": ctoken}.items() if not v]
-        logger.error("Missing required env vars: %s", ", ".join(missing))
+    if not gkey:
+        logger.error("Missing required env var: GEMINI_API_KEY")
         return 11
 
     logger.info("Using Gemini image model: %s", model)
-    clickup = ClickUpClient(api_token=ctoken, logger=logger)
     gem = GeminiImageClient(api_key=gkey, model=model, logger=logger)
+
+    # ClickUp-free path: caption file -> PNG on disk (for the direct pipeline).
+    if args.from_caption:
+        if not args.out:
+            logger.error("--from-caption requires --out <path.png>")
+            return 1
+        caption = Path(args.from_caption).read_text(encoding="utf-8").strip()
+        if not caption:
+            logger.error("Caption file is empty: %s", args.from_caption)
+            return 1
+        img = gem.generate(PROMPT_TEMPLATE.format(caption=caption))
+        out = Path(args.out)
+        out.parent.mkdir(parents=True, exist_ok=True)
+        out.write_bytes(img)
+        logger.info("Generated image from caption -> %s (%d bytes)", out, len(img))
+        return 0
+
+    # Everything below needs ClickUp.
+    if not ctoken:
+        logger.error("Missing required env var: CLICKUP_API_TOKEN")
+        return 11
+    clickup = ClickUpClient(api_token=ctoken, logger=logger)
 
     if args.pending:
         return cmd_pending(clickup, gem, logger)

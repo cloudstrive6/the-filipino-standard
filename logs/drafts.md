@@ -1,4 +1,20 @@
 
+## 2026-06-07 15:51 PHT | facebook,instagram | ghost-projects-procurement
+
+**Topic:** Philippines flood control ghost projects + EU-UNDP €3.6M procurement reform deal (June 4, 2026)
+**Angle:** It took 421 ghost projects, ₱118 billion in losses, and flooded streets before the Philippines started building basic contract-tracking infrastructure - now funded by foreign aid.
+**Hook:** "421 flood control projects that didn't exist. ₱118 billion gone. Filipino streets still flood every monsoon."
+**Tagalog beat:** "₱118 billion. Walang rekord. Walang nanagot."
+**Image:** output/images/2026-06-07-ghost-projects-procurement.png (1.6 MB, Gemini-generated)
+**Chars:** 2187
+**Scheduled:** 2026-06-07 20:00 PHT (dry run - ext_id direct-3a2af595bdae0ccc)
+**Sources:**
+- https://tribune.net.ph/2026/06/04/philippines-eu-launch-procurement-reform-project
+- https://mb.com.ph/2026/06/03/biz-civil-society-groups-push-anti-corruption-reforms-as-prosecutions-alone-not-enough-to-stop-next-flood-control-scandal
+- https://psa.gov.ph/content/gdp-grows-28-percent-first-quarter-2026
+- https://gulfnews.com/world/asia/philippines/philippines-flood-control-scam-by-the-numbers-421-of-8000-are-ghost-projects-1.500300111
+- https://www.scmp.com/news/asia/southeast-asia/article/3333274/philippine-flood-corruption-scandal-deepens-first-charges-over-ghost-projects
+
 ## 2026-06-07 11:39 PHT | facebook,instagram | foi-bill-40-years
 
 **Topic:** Philippines FOI bill - House passes Right to Information Act on June 2, 2026; both chambers have now approved versions

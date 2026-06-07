@@ -1,4 +1,18 @@
 
+## 2026-06-07 18:33 PHT | threads | romualdez-us-visa-revocation
+
+**Topic:** US revokes Martin Romualdez's diplomatic (A-1) and tourist (B1/B2) visas; confirmed June 5, 2026 by PH Ambassador to Washington Jose Manuel Romualdez
+**Angle:** Two accountability mechanisms moving in parallel - PH Sandiganbayan issued a Hold Departure Order, US State Department revoked visas - framing accountability as multi-channel, not absent.
+**Hook:** "The US revoked Martin Romualdez's diplomatic and tourist visas this week."
+**Tagalog beat:** "Kahit sa ibang bansa, naririnig na." (placement: closing_line)
+**Char count:** 314
+**Status:** dry run (ext_id: direct-96172e59680c9e9d)
+**Sources:**
+- https://www.gmanetwork.com/news/topstories/nation/990364/us-revokes-diplomatic-tourist-visas-of-ex-speaker-romualdez-amid-flood-probe/story/
+- https://www.abs-cbn.com/news/nation/2026/6/5/ph-envoy-confirms-us-cancelled-romualdez-visas-1744
+- https://globalnation.inquirer.net/326286/us-revokes-former-house-speaker-romualdezs-visas-ph-envoy-confirms
+- https://www.pna.gov.ph/articles/1276692
+
 ## 2026-06-07 16:03 PHT | threads | sss-pension-rice-inflation
 
 **Topic:** SSS advances 10% pension increase to June 2026 for 4.1M pensioners; PSA May CPI shows rice inflation at 15.6% year-on-year

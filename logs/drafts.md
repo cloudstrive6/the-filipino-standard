@@ -1,4 +1,18 @@
 
+## 2026-06-07 22:54 PHT | threads | deped-school-opening-no-books
+
+**Topic:** DepEd school year opens June 8, 2026 with 28 million students; committed to only 80% textbook delivery for Grades 1, 4, and 7 by July - not by Day 1; 27 textbook titles approved in past decade
+**Angle:** The books come next month. School starts tomorrow. A decade of procurement failure made concrete on the first day of class.
+**Hook:** "Classes open tomorrow. 28 million students. Books arrive in July."
+**Tagalog beat:** "Bukas na ang klase. Wala pa ang libro." (placement: closing_verdict)
+**Char count:** 274
+**Status:** dry run (ext_id: direct-d422118877087262)
+**Sources:**
+- https://edcom2.gov.ph/deped-commits-to-deliver-80-of-textbooks-for-grades-1-4-and-7-students-by-july/
+- https://mb.com.ph/2026/05/29/deped-readies-schools-for-june-8-class-opening
+- https://www.philstar.com/headlines/2026/05/31/2531745/enrollment-sy-2026-2027-reach-28-million
+- https://tribune.net.ph/2026/04/20/tinio-to-deped-27-textbook-titles-in-10-years-signal-pedagogical-retreat
+
 ## 2026-06-07 20:20 PHT | facebook,instagram | pnp-accountability-survey
 
 **Topic:** PNP Chief cites Boses ng Bayan survey giving PNP a 78.8% trust rating - survey presented by the PNP itself; 53 dismissed, 88 suspended, 27 reprimanded in January 2026 via internal process (PNA / Manila Times, June 7, 2026)

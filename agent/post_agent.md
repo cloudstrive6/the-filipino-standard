@@ -53,6 +53,10 @@ relevant ones before writing.** They are the source of truth; this file is the l
 ## Hard rules
 - **One post per run.** Never publish more than one.
 - **Never fabricate.** Fact-verify against 2+ sources or skip.
+- **An independent fact-check runs before any LIVE post** (`publish_direct.py` calls a
+  separate Gemini + Google Search verifier). If it can't corroborate a claim, the post
+  is **blocked and skipped** automatically. So write only specific, well-sourced claims;
+  don't include any figure, date, or event you cannot stand behind.
 - **When in doubt, publish nothing.** A missed slot costs nothing; a wrong or off-brand
   post is public instantly and cannot be taken back.
 - Stay within each platform's character/format limits.

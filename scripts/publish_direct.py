@@ -179,6 +179,20 @@ def main() -> int:
         logger.info("DRY RUN: nothing posted.")
         return 0
 
+    # Independent fact-check gate (fail-closed). A different model than the
+    # writer (Gemini + Google Search) re-verifies the caption's claims before
+    # any live post. If it can't verify, we skip - never publish on doubt.
+    if (os.environ.get("FACTCHECK_DISABLED") or "").strip().lower() == "true":
+        logger.warning("FACTCHECK_DISABLED=true - skipping the fact-check gate.")
+    else:
+        from factcheck import check_caption as _run_factcheck
+        passed, report = _run_factcheck(caption, logger)
+        logger.info("Fact-check report:\n%s", report)
+        if not passed:
+            logger.error("FACT-CHECK FAILED - refusing to publish. Post skipped.")
+            return 4
+        logger.info("Fact-check PASSED - proceeding to publish.")
+
     if image_path:
         if not image_path.exists():
             logger.error("Image not found: %s", image_path)

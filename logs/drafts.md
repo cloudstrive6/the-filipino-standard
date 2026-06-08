@@ -242,3 +242,16 @@
 - https://www.sunstar.com.ph/manila/local-news/18-ex-marines-skip-gatchalian-bloc-flood-control-probe
 - https://mb.com.ph/2026/06/04/cayetano-led-bloc-pushes-through-blue-ribbon-probe-on-flood-control-anomalies
 - https://en.wikipedia.org/wiki/Flood_control_projects_scandal_in_the_Philippines
+
+## 2026-06-09 07:15 PHT | threads | erc-retail-reform-affiliate-switching
+
+**Topic:** ERC lowers electricity retail competition threshold from 500kW to 100kW (effective June 26, 2026); Philippine Competition Commission flags high "affiliate switching" as pseudo-competition
+**Angle:** Reform looks good on paper, but corporate groups are gaming it by shuffling customers between affiliates - different name, same owner, same rates.
+**Hook:** "Philippine businesses can finally choose their electricity supplier starting June 26."
+**Tagalog beat:** "Iba ang pangalan, iisa pa rin ang may-ari."
+**Char count:** 381
+**Publish status:** BLOCKED - fact-check service returned HTTP 503 (Gemini API overloaded, fail-closed). Post ready; retry on next run.
+**Sources:**
+- https://www.pna.gov.ph/articles/1262544
+- https://powerphilippines.com/erc-expands-consumer-access-to-retail-power-market-with-new-100-kw-threshold/
+- https://mb.com.ph/2026/04/06/pcc-flags-competition-barriers-in-retail-electricity-market

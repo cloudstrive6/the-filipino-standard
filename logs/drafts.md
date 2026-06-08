@@ -214,3 +214,16 @@
 - https://www.cnn.com/2026/06/07/asia/southern-philippines-mindanao-earthquake-intl-hnk
 - https://www.colliers.com/en-ph/news/enhancing-earthquake-resilience-new-building-code
 - https://www.worldbank.org/en/topic/disasterriskmanagement/publication/stronger-building-codes-for-a-safer-more-resilient-future
+
+## 2026-06-08 22:49 PHT | facebook,instagram | foi-bill-congress
+
+**Topic:** Philippines FOI bill passes both chambers for first time in 39 years; bicameral conference ongoing
+**Angle:** The 1987 Constitution already guarantees the right to information (Art. III, Sec. 7). An enabling law has never existed until now. The key bicam fight: independent commission vs. DICT oversight.
+**Hook:** "New Zealand has had a Freedom of Information law since 1982. Your Constitution promised you the same right in 1987. Congress finally voted."
+**Tagalog beat:** "Garantisado na sa Saligang Batas. Nagtagal pa ng tatlumpu't siyam na taon."
+**Post ID:** sp_jA6RmKOXPeNxZH47SHMU (scheduled: 2026-06-09T10:00:00Z = 18:00 PHT)
+**Sources:**
+- https://newsinfo.inquirer.net/2239141/house-passes-freedom-of-information-bill
+- https://newsinfo.inquirer.net/2239050/house-oks-foi-bill-on-final-reading-2
+- https://www.philstar.com/nation/2026/05/21/2529509/right-information-bill-headed-house-plenary-poe-underscores-need-transparency
+- https://www.rappler.com/newsbreak/in-depth/can-philippines-marcos-jr-administration-pass-freedom-information-foi-bill/

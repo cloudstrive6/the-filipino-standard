@@ -1,4 +1,19 @@
 
+## 2026-06-08 12:02 PHT | threads | senate-quorum-crisis
+
+**Topic:** Philippine Senate leadership crisis: Cayetano bloc deliberately skipped sessions to deny quorum and block Blue Ribbon Committee hearings on multi-billion flood control scandal; 12 senators forced a June 3 session, split the chamber into rival blocs, and a citizen filed a Supreme Court petition to determine who legitimately runs the Senate.
+**Angle:** Senators weaponized absenteeism as a constitutional tactic to escape accountability - not the fraud itself (covered earlier) but the institutional mechanism used to avoid the hearing.
+**Hook:** "Philippine senators skipped work on purpose."
+**Tagalog beat:** "Armas nila ang walang pasok." (placement: closing_verdict)
+**Char count:** 463
+**Status:** LIVE (post_id: sp_oKpGM85agPGXUs2wDe7tE, ext_id: direct-0e032151ba3a0723)
+**Sources:**
+- https://www.gmanetwork.com/news/topstories/nation/990583/live-updates-gatchalian-bloc-holds-senate-blue-ribbon-hearing-on-flood-control-june-8-2026/story/
+- https://www.philstar.com/headlines/2026/06/03/2532572/chiz-breaks-deadlock-quorum-declared-12-senators-present
+- https://www.rappler.com/philippines/supreme-court-petition-uphold-senate-quorum-june-3-session-legality/
+- https://www.manilatimes.net/2026/06/05/news/supreme-court-asked-to-clarify-validity-of-june-3-senate-session-amid-leadership-dispute/2359332
+- https://newsinfo.inquirer.net/2240481/ibp-says-june-3-senate-quorum-lawful-valid
+
 ## 2026-06-08 10:56 PHT | facebook,instagram | building-code-earthquake-1977
 
 **Topic:** Today's 7.8 Mindanao earthquake exposes the 1977 National Building Code (PD 1096) that has not been meaningfully revised since 2005 - the government already knew (DPWH review ordered April 2026, Senate Bill 2158 filed May 2026) but the fix never came before the earthquake did.

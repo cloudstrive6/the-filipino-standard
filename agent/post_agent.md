@@ -41,10 +41,13 @@ relevant ones before writing.** They are the source of truth; this file is the l
 5. **Image (Facebook/Instagram only — Threads is text-only).**
    `py scripts/generate_image_gemini.py --from-caption <tmp_caption.txt> --out output/images/<slug>.png`
 
-6. **Publish.** While we are in **dry-run rollout, DO NOT pass `--live`** (the script
-   then logs exactly what it WOULD post and sends nothing):
-   - Facebook+Instagram: `py scripts/publish_direct.py --platforms facebook,instagram --caption-file <tmp.txt> --image output/images/<slug>.png --at "<today's PHT peak slot, e.g. 2026-06-10 19:00>"`
-   - Threads: `py scripts/publish_direct.py --platforms threads --caption-file <tmp.txt>`  (publish-now, no `--at`)
+6. **Publish.** Pass `--live` to publish for real **IF the `TFS_LIVE` environment variable
+   is exactly `true`**; otherwise OMIT `--live` (dry run — the script logs what it would
+   post and sends nothing). `publish_direct.py` enforces the same gate and runs the
+   fact-check before any live post, so passing `--live` when `TFS_LIVE=true` is correct.
+   - Facebook+Instagram: `py scripts/publish_direct.py --platforms facebook,instagram --caption-file <tmp.txt> --image output/images/<slug>.png --at "<today's PHT peak slot, e.g. 2026-06-10 19:00>" --live`
+   - Threads: `py scripts/publish_direct.py --platforms threads --caption-file <tmp.txt> --live`  (publish-now, no `--at`)
+   - (Drop the trailing `--live` if `TFS_LIVE` is not `true`.)
 
 7. **Log the draft.** Append one line to `logs/drafts.md`: timestamp (PHT), platform,
    topic, hook, the Tagalog beat used, and the source URLs. This is what the operator
@@ -66,5 +69,7 @@ relevant ones before writing.** They are the source of truth; this file is the l
 - **When in doubt, publish nothing.** A missed slot costs nothing; a wrong or off-brand
   post is public instantly and cannot be taken back.
 - Stay within each platform's character/format limits.
-- Going live (`--live`) happens only after the operator has reviewed the dry-run drafts
-  and is satisfied. Until then, every run is a dry run.
+- Pass `--live` whenever the `TFS_LIVE` env var is exactly `true` (the operator's master
+  switch — it is the live signal). `publish_direct.py` independently enforces the same
+  gate and runs the fact-check before any live post, so a wrong caption is still blocked.
+  Omit `--live` only when `TFS_LIVE` is not `true` (then every run is a dry run).

@@ -44,7 +44,7 @@ jobs:
           POSTFORME_THREADS_ACCOUNT_ID: ${{ secrets.POSTFORME_THREADS_ACCOUNT_ID }}
           TFS_LIVE: ${{ vars.TFS_LIVE }}
         run: |
-          claude -p "Read agent/post_agent.md and perform exactly ONE run for PLATFORM=facebook,instagram (write the FB/IG long-form post, generate the image, schedule to today's nearest PH peak slot). Dry-run unless TFS_LIVE is exactly 'true'." \
+          claude -p "Read agent/post_agent.md and perform exactly ONE run for PLATFORM=facebook,instagram (write the FB/IG long-form post, generate the image, schedule to today's nearest PH peak slot). The TFS_LIVE env var is your live switch: if it is exactly 'true' you MUST publish live (pass --live to publish_direct.py); otherwise run a dry run (omit --live)." \
             --allowedTools "Bash,WebSearch,Read,Write,Edit,Glob,Grep" \
             --dangerously-skip-permissions \
             --max-turns 75

@@ -50,7 +50,7 @@ jobs:
           claude -p "Read agent/post_agent.md and perform exactly ONE run for PLATFORM=threads. We are in dry-run rollout unless the TFS_LIVE env var is exactly 'true'." \
             --allowedTools "Bash,WebSearch,Read,Write,Edit,Glob,Grep" \
             --dangerously-skip-permissions \
-            --max-turns 40
+            --max-turns 60
 
       - name: Persist agent memory (drafts + posted log)
         if: always()

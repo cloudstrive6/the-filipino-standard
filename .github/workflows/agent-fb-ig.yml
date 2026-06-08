@@ -47,7 +47,7 @@ jobs:
           claude -p "Read agent/post_agent.md and perform exactly ONE run for PLATFORM=facebook,instagram (write the FB/IG long-form post, generate the image, schedule to today's nearest PH peak slot). Dry-run unless TFS_LIVE is exactly 'true'." \
             --allowedTools "Bash,WebSearch,Read,Write,Edit,Glob,Grep" \
             --dangerously-skip-permissions \
-            --max-turns 50
+            --max-turns 75
 
       - name: Persist agent memory (drafts + posted log)
         if: always()

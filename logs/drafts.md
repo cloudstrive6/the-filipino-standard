@@ -1,4 +1,22 @@
 
+## 2026-06-08 10:56 PHT | facebook,instagram | building-code-earthquake-1977
+
+**Topic:** Today's 7.8 Mindanao earthquake exposes the 1977 National Building Code (PD 1096) that has not been meaningfully revised since 2005 - the government already knew (DPWH review ordered April 2026, Senate Bill 2158 filed May 2026) but the fix never came before the earthquake did.
+**Angle:** Legislative/enforcement failure as a governance story: 21 years of unchanged standards, Angeles City collapse (28 dead, May 24), and a Constitution that says the government's prime duty is to protect the people.
+**Hook:** "Today's earthquake was 7.8 magnitude. The law meant to protect Filipinos from this was written in 1977."
+**Tagalog beat:** "Sumulat sila noong 1977. Bumagsak pa rin ang mga gusali." (placement: closing_verdict)
+**Image:** output/images/2026-06-08-building-code-earthquake.png (1.9 MB, Gemini-generated)
+**Chars:** 2586
+**Scheduled:** 2026-06-08 19:00 PHT (LIVE - post_id: sp_g5iyMGA3M0k9gIPz1laCa, ext_id: direct-f102e655a3151f1a)
+**Sources:**
+- https://www.rappler.com/philippines/mindanao/sarangani-earthquake-tsunami-warning-june-8-2026/
+- https://www.gmanetwork.com/news/topstories/regions/990585/live-updates-magnitude-7-8-earthquake-tsunami-warning-in-mindanao-june-8-2026/story/
+- https://www.manilatimes.net/2026/06/08/news/national/major-quake-off-philippines-kills-one-triggers-tsunami-warnings/2360331
+- https://newsinfo.inquirer.net/2242307/magnitude-7-8-quake-rocks-mindanao-topples-buildings-disrupts-classes
+- https://www.manilatimes.net/2026/05/30/opinion/columns/building-code-overhaul-welcome-but-more-is-needed/2354704
+- https://www.philstar.com/headlines/2026/05/27/2530795/senate-bill-seeks-update-construction-standards
+- https://www.philstar.com/nation/2026/05/04/2525436/dizon-orders-review-national-building-code
+
 ## 2026-06-08 07:10 PHT | threads | marcos-forfeiture-dismissed
 
 **Topic:** Sandiganbayan dismisses remaining $5 billion Marcos forfeiture case (Civil Case No. 0141) on June 2, 2026 after PCGG files manifestation it will no longer present evidence for unresolved asset claims

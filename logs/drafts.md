@@ -227,3 +227,18 @@
 - https://newsinfo.inquirer.net/2239050/house-oks-foi-bill-on-final-reading-2
 - https://www.philstar.com/nation/2026/05/21/2529509/right-information-bill-headed-house-plenary-poe-underscores-need-transparency
 - https://www.rappler.com/newsbreak/in-depth/can-philippines-marcos-jr-administration-pass-freedom-information-foi-bill/
+
+## 2026-06-09 01:25 PHT | threads | flood-control-senate-split
+
+**Topic:** Two rival Senate factions both claiming Blue Ribbon Committee authority over the flood control scandal; 18 key witnesses skipped today's hearing
+**Angle:** With ₱111B in flood control funds and a senator already charged with plunder, the Senate's accountability probe has fractured into a power struggle - two blocs holding competing hearings, neither able to compel witnesses.
+**Hook:** "₱111 billion in flood control funds released. A senator already charged with plunder."
+**Tagalog beat:** "Dalawang komite, isang iskandalo, walang nanagot."
+**Char count:** 292
+**Post ID:** dry-run (ext_id: direct-99d2c9f2a78ae768)
+**Sources:**
+- https://www.rappler.com/philippines/jinggoy-estrada-arrest-plunder-graft-cases-flood-control-corruption/
+- https://www.gmanetwork.com/news/topstories/nation/990583/live-updates-gatchalian-bloc-holds-senate-blue-ribbon-hearing-on-flood-control-june-8-2026/story/
+- https://www.sunstar.com.ph/manila/local-news/18-ex-marines-skip-gatchalian-bloc-flood-control-probe
+- https://mb.com.ph/2026/06/04/cayetano-led-bloc-pushes-through-blue-ribbon-probe-on-flood-control-anomalies
+- https://en.wikipedia.org/wiki/Flood_control_projects_scandal_in_the_Philippines

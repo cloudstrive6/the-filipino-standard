@@ -1,4 +1,17 @@
 
+## 2026-06-08 21:13 PHT | threads | deped-three-term-calendar-system-readiness
+
+**Topic:** Philippine School Year 2026-2027 opens June 8 with DepEd's new three-term calendar - but teachers' groups say the reform sidesteps root causes: 145,000+ teacher shortage, 144,000 classroom deficit, insufficient learning materials.
+**Angle:** Rearranging the schedule doesn't fix the supply gap. DepEd's answer to lost instructional days is a calendar change; ACT says the real answer is more teachers, more classrooms, more resources.
+**Hook:** "School year opens today. Millions of Filipino students walk into the same overcrowded classrooms."
+**Tagalog beat:** "Binago ang kalendaryo. Ang kakulangan ng guro at silid-aralan, nandoon pa rin." (placement: closing_verdict)
+**Char count:** 355
+**Status:** LIVE (post_id: sp_o5V64S4ofktJ2b6imllJ5, ext_id: direct-5c34798a02286fba)
+**Sources:**
+- https://www.rappler.com/philippines/department-education-policy-reforms-school-year-2026-2027/
+- https://mb.com.ph/2026/03/25/teachers-caught-off-guard-by-deped-3-term-calendar-act-warns-of-heavier-workload/
+- https://www.philstar.com/news-commentary/2026/04/25/2523521/three-term-calendar-reform-when-policy-logic-outruns-system-readiness
+
 ## 2026-06-08 16:56 PHT | facebook,instagram | labor-rights-ilo-review
 
 **Topic:** ILO's Committee on the Application of Standards places Philippines under examination (June 8, 2026, Geneva) for compliance with Convention No. 98 on collective bargaining; Philippines has 20,843 registered unions but only 1,331 CBAs covering 307,788 workers (1.4% of wage earners), with 920,000 government JO/COS workers excluded and one union spending 13 years in the Supreme Court to reach the bargaining table.

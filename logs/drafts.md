@@ -1,4 +1,17 @@
 
+## 2026-06-08 16:56 PHT | facebook,instagram | labor-rights-ilo-review
+
+**Topic:** ILO's Committee on the Application of Standards places Philippines under examination (June 8, 2026, Geneva) for compliance with Convention No. 98 on collective bargaining; Philippines has 20,843 registered unions but only 1,331 CBAs covering 307,788 workers (1.4% of wage earners), with 920,000 government JO/COS workers excluded and one union spending 13 years in the Supreme Court to reach the bargaining table.
+**Angle:** The gap between paper rights and real coverage is structural: enterprise-only bargaining (vs. sectoral/industry-wide in Germany, Nordic, Australia) means 98.6% of Filipino workers have no collective bargaining agreement despite thousands of registered unions. The ILO review today is the news hook; the 1.4% stat is the story.
+**Hook:** "The Philippines has 20,843 registered labor unions. Only 1.4 percent of Filipino workers have an actual collective bargaining agreement."
+**Tagalog beat:** "Libo-libong unyon ang nagrehistro. Halos lahat ay walang kasunduan." (placement: closing_verdict)
+**Image:** output/images/2026-06-08-labor-rights-ilo-review.png (2.1 MB, Gemini-generated)
+**Chars:** 2991
+**Scheduled:** 2026-06-08 20:00 PHT (dry run - ext_id direct-098aeb52e084e2b4)
+**Sources:**
+- https://www.manilatimes.net/2026/06/08/news/national/workers-call-for-reforms-ahead-of-ilo-review/2360270
+- https://iclg.com/practice-areas/employment-and-labour-laws-and-regulations/philippines
+
 ## 2026-06-08 12:02 PHT | threads | senate-quorum-crisis
 
 **Topic:** Philippine Senate leadership crisis: Cayetano bloc deliberately skipped sessions to deny quorum and block Blue Ribbon Committee hearings on multi-billion flood control scandal; 12 senators forced a June 3 session, split the chamber into rival blocs, and a citizen filed a Supreme Court petition to determine who legitimately runs the Senate.

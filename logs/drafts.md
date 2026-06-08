@@ -187,3 +187,17 @@
 - https://www.philstar.com/business/2026/05/15/2528168/power-cuts-hit-millions-philippines
 - https://gulfnews.com/business/energy/philippines-users-urged-to-conserve-electricity-rotational-brownouts-hit-luzon-yellow-alert-up-in-visayas-as-heatwave-plant-outages-line-failures-push-grid-to-the-brink-1.500544205
 - https://pia.gov.ph/press-release/doe-enforces-emergency-measures-to-keep-power-stable-protect-consumers-from-price-spikes/
+
+## 2026-06-08 18:37 PHT | threads | mindanao-earthquake-building-codes
+
+**Topic:** 7.8 magnitude earthquake hits Mindanao, June 7-8, 2026 - at least 19 dead, buildings collapsed, tsunami warnings issued
+**Angle:** The Philippines has a National Building Code but local government enforcement remains the systemic gap; earthquake deaths are not just natural disaster outcomes.
+**Hook:** "The Philippines sits in the Ring of Fire. It has a National Building Code."
+**Tagalog beat:** "Ang lindol, hindi natin mapipigilan. Ang bagsak na gusali, pwede sanang maiwasan."
+**Char count:** 354
+**Post ID:** dry-run (ext_id: direct-a6d9286136c532db)
+**Sources:**
+- https://www.npr.org/2026/06/07/g-s1-126830/7-8-magnitude-quake-hits-southern-philippines-tsunami-risk-for-some-coasts
+- https://www.cnn.com/2026/06/07/asia/southern-philippines-mindanao-earthquake-intl-hnk
+- https://www.colliers.com/en-ph/news/enhancing-earthquake-resilience-new-building-code
+- https://www.worldbank.org/en/topic/disasterriskmanagement/publication/stronger-building-codes-for-a-safer-more-resilient-future

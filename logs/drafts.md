@@ -274,3 +274,18 @@
 - https://www.pna.gov.ph/articles/1262544
 - https://powerphilippines.com/erc-expands-consumer-access-to-retail-power-market-with-new-100-kw-threshold/
 - https://mb.com.ph/2026/04/06/pcc-flags-competition-barriers-in-retail-electricity-market
+
+## 2026-06-09 11:30 PHT | threads | bi-p240-travel-fee-asean
+
+**Topic:** Bureau of Immigration proposes P240 per-trip fee on all international travelers to fund its CAISS IT modernization project; PCCI says this would make PH the only ASEAN country with such a fee
+**Angle:** Government billing travelers to fund its own IT upgrade - a cost every other ASEAN government absorbs through general appropriations.
+**Hook:** "The Bureau of Immigration wants to charge every international traveler P240 per trip. P480 round-trip."
+**Tagalog beat:** "Pati pasok-labas ng bansa, may bayad na."
+**Char count:** 302
+**Post ID:** sp_XiUS1aJ6lfAa6YtzUMkYf (LIVE)
+**Sources:**
+- https://www.pna.gov.ph/articles/1276344
+- https://www.gmanetwork.com/news/topstories/nation/989913/immigration-fee-proposal/story/
+- https://www.philstar.com/headlines/2026/06/02/2532331/why-travelers-may-soon-pay-p480-border-security-fee
+- https://mb.com.ph/2026/06/03/pcci-fights-proposed-240-airport-fee-over-tourism-risks
+- https://tribune.net.ph/amp/story/2026/06/03/pcci-questions-proposed-p240-immigration-fee-2

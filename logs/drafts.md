@@ -332,3 +332,16 @@
 **Sources:**
 - https://www.gmanetwork.com/news/money/economy/990444/visayas-grid-placed-under-yellow-alert-on-saturday-june-6-2026/story/
 - https://www.manilatimes.net/2026/06/08/news/yellow-alert-issued-for-visayas-grid-on-june-8/2360340
+
+## 2026-06-09 16:12 PHT | threads | sarangani-earthquake-disaster-preparedness
+
+**Topic:** Magnitude 7.8 earthquake hit Sarangani, Mindanao on June 8, 2026; at least 35 dead (rising to 37), 130+ aftershocks (later 1,000+); tsunami warning raised then lifted.
+**Angle:** Systemic disaster preparedness gap - Philippines on Pacific Ring of Fire yet lacks Japan-level early warning infrastructure.
+**Hook:** "At least 35 dead. 130+ aftershocks. A magnitude 7.8 earthquake hit Sarangani, Mindanao yesterday."
+**Tagalog beat:** "Kailan ba tayo matututo?"
+**Char count:** 392
+**Post ID:** sp_QoGMKG9JnVIAR2TYYJqZ (LIVE)
+**Sources:**
+- https://newsinfo.inquirer.net/2242307/magnitude-7-8-quake-rocks-mindanao-topples-buildings-disrupts-classes
+- https://www.rappler.com/philippines/mindanao/sarangani-earthquake-tsunami-warning-june-8-2026/
+- https://www.gmanetwork.com/news/topstories/regions/990585/live-updates-magnitude-7-8-earthquake-tsunami-warning-in-mindanao-june-8-2026/story/

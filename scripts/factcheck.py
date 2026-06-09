@@ -21,10 +21,16 @@ truststore.inject_into_ssl()
 import argparse
 import os
 import sys
+import time
 from pathlib import Path
 
 import requests
 from dotenv import load_dotenv
+
+# Transient HTTP statuses worth retrying (overload / rate-limit / gateway).
+# Everything else is treated as a hard fail (fail-closed).
+_TRANSIENT = {408, 429, 500, 502, 503, 504}
+_RETRY_DELAYS = (2, 5, 12)  # 1 initial try + 3 retries; ~19s worst-case added
 
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
 ENV_PATH = PROJECT_ROOT / ".env"
@@ -62,16 +68,34 @@ def check_caption(caption: str, logger=None) -> tuple[bool, str]:
         "contents": [{"parts": [{"text": _PROMPT.format(caption=caption)}]}],
         "tools": [{"google_search": {}}],
     }
-    try:
-        r = requests.post(
-            url,
-            headers={"x-goog-api-key": key, "Content-Type": "application/json"},
-            json=body, timeout=120,
-        )
-    except requests.RequestException as e:
-        return False, f"FACT-CHECK ERROR (fail-closed): {e}"
-    if r.status_code != 200:
-        return False, f"FACT-CHECK ERROR HTTP {r.status_code} (fail-closed): {r.text[:400]}"
+    # Retry transient overloads (e.g. Gemini HTTP 503) with backoff so a brief
+    # outage doesn't needlessly block a good post. Still FAIL-CLOSED: if every
+    # attempt fails, we refuse to publish.
+    r = None
+    last_err = ""
+    for attempt in range(len(_RETRY_DELAYS) + 1):
+        try:
+            r = requests.post(
+                url,
+                headers={"x-goog-api-key": key, "Content-Type": "application/json"},
+                json=body, timeout=120,
+            )
+        except requests.RequestException as e:
+            r, last_err = None, f"request error: {e}"
+        else:
+            if r.status_code == 200:
+                break
+            if r.status_code not in _TRANSIENT:
+                # Non-transient (e.g. 400/401/403) - no point retrying.
+                return False, f"FACT-CHECK ERROR HTTP {r.status_code} (fail-closed): {r.text[:400]}"
+            last_err = f"HTTP {r.status_code}: {r.text[:200]}"
+        if attempt < len(_RETRY_DELAYS):
+            if logger is not None:
+                logger.warning("Fact-check transient error (%s); retry %d/%d in %ds...",
+                               last_err, attempt + 1, len(_RETRY_DELAYS), _RETRY_DELAYS[attempt])
+            time.sleep(_RETRY_DELAYS[attempt])
+        else:
+            return False, f"FACT-CHECK ERROR after {len(_RETRY_DELAYS)} retries (fail-closed): {last_err}"
     try:
         data = r.json()
         parts = data["candidates"][0]["content"]["parts"]

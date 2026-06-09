@@ -404,3 +404,17 @@
 **Sources:**
 - https://www.rappler.com/philippines/gatchalian-senate-sets-impeachment-pre-trial-sara-duterte-june-18-2026/
 - https://www.manilatimes.net/2026/06/09/news/senate-to-hold-impeachment-pre-trial-on-june-18/2361657
+
+
+## 2026-06-09 22:05 PHT | threads | SKIPPED (no publish this run)
+
+**Reason:** Two drafts attempted; both failed fact-check gate.
+**Draft 1:** Mindanao 7.8 earthquake + Article II Sec 4 angle — fact-checker blocked (event too recent, verifier returned "Not found" for June 8 earthquake)
+**Draft 2:** Anti-corruption architecture angle (flood control scandal, business/civil society push for reform) — fact-checker service unavailable (Gemini HTTP 503 after 3 retries, fail-closed)
+**Topics attempted:** mindanao-earthquake-june8-disaster-response, anti-corruption-reform-flood-control-scandal
+**Tagalog beats attempted:** "Hindi tayo sanay sa preparasyon. Sanay tayo sa relief operations." | "Ginagawa na nating normal ang susunod na iskandalo."
+**Sources consulted:**
+- https://www.rappler.com/philippines/mindanao/sarangani-earthquake-tsunami-warning-june-8-2026/
+- https://www.gmanetwork.com/news/topstories/regions/990585/live-updates-magnitude-7-8-earthquake-tsunami-warning-in-mindanao-june-8-2026/story/
+- https://www.manilatimes.net/2026/06/04/business/top-business/anti-corruption-reforms-pushed/2358091
+- https://mb.com.ph/2026/06/03/biz-civil-society-groups-push-anti-corruption-reforms-as-prosecutions-alone-not-enough-to-stop-next-flood-control-scandal

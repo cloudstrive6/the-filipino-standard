@@ -345,3 +345,17 @@
 - https://newsinfo.inquirer.net/2242307/magnitude-7-8-quake-rocks-mindanao-topples-buildings-disrupts-classes
 - https://www.rappler.com/philippines/mindanao/sarangani-earthquake-tsunami-warning-june-8-2026/
 - https://www.gmanetwork.com/news/topstories/regions/990585/live-updates-magnitude-7-8-earthquake-tsunami-warning-in-mindanao-june-8-2026/story/
+
+## 2026-06-09 16:47 PHT | threads | senate-icc-warrant-gunfire
+
+**Topic:** 2026 Philippine Senate lockdown - ICC arrest warrant served on sitting senator, gunfire broke out inside Senate building on May 13, 2026; senator escaped May 14; ongoing leadership standoff as of June 9.
+**Angle:** Systemic failure - the legislature became shelter from the law rather than its enforcer.
+**Hook:** "Gunfire inside the Philippine Senate. This actually happened."
+**Tagalog beat:** "Bala sa loob ng Senado. Ganyan pala."
+**Char count:** 298
+**Post ID:** sp_HGCVR7Za84SgyjMYhSpmU (LIVE)
+**Sources:**
+- https://www.rappler.com/philippines/senate-coups-gunshots-standoff-2026-mess/
+- https://en.wikipedia.org/wiki/2026_Philippine_Senate_lockdown
+- https://abcnews.com/International/wireStory/philippine-senate-reopens-after-impasse-standoff-senators-remain-133569772
+- https://www.sunstar.com.ph/manila/72-hours-of-chaos-a-timeline-of-senate-standoff-and-dela-rosas-escape

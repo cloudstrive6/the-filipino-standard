@@ -5,8 +5,12 @@ name: TFS Agent - Threads
 # Runs in DRY RUN until the repo variable TFS_LIVE is set to "true".
 
 on:
-  schedule:
-    - cron: "0 22,23,0-15 * * *"
+  # Scheduling is driven EXTERNALLY by calling the workflow_dispatch REST API
+  # at each slot (e.g. cron-job.org). GitHub's own `schedule` cron silently
+  # delays/drops runs on private/free-tier repos, so it is intentionally
+  # disabled here. To fall back to GitHub-native cron, uncomment the block:
+  #   schedule:
+  #     - cron: "0 22,23,0-15 * * *"   # hourly 6am-11pm PHT (UTC 22,23,0-15)
   workflow_dispatch: {}
 
 concurrency:

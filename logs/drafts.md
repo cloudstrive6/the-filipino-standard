@@ -320,3 +320,15 @@
 - https://newsinfo.inquirer.net/2239141/house-passes-freedom-of-information-bill
 - https://www.manilatimes.net/2026/06/02/news/national/house-okays-right-to-information-bill/2356781
 - https://www.pna.gov.ph/articles/1271447
+
+## 2026-06-09 16:04 PHT | threads | visayas-grid-yellow-alert
+
+**Topic:** Visayas grid yellow alert recurring at least 4 times in 8 days (June 1, 5, 6, 8); multiple coal plants offline, region relying on Luzon/Mindanao imports.
+**Angle:** Systemic infrastructure under-investment, not demand spike. Utility/energy reform pillar.
+**Hook:** "The Visayas grid has been on yellow alert at least four times in eight days."
+**Tagalog beat:** "Taon-taon, yellow alert. Kailan pa matutugunan ito?"
+**Char count:** 368
+**Post ID:** NOT PUBLISHED - fact-check service returned HTTP 503 (Gemini overloaded) on two attempts; clean exit per policy.
+**Sources:**
+- https://www.gmanetwork.com/news/money/economy/990444/visayas-grid-placed-under-yellow-alert-on-saturday-june-6-2026/story/
+- https://www.manilatimes.net/2026/06/08/news/yellow-alert-issued-for-visayas-grid-on-june-8/2360340

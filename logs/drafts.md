@@ -377,3 +377,17 @@
 - https://en.wikipedia.org/wiki/2026_Philippine_Senate_lockdown
 - https://abcnews.com/International/wireStory/philippine-senate-reopens-after-impasse-standoff-senators-remain-133569772
 - https://www.sunstar.com.ph/manila/72-hours-of-chaos-a-timeline-of-senate-standoff-and-dela-rosas-escape
+
+
+## 2026-06-09 18:06 PHT | threads | oecd-ph-growth-forecast-cut
+
+**Topic:** OECD June 2026 Economic Outlook cut Philippines 2026 GDP growth forecast from 5.1% to 3.2%, citing high inflation, higher energy prices, and a weakening labor market.
+**Angle:** Structural governance failure - these are not one-off shocks but long-standing unaddressed problems now quantified by an international body.
+**Hook:** "The OECD cut the Philippines' 2026 growth forecast from 5.1% to 3.2%."
+**Tagalog beat:** "Ang numero ay nagsasalita. Ang tanong na lang: may nakikinig ba?"
+**Char count:** 290
+**Post ID:** sp_5FxjRqYZsp2UcIIMGfP (LIVE)
+**Sources:**
+- https://www.oecd.org/en/publications/oecd-economic-outlook-volume-2026-issue-1_2d1956f0-en/full-report/philippines_bbb23a9d.html
+- https://www.philstar.com/business/2026/06/04/2532610/oecd-forecast-philippines-post-32-growth-year
+- https://www.bloomberg.com/news/articles/2026-01-29/philippine-economy-grows-3-misses-estimates-on-graft-scandal

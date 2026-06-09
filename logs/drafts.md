@@ -1,4 +1,22 @@
 
+## 2026-06-09 17:02 PHT | facebook,instagram | sec-director-extortion
+
+**Topic:** SEC-Butuan Extension Office Director Atty. Jason C. Tan arrested by NBI on May 29, 2026 in entrapment at SM City Butuan; allegedly demanded P650,000 (negotiated to P250,000) from HMW Lending Investors Inc. (13 branches in Caraga) to prevent filing of regulatory cases; charges: robbery with intimidation, direct bribery, Anti-Graft Act violations; SEC suspended him and closed Butuan office.
+**Angle:** Discretionary enforcement power as leverage - the regulator weaponized his case-filing authority against the business he was supposed to oversee. Structural critique: rules-based vs. discretionary systems.
+**Hook:** "The SEC director in Butuan didn't investigate the company in front of him. He allegedly extorted it." (99 chars)
+**Tagalog beat:** "Siya ang bantay. Siya rin pala ang magnanakaw."
+**Char count:** 2132
+**Scheduled for:** 2026-06-09 20:00 PHT (8 PM PHT peak slot)
+**Publish status:** BLOCKED - fact-check service returned HTTP 503 (Gemini API overloaded, fail-closed) after 3 retries. Post ready; retry on next run.
+**Image:** output/images/2026-06-09-sec-director-extortion.png
+**Caption:** output/posts/2026-06-09-sec-director-extortion-fb.md
+**Sources:**
+- https://www.manilatimes.net/2026/06/06/business/top-business/butuan-sec-office-closed-pending-probe-of-director/2359684
+- https://newsinfo.inquirer.net/2239644/nbi-nabs-sec-butuan-director-for-alleged-p250k-extortion-try
+- https://bworldonline.com/the-nation/2026/06/03/754372/sec-director-arrested-in-nbi-entrapment-operation-over-alleged-extortion/
+- https://bilyonaryo.com/2026/06/04/sec-butuan-director-arrested-in-nbi-sting-over-alleged-cash-for-case-deal-involving-lending-firm/business/
+- https://mb.com.ph/2026/06/03/sec-director-arrested-in-nbi-extortion-sting
+
 ## 2026-06-09 15:44 PHT | facebook,instagram | two-senates-exec-overreach
 
 **Topic:** Philippine Senate has no elected president since June 3, 2026 after 12 senators ousted SP Cayetano but fell one vote short of the constitutional 13-vote majority needed to elect a replacement; Cayetano on June 8 accused: "We have two senates. The Senate of the Philippines and the Senate of Malacañang."

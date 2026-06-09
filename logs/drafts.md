@@ -1,4 +1,22 @@
 
+## 2026-06-09 15:44 PHT | facebook,instagram | two-senates-exec-overreach
+
+**Topic:** Philippine Senate has no elected president since June 3, 2026 after 12 senators ousted SP Cayetano but fell one vote short of the constitutional 13-vote majority needed to elect a replacement; Cayetano on June 8 accused: "We have two senates. The Senate of the Philippines and the Senate of Malacañang."
+**Angle:** Constitutional separation of powers - Article VI Sec 16(1) requires 13 votes to elect a Senate president; acting head only, not elected; executive interference in legislative leadership selection violates co-equal branch principle.
+**Hook:** "Alan Peter Cayetano put it plainly last June 8: 'We have two senates. The Senate of the Philippines and the Senate of Malacañang.'" (130 chars)
+**Tagalog beat:** "Ang Senado ay hindi sangay ng Malacañang."
+**Caption:** output/posts/2026-06-09-two-senates-exec-overreach-fb.md
+**Image:** output/images/2026-06-09-two-senates-exec-overreach.png
+**Scheduled:** 2026-06-09 19:00 PHT (2026-06-09T11:00:00Z)
+**post_id:** sp_yAsC2kQ50LytIUYLDWcGM (ext: direct-ae34fef69cc26713)
+**Status:** LIVE
+**Sources:**
+- https://newsinfo.inquirer.net/2239633/alan-peter-cayetano-no-longer-sp-senate-majority
+- https://www.rappler.com/philippines/alan-peter-cayetano-ousted-senate-president/
+- https://www.philstar.com/headlines/2026/06/04/2532757/sotto-senate-may-have-no-elected-president-until-late-july
+- https://www.manilatimes.net/2026/06/08/photos/two-senates/2361039
+- https://www.pna.gov.ph/articles/1276522
+
 ## 2026-06-09 10:14 PHT | facebook,instagram | sss-pension-gap
 
 **Topic:** SSS advances June 2026 rollout of 10% pension hike for 4.1 million pensioners; average monthly pension remains ~P5,000; minimum floor as low as P1,200/month

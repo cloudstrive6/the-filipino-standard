@@ -434,3 +434,15 @@
 - https://www.philstar.com/headlines/2026/05/13/2527670/how-whirlwind-senate-shakeup-disrupted-hearings-key-bills
 - https://mb.com.ph/2026/03/11/foreign-investments-in-philippines-tumble-to-decade-low-in-2025-excluding-pandemic
 - https://business.inquirer.net/578783/fdi-inflows-slumped-to-5-year-low-in-2025
+
+## 2026-06-10 07:09 PHT | threads | SKIPPED (no publish this run)
+
+**Reason:** Two drafts attempted; both failed fact-check gate.
+**Draft 1:** Universal Health Care Act (RA 11223, 2019) + claim "out-of-pocket costs remain among the highest in Southeast Asia" -- fact-checker blocked (could not verify the SEA ranking; found PH OOP is "relatively high" but not explicitly ranked highest in the region).
+**Draft 2:** Same topic, replaced SEA ranking claim with "Filipino patients still face significant out-of-pocket costs even at government hospitals" -- fact-checker blocked on NZ claim "No one goes bankrupt for a hospital stay" (treated as an unverifiable universal negative).
+**Topics attempted:** universal-health-care-act-out-of-pocket-nz-comparison
+**Tagalog beat attempted:** "Batas ang ipinasa. Sistema ang kailangan."
+**Sources consulted:**
+- RA 11223 (Universal Health Care Act, February 2019)
+- WHO/World Bank data on PH out-of-pocket health expenditure
+- PhilHealth benefit coverage data (DOH/PhilHealth reports, 2022)

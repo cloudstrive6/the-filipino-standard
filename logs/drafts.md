@@ -1,4 +1,23 @@
 
+## 2026-06-09 10:14 PHT | facebook,instagram | sss-pension-gap
+
+**Topic:** SSS advances June 2026 rollout of 10% pension hike for 4.1 million pensioners; average monthly pension remains ~P5,000; minimum floor as low as P1,200/month
+**Angle:** Acknowledge the step, then expose the floor: 10% of P5,000 is P500/month more. Compare to NZ Superannuation (NZD $1,110.30/fortnight, residency-based, no contributions required). Structural critique: contributory system excludes the informal majority.
+**Hook:** "SSS just gave 4.1 million pensioners a 10% raise. The average monthly pension is still P5,000."
+**Tagalog beat:** "Nagbayad ka ng buong buhay. Ganito lang pala."
+**Char count:** 2119
+**Scheduled for:** 2026-06-09 19:00 PHT (7 PM PHT peak slot)
+**Publish status:** BLOCKED - fact-check service returned HTTP 503 (Gemini API overloaded, fail-closed). Post ready; retry on next run.
+**Image:** output/images/2026-06-09-sss-pension-gap.png
+**Caption:** output/posts/2026-06-09-sss-pension-gap-fb.md
+**Sources:**
+- https://www.sss.gov.ph/news-and-updates/sss-begins-early-june-rollout-of-2026-pension-hike-citing-need-for-early-relief-for-pensioners/
+- https://www.dof.gov.ph/sss-begins-early-june-rollout-of-2026-pension-hike-citing-need-for-early-relief-for-pensioners/
+- https://www.gmanetwork.com/news/money/companies/989905/sss-begins-early-rollout-of-pension-hikes/story/
+- https://www.sss.gov.ph/retirement-benefit/
+- https://www.workandincome.govt.nz/about-work-and-income/news/2026/changes-to-benefit-and-payment-rates-from-1-april-2026.html
+- https://www.lifecovered.nz/new-zealand-superannuation-rates/
+
 ## 2026-06-08 21:13 PHT | threads | deped-three-term-calendar-system-readiness
 
 **Topic:** Philippine School Year 2026-2027 opens June 8 with DepEd's new three-term calendar - but teachers' groups say the reform sidesteps root causes: 145,000+ teacher shortage, 144,000 classroom deficit, insufficient learning materials.

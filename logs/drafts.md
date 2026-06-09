@@ -418,3 +418,19 @@
 - https://www.gmanetwork.com/news/topstories/regions/990585/live-updates-magnitude-7-8-earthquake-tsunami-warning-in-mindanao-june-8-2026/story/
 - https://www.manilatimes.net/2026/06/04/business/top-business/anti-corruption-reforms-pushed/2358091
 - https://mb.com.ph/2026/06/03/biz-civil-society-groups-push-anti-corruption-reforms-as-prosecutions-alone-not-enough-to-stop-next-flood-control-scandal
+
+
+## 2026-06-10 06:10 PHT | threads | SKIPPED (no publish this run)
+
+**Reason:** Two drafts attempted; both failed fact-check gate.
+**Draft 1:** Philippine Senate crisis 2026 (gunfire, ICC arrest, two rival Senate leaderships) -- fact-checker blocked (Gemini knowledge cutoff treats 2026 events as "in the future"; returned "Not found" for all 2026-specific claims)
+**Draft 2:** Meralco 120-year ownership history vs. NZ community trust model -- fact-checker blocked (flagged "8.2 million" customer figure as unverified; actual verified count ~8–8.1 million as of early 2025)
+**Topics attempted:** senate-crisis-coup-icc-constitutional-crisis, meralco-ownership-history-community-comparison
+**Tagalog beats attempted:** "Ganito ba talaga gumagana ang Senado natin?" | "Sino ba talaga ang may-ari ng kuryente natin?"
+**Sources consulted:**
+- https://www.rappler.com/philippines/senate-coups-gunshots-standoff-2026-mess/
+- https://newsinfo.inquirer.net/2229382/from-coup-to-chaos-what-happened-inside-the-senate
+- https://en.wikipedia.org/wiki/2026_Philippine_Senate_lockdown
+- https://www.philstar.com/headlines/2026/05/13/2527670/how-whirlwind-senate-shakeup-disrupted-hearings-key-bills
+- https://mb.com.ph/2026/03/11/foreign-investments-in-philippines-tumble-to-decade-low-in-2025-excluding-pandemic
+- https://business.inquirer.net/578783/fdi-inflows-slumped-to-5-year-low-in-2025

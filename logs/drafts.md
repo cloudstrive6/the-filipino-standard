@@ -391,3 +391,16 @@
 - https://www.oecd.org/en/publications/oecd-economic-outlook-volume-2026-issue-1_2d1956f0-en/full-report/philippines_bbb23a9d.html
 - https://www.philstar.com/business/2026/06/04/2532610/oecd-forecast-philippines-post-32-growth-year
 - https://www.bloomberg.com/news/articles/2026-01-29/philippine-economy-grows-3-misses-estimates-on-graft-scandal
+
+
+## 2026-06-09 21:03 PHT | threads | vp-impeachment-pretrial-confidential-funds
+
+**Topic:** Sara Duterte VP impeachment pre-trial set June 18; charges include 612.5 million pesos in confidential funds misuse
+**Angle:** Systemic accountability failure - the confidential funds architecture that normalized secret public spending is still intact regardless of one impeachment trial
+**Hook:** "The Senate just set the VP impeachment pre-trial for June 18."
+**Tagalog beat:** "Pinalitan ang tao. Hindi ang sistema."
+**Char count:** 310
+**Post ID:** sp_AwxjHRcu1sW38GKcmnmed (LIVE)
+**Sources:**
+- https://www.rappler.com/philippines/gatchalian-senate-sets-impeachment-pre-trial-sara-duterte-june-18-2026/
+- https://www.manilatimes.net/2026/06/09/news/senate-to-hold-impeachment-pre-trial-on-june-18/2361657

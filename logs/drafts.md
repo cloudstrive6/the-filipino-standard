@@ -307,3 +307,16 @@
 - https://www.philstar.com/headlines/2026/06/02/2532331/why-travelers-may-soon-pay-p480-border-security-fee
 - https://mb.com.ph/2026/06/03/pcci-fights-proposed-240-airport-fee-over-tourism-risks
 - https://tribune.net.ph/amp/story/2026/06/03/pcci-questions-proposed-p240-immigration-fee-2
+
+## 2026-06-09 15:50 PHT | threads | foi-bill-bicam
+
+**Topic:** House of Representatives passed the Right to Information (FOI) Act on June 2, 2026 with 284 votes; Senate cleared its version earlier; heading to bicameral conference. First time both chambers have passed an FOI bill since 2010, which died at bicam.
+**Angle:** Governance milestone framed as a 30-year failure only now nearing resolution; bicam is the historically dangerous stage.
+**Hook:** "The Philippines just passed a Freedom of Information bill. In most democracies, this existed decades ago."
+**Tagalog beat:** "Nakakarating na naman. Makakarating ba sa dulo ngayon?"
+**Char count:** 324
+**Post ID:** direct-5870d51d537452ee (DRY RUN - not posted)
+**Sources:**
+- https://newsinfo.inquirer.net/2239141/house-passes-freedom-of-information-bill
+- https://www.manilatimes.net/2026/06/02/news/national/house-okays-right-to-information-bill/2356781
+- https://www.pna.gov.ph/articles/1271447

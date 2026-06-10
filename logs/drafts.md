@@ -483,3 +483,14 @@
 - https://www.cbc.ca/news/world/earthquake-philippines-day-2-9.7228025
 - https://www.npr.org/2026/06/07/g-s1-126830/7-8-magnitude-quake-hits-southern-philippines-tsunami-risk-for-some-coasts
 - https://www.rappler.com/philippines/mindanao/sarangani-earthquake-updates-news-information-areas-affected-damage-aftershocks-june-2026/
+
+## 2026-06-10 11:03 PHT | threads | PUBLISHED (live) | post_id: sp_wyb7eGM1hhf462VJ0sGvo
+
+**Topic:** visayas-grid-yellow-alert-structural-neglect
+**Angle:** Visayas grid on yellow alert again (multiple times in June 2026); 35 plants offline or derated; one plant on forced outage since 2021. Structural accountability failure, not a one-off bad day.
+**Hook:** "35 power plants offline or derated. The Visayas grid is on yellow alert. Again. One of those plants has been on forced outage since 2021."
+**Tagalog beat:** "Limang taon na. Hindi pa rin naaayos."
+**Sources:**
+- https://www.gmanetwork.com/news/money/economy/990910/ngcp-visayas-grid-under-yellow-alert-on-wednesday-june-10-2026/story/
+- https://business.inquirer.net/594635/visayas-grid-back-under-yellow-alert-on-june-10
+- https://www.pna.gov.ph/articles/1276749

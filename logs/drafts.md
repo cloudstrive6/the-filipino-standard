@@ -517,3 +517,16 @@
 - https://www.rappler.com/philippines/jinggoy-estrada-plunder-acquittals-history/
 - https://mb.com.ph/2026/06/04/sandiganbayan-resets-jinggoy-bonoan-arraignment-in-plunder-graft-cases-to-june-30
 - https://assortedge.org/2026/05/30/three-times-charged-twice-acquitted-the-legal-history-of-jinggoy-estrada/
+
+
+## 2026-06-10 14:06 PHT | threads | SKIPPED (fact-check gate unavailable) |
+
+**Topic:** mindanao-earthquake-first-day-classes-disaster-readiness
+**Angle:** 7.8 magnitude Mindanao earthquake (June 8) struck on the first day of classes - 6,224 schools affected, 32,000+ displaced. Ring of Fire / chronic underinvestment angle.
+**Hook:** "June 8 was supposed to be the first day of classes for millions of Filipino students in Mindanao."
+**Tagalog beat:** "Ang lindol, hindi maiiwasan. Ang pagpapabaya, pinili."
+**Reason skipped:** Fact-check API (Gemini) returned HTTP 503 on both attempts - fail-closed, post blocked. First attempt also rejected "45 dead" (corrected to "at least 35 dead") and "77,000+ displaced" (corrected to "32,000+").
+**Sources:**
+- https://newsinfo.inquirer.net/2242307/magnitude-7-8-quake-rocks-mindanao-topples-buildings-disrupts-classes
+- https://www.inquirer.net/477345/live-updates-mindanao-earthquake-june-10-2026/
+- https://www.gmanetwork.com/news/topstories/regions/990585/live-updates-magnitude-7-8-earthquake-tsunami-warning-in-mindanao-june-8-2026/story/

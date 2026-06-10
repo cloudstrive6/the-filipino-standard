@@ -471,3 +471,15 @@
 - https://newsinfo.inquirer.net/2240916/baste-duterte-orders-davao-city-trash-dumped-outside-denr-office
 - https://www.rappler.com/philippines/malacanang-reaction-baste-duterte-order-dump-trash-denr-davao/
 - https://mb.com.ph/2026/06/05/garbage-dumped-outside-denr-11-office-as-davao-city-protests-landfill-closure
+
+## 2026-06-10 10:05 PHT | threads | PUBLISHED (live) | post_id: sp_YNLqErMboYVSHJS9gLkX
+
+**Topic:** mindanao-earthquake-disaster-resilience-governance
+**Angle:** 7.8 Mindanao earthquake (strongest since 1976) - 40+ dead, villages still isolated 2 days later. Disaster resilience as a governance choice, not an act of God.
+**Hook:** "The Philippines sits on the Ring of Fire. Everyone knows the earthquakes are coming. A 7.8 hit Mindanao Monday, the strongest since 1976, killing 40+. Two days later, villages are still cut off."
+**Tagalog beat:** "Alam na nating darating ang lindol. Hindi tayo handa."
+**Sources:**
+- https://newsinfo.inquirer.net/2243785/quake-death-toll-exceeds-40-villages-still-isolated
+- https://www.cbc.ca/news/world/earthquake-philippines-day-2-9.7228025
+- https://www.npr.org/2026/06/07/g-s1-126830/7-8-magnitude-quake-hits-southern-philippines-tsunami-risk-for-some-coasts
+- https://www.rappler.com/philippines/mindanao/sarangani-earthquake-updates-news-information-areas-affected-damage-aftershocks-june-2026/

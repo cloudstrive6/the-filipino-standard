@@ -592,3 +592,13 @@
 **Sources:**
 - https://newsinfo.inquirer.net/2239872/gatchalian-acting-senate-prez-as-escudero-ends-deadlock
 - https://www.rappler.com/philippines/senate-conflicting-order-win-gatchalian-alan-peter-cayetano-june-4-2026/
+
+## 2026-06-10 22:05 PHT | threads | PUBLISHED (live) | post_id: sp_HeAJERwPZ8k8FaU5bI3gH
+
+**Topic:** mindanao-earthquake-june-2026-disaster-preparedness-governance
+**Angle:** Magnitude 7.8 earthquake, June 8, 2026. Over 40 dead, thousands of homes damaged. Governance angle: Japan sits in the same Ring of Fire but treats disaster resilience as a government priority. PH still catching up. Systems failure, not natural fate.
+**Hook:** "A 7.8 earthquake hit Mindanao. Over 40 dead. Thousands of homes damaged."
+**Tagalog beat:** "Hindi swerte ang kailangan natin. Governance." (specific to this story - luck is not what we need, governance is)
+**Sources:**
+- https://www.rappler.com/philippines/mindanao/sarangani-earthquake-tsunami-warning-june-8-2026/
+- https://www.gmanetwork.com/news/topstories/regions/990585/live-updates-magnitude-7-8-earthquake-tsunami-warning-in-mindanao-june-8-2026/story/

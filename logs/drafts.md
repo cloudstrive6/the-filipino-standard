@@ -460,3 +460,14 @@
 - https://business.inquirer.net/593208/sss-advances-pension-hike-rollout-to-june-as-inflation-relief-step
 - https://mb.com.ph/2026/06/02/millions-of-sss-pensioners-to-receive-early-10-increase-this-month
 - https://newsinfo.inquirer.net/2240751/new-pensioners-not-yet-included-in-sss-advanced-pension-hike-this-june
+
+## 2026-06-10 09:05 PHT | threads | PUBLISHED (live) | post_id: sp_0pQUgbj1ZLT4R3kpIli2
+
+**Topic:** davao-trash-slide-landfill-single-point-of-failure
+**Angle:** Davao City's sole landfill closed after a trash-slide; 750 tons/day with no backup plan. Mayor's response: dump waste at DENR office. Classic fragile-system governance failure.
+**Hook:** "Davao City generates 750 tons of garbage every day. It all went to one landfill. When a trash-slide triggered the landfill's closure, the city had no backup plan."
+**Tagalog beat:** "Isang landfill, 750 tonelada. Pag nasira, wala nang plano."
+**Sources:**
+- https://newsinfo.inquirer.net/2240916/baste-duterte-orders-davao-city-trash-dumped-outside-denr-office
+- https://www.rappler.com/philippines/malacanang-reaction-baste-duterte-order-dump-trash-denr-davao/
+- https://mb.com.ph/2026/06/05/garbage-dumped-outside-denr-11-office-as-davao-city-protests-landfill-closure

@@ -562,3 +562,13 @@
 - https://www.rappler.com/philippines/senate-coups-gunshots-standoff-2026-mess/
 - https://www.philstar.com/headlines/2026/06/04/2532761/chaos-senate-cayetano-padilla-back-marines-forcing-entry-despite-gatchalian-order
 - https://www.rappler.com/philippines/senate-conflicting-order-win-gatchalian-alan-peter-cayetano-june-4-2026/
+
+## 2026-06-10 18:04 PHT | threads | PUBLISHED (live) | post_id: sp_KvZnMUkTcIu17DMIGrBG
+
+**Topic:** koronadal-sc-ruling-lgu-overreach-bus-terminal-property-rights
+**Angle:** SC En Banc (G.R. No. 265769) ruled Koronadal City cannot force Yellow Bus Lines to abandon its private terminal and pay P70/bus fees at a city-run common terminal. LGU's "general welfare" police power does not override constitutional property rights. Bus company paid over PHP 1 million in compelled fees over years.
+**Hook:** "The Supreme Court had to tell a city government it cannot force a bus company to abandon its own terminal and pay fees to use a city-run one instead."
+**Tagalog beat:** "Ano ba, dapat pa ba pumunta sa Korte Suprema para maprotektahan ang sarili mong negosyo?" (specific to this story - SC intervention required just to protect private property rights from LGU overreach)
+**Sources:**
+- https://newsinfo.inquirer.net/2243940/sc-rules-koronadal-cant-force-bus-firm-to-use-city-terminal
+- https://sc.judiciary.gov.ph/sc-bars-koronadal-city-from-forcing-bus-company-to-use-common-terminal/

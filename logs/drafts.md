@@ -540,3 +540,14 @@
 **Tagalog beat:** "Bago pa man matanda, bumagsak na." (specific to this story - before it could even age, it already fell)
 **Sources:**
 - https://newsinfo.inquirer.net/2244094/newly-opened-bridge-in-bohol-closed-after-approach-collapsed
+
+## 2026-06-10 16:04 PHT | threads | SKIPPED (fact-check 503) | post_id: none
+
+**Topic:** ph-building-act-senate-1977-building-code
+**Angle:** Philippines' 1977 National Building Code still in force. House passed replacement (HB 6615) 280-0 in December 2025. Senate has not acted in 6 months. School collapsed in Mindanao quake with 45 dead.
+**Hook:** "45 dead. A school collapsed. Mindanao is still counting bodies."
+**Tagalog beat:** "Lipas-panahon na ang 1977. Oras na ng bagong batas." (specific to this story - the 1977 code, cannot paste onto any other post)
+**Reason skipped:** Fact-check API (Gemini) returned HTTP 503 on all 3 retries - fail-closed, post blocked. API unavailability (not content rejection).
+**Sources:**
+- https://newsinfo.inquirer.net/2244114/mindanao-lawmaker-appeals-to-senate-pass-ph-building-act
+- https://www.philstar.com/headlines/2026/06/09/2533993/building-code-enforcement-question-anew-after-mindanao-quake

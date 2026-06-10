@@ -494,3 +494,15 @@
 - https://www.gmanetwork.com/news/money/economy/990910/ngcp-visayas-grid-under-yellow-alert-on-wednesday-june-10-2026/story/
 - https://business.inquirer.net/594635/visayas-grid-back-under-yellow-alert-on-june-10
 - https://www.pna.gov.ph/articles/1276749
+
+## 2026-06-10 12:11 PHT | facebook,instagram | PUBLISHED (live) | post_id: sp_1csOGo2wcVkbUDewKZj
+
+**Topic:** ph-q1-2026-gdp-economic-laggard
+**Angle:** Philippines Q1 2026 GDP at 2.8% - slowest since COVID, weakest in ASEAN. Fourth consecutive year missing growth target. Oil shock, budget delays, and flood-control corruption fallout cited. Constitutional Article II Sec 4 framing.
+**Hook:** "Vietnam just grew at 7.8%. Indonesia at 5.6%. Malaysia at 5.3%. The Philippines: 2.8%. The weakest in the region."
+**Tagalog beat:** "Ang kurapsyon, may presyo. Tayo ang nagbabayad."
+**Sources:**
+- https://psa.gov.ph/content/gdp-grows-28-percent-first-quarter-2026
+- https://business.inquirer.net/589015/philippine-gdp-growth-slows-to-2-8-in-first-quarter
+- https://www.gmanetwork.com/news/money/economy/986724/ph-economic-growth-slows-down-to-2-8-in-q1-2026/story/
+- https://www.rappler.com/business/gross-domestic-product-philippines-q1-2026/

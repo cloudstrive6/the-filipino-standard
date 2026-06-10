@@ -623,3 +623,13 @@
 **Sources:**
 - https://en.wikipedia.org/wiki/2026_Philippine_Senate_lockdown
 - https://gulfnews.com/world/asia/philippines/philippines-senate-shakeup-lawyers-group-says-june-3-session-with-12-senators-lawful-citing-1949-sc-precedent-1.500563318
+
+## 2026-06-11 07:06 PHT | threads | PUBLISHED (live) | post_id: sp_dafNs8XHzqY0nYElFIS7U
+
+**Topic:** philippines-blockchain-budget-digital-bayanihan-chain-2026
+**Angle:** Philippines launched Digital Bayanihan Chain - first country to put its entire 2026 national budget on blockchain. DICT-backed initiative records every peso permanently and tamper-proof. Governance angle: technology can trace money, but only enforcement/prosecution can actually hold perpetrators accountable.
+**Hook:** "The Philippines put its entire 2026 national budget on blockchain. Every peso recorded. Permanent. Tamper-proof."
+**Tagalog beat:** "Kulungan pa rin ang kailangan." (Prison is still what's needed - specific to tech-vs-enforcement accountability angle)
+**Sources:**
+- https://dict.gov.ph/news-and-updates/25385
+- https://www.pna.gov.ph/articles/1266299

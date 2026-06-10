@@ -572,3 +572,13 @@
 **Sources:**
 - https://newsinfo.inquirer.net/2243940/sc-rules-koronadal-cant-force-bus-firm-to-use-city-terminal
 - https://sc.judiciary.gov.ph/sc-bars-koronadal-city-from-forcing-bus-company-to-use-common-terminal/
+
+## 2026-06-10 19:03 PHT | threads | PUBLISHED (live) | post_id: sp_axPIo3sI9HaVVCFUHb2y
+
+**Topic:** us-section-301-forced-labor-tariffs-philippines
+**Angle:** USTR June 2, 2026 ruling flagged Philippines among 54 economies for failing to ban forced labor goods. 12.5% additional tariffs proposed on Philippine exports. Governance failure angle: cost of not enforcing existing labor laws shows up economically.
+**Hook:** "The US flagged the Philippines for failing to ban goods made with forced labor."
+**Tagalog beat:** "Hindi natupad ang batas, nagbabayad ang bansa." (specific to this story - law not enforced, country pays)
+**Sources:**
+- https://ustr.gov/about/policy-offices/press-office/press-releases/2026/june/ustr-makes-findings-and-proposes-action-60-section-301-investigations-relating-failures-take-action
+- https://www.gmanetwork.com/news/topstories/nation/990667/ph-to-work-with-us-over-forced-labor-probe-findings/story/

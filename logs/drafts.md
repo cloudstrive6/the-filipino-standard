@@ -446,3 +446,17 @@
 - RA 11223 (Universal Health Care Act, February 2019)
 - WHO/World Bank data on PH out-of-pocket health expenditure
 - PhilHealth benefit coverage data (DOH/PhilHealth reports, 2022)
+
+## 2026-06-10 08:05 PHT | facebook,instagram | PUBLISHED (live) | post_id: sp_I4d5c0Q7wwrxwtrXtDqXC
+
+**Topic:** SSS 2026 pension hike advanced from September to June as "inflation relief"
+**Angle:** The word "relief" reveals a system that was never designed to protect pensioners automatically; indexation is the standard in functional systems
+**Hook:** "4.1 million Filipino pensioners get a 10% raise this June. Good news. But the government called it 'inflation relief.' That word is the story."
+**Tagalog beat:** "Kahit sa pagtanda, wala ring garantiya."
+**Scheduled:** 2026-06-10 19:00 PHT (7 PM weekday peak)
+**Image:** output/images/2026-06-10-sss-pension-hike.png
+**Sources:**
+- https://cebudailynews.inquirer.net/729858/sss-pension-increase-this-june-2026-how-much-more-will-you-receive
+- https://business.inquirer.net/593208/sss-advances-pension-hike-rollout-to-june-as-inflation-relief-step
+- https://mb.com.ph/2026/06/02/millions-of-sss-pensioners-to-receive-early-10-increase-this-month
+- https://newsinfo.inquirer.net/2240751/new-pensioners-not-yet-included-in-sss-advanced-pension-hike-this-june

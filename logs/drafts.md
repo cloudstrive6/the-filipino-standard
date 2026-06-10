@@ -582,3 +582,13 @@
 **Sources:**
 - https://ustr.gov/about/policy-offices/press-office/press-releases/2026/june/ustr-makes-findings-and-proposes-action-60-section-301-investigations-relating-failures-take-action
 - https://www.gmanetwork.com/news/topstories/nation/990667/ph-to-work-with-us-over-forced-labor-probe-findings/story/
+
+## 2026-06-10 21:02 PHT | threads | PUBLISHED (live) | post_id: sp_GFdPEhoUGF4wlB50BS8vH
+
+**Topic:** senate-leadership-crisis-cayetano-gatchalian-paralysis
+**Angle:** Philippine Senate paralyzed for days (June 1-6, 2026) as Senators Cayetano and Gatchalian issued conflicting orders to the same staff - not over legislation, disaster relief, or budget - but over who holds the Senate president's chair. Root cause: Marcos-Duterte factional split.
+**Hook:** "Two senators. Same building. Conflicting orders to the same staff."
+**Tagalog beat:** "Naglaban para sa upuan, nakalimutan ang trabaho." (specific to this story - fought for the chair, forgot the work)
+**Sources:**
+- https://newsinfo.inquirer.net/2239872/gatchalian-acting-senate-prez-as-escudero-ends-deadlock
+- https://www.rappler.com/philippines/senate-conflicting-order-win-gatchalian-alan-peter-cayetano-june-4-2026/

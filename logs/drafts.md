@@ -613,3 +613,13 @@
 - https://newsinfo.inquirer.net/2213698/pids-energy-crisis-may-push-up-to-3-1m-filipinos-into-poverty
 - https://www.rappler.com/business/pids-surging-oil-prices-impact-filipino-poverty/
 - https://www.developmentaid.org/news-stream/post/206233/philippines-energy-emergency
+
+## 2026-06-11 06:03 PHT | threads | PUBLISHED (live) | post_id: sp_ELtcMFvspqetzyFJmxOq
+
+**Topic:** philippine-senate-icc-warrant-institutional-accountability-2026
+**Angle:** Philippine Senate gunfire (May 13, 2026) and institution's protection of senator facing ICC arrest warrant for crimes against humanity. Systemic angle: the Senate as an institution shielding its own from international accountability - not a breakdown, a feature.
+**Hook:** "Gunfire inside the Philippine Senate building. An ICC arrest warrant ignored."
+**Tagalog beat:** "Sino ang kinakatawan ng Senado?" (Who does the Senate represent? - specific to Senate institutional failure)
+**Sources:**
+- https://en.wikipedia.org/wiki/2026_Philippine_Senate_lockdown
+- https://gulfnews.com/world/asia/philippines/philippines-senate-shakeup-lawyers-group-says-june-3-session-with-12-senators-lawful-citing-1949-sc-precedent-1.500563318

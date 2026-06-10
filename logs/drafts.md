@@ -530,3 +530,13 @@
 - https://newsinfo.inquirer.net/2242307/magnitude-7-8-quake-rocks-mindanao-topples-buildings-disrupts-classes
 - https://www.inquirer.net/477345/live-updates-mindanao-earthquake-june-10-2026/
 - https://www.gmanetwork.com/news/topstories/regions/990585/live-updates-magnitude-7-8-earthquake-tsunami-warning-in-mindanao-june-8-2026/story/
+
+
+## 2026-06-10 15:07 PHT | threads | PUBLISHED | post_id: sp_CvqOnGQKQ2Yus8XaGk8vH
+
+**Topic:** bohol-bato-bridge-collapse-dpwh-accountability
+**Angle:** Bato Bridge in Maribojoc, Bohol - opened late 2025, approach road collapsed June 9-10 due to soil erosion. Cracks visible days before. DPWH First District Engineering Office issued no statement. System accountability failure in public works.
+**Hook:** "A bridge in Bohol opened just last year. This week, its approach road collapsed."
+**Tagalog beat:** "Bago pa man matanda, bumagsak na." (specific to this story - before it could even age, it already fell)
+**Sources:**
+- https://newsinfo.inquirer.net/2244094/newly-opened-bridge-in-bohol-closed-after-approach-collapsed

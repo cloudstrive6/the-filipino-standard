@@ -506,3 +506,14 @@
 - https://business.inquirer.net/589015/philippine-gdp-growth-slows-to-2-8-in-first-quarter
 - https://www.gmanetwork.com/news/money/economy/986724/ph-economic-growth-slows-down-to-2-8-in-q1-2026/story/
 - https://www.rappler.com/business/gross-domestic-product-philippines-q1-2026/
+
+## 2026-06-10 13:05 PHT | threads | PUBLISHED (live) | post_id: sp_8nSZKT1pQBjTYf4zIERGY
+
+**Topic:** jinggoy-third-plunder-sandiganbayan-accountability-gap
+**Angle:** Jinggoy Estrada faces his third plunder case (₱573M in DPWH flood control kickbacks); previously acquitted twice. Arraignment already reset to June 30. System-level accountability failure.
+**Hook:** "Dalawang beses na nakawala." (opening hook) + "Jinggoy Estrada is on his third plunder case. This time: ₱573 million in alleged DPWH flood control kickbacks."
+**Tagalog beat:** "Dalawang beses na nakawala." (opening_hook placement)
+**Sources:**
+- https://www.rappler.com/philippines/jinggoy-estrada-plunder-acquittals-history/
+- https://mb.com.ph/2026/06/04/sandiganbayan-resets-jinggoy-bonoan-arraignment-in-plunder-graft-cases-to-june-30
+- https://assortedge.org/2026/05/30/three-times-charged-twice-acquitted-the-legal-history-of-jinggoy-estrada/

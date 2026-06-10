@@ -551,3 +551,14 @@
 **Sources:**
 - https://newsinfo.inquirer.net/2244114/mindanao-lawmaker-appeals-to-senate-pass-ph-building-act
 - https://www.philstar.com/headlines/2026/06/09/2533993/building-code-enforcement-question-anew-after-mindanao-quake
+
+## 2026-06-10 17:05 PHT | threads | PUBLISHED (live) | post_id: sp_AgSvm0tsTfWrz8ysxMrwM
+
+**Topic:** philippine-senate-coup-institutional-dysfunction
+**Angle:** June 3-4 Senate leadership crisis: 12 senators ousted Senate President, installed acting replacement; rejected camp refused to accept result; Marines ordered into building; staff received competing work memos. Systemic institutional dysfunction angle.
+**Hook:** "The Philippine Senate held a coup last week. Not by outsiders. By its own senators."
+**Tagalog beat:** "Sariling bahay, hindi nila maayos." (specific to this story - their own house, they cannot fix)
+**Sources:**
+- https://www.rappler.com/philippines/senate-coups-gunshots-standoff-2026-mess/
+- https://www.philstar.com/headlines/2026/06/04/2532761/chaos-senate-cayetano-padilla-back-marines-forcing-entry-despite-gatchalian-order
+- https://www.rappler.com/philippines/senate-conflicting-order-win-gatchalian-alan-peter-cayetano-june-4-2026/

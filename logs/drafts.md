@@ -602,3 +602,14 @@
 **Sources:**
 - https://www.rappler.com/philippines/mindanao/sarangani-earthquake-tsunami-warning-june-8-2026/
 - https://www.gmanetwork.com/news/topstories/regions/990585/live-updates-magnitude-7-8-earthquake-tsunami-warning-in-mindanao-june-8-2026/story/
+
+## 2026-06-10 23:07 PHT | threads | PUBLISHED (live) | post_id: sp_atqtVISen0CE5JH80rCj
+
+**Topic:** philippines-energy-crisis-2026-oil-dependence-poverty
+**Angle:** Philippines imports 98% of its oil from the Middle East. When the Strait of Hormuz closed, a national energy emergency was declared (EO 110, March 24, 2026). PIDS warns up to 3.1 million Filipinos could be pushed into poverty. Governance angle: decades of choosing cheap imported oil dependence over energy independence.
+**Hook:** "The Philippines imports 98% of its oil from the Middle East."
+**Tagalog beat:** "Sinu-sino ang nagdesisyon noon? Sila. Sino ang nagbabayad ngayon? Tayo." (specific to this story - who decided then vs. who pays now)
+**Sources:**
+- https://newsinfo.inquirer.net/2213698/pids-energy-crisis-may-push-up-to-3-1m-filipinos-into-poverty
+- https://www.rappler.com/business/pids-surging-oil-prices-impact-filipino-poverty/
+- https://www.developmentaid.org/news-stream/post/206233/philippines-energy-emergency

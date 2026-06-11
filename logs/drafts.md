@@ -719,3 +719,15 @@
 - https://www.rappler.com/business/department-agriculture-rice-prices-increase-september-2026/
 - https://newsinfo.inquirer.net/2220275/da-rice-prices-may-hit-p62-kg-in-september-due-to-high-fertilizer-costs
 - https://www.sunstar.com.ph/amp/story/manila/ph-inflation-slows-to-68-in-may-as-transport-food-price-pressures-ease
+
+## 2026-06-11 15:05 PHT | threads | SKIPPED (fact-check failed x2)
+
+**Topic:** mindanao-earthquake-7.8-infrastructure-underfunding
+**Angle:** The June 8 Mindanao earthquake (7.8 mag, 32-35 dead) as a stress test of public infrastructure - classrooms and hospitals damaged expose decades of underfunding. Systemic critique, not individual blame.
+**Hook:** "47 confirmed dead. Over 1,300 classrooms damaged. Patients treated in hospital parking lots." (attempt 2 hook)
+**Tagalog beat drafted:** "Ang lindol ang nagpakita ng totoo."
+**Why skipped:** Fact-check blocked twice. Attempt 1: "12 hospitals damaged" and "89 schools damaged" were wrong figures. Attempt 2: "47 confirmed dead" contradicted (actual count 32-35) and "patients in hospital parking lots" not corroborated. No further attempts per hard rule.
+**Sources reviewed:**
+- https://www.inquirer.net/477470/live-updates-mindanao-earthquake-june-11-2026/
+- https://www.manilatimes.net/2026/06/11/regions/dole-to-assist-quake-hit-workers-in-mindanao/2362951
+- https://pia.gov.ph/news/president-marcos-orders-whole-of-govt-response-to-mindanao-quake/

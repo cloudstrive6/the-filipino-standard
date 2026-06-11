@@ -798,3 +798,13 @@
 - https://www.gmanetwork.com/news/money/companies/991066/meralco-electricity-bills-household-rate/story/
 - https://www.manilatimes.net/2026/06/11/business/meralco-raises-june-electricity-rates-on-higher-generation-charge-peso-weakness/2363337
 - https://www.rappler.com/business/meralco-power-rates-june-2026/
+
+## 2026-06-11 23:05 PHT | threads | PUBLISHED (live) | post_id: sp_P4wkkcAz6zlMDfrydNQ7
+
+**Topic:** philippines-senate-two-coups-one-month-june-2026
+**Angle:** The Philippine Senate changed leadership twice in one month - May 11 and June 3 - through internal faction coups, not voter choice. Today (June 11) Cayetano's title was officially dropped from the Senate website.
+**Hook:** "Two Senate presidents in one month. Neither chosen by voters."
+**Tagalog beat:** "Dalawang kudeta. Hindi ka tinanong." (Two coups. You weren't asked. - specific to the internal legislative power grabs with zero public input)
+**Sources:**
+- https://www.manilatimes.net/2026/06/11/news/cayetano-losing-bid-to-keep-senate-clout/2362973
+- https://newsinfo.inquirer.net/2239633/alan-peter-cayetano-no-longer-sp-senate-majority

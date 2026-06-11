@@ -650,3 +650,15 @@
 - https://www.philstar.com/headlines/2026/06/09/2533993/building-code-enforcement-question-anew-after-mindanao-quake
 - https://en.wikipedia.org/wiki/2026_Mindanao_earthquake
 **Action:** Clean stop per protocol. Brand-context Meralco facts need audit - trust/count and MPIC stake appear outdated.
+
+## 2026-06-11 09:03 PHT | threads | PUBLISHED (live) | post_id: sp_huek4vfIc1a8DhBSxUZqQ
+
+**Topic:** philippines-three-term-school-calendar-2026-learning-poverty
+**Angle:** Philippine public schools opened SY 2026-2027 on June 8 with a new three-term calendar. Governance angle: structural scheduling reform does not fix systemic learning deficits - Philippines ranked last in reading comprehension among 79 countries in the 2018 PISA. Reform the form, not the substance.
+**Hook:** "Philippine public schools opened SY 2026-2027 this week with a new three-term calendar. Better structure. Same teacher shortages, same classroom gaps, same learning deficits."
+**Tagalog beat:** "Bagong schedule. Lumang problema." (new schedule, old problem - specific to education calendar reform story)
+**Sources:**
+- https://www.rappler.com/philippines/three-term-calendar-public-schools-opening-classes-june-2026/
+- https://www.pna.gov.ph/articles/1274223
+- https://www.rappler.com/philippines/246422-philippines-ranking-reading-math-science-pisa-study-2018/
+- https://www.philstar.com/headlines/2019/12/03/1974002/philippines-lowest-reading-comprehension-among-79-countries

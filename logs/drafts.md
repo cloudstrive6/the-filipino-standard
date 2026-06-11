@@ -731,3 +731,16 @@
 - https://www.inquirer.net/477470/live-updates-mindanao-earthquake-june-11-2026/
 - https://www.manilatimes.net/2026/06/11/regions/dole-to-assist-quake-hit-workers-in-mindanao/2362951
 - https://pia.gov.ph/news/president-marcos-orders-whole-of-govt-response-to-mindanao-quake/
+
+## 2026-06-11 16:05 PHT | threads | SKIPPED (fact-check failed x2)
+
+**Topic:** philippines-asean-chair-economic-laggard-q1-2026
+**Angle:** PH chairs ASEAN in 2026 while being Southeast Asia's slowest-growing major economy. Q1 2026 GDP 2.8% vs target 5-6%, Vietnam 7.8%, Indonesia 5.6%. Flood control corruption scandal wiped investor confidence.
+**Hook:** "The Philippines is chairing ASEAN in 2026. It is also Southeast Asia's slowest-growing major economy."
+**Tagalog beat drafted:** "Nangunguna sa ASEAN sa papel. Nahuhuli sa katotohanan."
+**Why skipped:** Attempt 1 failed on "Investment contracted three quarters in a row" (unverified). Attempt 2 failed - fact-checker appeared to pull Q1 2024 data (5.7%) instead of Q1 2026 (2.8%), contradicting correct figures; also flagged "wiped out investor confidence" as too strong. No further attempts per hard rule.
+**Sources reviewed:**
+- https://www.rappler.com/voices/thought-leaders/in-this-economy-philippines-gross-domestic-product-q1-2026-asean-laggard/
+- https://www.philstar.com/headlines/2026/05/07/2526251/philippine-economy-slows-28-q1-weakest-5-years
+- https://business.inquirer.net/589015/philippine-gdp-growth-slows-to-2-8-in-first-quarter
+- https://www.rappler.com/business/gross-domestic-product-philippines-q1-2026/

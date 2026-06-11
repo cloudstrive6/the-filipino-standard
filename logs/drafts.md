@@ -744,3 +744,14 @@
 - https://www.philstar.com/headlines/2026/05/07/2526251/philippine-economy-slows-28-q1-weakest-5-years
 - https://business.inquirer.net/589015/philippine-gdp-growth-slows-to-2-8-in-first-quarter
 - https://www.rappler.com/business/gross-domestic-product-philippines-q1-2026/
+
+## 2026-06-11 17:03 PHT | threads | PUBLISHED
+
+**Topic:** philippines-senate-quorum-majority-dispute
+**Angle:** The Philippines Senate can't agree on what "majority" means. 12 of 24 senators voted to change leadership; the ousted Senate president called it illegal. The Supreme Court now has to settle basic constitutional arithmetic.
+**Hook:** "The Philippines Senate can't agree on basic arithmetic."
+**Tagalog beat:** "Hindi ba dapat alam ito ng mga senador?"
+**Sources:**
+- https://newsinfo.inquirer.net/2240481/ibp-says-june-3-senate-quorum-lawful-valid
+- https://www.rappler.com/philippines/senate-quorum-june-3-2026-legal-valid-ibp-law-deans/
+- https://www.manilatimes.net/2026/06/05/news/supreme-court-asked-to-clarify-validity-of-june-3-senate-session-amid-leadership-dispute/2359332

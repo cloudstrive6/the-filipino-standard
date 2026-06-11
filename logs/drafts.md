@@ -662,3 +662,14 @@
 - https://www.pna.gov.ph/articles/1274223
 - https://www.rappler.com/philippines/246422-philippines-ranking-reading-math-science-pisa-study-2018/
 - https://www.philstar.com/headlines/2019/12/03/1974002/philippines-lowest-reading-comprehension-among-79-countries
+
+## 2026-06-11 10:05 PHT | threads | STOPPED (fact-check 503 - Gemini unavailable)
+
+**Topic:** philippines-independence-day-flood-control-ghost-projects
+**Angle:** June 12 Philippine Independence Day (128th) framed against the flood control corruption scandal: 421 confirmed ghost projects, over ₱1 trillion in climate funds, with Art. II Sec. 4 constitutional citation.
+**Hook:** "Tomorrow is Philippine Independence Day. The people paid for flood protection. They got 421 confirmed ghost projects instead."
+**Tagalog beat:** "Nagbayad tayo. Baha pa rin." (specific to flood control payment/corruption story)
+**Reason stopped:** Gemini fact-check API returned HTTP 503 (service unavailable, fail-closed). Not a factual failure.
+**Sources:**
+- https://www.transparency.org/en/projects/climate-governance-integrity-programme/climate-corruption-atlas/philippines-flood-control-drains-over-php-1-trillion-from-climate-adaptation-funds
+- https://en.wikipedia.org/wiki/Flood_control_projects_scandal_in_the_Philippines

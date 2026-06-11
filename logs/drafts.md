@@ -776,3 +776,14 @@
 - https://psa.gov.ph/content/gdp-grows-28-percent-first-quarter-2026
 - https://www.philstar.com/headlines/2026/05/07/2526251/philippine-economy-slows-28-q1-weakest-5-years
 - https://www.oecd.org/en/about/news/press-releases/2026/02/ambitious-reforms-to-strengthen-competition-and-increase-formal-employment-would-further-boost-the-philippines-growth-trajectory.html
+
+## 2026-06-11 20:03 PHT | threads | PUBLISHED (live) | post_id: sp_iRcU6iQBhOO2Ei4Cu6AU5
+
+**Topic:** visayas-grid-yellow-alert-june-2026
+**Angle:** Visayas grid on yellow alert again today (June 11). 26 power plants offline including one that has been down since 2021. Recurring pattern throughout June (alerts on June 1, 2, 5, 10, 11). Systemic failure normalized.
+**Hook:** "Visayas grid: yellow alert again today."
+**Tagalog beat:** "Limang taon na. Ganito pa rin." (specific to the plant offline since 2021 - five years and still the same)
+**Sources:**
+- https://www.manilatimes.net/2026/06/11/news/visayas-grid-under-yellow-alert-as-26-plants-remain-offline/2363229
+- https://www.pna.gov.ph/articles/1276749
+- https://www.sunstar.com.ph/cebu/visayas-grid-placed-under-yellow-alert-amid-plant-outages-limited-power-imports

@@ -808,3 +808,14 @@
 **Sources:**
 - https://www.manilatimes.net/2026/06/11/news/cayetano-losing-bid-to-keep-senate-clout/2362973
 - https://newsinfo.inquirer.net/2239633/alan-peter-cayetano-no-longer-sp-senate-majority
+
+## 2026-06-12 06:05 PHT | threads | PUBLISHED (live) | post_id: sp_rVi1ZL5iztCW2HCj88i
+
+**Topic:** philippines-foi-bill-bicam-pending
+**Angle:** The Philippines FOI bill passed the House 284-0 on June 2, 2026, and the Senate passed its version on May 4. Both chambers said yes - but there's still no law because bicameral reconciliation isn't complete. The country has been trying to pass an FOI law for 39 years (first filed October 1987).
+**Hook:** "The Philippines has been trying to pass a Freedom of Information law for over 30 years."
+**Tagalog beat:** "Tatlumpung taon. Wala pa ring sagot." (Thirty years. Still no answer. - specific to the decades-long wait for the FOI law with no signed legislation yet)
+**Sources:**
+- https://newsinfo.inquirer.net/2239141/house-passes-freedom-of-information-bill
+- https://newsinfo.inquirer.net/2239050/house-oks-foi-bill-on-final-reading-2
+- https://www.rappler.com/newsbreak/in-depth/can-philippines-marcos-jr-administration-pass-freedom-information-foi-bill/

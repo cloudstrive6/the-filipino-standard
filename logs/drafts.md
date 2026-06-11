@@ -787,3 +787,14 @@
 - https://www.manilatimes.net/2026/06/11/news/visayas-grid-under-yellow-alert-as-26-plants-remain-offline/2363229
 - https://www.pna.gov.ph/articles/1276749
 - https://www.sunstar.com.ph/cebu/visayas-grid-placed-under-yellow-alert-amid-plant-outages-limited-power-imports
+
+## 2026-06-11 21:04 PHT | threads | PUBLISHED (live) | post_id: sp_a6eoPgvtpxatEiurrhoOl
+
+**Topic:** meralco-june-2026-rate-hike-generation-charge
+**Angle:** Meralco raised rates by P0.1488/kWh for June. Generation charges hit P9.07/kWh - driven by WESM price spikes, peso depreciation, and higher fuel costs. Consumer absorbs the risk; the structure of the system keeps the margin with the utility.
+**Hook:** "Electricity just got more expensive. Again."
+**Tagalog beat:** "Sila ang nagtatakda, tayo ang nagbabayad." (They set the rates, we pay - specific to the rate-setting structure of the utility market)
+**Sources:**
+- https://www.gmanetwork.com/news/money/companies/991066/meralco-electricity-bills-household-rate/story/
+- https://www.manilatimes.net/2026/06/11/business/meralco-raises-june-electricity-rates-on-higher-generation-charge-peso-weakness/2363337
+- https://www.rappler.com/business/meralco-power-rates-june-2026/

@@ -765,3 +765,14 @@
 **Sources:**
 - https://www.manilatimes.net/2026/06/11/business/meralco-raises-june-electricity-rates-on-higher-generation-charge-peso-weakness/2363337
 - https://en.wikipedia.org/wiki/2026_Philippine_energy_crisis
+
+## 2026-06-11 19:06 PHT | threads | PUBLISHED (live) | post_id: sp_O3zygS3UNGUpeBEK9Nba2
+
+**Topic:** ph-gdp-q1-2026-oecd-forecast-governance-gap
+**Angle:** PH government set a 5%-6% growth target for 2026. Q1 came in at 2.8%, weakest in 5 years. The OECD's first-ever Philippines survey called governance reform critical for growth, then revised the 2026 forecast from 5.1% down to 3.2% four months later.
+**Hook:** "The government set a 5%-6% growth target for 2026."
+**Tagalog beat:** "Hindi na lang political ang usapin. Pera na natin ang nawawala." (specific to economic cost of governance failure - it's not just political, our money is being lost)
+**Sources:**
+- https://psa.gov.ph/content/gdp-grows-28-percent-first-quarter-2026
+- https://www.philstar.com/headlines/2026/05/07/2526251/philippine-economy-slows-28-q1-weakest-5-years
+- https://www.oecd.org/en/about/news/press-releases/2026/02/ambitious-reforms-to-strengthen-competition-and-increase-formal-employment-would-further-boost-the-philippines-growth-trajectory.html

@@ -695,3 +695,15 @@
 - https://www.rappler.com/philippines/house-passes-weak-anti-dynasty-bill-june-3-2026/
 - https://www.philstar.com/headlines/2026/06/04/2532766/house-oks-anti-political-dynasty-bill-opposition-slams-it-fake-watered-down
 - https://www.manilatimes.net/2026/06/03/news/house-okays-watered-down-version-of-anti-dynasty-bill-on-third-reading/2357631
+
+## 2026-06-11 13:04 PHT | threads | PUBLISHED (live) | post_id: sp_3ysOaeh0FhIUyoON2Mpp
+
+**Topic:** senate-two-presidents-hacked-website-accountability
+**Angle:** The Philippine Senate has two senators claiming the presidency simultaneously. On the same day, hacktivists (Nullsec Philippines) defaced the Senate website with a message demanding accountability and service to the people over personal interests. Sharp irony: nobody in power says that out loud.
+**Hook:** "The Philippine Senate had two presidents today. And a hacked website."
+**Tagalog beat:** "Tayo ang naghihintay. Sila, nag-aaway." (specific to the senate leadership dispute - we wait while they fight)
+**Sources:**
+- https://www.rappler.com/technology/nullsec-philippines-claims-responsibility-defacing-senate-website/
+- https://www.philstar.com/headlines/2026/06/11/2534452/hacktivist-group-defaces-senate-website-calls-accountability-govt
+- https://www.manilatimes.net/2026/06/11/news/senate-website-defaced/2363211
+- https://newsinfo.inquirer.net/2244496/transparency-is-not-optional-hacktivists-claim-senate-website-defacement

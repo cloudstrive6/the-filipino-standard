@@ -673,3 +673,14 @@
 **Sources:**
 - https://www.transparency.org/en/projects/climate-governance-integrity-programme/climate-corruption-atlas/philippines-flood-control-drains-over-php-1-trillion-from-climate-adaptation-funds
 - https://en.wikipedia.org/wiki/Flood_control_projects_scandal_in_the_Philippines
+
+## 2026-06-11 11:04 PHT | threads | PUBLISHED (live) | post_id: sp_nGIdFEQbORpWV9WLXbw
+
+**Topic:** philippines-bajo-de-masinloc-wps-enforcement-gap-2026
+**Angle:** China placed a floating structure inside Bajo de Masinloc (confirmed by NTF-WPS, June 10). PH government filed a diplomatic protest. Governance angle: the 2016 arbitral ruling upheld Philippine sovereign rights but a protest note is not enforcement - systemic gap between legal victory and actual leverage.
+**Hook:** "China placed a floating structure inside Bajo de Masinloc. The Philippine government filed a diplomatic protest."
+**Tagalog beat:** "Nanalo tayo sa korte. Nandoon pa rin sila." (We won in court. They're still there. - specific to the legal-win-but-no-enforcement story)
+**Sources:**
+- https://www.manilatimes.net/2026/06/10/news/national-task-force-for-west-ph-sea-confirms-structure-in-bajo-de-masinloc/2362098
+- https://www.manilatimes.net/2026/06/11/news/national/ph-to-china-remove-platform-in-bajo-de-masinloc/2362471
+- https://www.manilatimes.net/2026/06/10/news/national/ph-govt-files-protest-over-structure-in-masinloc/2361913

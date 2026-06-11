@@ -755,3 +755,13 @@
 - https://newsinfo.inquirer.net/2240481/ibp-says-june-3-senate-quorum-lawful-valid
 - https://www.rappler.com/philippines/senate-quorum-june-3-2026-legal-valid-ibp-law-deans/
 - https://www.manilatimes.net/2026/06/05/news/supreme-court-asked-to-clarify-validity-of-june-3-senate-session-amid-leadership-dispute/2359332
+
+## 2026-06-11 18:03 PHT | threads | PUBLISHED (live) | post_id: sp_OzMIKsHKx9ty8YAXyF1GM
+
+**Topic:** meralco-june-2026-rate-increase
+**Angle:** Meralco raised electricity rates again for June 2026 to P14.4833/kWh. Typical 200 kWh household pays P30 more. No community ownership, no vote, no dividend. Contrasted with Auckland's Entrust community energy trust paying NZD $364 per household last year.
+**Hook:** "Meralco raised electricity rates again this June. P14.48/kWh now."
+**Tagalog beat:** "Bayad ka lang. Wala kang sinasabi." (specific to monopoly utility - you just pay, you have no say)
+**Sources:**
+- https://www.manilatimes.net/2026/06/11/business/meralco-raises-june-electricity-rates-on-higher-generation-charge-peso-weakness/2363337
+- https://en.wikipedia.org/wiki/2026_Philippine_energy_crisis

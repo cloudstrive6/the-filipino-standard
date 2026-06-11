@@ -684,3 +684,14 @@
 - https://www.manilatimes.net/2026/06/10/news/national-task-force-for-west-ph-sea-confirms-structure-in-bajo-de-masinloc/2362098
 - https://www.manilatimes.net/2026/06/11/news/national/ph-to-china-remove-platform-in-bajo-de-masinloc/2362471
 - https://www.manilatimes.net/2026/06/10/news/national/ph-govt-files-protest-over-structure-in-masinloc/2361913
+
+## 2026-06-11 12:03 PHT | threads | PUBLISHED (live) | post_id: sp_OF2DBdwgP8TqI3BGhUNc
+
+**Topic:** philippines-anti-dynasty-bill-hollow-dynasties-wrote-it
+**Angle:** The House passed an anti-dynasty bill on June 3 - authored by members of ruling political families (Speaker Dy and Sandro Marcos). The bill covers only 2nd-degree relatives, leaving large dynasty loopholes intact. Art. II, Sec. 26 of the 1987 Constitution required this law 39 years ago.
+**Hook:** "The House just passed an anti-dynasty bill. It was authored by members of ruling political families."
+**Tagalog beat:** "Nagsulat sila ng batas para sa sarili nila." (specific to dynasties authoring anti-dynasty law for self-protection)
+**Sources:**
+- https://www.rappler.com/philippines/house-passes-weak-anti-dynasty-bill-june-3-2026/
+- https://www.philstar.com/headlines/2026/06/04/2532766/house-oks-anti-political-dynasty-bill-opposition-slams-it-fake-watered-down
+- https://www.manilatimes.net/2026/06/03/news/house-okays-watered-down-version-of-anti-dynasty-bill-on-third-reading/2357631

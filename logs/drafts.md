@@ -633,3 +633,20 @@
 **Sources:**
 - https://dict.gov.ph/news-and-updates/25385
 - https://www.pna.gov.ph/articles/1266299
+
+## 2026-06-11 08:09 PHT | facebook,instagram | SKIPPED (fact-check blocked both drafts)
+
+**Attempt 1 - Topic:** 2026-mindanao-earthquake-building-code-enforcement
+**Angle:** 7.8-magnitude quake offshore Sarangani (June 8) killed 45+ Filipinos; governance failure angle on National Building Code (PD 1096, 1977) enforcement gaps - law exists, enforcement does not. Fact-check could not corroborate the earthquake event itself (too recent for Gemini search index).
+**Fact-check result:** FAIL - earthquake facts unverifiable by automated checker despite multiple reputable sources (PHIVOLCS, Inquirer, Wikipedia, Rappler)
+
+**Attempt 2 - Topic:** meralco-entrust-community-energy-ownership
+**Angle:** Entrust paid NZD $364 (~PHP 13,000) per Auckland household in 2025 vs Meralco raising rates - community ownership model contrast.
+**Fact-check result:** FAIL - contradicted on: 26 energy trusts (actual ~30), MPIC stake ~50.4% (actual ~55.96% combined), and 30% patronage refund requirement for PH cooperatives unverifiable.
+**Tagalog beat considered:** "Sino ang nagmamay-ari ng kuryente mo?" (specific to ownership question)
+**Sources found:**
+- https://www.phivolcs.dost.gov.ph/primer-on-the-08-june-2026-magnitude-mw-7-8-offshore-sarangani-earthquake/
+- https://newsinfo.inquirer.net/2242307/magnitude-7-8-quake-rocks-mindanao-topples-buildings-disrupts-classes
+- https://www.philstar.com/headlines/2026/06/09/2533993/building-code-enforcement-question-anew-after-mindanao-quake
+- https://en.wikipedia.org/wiki/2026_Mindanao_earthquake
+**Action:** Clean stop per protocol. Brand-context Meralco facts need audit - trust/count and MPIC stake appear outdated.

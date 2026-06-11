@@ -707,3 +707,15 @@
 - https://www.philstar.com/headlines/2026/06/11/2534452/hacktivist-group-defaces-senate-website-calls-accountability-govt
 - https://www.manilatimes.net/2026/06/11/news/senate-website-defaced/2363211
 - https://newsinfo.inquirer.net/2244496/transparency-is-not-optional-hacktivists-claim-senate-website-defacement
+
+## 2026-06-11 14:06 PHT | threads | PUBLISHED (live) | post_id: sp_TihQpE6dQcZOYnA4Vgd0m
+
+**Topic:** rice-inflation-15-percent-p62-kilo-september
+**Angle:** Rice inflation hit 15.6% in May 2026, driving overall inflation to 6.8% (vs. the 2-4% target). The DA warns prices could reach P62/kilo by September due to rising fertilizer costs. Frames rice as the single biggest inflation driver for 118 million Filipinos.
+**Hook:** "Rice inflation hit 15.6 percent in May."
+**Tagalog beat:** "Sino ang nagbabayad? Lagi na lang tayo." (specific to who bears the cost of chronic rice inflation)
+**Sources:**
+- https://www.rappler.com/business/inflation-rate-philippines-may-2026/
+- https://www.rappler.com/business/department-agriculture-rice-prices-increase-september-2026/
+- https://newsinfo.inquirer.net/2220275/da-rice-prices-may-hit-p62-kg-in-september-due-to-high-fertilizer-costs
+- https://www.sunstar.com.ph/amp/story/manila/ph-inflation-slows-to-68-in-may-as-transport-food-price-pressures-ease

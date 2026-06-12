@@ -844,3 +844,16 @@
 - https://newsinfo.inquirer.net/2245158/marcos-urges-filipinos-to-protect-truth-on-independence-day
 - https://www.bworldonline.com/world/2026/01/02/722004/groups-flag-p633-billion-corruption-risk-in-bicam-approved-2026-budget/
 - https://www.philstar.com/headlines/2026/01/03/2498494/marcos-warned-p633-b-hard-soft-shadow-pork-2026-budget
+
+## 2026-06-12 10:04 PHT | threads | SKIPPED (fact-check blocked twice)
+
+**Topic:** mindanao-earthquake-cash-aid-prevention
+**Angle:** June 8 Mindanao 7.8 earthquake (47 dead, 18,600+ homes destroyed) as lens for the pattern of cash-aid-after vs. zero investment in pre-disaster resilience. P50,000 aid announced by Marcos.
+**Hook:** "A 7.8 earthquake hit Mindanao on June 8. 47 dead. Over 18,600 homes damaged or destroyed."
+**Tagalog beat:** "Pag lindol, pera. Pag bagyo, pera. Ang prevention, kailan?"
+**Reason skipped:** First attempt blocked: "Every fault line is mapped" overclaim. Fixed to "The risk is not new." Second attempt blocked: death toll "47" not consistently reported across sources (range 37-55); "P50,000 cash aid per family" flagged as mis-scoped (applies only to families of those killed, not all affected families). Two failures = clean stop per agent rules.
+**Sources:**
+- https://en.wikipedia.org/wiki/2026_Mindanao_earthquake
+- https://www.rappler.com/philippines/mindanao/sarangani-earthquake-updates-news-information-areas-affected-damage-aftershocks-june-2026/
+- https://www.inquirer.net/477345/live-updates-mindanao-earthquake-june-10-2026/
+- https://www.philstar.com/headlines/2026/06/11/2533730/live-updates-aftermath-sarangani-mindanao-quake

@@ -946,3 +946,16 @@
 - https://www.rappler.com/philippines/mindanao/death-toll-sarangani-earthquake-june-8-2026/
 - https://news.un.org/en/story/2026/06/1167672
 - https://en.wikipedia.org/wiki/2026_Mindanao_earthquake
+
+## 2026-06-12 19:09 PHT | facebook,instagram | PUBLISHED (LIVE) | post_id: sp_FO9THYfDYR4E76INiplPD
+
+**Topic:** philhealth-fund-transfer-ombudsman-dismissal
+**Angle:** P60 billion transferred from PhilHealth reserves to national treasury (2024 GAA provision), Supreme Court struck it down unanimously (Dec 3, 2025), ordered P60B returned via 2026 budget (paid by all Filipinos again), Ombudsman dismissed plunder/malversation complaints on June 2, 2026 - no one held liable. Frame: systemic accountability failure, not individual wrongdoing angle.
+**Hook:** "Filipinos pay mandatory PhilHealth premiums every month."
+**Tagalog beat:** "Bayad nang bayad. Walang nanagot." (keeps paying, no one is accountable - specific to PhilHealth fund raid + Ombudsman clearance)
+**Sources:**
+- https://www.philstar.com/headlines/2026/04/20/2522325/coa-flags-new-p375m-sara-duterte-funds-orders-return-p448m
+- https://newsinfo.inquirer.net/2168738/2nd-plunder-rap-filed-vs-recto-ledesma-over-philhealth-fund-transfer
+- https://www.rappler.com/philippines/recto-ledesma-face-criminal-complaint-philhealth-fund-transfer/
+- https://www.philstar.com/business/2026/06/11/2534251/philhealth-fund-transfer-and-the-ombudsman-decision
+- https://filipinotimes.net/latest-news/2026/05/25/%E2%82%B160b-could-have-saved-lives-leachon-files-plunder-raps-vs-recto-over-philhealth-funds/

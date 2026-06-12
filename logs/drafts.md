@@ -819,3 +819,17 @@
 - https://newsinfo.inquirer.net/2239141/house-passes-freedom-of-information-bill
 - https://newsinfo.inquirer.net/2239050/house-oks-foi-bill-on-final-reading-2
 - https://www.rappler.com/newsbreak/in-depth/can-philippines-marcos-jr-administration-pass-freedom-information-foi-bill/
+
+## 2026-06-12 08:06 PHT | facebook,instagram | SKIPPED (fact-check gate failed x2, clean exit)
+
+**Topic:** philippines-2026-energy-crisis-june30-deadline
+**Angle:** Philippines declared state of national energy emergency in March 2026, imports 98% oil from Middle East; June 30 deadline for crude oil supply is 18 days away; OECD February 2026 survey recommended pro-competition reforms in network/electricity industries. Systemic vulnerability angle.
+**Hook:** "June 30 is in 18 days. That is when the government said crude oil supplies would run out."
+**Tagalog beat:** "Hindi natin ginawa ang krisis. Tayo pa rin ang nagbabayad." (We didn't cause the crisis. We're still the ones paying for it.)
+**Reason skipped:** First attempt blocked on Malampaya depletion claim (contract extended to 2039 - real error, fixed). Second attempt blocked on nearly all claims despite prior verification, consistent with flaky fact-check run. Per agent rules: two failures = clean stop.
+**Sources:**
+- https://www.rappler.com/philippines/marcos-declares-national-energy-emergency-march-2026/
+- https://pco.gov.ph/news_releases/president-marcos-declares-state-of-national-energy-emergency-activates-uplift-as-whole-of-government-response-framework/
+- https://www.rappler.com/philippines/marcos-enough-crude-oil-supply-until-june-30/
+- https://en.wikipedia.org/wiki/2026_Philippine_energy_crisis
+- https://www.oecd.org/en/publications/oecd-economic-surveys-philippines-2026_f0e0c581-en.html

@@ -900,3 +900,13 @@
 **Sources:**
 - https://www.philstar.com/headlines/2026/06/12/2534728/128th-independence-day-marcos-calls-defense-truth
 - https://mb.com.ph/2026/06/12/duterte-tells-filipinos-on-128th-independence-day-choose-truth-accountability-and-hope
+
+## 2026-06-12 15:04 PHT | threads | SKIPPED (fact-check service 503 - Gemini unavailable, fail-closed)
+**Topic:** ph-senate-no-permanent-president-institutional-dysfunction
+**Angle:** The Philippine Senate has no permanent Senate President as of June 12: one senator (Estrada) arrested for plunder on June 1, another in hiding, only 12 of 24 senators attending - one vote short of the constitutional 13 majority required to elect new leadership. Frame: institutional collapse made literal, not metaphorical.
+**Hook:** "The Philippine Senate has no permanent Senate President."
+**Tagalog beat:** "Dalawang senator: isa nasa kulungan, isa nakatago. Yan ang Senate mo." (Two senators: one in jail, one in hiding. That's your Senate - specific to this institutional paralysis post)
+**Sources:**
+- https://www.pna.gov.ph/articles/1276491
+- https://www.rappler.com/philippines/senate-coups-gunshots-standoff-2026-mess/
+- https://newsinfo.inquirer.net/2239507/gatchalian-elected-senate-president-pro-tempore

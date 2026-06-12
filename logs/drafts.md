@@ -881,3 +881,13 @@
 **Sources:**
 - https://www.dailyguardian.com.ph/blog/plant-outages-push-power-rates-higher-in-june-2026
 - https://www.gmanetwork.com/news/money/economy/989613/electricity-rate-in-iloilo-may-go-up-in-june-2026/story/
+
+## 2026-06-12 13:03 PHT | threads | PUBLISHED (LIVE) | post_id: sp_n2VBcXIDucGgvjbrO5kEo
+**Topic:** ph-anti-dynasty-bill-hb8389-namfrel-hollow-victory
+**Angle:** The House passed HB 8389 (anti-political dynasty bill) 267-20 on June 3 - the first time an anti-dynasty bill cleared the House since the 1987 Constitution. But NAMFREL called it a "hollow victory": narrow second-degree coverage means a spouse can hold a Senate seat while a sibling runs a congressional district, and cousins/uncles/nephews can blanket an entire province - all still legal. The frame: 39 years after the Constitution commanded Congress to ban dynasties, Congress finally obeyed in the most loophole-riddled way possible.
+**Hook:** "The House passed an anti-political dynasty bill on June 3. A spouse can still hold a Senate seat while a sibling runs a congressional district."
+**Tagalog beat:** "Batas. Pang-porma lang." (A law. Just for show - specific to a token compliance law that fulfills the letter of the Constitution while gutting its intent)
+**Sources:**
+- https://www.manilatimes.net/2026/06/10/news/namfrel-says-anti-dynasty-bill-falls-short/2362824
+- https://www.dailyguardian.com.ph/blog/hollow-victory-anti-dynasty-bill-wont-dismantle-political-clans-namfrel-warns
+- https://bworldonline.com/the-nation/2026/06/10/755946/house-version-of-anti-dynasty-bill-unlikely-to-curb-political-dynasties-watchdog-says/

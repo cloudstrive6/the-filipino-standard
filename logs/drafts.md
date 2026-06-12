@@ -910,3 +910,15 @@
 - https://www.pna.gov.ph/articles/1276491
 - https://www.rappler.com/philippines/senate-coups-gunshots-standoff-2026-mess/
 - https://newsinfo.inquirer.net/2239507/gatchalian-elected-senate-president-pro-tempore
+
+## 2026-06-12 16:06 PHT | threads | PUBLISHED (LIVE) | post_id: sp_GCEOmnIsDHDs13hSCW3d
+
+**Topic:** china-sanctions-ph-defense-secretary-teodoro-wps
+**Angle:** China imposed sanctions on Philippine Defense Secretary Gilberto Teodoro Jr. on June 11, 2026, barring him and his family from entering China, after he criticized Beijing's actions in the West Philippine Sea at the Shangri-La Dialogue in Singapore. The DFA called it "an unfriendly act." Teodoro vowed to continue defending PH interests. Frame: China using sanctions to punish a Philippine official for doing his job - defending Philippine sovereignty in disputed waters.
+**Hook:** "China sanctioned the Philippines' Defense Secretary for defending Philippine territory in the West Philippine Sea."
+**Tagalog beat:** "Kailan pa ba natin ipaglaban ang sarili nating katubigan?" (When will we fight for our own waters? - specific to WPS/maritime sovereignty angle)
+**Sources:**
+- https://www.rappler.com/philippines/china-sanctions-defense-secretary-gibo-teodoro/
+- https://mb.com.ph/2026/06/12/dfa-calls-chinas-sanctions-on-teodoro-an-unfriendly-act-that-complicates-bilateral-relations
+- https://www.philstar.com/headlines/2026/06/12/2534713/defiant-teodoro-says-china-sanctions-will-not-stop-him
+- https://www.bloomberg.com/news/articles/2026-06-11/china-sanctions-philippine-defense-chief-teodoro-over-remarks

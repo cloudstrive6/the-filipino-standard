@@ -1003,3 +1003,13 @@
 **Sources:**
 - https://www.worldbank.org/en/news/press-release/2026/06/04/philippines-can-end-poverty-and-build-a-middle-class-society-by-2040-but-only-with-urgent-reforms
 - https://www.rappler.com/business/world-bank-job-reforms-philippines-middle-class-target-2040/
+
+## 2026-06-13 06:08 PHT | threads | PUBLISHED (LIVE) | post_id: sp_ORCDWoHTeh9gi7Jqy
+
+**Topic:** ph-oecd-2026-informal-workers-no-formal-protections
+**Angle:** OECD's 2026 Economic Survey of the Philippines confirms only 1/3 of Filipino workers have formal job protections (minimum wage, pension, job security). The remaining 2/3 work informally with limited or no protection. Frame: the system was designed to keep labor cheap - not a bug, but a feature.
+**Hook:** "2 out of 3 Filipino workers have no formal job protections."
+**Tagalog beat:** "Trabaho. Pero walang garantiya." (Work. But no guarantee - specific to the formal employment protection gap and the structural design of the PH labor market)
+**Sources:**
+- https://www.oecd.org/en/publications/oecd-economic-surveys-philippines-2026_f0e0c581-en/full-report/strengthening-formal-employment-and-social-protection_9c646caa.html
+- https://www.oecd.org/en/publications/oecd-economic-surveys-philippines-2026_f0e0c581-en/full-report/executive-summary_e27fd6d6.html

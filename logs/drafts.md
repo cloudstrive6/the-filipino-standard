@@ -993,3 +993,13 @@
 - https://www.manilatimes.net/2026/06/11/business/meralco-raises-june-electricity-rates-on-higher-generation-charge-peso-weakness/2363337
 - https://www.gmanetwork.com/news/money/companies/991066/meralco-electricity-bills-household-rate/story/
 - https://www.rappler.com/business/meralco-power-rates-june-2026/
+
+## 2026-06-12 23:03 PHT | threads | PUBLISHED (LIVE) | post_id: sp_flrEmpB8RuXlxALiWZsjK
+
+**Topic:** independence-day-128th-world-bank-poverty-2040
+**Angle:** On the 128th Independence Day, the World Bank's June 2026 report reveals 28% of Filipinos are still vulnerable to falling back into poverty - yet PH can reach near-zero poverty by 2040 with real governance reforms. Frame: the gap between independence rhetoric and economic reality.
+**Hook:** "128 years of independence. / 28% of Filipinos are still one crisis away from falling back into poverty."
+**Tagalog beat:** "Hindi pa tayo libre sa kahirapan." (We are not yet free from poverty - specific to Independence Day framing and the World Bank vulnerability statistic)
+**Sources:**
+- https://www.worldbank.org/en/news/press-release/2026/06/04/philippines-can-end-poverty-and-build-a-middle-class-society-by-2040-but-only-with-urgent-reforms
+- https://www.rappler.com/business/world-bank-job-reforms-philippines-middle-class-target-2040/

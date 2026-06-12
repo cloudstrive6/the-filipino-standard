@@ -857,3 +857,15 @@
 - https://www.rappler.com/philippines/mindanao/sarangani-earthquake-updates-news-information-areas-affected-damage-aftershocks-june-2026/
 - https://www.inquirer.net/477345/live-updates-mindanao-earthquake-june-10-2026/
 - https://www.philstar.com/headlines/2026/06/11/2533730/live-updates-aftermath-sarangani-mindanao-quake
+
+## 2026-06-12 11:03 PHT | threads | PUBLISHED
+
+**Topic:** ph-gdp-q1-2026-flood-control-corruption-cost
+**Angle:** Philippines Q1 2026 GDP grew only 2.8% - weakest in 5 years, far below the 5-6% government target. Multiple economists and analysts cited the flood control corruption scandal as the direct cause: budget delayed, infrastructure stalled, investor and consumer confidence knocked. The frame: corruption doesn't just steal from public coffers, it steals economic growth.
+**Hook:** "The Philippines grew just 2.8% in Q1 2026. The government's target was 5-6%."
+**Tagalog beat:** "Ang presyo ng katiwalian? Tayo ang nagbabayad." (The price of corruption? We are the ones who pay.) - specific to the economic cost borne by ordinary Filipinos from the flood control scandal.
+**Sources:**
+- https://www.rappler.com/business/gross-domestic-product-philippines-q1-2026/
+- https://www.philstar.com/headlines/2026/05/07/2526251/philippine-economy-slows-28-q1-weakest-5-years
+- https://business.inquirer.net/589015/philippine-gdp-growth-slows-to-2-8-in-first-quarter
+- https://radar.ph/ph-economy-slows-to-2-8-as-spending-and-investment-weaken-in-q1-2026/

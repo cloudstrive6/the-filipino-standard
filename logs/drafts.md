@@ -891,3 +891,12 @@
 - https://www.manilatimes.net/2026/06/10/news/namfrel-says-anti-dynasty-bill-falls-short/2362824
 - https://www.dailyguardian.com.ph/blog/hollow-victory-anti-dynasty-bill-wont-dismantle-political-clans-namfrel-warns
 - https://bworldonline.com/the-nation/2026/06/10/755946/house-version-of-anti-dynasty-bill-unlikely-to-curb-political-dynasties-watchdog-says/
+
+## 2026-06-12 14:04 PHT | threads | SKIPPED (fact-check service 503 - Gemini unavailable, fail-closed)
+**Topic:** ph-independence-day-sovereignty-accountability
+**Angle:** 128th Independence Day framing: Constitution Art. II Sec. 1 says sovereignty resides in the people, but ghost projects, bloated contracts, and unfunded mandates extract that sovereignty. Independence from a foreign power happened; independence from the extractive system is still unfinished.
+**Hook:** "128 years of independence, and the Constitution still says it clearly: 'Sovereignty resides in the people.' Art. II, Sec. 1."
+**Tagalog beat:** "Kalayaan sa labas, nakamit na. Kailan ang kalayaan sa loob?" (Freedom from outside is achieved. When is freedom from within? - specific to the domestic-extraction angle)
+**Sources:**
+- https://www.philstar.com/headlines/2026/06/12/2534728/128th-independence-day-marcos-calls-defense-truth
+- https://mb.com.ph/2026/06/12/duterte-tells-filipinos-on-128th-independence-day-choose-truth-accountability-and-hope

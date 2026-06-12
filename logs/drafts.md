@@ -833,3 +833,14 @@
 - https://www.rappler.com/philippines/marcos-enough-crude-oil-supply-until-june-30/
 - https://en.wikipedia.org/wiki/2026_Philippine_energy_crisis
 - https://www.oecd.org/en/publications/oecd-economic-surveys-philippines-2026_f0e0c581-en.html
+
+## 2026-06-12 09:04 PHT | threads | PUBLISHED (live) | post_id: sp_9dPvRXNZ2ONDGCk6MeYQF
+
+**Topic:** philippines-128th-independence-day-budget-pork-sovereignty
+**Angle:** Today is the 128th Philippine Independence Day with the official theme "Kalayaan. Kinabukasan. Kasaysayan." Civil society groups (Roundtable for Inclusive Development, People's Budget Coalition) flagged P633 billion of the 2026 national budget as corruption-vulnerable — categorized as hard, soft, and shadow pork. Contrast with Art. II Sec. 1: sovereignty resides in the people, but Filipinos fund the budget without controlling how it is disbursed.
+**Hook:** "128 years since independence. The theme today: "Kalayaan. Kinabukasan. Kasaysayan.""
+**Tagalog beat:** "Kalayaan para kanino?" (Freedom for whom? — specific to the sovereignty gap between Independence Day rhetoric and the P633B corruption-vulnerable 2026 budget)
+**Sources:**
+- https://newsinfo.inquirer.net/2245158/marcos-urges-filipinos-to-protect-truth-on-independence-day
+- https://www.bworldonline.com/world/2026/01/02/722004/groups-flag-p633-billion-corruption-risk-in-bicam-approved-2026-budget/
+- https://www.philstar.com/headlines/2026/01/03/2498494/marcos-warned-p633-b-hard-soft-shadow-pork-2026-budget

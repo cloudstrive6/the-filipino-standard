@@ -922,3 +922,15 @@
 - https://mb.com.ph/2026/06/12/dfa-calls-chinas-sanctions-on-teodoro-an-unfriendly-act-that-complicates-bilateral-relations
 - https://www.philstar.com/headlines/2026/06/12/2534713/defiant-teodoro-says-china-sanctions-will-not-stop-him
 - https://www.bloomberg.com/news/articles/2026-06-11/china-sanctions-philippine-defense-chief-teodoro-over-remarks
+
+## 2026-06-12 17:03 PHT | threads | PUBLISHED (LIVE) | post_id: sp_81HAewgMr9cJcLMaYJbzq
+
+**Topic:** ph-independence-day-meralco-community-ownership
+**Angle:** On the 128th Philippine Independence Day (June 12, 2026), contrast Meralco's history of private/oligarch ownership with NZ community trusts that own local power distribution companies and pay Auckland households NZD $364/year. Frame: 128 years of independence, and Filipinos still don't own their power infrastructure.
+**Hook:** "Today is June 12. Independence Day. 128 years since sovereignty was declared."
+**Tagalog beat:** "Kalayaan para kanino?" (Freedom for whom? - specific to Independence Day/sovereignty angle, cannot be reused on a non-Independence Day post)
+**Sources:**
+- Philippine Independence Day (June 12, 1898 declaration) - public fact, covered by PNA/Inquirer/Philstar/MB for 128th anniversary
+- https://www.pna.gov.ph/articles/1277137 (Marcos 128th Independence Day speech)
+- Entrust NZD $364 dividend to Auckland households (pre-verified brand fact, confirmed by fact-checker)
+- Meralco ownership history: American colonists -> Lopez oligarchs -> Marcos cronies -> Lopez -> MPIC/JG Summit (pre-verified brand fact, confirmed by fact-checker)

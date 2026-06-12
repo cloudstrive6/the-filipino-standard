@@ -869,3 +869,15 @@
 - https://www.philstar.com/headlines/2026/05/07/2526251/philippine-economy-slows-28-q1-weakest-5-years
 - https://business.inquirer.net/589015/philippine-gdp-growth-slows-to-2-8-in-first-quarter
 - https://radar.ph/ph-economy-slows-to-2-8-as-spending-and-investment-weaken-in-q1-2026/
+
+## 2026-06-12 12:05 PHT | facebook,instagram | PUBLISHED (LIVE)
+
+**Topic:** ph-independence-day-visayas-power-crisis-wesm
+**Angle:** Philippine Independence Day (June 12, 128 years) peg: four major power plants in the Visayas went offline simultaneously, pushing WESM prices to PHP 32/kWh ceiling. Iloilo generation charge jumped 37% (PHP 5.60 to PHP 7.70/kWh). Compared to Auckland's Entrust community trust model (NZD $364/household returned in 2025). Frame: privately controlled grid extracts from consumers; community ownership returns profits to people.
+**Hook:** "Today, June 12, Filipinos celebrate 128 years of independence. In Iloilo, the electricity bill just went up again."
+**Tagalog beat:** "128 taon ng kalayaan. Wala pa ring maaasahang kuryente." - specific to Independence Day peg + Visayas power fragility
+**Scheduled:** 2026-06-12 18:00 PHT (weekday peak slot) | post_id=sp_X4mvbH34893P74XtytCSc
+**Image:** output/images/2026-06-12-independence-power-crisis.png
+**Sources:**
+- https://www.dailyguardian.com.ph/blog/plant-outages-push-power-rates-higher-in-june-2026
+- https://www.gmanetwork.com/news/money/economy/989613/electricity-rate-in-iloilo-may-go-up-in-june-2026/story/

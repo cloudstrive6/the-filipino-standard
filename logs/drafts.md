@@ -1013,3 +1013,14 @@
 **Sources:**
 - https://www.oecd.org/en/publications/oecd-economic-surveys-philippines-2026_f0e0c581-en/full-report/strengthening-formal-employment-and-social-protection_9c646caa.html
 - https://www.oecd.org/en/publications/oecd-economic-surveys-philippines-2026_f0e0c581-en/full-report/executive-summary_e27fd6d6.html
+
+## 2026-06-13 07:04 PHT | threads | PUBLISHED (LIVE) | post_id: sp_Q4N9vaoGQRNkzZa3av5Mo
+
+**Topic:** meralco-june-2026-rate-hike-community-ownership
+**Angle:** Meralco raised rates to P14.48/kWh for June 2026 due to higher WESM prices, peso weakness, and tight Luzon grid supply. Contrast with Auckland's community trust model (Entrust paying NZD $364 per eligible customer in 2025). Frame: private ownership extracts; community ownership returns.
+**Hook:** "Meralco bills go up again this June. P14.48/kWh."
+**Tagalog beat:** "Sila ang may-ari. Tayo ang nagbabayad." (They own it. We pay - specific to the private ownership structure of Meralco and the asymmetry between who profits and who pays)
+**Sources:**
+- https://www.gmanetwork.com/news/money/companies/991066/meralco-electricity-bills-household-rate/story/
+- https://www.manilatimes.net/2026/06/11/business/meralco-raises-june-electricity-rates-on-higher-generation-charge-peso-weakness/2363337
+- https://www.rappler.com/business/meralco-power-rates-june-2026/

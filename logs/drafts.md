@@ -982,3 +982,14 @@
 - https://mb.com.ph/2026/05/04/senate-oks-peoples-freedom-of-information-act
 - https://manilashaker.com/senate-approves-foi-bill-on-third-reading-after-20-years-of-proposals/
 - https://www.bworldonline.com/the-nation/2026/05/04/747281/foi-bill-gets-senate-nod/
+
+## 2026-06-12 22:03 PHT | threads | PUBLISHED (LIVE) | post_id: sp_WDOwTemmM36Nk8ydVe3
+
+**Topic:** meralco-june-2026-rate-hike-grid-red-alerts-peso
+**Angle:** Meralco raised June 2026 rates to P14.4833/kWh after Luzon grid red alerts in May and peso weakness. Frame: every system failure - supply crunch, currency depreciation - gets passed to consumers. Systemic design critique.
+**Hook:** "Meralco raised rates again. June 2026: P14.4833/kWh."
+**Tagalog beat:** "Tayo na naman ang nagbabayad ng kabiguan ng sistema." (Again it's us paying for the system's failures - specific to the rate hike driven by grid failures and peso)
+**Sources:**
+- https://www.manilatimes.net/2026/06/11/business/meralco-raises-june-electricity-rates-on-higher-generation-charge-peso-weakness/2363337
+- https://www.gmanetwork.com/news/money/companies/991066/meralco-electricity-bills-household-rate/story/
+- https://www.rappler.com/business/meralco-power-rates-june-2026/

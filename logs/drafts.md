@@ -934,3 +934,15 @@
 - https://www.pna.gov.ph/articles/1277137 (Marcos 128th Independence Day speech)
 - Entrust NZD $364 dividend to Auckland households (pre-verified brand fact, confirmed by fact-checker)
 - Meralco ownership history: American colonists -> Lopez oligarchs -> Marcos cronies -> Lopez -> MPIC/JG Summit (pre-verified brand fact, confirmed by fact-checker)
+
+## 2026-06-12 18:03 PHT | threads | PUBLISHED (LIVE) | post_id: sp_fb5vTH9EUpDQ0WIKZ2O
+
+**Topic:** mindanao-earthquake-preparedness-systems
+**Angle:** A 7.8 earthquake hit Mindanao on June 8, 2026 - the first day of the school year - killing at least 37, destroying 18,600+ homes, and displacing 20,000+. Frame: The Philippines sits on the Pacific Ring of Fire, yet preparedness systems keep failing Filipinos. Attack the system, not individuals.
+**Hook:** "A 7.8 earthquake hit Mindanao last June 8 - the first day of the school year."
+**Tagalog beat:** "Tuwing sakuna lang tayo nagigising." (We only wake up when there's a disaster - specific to the recurring disaster/unpreparedness cycle)
+**Sources:**
+- https://www.euronews.com/2026/06/09/around-20000-people-displaced-by-philippine-earthquake-that-killed-at-least-37
+- https://www.rappler.com/philippines/mindanao/death-toll-sarangani-earthquake-june-8-2026/
+- https://news.un.org/en/story/2026/06/1167672
+- https://en.wikipedia.org/wiki/2026_Mindanao_earthquake

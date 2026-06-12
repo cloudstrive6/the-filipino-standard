@@ -959,3 +959,15 @@
 - https://www.rappler.com/philippines/recto-ledesma-face-criminal-complaint-philhealth-fund-transfer/
 - https://www.philstar.com/business/2026/06/11/2534251/philhealth-fund-transfer-and-the-ombudsman-decision
 - https://filipinotimes.net/latest-news/2026/05/25/%E2%82%B160b-could-have-saved-lives-leachon-files-plunder-raps-vs-recto-over-philhealth-funds/
+
+## 2026-06-12 20:05 PHT | threads | PUBLISHED (LIVE) | post_id: sp_itLgLQha1fqCfHOJjBpRL
+
+**Topic:** sara-duterte-impeachment-pretrial-june18-constitutional-test
+**Angle:** VP Sara Duterte's impeachment pre-trial is set for June 18, 2026, with trial proper starting July 6. She is the first official in Philippine history to be impeached twice. The Senate now decides. Frame: constitutional accountability mechanism being tested in real time - will the system deliver?
+**Hook:** "The Philippines is about to put its Constitution to a real test."
+**Tagalog beat:** "Gagana ba ang sistema natin? Hintayin natin." (Will our system work? We'll wait and see - specific to the constitutional accountability test/impeachment angle)
+**Sources:**
+- https://www.rappler.com/philippines/gatchalian-senate-sets-impeachment-pre-trial-sara-duterte-june-18-2026/
+- https://newsinfo.inquirer.net/2243575/senate-invites-parties-sets-june-18-impeachment-pre-trial-conference
+- https://mb.com.ph/2026/06/10/impeachment-2026-gatchalian-affirms-16-votes-still-needed-to-convict-vp-sara-duterte
+- https://www.aljazeera.com/news/2026/5/18/philippines-launches-vp-duterte-impeachment-trial-amid-political-division

@@ -971,3 +971,14 @@
 - https://newsinfo.inquirer.net/2243575/senate-invites-parties-sets-june-18-impeachment-pre-trial-conference
 - https://mb.com.ph/2026/06/10/impeachment-2026-gatchalian-affirms-16-votes-still-needed-to-convict-vp-sara-duterte
 - https://www.aljazeera.com/news/2026/5/18/philippines-launches-vp-duterte-impeachment-trial-amid-political-division
+
+## 2026-06-12 21:05 PHT | threads | PUBLISHED (LIVE) | post_id: sp_r0LTe5gVD7SZ4rbmIdc
+
+**Topic:** foi-bill-both-chambers-passed-bicameral-conference-pending
+**Angle:** Both the Senate (22-0, May 4) and House (284-0, June 2-3) finally passed the FOI bill after nearly four decades. A bicameral conference is the last step. Frame: historic milestone for transparency/right to information, still not done.
+**Hook:** "The Senate passed the FOI bill. 22-0. / The House passed its version. 284-0."
+**Tagalog beat:** "Halos apat na dekada. Para malaman lang kung saan napunta ang pera natin." (Almost four decades. Just to find out where our money went - specific to the ~38-year FOI fight and the right-to-know angle)
+**Sources:**
+- https://mb.com.ph/2026/05/04/senate-oks-peoples-freedom-of-information-act
+- https://manilashaker.com/senate-approves-foi-bill-on-third-reading-after-20-years-of-proposals/
+- https://www.bworldonline.com/the-nation/2026/05/04/747281/foi-bill-gets-senate-nod/

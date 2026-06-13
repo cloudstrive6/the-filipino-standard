@@ -1024,3 +1024,14 @@
 - https://www.gmanetwork.com/news/money/companies/991066/meralco-electricity-bills-household-rate/story/
 - https://www.manilatimes.net/2026/06/11/business/meralco-raises-june-electricity-rates-on-higher-generation-charge-peso-weakness/2363337
 - https://www.rappler.com/business/meralco-power-rates-june-2026/
+
+## 2026-06-13 08:04 PHT | threads | PUBLISHED (LIVE) | post_id: sp_gGeooIwLEzq7YnZacdZ6
+
+**Topic:** sara-duterte-impeachment-pretrial-june18-confidential-funds
+**Angle:** Senate Impeachment Court schedules June 18 pre-trial conference for VP Sara Duterte's case. Charges center on over P600 million in confidential funds with no public accounting. Frame: not a personal anomaly - a system designed to allow unaccountable spending at the top while ordinary Filipinos are taxed and tracked on every peso.
+**Hook:** "The Senate has set June 18 as the pre-trial date for the VP's impeachment case."
+**Tagalog beat:** "Pera ng bayan, lihim ng iilan." (The people's money, secret of a few - specific to the confidential funds accountability gap and the asymmetry between elite opacity and citizen-level tax accountability)
+**Sources:**
+- https://www.gmanetwork.com/news/topstories/nation/990829/sara-duterte-trial-witness-evidence/story/
+- https://newsinfo.inquirer.net/2243575/senate-invites-parties-sets-june-18-impeachment-pre-trial-conference
+- https://www.rappler.com/philippines/gatchalian-senate-sets-impeachment-pre-trial-sara-duterte-june-18-2026/

@@ -1205,3 +1205,16 @@ Hindi ito malas. Resulta ng sistema.
 - https://businessmirror.com.ph/2026/06/12/inflation-bites-financially-resilient-households-plunge-from-33-to-19/
 - https://www.manilatimes.net/2026/06/13/business/top-business/pinoys-financial-resilience-falls/2364604
 **Publish note:** TFS_LIVE=true but publisher returned HTTP 401 (Invalid or expired token on get_social_accounts). Same PostForMe API token expiry as all prior runs today (BIR/Alice Guo, blue crab, flood control, Meralco, Teodoro, anti-dynasty, Independence Day, GDP miss, classroom shortage). Caption ready at output/posts/2026-06-13-financial-resilience-plunge-threads.txt.
+
+## 2026-06-13 21:04 PHT | threads | PUBLISH FAILED (HTTP 401 token expired)
+
+**Topic:** icc-senate-fugitive-dela-rosa-2026
+**Hook:** "A sitting Philippine senator, wanted by the ICC for crimes against humanity, has been a fugitive for a month. No arrest."
+**Tagalog beat:** "Saan napupunta ang pananagutan?" (specific to the ICC/fugitive senator story — where did accountability go?)
+**Char count:** 380
+**Caption:** output/posts/2026-06-13-icc-senate-fugitive-threads.txt
+**Sources:**
+- https://www.rappler.com/philippines/bato-dela-rosa-left-senate-evades-icc-arrest-may-14-2026/
+- https://newsinfo.inquirer.net/2240481/ibp-says-june-3-senate-quorum-lawful-valid
+- https://www.rappler.com/philippines/senate-quorum-june-3-2026-legal-valid-ibp-law-deans/
+**Publish note:** TFS_LIVE=true but publisher returned HTTP 401 (Invalid or expired token on get_social_accounts). Same PostForMe API token expiry as all prior runs today. Caption ready at output/posts/2026-06-13-icc-senate-fugitive-threads.txt.

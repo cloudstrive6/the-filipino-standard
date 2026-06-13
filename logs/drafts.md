@@ -1243,3 +1243,15 @@ Hindi ito malas. Resulta ng sistema.
 - https://newsinfo.inquirer.net/2239141/house-passes-freedom-of-information-bill
 - https://mb.com.ph/2026/05/04/senate-oks-peoples-freedom-of-information-act
 **Publish note:** TFS_LIVE=true but publisher returned HTTP 401 (Invalid or expired token on get_social_accounts). Same PostForMe API token expiry as all prior runs today. Caption ready at output/posts/2026-06-13-foi-bill-bicam-threads.txt.
+
+## 2026-06-13 23:45 PHT | threads | PUBLISH FAILED (HTTP 401 token expired)
+
+**Topic:** water-rates-fcda-threads
+**Hook:** "Maynilad and Manila Water raised rates again this quarter. Not for better service. Because the peso fell."
+**Tagalog beat:** "Utang nila. Piso natin." (specific to the FCDA forex-pass-through mechanism - their foreign-currency debt, consumers' pesos absorb the loss)
+**Char count:** 345
+**Caption:** output/posts/2026-06-13-water-rates-fcda-threads.txt
+**Sources:**
+- https://mb.com.ph/2026/03/13/maynilad-manila-water-to-raise-rates-due-to-weak-peso
+- https://tribune.net.ph/2026/03/13/water-rates-to-rise-in-q2-for-metro-manila-consumers
+**Publish note:** TFS_LIVE=true but publisher returned HTTP 401 (Invalid or expired token on get_social_accounts). Same PostForMe API token expiry as all prior runs today. Caption ready at output/posts/2026-06-13-water-rates-fcda-threads.txt.

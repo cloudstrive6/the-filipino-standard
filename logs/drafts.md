@@ -1193,3 +1193,15 @@ Hindi ito malas. Resulta ng sistema.
 - https://mb.com.ph/2026/02/23/ph-faces-over-144758-classroom-shortagemarcos
 - https://tribune.net.ph/2026/02/11/flood-scandal-shaved-03-off-gdp-growth-bsp-2
 **Publish note:** TFS_LIVE=true but publisher returned HTTP 401 (Invalid or expired token on get_social_accounts). PostForMe API key returning 401 on /v1/social-accounts - same token expiry error as prior runs (Independence Day, GDP miss, anti-dynasty, China-Teodoro). Caption at output/posts/2026-06-13-classroom-shortage-165k-deped-fb.md, image at output/images/2026-06-13-classroom-shortage-165k-deped.png.
+
+## 2026-06-13 20:04 PHT | threads | PUBLISH FAILED (HTTP 401 token expired)
+
+**Topic:** financial-resilience-plunge-sunlife-2026
+**Hook:** "One year ago, 33% of Filipino households were financially resilient. Today: 19%."
+**Tagalog beat:** "Sa isang taon, nawala ang kalahati. Bakit wala pa ring nagbabago?" (specific to the Sun Life Financial Resilience Index 2026 finding that financially resilient households nearly halved in one year)
+**Char count:** 415
+**Caption:** output/posts/2026-06-13-financial-resilience-plunge-threads.txt
+**Sources:**
+- https://businessmirror.com.ph/2026/06/12/inflation-bites-financially-resilient-households-plunge-from-33-to-19/
+- https://www.manilatimes.net/2026/06/13/business/top-business/pinoys-financial-resilience-falls/2364604
+**Publish note:** TFS_LIVE=true but publisher returned HTTP 401 (Invalid or expired token on get_social_accounts). Same PostForMe API token expiry as all prior runs today (BIR/Alice Guo, blue crab, flood control, Meralco, Teodoro, anti-dynasty, Independence Day, GDP miss, classroom shortage). Caption ready at output/posts/2026-06-13-financial-resilience-plunge-threads.txt.

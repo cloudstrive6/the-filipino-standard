@@ -1231,3 +1231,15 @@ Hindi ito malas. Resulta ng sistema.
 - https://www.manilatimes.net/2026/06/09/business/bsp-seen-staying-hawkish-despite-inflation-slowdown/2361016
 - https://mb.com.ph/2026/06/08/uob-sees-more-bsp-rate-hikes-despite-softer-may-inflation
 **Publish note:** TFS_LIVE=true but publisher returned HTTP 401 (Invalid or expired token on get_social_accounts). Same PostForMe API token expiry as all prior runs today (financial resilience, ICC/dela rosa, classroom shortage, flood control, Alice Guo, blue crab, meralco, anti-dynasty, GDP miss, Independence Day, Teodoro, etc.). Caption ready at output/posts/2026-06-13-bsp-inflation-rate-hike-threads.txt.
+
+## 2026-06-13 22:30 PHT | threads | PUBLISH FAILED (HTTP 401 token expired)
+
+**Topic:** foi-bill-bicam-threads
+**Hook:** "NZ got a freedom of information law in 1982. Not perfect, but it got this right."
+**Tagalog beat:** "Tatlumpung taon na. Sana 'to na." (specific to FOI bill's 30+ year legislative journey finally reaching bicameral stage)
+**Char count:** 334
+**Caption:** output/posts/2026-06-13-foi-bill-bicam-threads.txt
+**Sources:**
+- https://newsinfo.inquirer.net/2239141/house-passes-freedom-of-information-bill
+- https://mb.com.ph/2026/05/04/senate-oks-peoples-freedom-of-information-act
+**Publish note:** TFS_LIVE=true but publisher returned HTTP 401 (Invalid or expired token on get_social_accounts). Same PostForMe API token expiry as all prior runs today. Caption ready at output/posts/2026-06-13-foi-bill-bicam-threads.txt.

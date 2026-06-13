@@ -1105,3 +1105,17 @@
 - https://www.rappler.com/business/meralco-power-rates-june-2026/
 - https://www.gmanetwork.com/news/money/companies/991066/meralco-electricity-bills-household-rate/story/
 **Publish note:** TFS_LIVE=true but publisher returned HTTP 401 (Invalid or expired token). Caption ready at /tmp/threads_caption.txt.
+
+## 2026-06-13 14:XX PHT | threads | DRY-RUN (PUBLISH FAILED - HTTP 401 token expired)
+
+**Topic:** china-sanctions-teodoro-west-philippine-sea-june-2026
+**Angle:** China sanctioned Philippine Defense Secretary Teodoro Jr. (and family) on June 11, 2026 for his South China Sea remarks. He is barred from China, HK, and Macau. Teodoro responded unfazed, vowing to keep defending PH interests. Framed as a sovereignty test -- external coercion against officials who defend Philippine territory.
+**Hook:** "China sanctioned the Philippine defense secretary for speaking up about the South China Sea."
+**Tagalog beat:** "Sa sariling lupa, hindi tayo susuko." (On our own land, we will not give up -- specific to sovereignty/territorial defense against external coercion)
+**Sources:**
+- https://www.bloomberg.com/news/articles/2026-06-11/china-sanctions-philippine-defense-chief-teodoro-over-remarks
+- https://globalnation.inquirer.net/327015/china-bars-teodoro-family-from-entry-business-dealings-2
+- https://www.gmanetwork.com/news/topstories/nation/991172/china-sanctions-teodoro-unfriendly-act/story/
+- https://www.gmanetwork.com/news/topstories/nation/991190/teodoro-unfazed-by-china-sanctions-vows-to-keep-defending-ph-interests/story/
+- https://www.washingtonpost.com/world/2026/06/11/philippines-china-defense-secretary-gilberto-teodoro-jr/620f700a-65f7-11f1-bdd4-805ebb99a693_story.html
+**Publish note:** TFS_LIVE=true but publisher returned HTTP 401 (Invalid or expired token on get_social_accounts). Caption ready at /tmp/threads_caption.txt.

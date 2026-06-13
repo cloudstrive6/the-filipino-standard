@@ -1035,3 +1035,13 @@
 - https://www.gmanetwork.com/news/topstories/nation/990829/sara-duterte-trial-witness-evidence/story/
 - https://newsinfo.inquirer.net/2243575/senate-invites-parties-sets-june-18-impeachment-pre-trial-conference
 - https://www.rappler.com/philippines/gatchalian-senate-sets-impeachment-pre-trial-sara-duterte-june-18-2026/
+
+## 2026-06-13 09:03 PHT | threads | PUBLISHED (LIVE) | post_id: sp_CKAT35sVPRG9azA4baC3q
+
+**Topic:** msme-digital-adoption-gap-june-2026
+**Angle:** 77% of Filipino MSMEs want to go digital but only 16% have - the gap is not a mindset problem but a structural failure of tools, training, and support. MSMEs employ 63% of working Filipinos, yet the system treats them like an afterthought.
+**Hook:** "77% of Filipino MSMEs want to go digital. Only 16% have."
+**Tagalog beat:** "Gusto nila. Hindi kaya ng sistema." (They want to. The system can't deliver - specific to the structural gap between aspiration and actual digital adoption for MSMEs)
+**Sources:**
+- https://map.org.ph/the-sme-investment-paradox-how-to-grow-wzhile-cutting-costs-in-2026/
+- https://www.dai.com/uploads/final-msme-reports/philippines-country-brief.pdf

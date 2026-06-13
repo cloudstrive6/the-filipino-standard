@@ -1173,3 +1173,23 @@ Hindi ito malas. Resulta ng sistema.
 - https://www.rappler.com/business/gross-domestic-product-philippines-q1-2026/
 - https://www.philstar.com/headlines/2026/05/07/2526251/philippine-economy-slows-28-q1-weakest-5-years
 **Publish note:** TFS_LIVE=true but publisher returned HTTP 401 (Invalid or expired token on get_social_accounts). PostForMe API key returning 401 on /v1/social-accounts -- 4th consecutive run with this same error (prior runs: Independence Day, China-Teodoro, anti-dynasty). Caption ready at /tmp/threads_caption.txt.
+
+## 2026-06-13 19:15 PHT | facebook,instagram | PUBLISH FAILED (HTTP 401 token expired)
+
+**Topic:** classroom-shortage-165k-deped-school-opening
+**Angle:** School year 2026-2027 opened June 8 with the three-term calendar. Philippines still has a 165,000-classroom shortage despite a record P1.015 trillion DepEd budget and P65B for 24,964 new classrooms. Even if every planned classroom is built, 140,000+ remain missing. Same DPWH managing classroom construction was at center of flood control ghost-project scandal. Frame: budget allocation vs. implementation accountability - a structural failure, not a funding problem.
+**Hook:** "The school year opened on June 8. The Philippines is still 165,000 classrooms short." (86 chars)
+**Tagalog beat:** "Sa Pilipinas, may budget. Kulang pa rin ang silid-aralan." (specific to the gap between record education funding and the persistent classroom backlog)
+**Char count:** ~1900
+**Scheduled for:** 2026-06-13 20:00 PHT (8 PM PHT peak slot)
+**Image:** output/images/2026-06-13-classroom-shortage-165k-deped.png
+**Caption:** output/posts/2026-06-13-classroom-shortage-165k-deped-fb.md
+**Sources:**
+- https://mb.com.ph/2026/04/20/back-to-school-deped-sets-june-8-opening-of-classes-for-sy-20262027
+- https://www.rappler.com/philippines/three-term-calendar-public-schools-opening-classes-june-2026/
+- https://newsinfo.inquirer.net/2163543/marcos-signs-2026-budget-with-record-p1-015-trillion-for-deped
+- https://www.philstar.com/headlines/2026/01/06/2498951/deped-gets-record-p65b-build-25000-classrooms-it-enough
+- https://newsinfo.inquirer.net/2193503/deped-taps-lgus-to-bridge-165000-classroom-gap-eyes-faster-builds
+- https://mb.com.ph/2026/02/23/ph-faces-over-144758-classroom-shortagemarcos
+- https://tribune.net.ph/2026/02/11/flood-scandal-shaved-03-off-gdp-growth-bsp-2
+**Publish note:** TFS_LIVE=true but publisher returned HTTP 401 (Invalid or expired token on get_social_accounts). PostForMe API key returning 401 on /v1/social-accounts - same token expiry error as prior runs (Independence Day, GDP miss, anti-dynasty, China-Teodoro). Caption at output/posts/2026-06-13-classroom-shortage-165k-deped-fb.md, image at output/images/2026-06-13-classroom-shortage-165k-deped.png.

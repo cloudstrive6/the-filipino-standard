@@ -1255,3 +1255,16 @@ Hindi ito malas. Resulta ng sistema.
 - https://mb.com.ph/2026/03/13/maynilad-manila-water-to-raise-rates-due-to-weak-peso
 - https://tribune.net.ph/2026/03/13/water-rates-to-rise-in-q2-for-metro-manila-consumers
 **Publish note:** TFS_LIVE=true but publisher returned HTTP 401 (Invalid or expired token on get_social_accounts). Same PostForMe API token expiry as all prior runs today. Caption ready at output/posts/2026-06-13-water-rates-fcda-threads.txt.
+
+## 2026-06-14 07:03 PHT | threads | PUBLISH FAILED (HTTP 401 token expired)
+
+**Topic:** meralco-june-rate-hike-threads
+**Hook:** "Meralco raised electricity rates again this June. P14.48 per kWh - up from last month."
+**Tagalog beat:** "Tayo na naman ang magbabayad." (specific to electricity consumers absorbing grid stress costs - spot price spikes passed down from Red Alert grid failure)
+**Char count:** 275
+**Caption:** output/posts/2026-06-13-meralco-june-rate-hike-threads.txt
+**Sources:**
+- https://www.gmanetwork.com/news/money/companies/991066/meralco-electricity-bills-household-rate/story/
+- https://www.manilatimes.net/2026/06/11/business/meralco-raises-june-electricity-rates-on-higher-generation-charge-peso-weakness/2363337
+- https://www.pna.gov.ph/articles/1277062
+**Publish note:** TFS_LIVE=true but publisher returned HTTP 401 (Invalid or expired token on get_social_accounts). Same PostForMe API token expiry as all prior runs today. Caption ready at output/posts/2026-06-13-meralco-june-rate-hike-threads.txt.

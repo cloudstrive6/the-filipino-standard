@@ -1132,3 +1132,24 @@
 - https://www.scmp.com/week-asia/politics/article/3336488/anti-dynasty-bill-philippines-slammed-ridiculous-and-weak
 - https://www.pna.gov.ph/articles/1276504
 **Publish note:** TFS_LIVE=true but publisher returned HTTP 401 (Invalid or expired token on get_social_accounts). Caption ready at /tmp/threads_caption.txt.
+
+## 2026-06-13 17:07 PHT | threads | PUBLISH FAILED (HTTP 401 token expired)
+
+**Topic:** ph-128th-independence-day-system-critique-june-2026
+**Angle:** On the 128th anniversary of Philippine independence (June 12, 2026), President Marcos's Independence Day speech named corruption, poverty, and misinformation as the nation's challenges. TFS angle: these are not new challenges -- every generation of leaders has named them. The system doesn't select for people who will fix it; it selects for people who will speak about fixing it. Tagalog closer: freedom from colonialism is real; freedom from the system has not yet arrived.
+**Hook:** "128 years of Philippine independence."
+**Tagalog beat:** "Kalayaan mula sa kolono. Hindi pa tayo malaya mula sa sistema." (Freedom from the colonizer. We are not yet free from the system -- specific to Independence Day and the gap between political independence and genuine systemic freedom)
+**Caption (429 chars):**
+128 years of Philippine independence.
+
+On the 128th anniversary, the official speech cited corruption, poverty, and misinformation as the nation's challenges.
+
+Those aren't new challenges. Every generation of leaders has named them. None has solved them.
+
+The system doesn't select for people who will fix it. It selects for people who will speak about fixing it.
+
+Kalayaan mula sa kolono. Hindi pa tayo malaya mula sa sistema.
+**Sources:**
+- https://www.philstar.com/headlines/2026/06/12/2534728/128th-independence-day-marcos-calls-defense-truth
+- https://mb.com.ph/2026/06/12/marcos-urges-filipinos-to-uphold-truth-strengthen-unity-on-128th-independence-day
+**Publish note:** TFS_LIVE=true but publisher returned HTTP 401 (Invalid or expired token on get_social_accounts). PostForMe API key pfm_live_6thVM53dA9NFKBWffSpARM returning 401 on /v1/social-accounts -- same error as prior two runs (China-Teodoro and anti-dynasty). Caption ready at /tmp/threads_caption.txt.

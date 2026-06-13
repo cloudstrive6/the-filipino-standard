@@ -1045,3 +1045,14 @@
 **Sources:**
 - https://map.org.ph/the-sme-investment-paradox-how-to-grow-wzhile-cutting-costs-in-2026/
 - https://www.dai.com/uploads/final-msme-reports/philippines-country-brief.pdf
+
+## 2026-06-13 10:03 PHT | threads | PUBLISHED (LIVE) | post_id: sp_VJcPGudZJzrKgHzSKTRI3
+
+**Topic:** bir-alice-guo-p1-billion-tax-evasion-case-june2026
+**Angle:** BIR files P1-billion tax evasion case against former Bamban mayor Alice Guo for five years of unfiled returns (2019-2023), with assets including a helicopter and multiple properties. Frame: not about one person - about a system that tracks every peso from ordinary Filipinos but took five years to notice P1B in missed taxes from someone with a helicopter and real estate portfolio.
+**Hook:** "The BIR just filed a P1-billion tax case against a former mayor."
+**Tagalog beat:** "Tayo, bawat piso. Sila, P1 bilyon bago may nagsalita." (specific to the asymmetry: ordinary Filipinos penalized on every peso, but P1B in missed taxes took five years and a Senate hearing to surface)
+**Sources:**
+- https://www.pna.gov.ph/articles/1277106
+- https://www.philstar.com/headlines/2026/06/11/2534558/bir-files-p1-billion-tax-evasion-case-vs-guo
+- https://globalnation.inquirer.net/327041/bir-sues-alice-guo-for-p1-b-unpaid-taxes

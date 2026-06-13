@@ -1218,3 +1218,16 @@ Hindi ito malas. Resulta ng sistema.
 - https://newsinfo.inquirer.net/2240481/ibp-says-june-3-senate-quorum-lawful-valid
 - https://www.rappler.com/philippines/senate-quorum-june-3-2026-legal-valid-ibp-law-deans/
 **Publish note:** TFS_LIVE=true but publisher returned HTTP 401 (Invalid or expired token on get_social_accounts). Same PostForMe API token expiry as all prior runs today. Caption ready at output/posts/2026-06-13-icc-senate-fugitive-threads.txt.
+
+## 2026-06-13 22:04 PHT | threads | PUBLISH FAILED (HTTP 401 token expired)
+
+**Topic:** bsp-inflation-rate-hike-june18-2026
+**Hook:** "May 2026 inflation: 6.8%. / BSP's target: 2-4%."
+**Tagalog beat:** "Mahal na nga. Hihirap pa lalo." (specific to BSP rate hike — inflation already high, now borrowing gets more expensive too)
+**Char count:** 347
+**Caption:** output/posts/2026-06-13-bsp-inflation-rate-hike-threads.txt
+**Sources:**
+- https://www.philstar.com/business/2026/06/09/2533778/core-inflation-keep-bsp-guard-analysts
+- https://www.manilatimes.net/2026/06/09/business/bsp-seen-staying-hawkish-despite-inflation-slowdown/2361016
+- https://mb.com.ph/2026/06/08/uob-sees-more-bsp-rate-hikes-despite-softer-may-inflation
+**Publish note:** TFS_LIVE=true but publisher returned HTTP 401 (Invalid or expired token on get_social_accounts). Same PostForMe API token expiry as all prior runs today (financial resilience, ICC/dela rosa, classroom shortage, flood control, Alice Guo, blue crab, meralco, anti-dynasty, GDP miss, Independence Day, Teodoro, etc.). Caption ready at output/posts/2026-06-13-bsp-inflation-rate-hike-threads.txt.

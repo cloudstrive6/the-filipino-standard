@@ -1056,3 +1056,16 @@
 - https://www.pna.gov.ph/articles/1277106
 - https://www.philstar.com/headlines/2026/06/11/2534558/bir-files-p1-billion-tax-evasion-case-vs-guo
 - https://globalnation.inquirer.net/327041/bir-sues-alice-guo-for-p1-b-unpaid-taxes
+
+
+## 2026-06-13 11:04 PHT | threads | SKIPPED (fact-check failed x2)
+
+**Topic:** sss-pension-hike-june-2026
+**Angle:** SSS 10% pension raise framed as "early inflation relief" but amounts to ₱300/month (₱10/day) for retirement pensioners - the math exposes how low the bar has been set.
+**Hook attempted:** "SSS gave 4.1 million pensioners a 10% pension raise."
+**Tagalog beat attempted:** "₱10 sa isang araw. Ito na ang lunas sa inflation?"
+**Why skipped:** First attempt used ₱307 (wrong; 10% of ₱3,000 = ₱300). Second attempt flagged that not all 4.1M got 10% (death/survivor pensioners got 5%). Two fact-check failures = clean stop per agent rules.
+**Sources:**
+- https://www.sss.gov.ph/news-and-updates/sss-begins-early-june-rollout-of-2026-pension-hike-citing-need-for-early-relief-for-pensioners/
+- https://www.gmanetwork.com/news/money/companies/989905/sss-begins-early-rollout-of-pension-hikes/story/
+- https://business.inquirer.net/593208/sss-advances-pension-hike-rollout-to-june-as-inflation-relief-step

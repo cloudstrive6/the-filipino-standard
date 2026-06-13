@@ -1153,3 +1153,23 @@ Kalayaan mula sa kolono. Hindi pa tayo malaya mula sa sistema.
 - https://www.philstar.com/headlines/2026/06/12/2534728/128th-independence-day-marcos-calls-defense-truth
 - https://mb.com.ph/2026/06/12/marcos-urges-filipinos-to-uphold-truth-strengthen-unity-on-128th-independence-day
 **Publish note:** TFS_LIVE=true but publisher returned HTTP 401 (Invalid or expired token on get_social_accounts). PostForMe API key pfm_live_6thVM53dA9NFKBWffSpARM returning 401 on /v1/social-accounts -- same error as prior two runs (China-Teodoro and anti-dynasty). Caption ready at /tmp/threads_caption.txt.
+
+## 2026-06-13 17:15 PHT | threads | PUBLISH FAILED (HTTP 401 token expired)
+
+**Topic:** ph-q1-2026-gdp-miss-systemic-failure
+**Angle:** PH GDP grew just 2.8% in Q1 2026 - weakest in five years - against a government target of 5-6%. Rising oil prices and declining government investment cited as causes. TFS angle: the same system that set the target is the one whose policy choices drove the miss. Not bad luck - structural.
+**Hook:** "The Philippine economy grew just 2.8% in Q1 2026. The weakest in five years."
+**Tagalog beat:** "Hindi ito malas. Resulta ng sistema." (This is not bad luck. Result of the system - specific to the GDP miss framing and structurally different from the Independence Day "sistema" beat)
+**Caption (288 chars):**
+The Philippine economy grew just 2.8% in Q1 2026. The weakest in five years. The government's own target was 5 to 6 percent.
+
+Rising oil prices and declining government investment drove the miss.
+
+The target was set by the same system that missed it.
+
+Hindi ito malas. Resulta ng sistema.
+**Sources:**
+- https://psa.gov.ph/content/gdp-grows-28-percent-first-quarter-2026
+- https://www.rappler.com/business/gross-domestic-product-philippines-q1-2026/
+- https://www.philstar.com/headlines/2026/05/07/2526251/philippine-economy-slows-28-q1-weakest-5-years
+**Publish note:** TFS_LIVE=true but publisher returned HTTP 401 (Invalid or expired token on get_social_accounts). PostForMe API key returning 401 on /v1/social-accounts -- 4th consecutive run with this same error (prior runs: Independence Day, China-Teodoro, anti-dynasty). Caption ready at /tmp/threads_caption.txt.

@@ -1082,3 +1082,15 @@
 - https://www.philstar.com/the-freeman/cebu-business/2026/06/08/2533671/us-crab-import-ban-threatens-philippines-60-million-seafood-market
 - https://www.dailyguardian.com.ph/blog/us-crab-ban-threatens-php-7-billion-15000-jobs
 - https://www.pna.gov.ph/articles/1277166
+
+## 2026-06-13 13:04 PHT | threads | PUBLISHED (LIVE) | post_id: sp_l38osGgRyNFgeNufR94K7
+
+**Topic:** ph-flood-control-corruption-gdp-2026
+**Angle:** BSP confirmed the flood control corruption scandal shaved 0.3pp off GDP growth. GDP hit 2.8% in Q1 2026 - weakest in 5 years. Systemic governance failure: billions in ghost projects, floods still hitting, economy still paying.
+**Hook:** "Billions in flood control funds disappeared into ghost projects. Rain still comes. Floods still kill."
+**Tagalog beat:** "Sino ang nagbabayad ng buwis para dito?" (Who is paying taxes for this? - specific to taxpayer money disappearing into ghost flood control projects)
+**Sources:**
+- https://www.rappler.com/business/gross-domestic-product-philippines-q1-2026/
+- https://www.philstar.com/headlines/2026/05/07/2526251/philippine-economy-slows-28-q1-weakest-5-years
+- https://tribune.net.ph/2026/02/11/flood-scandal-shaved-03-off-gdp-growth-bsp-2
+- https://mb.com.ph/2026/06/12/oecd-flood-control-corruption-shows-weak-infra-safeguards-in-philippines

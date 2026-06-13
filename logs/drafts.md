@@ -1069,3 +1069,16 @@
 - https://www.sss.gov.ph/news-and-updates/sss-begins-early-june-rollout-of-2026-pension-hike-citing-need-for-early-relief-for-pensioners/
 - https://www.gmanetwork.com/news/money/companies/989905/sss-begins-early-rollout-of-pension-hikes/story/
 - https://business.inquirer.net/593208/sss-advances-pension-hike-rollout-to-june-as-inflation-relief-step
+
+## 2026-06-13 12:06 PHT | threads | PUBLISHED (LIVE) | post_id: sp_LphyaydjHQ5Dgo1g1lRIx
+
+**Topic:** us-blue-crab-ban-ph-fisheries
+**Angle:** US banned Philippine blue crab imports (effective June 11) due to non-compliance with US Marine Mammal Protection Act - Irrawaddy dolphin bycatch documented since 2010 but ignored for 16 years. The ban threatens P6-7B industry and 15,000 workers. Frame: not the US's fault - a system that failed to act for 16 years until an external force compelled it.
+**Hook:** "The US just banned Philippine blue crab imports."
+**Tagalog beat:** "Hindi kasalanan ng Amerika. Kasalanan ng sistema na matagal nang bulag." (Not America's fault. The fault of a system that has long been blind - specific to the 16-year regulatory blindness on bycatch before the trade ban)
+**Sources:**
+- https://www.manilatimes.net/2026/06/13/regions/us-ban-on-ph-blue-crab-imports-endangers-livelihoods-of-thousands/2364581
+- https://www.philstar.com/business/2026/06/11/2534248/us-bans-imports-philippines-crab-meat
+- https://www.philstar.com/the-freeman/cebu-business/2026/06/08/2533671/us-crab-import-ban-threatens-philippines-60-million-seafood-market
+- https://www.dailyguardian.com.ph/blog/us-crab-ban-threatens-php-7-billion-15000-jobs
+- https://www.pna.gov.ph/articles/1277166

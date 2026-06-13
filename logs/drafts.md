@@ -1094,3 +1094,14 @@
 - https://www.philstar.com/headlines/2026/05/07/2526251/philippine-economy-slows-28-q1-weakest-5-years
 - https://tribune.net.ph/2026/02/11/flood-scandal-shaved-03-off-gdp-growth-bsp-2
 - https://mb.com.ph/2026/06/12/oecd-flood-control-corruption-shows-weak-infra-safeguards-in-philippines
+
+## 2026-06-13 13:XX PHT | threads | DRY-RUN (PUBLISH FAILED - HTTP 401 token expired)
+
+**Topic:** meralco-june-2026-rate-hike
+**Angle:** Meralco raised June billing rate to P14.4833/kWh (up from P14.3345 in May) after 3 consecutive red alert days in May caused brownouts across Luzon. Higher bills follow the service failure.
+**Hook:** "Meralco raised rates for June. P14.4833 per kWh - up from P14.3345 in May."
+**Tagalog beat:** "Brownout ka. Tapos mas malaki pa ang bayad mo." (You got the brownouts. And your bill is even bigger - specific to Luzon red alert + rate hike situation)
+**Sources:**
+- https://www.rappler.com/business/meralco-power-rates-june-2026/
+- https://www.gmanetwork.com/news/money/companies/991066/meralco-electricity-bills-household-rate/story/
+**Publish note:** TFS_LIVE=true but publisher returned HTTP 401 (Invalid or expired token). Caption ready at /tmp/threads_caption.txt.

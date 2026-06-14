@@ -1324,3 +1324,15 @@ Hindi ito malas. Resulta ng sistema.
 - https://www.philstar.com/headlines/2026/05/07/2526251/philippine-economy-slows-28-q1-weakest-5-years
 - https://www.gmanetwork.com/news/money/economy/986724/ph-economic-growth-slows-down-to-2-8-in-q1-2026/story/
 **Publish note:** TFS_LIVE=true but publisher returned HTTP 401 (Invalid or expired token on get_social_accounts). Same PostForMe API token expiry as all prior runs. Caption ready at output/posts/2026-06-14-gdp-corruption-threads.txt.
+
+## 2026-06-14 12:03 PHT | threads | PUBLISHED (live)
+
+**Topic:** meralco-june-2026-rate-hike
+**Hook:** "Meralco raised rates again for June. P14.4833/kWh after a P0.1488/kWh hike."
+**Tagalog beat:** "Tayo na naman ang nagbabayad ng sala ng sistema." (specific to Meralco grid failures being passed to consumers)
+**Char count:** 357
+**Caption:** output/posts/2026-06-14-meralco-june-rate-hike-threads.txt
+**Sources:**
+- https://www.manilatimes.net/2026/06/11/business/meralco-raises-june-electricity-rates-on-higher-generation-charge-peso-weakness/2363337
+- https://www.gmanetwork.com/news/money/companies/991066/meralco-electricity-bills-household-rate/story/
+**Publish note:** TFS_LIVE=true. Published live. post_id=sp_cghti7jaCwiktob63kh7. Fact-check PASSED.

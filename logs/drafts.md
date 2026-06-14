@@ -1268,3 +1268,17 @@ Hindi ito malas. Resulta ng sistema.
 - https://www.manilatimes.net/2026/06/11/business/meralco-raises-june-electricity-rates-on-higher-generation-charge-peso-weakness/2363337
 - https://www.pna.gov.ph/articles/1277062
 **Publish note:** TFS_LIVE=true but publisher returned HTTP 401 (Invalid or expired token on get_social_accounts). Same PostForMe API token expiry as all prior runs today. Caption ready at output/posts/2026-06-13-meralco-june-rate-hike-threads.txt.
+
+## 2026-06-14 07:30 PHT | threads | PUBLISH FAILED (HTTP 401 token expired)
+
+**Topic:** independence-day-truth-system-threads
+**Hook:** "On June 12, Marcos urged Filipinos to 'protect truth from distortion.'"
+**Tagalog beat:** "Huwag hayaang gawing slogan ang katotohanan." (specific to Marcos's Independence Day 'protect truth' framing vs. P180B ghost flood projects reality)
+**Char count:** 308
+**Caption:** output/posts/2026-06-14-independence-day-truth-threads.txt
+**Sources:**
+- https://www.philstar.com/headlines/2026/06/12/2534728/128th-independence-day-marcos-calls-defense-truth
+- https://newsinfo.inquirer.net/2245158/marcos-urges-filipinos-to-protect-truth-on-independence-day
+- https://gulfnews.com/world/asia/philippines/673-ghost-flood-projects-drain-filipino-taxpayers-senate-uncovers-3-billion-scam-1.500367682
+- https://www.rappler.com/philippines/flood-control-corruption-senate-blue-ribbon-panel-partial-findings-recommendations/
+**Publish note:** TFS_LIVE=true but publisher returned HTTP 401 (Invalid or expired token on get_social_accounts). Same PostForMe API token expiry as all prior runs. Caption ready at output/posts/2026-06-14-independence-day-truth-threads.txt.

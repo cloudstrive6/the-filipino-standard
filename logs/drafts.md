@@ -1467,3 +1467,16 @@ Hindi ito malas. Resulta ng sistema.
 - https://mb.com.ph/2025/11/04/erc-oks-new-rules-to-boost-consumer-power-choice-smart-grid-shift
 - https://businessmirror.com.ph/2025/11/05/erc-approves-lower-open-access-threshold/
 **Publish note:** TFS_LIVE=true. Published live. post_id=sp_EedqgoNRWjAAGOFVzxsLD. Fact-check PASSED.
+
+## 2026-06-14 23:03 PHT | threads | PUBLISHED (live)
+
+**Topic:** oecd-flood-control-corruption-safeguards-june2026
+**Hook:** "The OECD just said it plainly: the Philippines' flood-control corruption scandal proves the country's accountability safeguards are not working."
+**Tagalog beat:** "Binaha tayo, at ninakawan pa." (specific to the flood-control corruption context -- we were flooded AND robbed; cannot stand in for any other post)
+**Char count:** 350
+**Caption:** /tmp/caption_threads_oecd_flood_jun14.txt
+**Sources:**
+- https://mb.com.ph/2026/06/12/oecd-flood-control-corruption-shows-weak-infra-safeguards-in-philippines
+- https://www.oecd.org/en/publications/oecd-economic-surveys-philippines-2026_f0e0c581-en.html
+- https://fortune.com/2026/01/14/philippines-asean-chair-marcos-flood-corruption-tariffs/
+**Publish note:** TFS_LIVE=true. Published live. post_id=sp_OAsgWYGVeLEJWmqUtLIJ. Fact-check PASSED.

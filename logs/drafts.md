@@ -1295,3 +1295,18 @@ Hindi ito malas. Resulta ng sistema.
 - https://tribune.net.ph/2026/06/13/bantay-impeachment
 - https://newsinfo.inquirer.net/2237974/bantay-senado-launched-to-monitor-sara-duterte-impeachment-trial
 **Publish note:** TFS_LIVE=true but publisher returned HTTP 401 (Invalid or expired token on get_social_accounts). Same PostForMe API token expiry as all prior runs. Caption ready at output/posts/2026-06-14-bantay-impeachment-threads.txt.
+
+## 2026-06-14 09:30 PHT | threads | PUBLISH FAILED (HTTP 401 token expired)
+
+**Topic:** anti-dynasty-bill-hollow-house-final-reading
+**Hook:** "For the first time in 40 years, the Philippine House passed an anti-political dynasty bill on final reading."
+**Tagalog beat:** "Kaya naman pala naipasa." (specific to the irony that dynasties wrote the anti-dynasty rules -- cannot stand in for any other post)
+**Char count:** 394
+**Caption:** output/posts/2026-06-14-anti-dynasty-bill-threads.txt
+**Sources:**
+- https://www.rappler.com/philippines/house-passes-weak-anti-dynasty-bill-june-3-2026/
+- https://newsinfo.inquirer.net/2239590/house-approves-anti-dynasty-bill-on-final-reading
+- https://www.philstar.com/headlines/2026/06/04/2532766/house-oks-anti-political-dynasty-bill-opposition-slams-it-fake-watered-down
+- https://www.gmanetwork.com/news/topstories/nation/990094/house-dynasty-bill-historic-final-reading/story/
+- https://www.manilatimes.net/2026/06/03/news/house-okays-watered-down-version-of-anti-dynasty-bill-on-third-reading/2357631
+**Publish note:** TFS_LIVE=true but publisher returned HTTP 401 (Invalid or expired token on get_social_accounts). Same PostForMe API token expiry as all prior runs. Caption ready at output/posts/2026-06-14-anti-dynasty-bill-threads.txt.

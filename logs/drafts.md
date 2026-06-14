@@ -1310,3 +1310,17 @@ Hindi ito malas. Resulta ng sistema.
 - https://www.gmanetwork.com/news/topstories/nation/990094/house-dynasty-bill-historic-final-reading/story/
 - https://www.manilatimes.net/2026/06/03/news/house-okays-watered-down-version-of-anti-dynasty-bill-on-third-reading/2357631
 **Publish note:** TFS_LIVE=true but publisher returned HTTP 401 (Invalid or expired token on get_social_accounts). Same PostForMe API token expiry as all prior runs. Caption ready at output/posts/2026-06-14-anti-dynasty-bill-threads.txt.
+
+## 2026-06-14 10:00 PHT | threads | PUBLISH FAILED (HTTP 401 token expired)
+
+**Topic:** ph-gdp-q1-2026-corruption-slowdown
+**Hook:** "Philippines GDP: 2.8% in Q1 2026. The weakest in five years. Below the government's own 5-6% target."
+**Tagalog beat:** "Ito ang presyo ng katiwalian." (specific to corruption-caused economic slowdown — cannot stand in for any other post)
+**Char count:** 336
+**Caption:** output/posts/2026-06-14-gdp-corruption-threads.txt
+**Sources:**
+- https://psa.gov.ph/content/gdp-grows-28-percent-first-quarter-2026
+- https://www.rappler.com/business/gross-domestic-product-philippines-q1-2026/
+- https://www.philstar.com/headlines/2026/05/07/2526251/philippine-economy-slows-28-q1-weakest-5-years
+- https://www.gmanetwork.com/news/money/economy/986724/ph-economic-growth-slows-down-to-2-8-in-q1-2026/story/
+**Publish note:** TFS_LIVE=true but publisher returned HTTP 401 (Invalid or expired token on get_social_accounts). Same PostForMe API token expiry as all prior runs. Caption ready at output/posts/2026-06-14-gdp-corruption-threads.txt.

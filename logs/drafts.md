@@ -1401,3 +1401,17 @@ Hindi ito malas. Resulta ng sistema.
 - https://mb.com.ph/2026/06/12/oecd-flood-control-corruption-shows-weak-infra-safeguards-in-philippines
 - https://www.oecd.org/en/publications/oecd-economic-surveys-philippines-2026_f0e0c581-en.html
 **Publish note:** TFS_LIVE=true. Published live. post_id=sp_3VEaFRDSDPhhSnrfTZQPN. Fact-check PASSED.
+
+## 2026-06-14 18:02 PHT | threads | PUBLISHED (live)
+
+**Topic:** philippines-3-term-school-calendar-no-pilot-june-2026
+**Hook:** "The Philippines just launched a 3-term school calendar for all public schools. No pilot test. Just immediate nationwide rollout, starting June 8."
+**Tagalog beat:** "Milyon-milyong bata ang eksperimento." (specific to the education reform experiment on millions of students -- cannot stand in for any other post)
+**Char count:** 342
+**Caption:** /tmp/caption_threads_jun14b.txt
+**Sources:**
+- https://www.philstar.com/headlines/2026/03/23/2516283/marcos-approves-trimester-system-schools-without-pilot-testing
+- https://www.rappler.com/philippines/marcos-jr-approval-deped-trimester-school-calendar-2026/
+- https://www.rappler.com/philippines/three-term-calendar-public-schools-opening-classes-june-2026/
+- https://mb.com.ph/2026/03/22/marcos-oks-3-term-school-calendar-starting-sy-20262027
+**Publish note:** TFS_LIVE=true. Published live. post_id=sp_HGjdYv0iW6JYZkCHUQ8r. Fact-check PASSED.

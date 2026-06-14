@@ -1492,3 +1492,16 @@ Hindi ito malas. Resulta ng sistema.
 - https://www.manilatimes.net/2026/06/14/news/national/mindanao-earthquake-discrepancies-persist-in-ndrrmc-ocd-death-toll-reports/2364925
 - https://newsinfo.inquirer.net/2243306/death-toll-from-mindanao-quake-rises-to-37-479-injured-ndrrmc
 **Publish note:** TFS_LIVE=true. Published live. post_id=sp_icrQR35pfKJiCcDzmsdvE. Fact-check PASSED.
+
+## 2026-06-15 07:04 PHT | threads | PUBLISHED (live)
+
+**Topic:** house-anti-dynasty-bill-hollow-june2026
+**Hook:** "The 1987 Constitution mandated Congress to ban political dynasties. 39 years later, the House passed a bill - authored by members of political dynasties themselves."
+**Tagalog beat:** "Sarili nilang batas, sarili nilang butas." (specific to dynasty members authoring their own anti-dynasty loopholes -- cannot stand in for any other post)
+**Char count:** 320
+**Caption:** /tmp/caption_threads_antidynasty_jun14.txt
+**Sources:**
+- https://www.rappler.com/philippines/house-passes-weak-anti-dynasty-bill-june-3-2026/
+- https://www.philstar.com/headlines/2026/06/04/2532766/house-oks-anti-political-dynasty-bill-opposition-slams-it-fake-watered-down
+- https://newsinfo.inquirer.net/2239590/house-approves-anti-dynasty-bill-on-final-reading
+**Publish note:** TFS_LIVE=true. Published live. post_id=sp_qnQRslXpZMpDParZnFAhB. Fact-check PASSED (initial draft failed fact-check for claiming full Congress passed; fixed to say "the House"). 

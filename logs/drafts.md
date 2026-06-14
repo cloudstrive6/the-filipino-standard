@@ -1441,3 +1441,15 @@ Hindi ito malas. Resulta ng sistema.
 - https://www.rappler.com/philippines/bantay-senado-monitor-sara-duterte-impeachment-trial/
 - https://newsinfo.inquirer.net/2237974/bantay-senado-launched-to-monitor-sara-duterte-impeachment-trial
 **Publish note:** TFS_LIVE=true. Published live. post_id=sp_U66xUgoSOwreiwauQAkfR. Fact-check PASSED.
+
+## 2026-06-14 21:03 PHT | threads | PUBLISHED (live)
+
+**Topic:** meralco-rate-hike-june-2026-plant-outages
+**Hook:** "Meralco rates are up again this June. Luzon went under red alert three straight days last month."
+**Tagalog beat:** "Bayad na naman tayo." (specific to electricity billing -- consumers absorbing the cost of a fragile privatized power market every time supply fails -- cannot stand in for any other post)
+**Char count:** 215
+**Caption:** /tmp/caption_threads_jun14e.txt
+**Sources:**
+- https://www.rappler.com/business/meralco-power-rates-june-2026/
+- https://www.pna.gov.ph/articles/1277062
+**Publish note:** TFS_LIVE=true. Published live. post_id=sp_KUtF87u8R2NFxfdUGsK. Fact-check PASSED.

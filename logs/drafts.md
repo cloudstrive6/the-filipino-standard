@@ -1336,3 +1336,17 @@ Hindi ito malas. Resulta ng sistema.
 - https://www.manilatimes.net/2026/06/11/business/meralco-raises-june-electricity-rates-on-higher-generation-charge-peso-weakness/2363337
 - https://www.gmanetwork.com/news/money/companies/991066/meralco-electricity-bills-household-rate/story/
 **Publish note:** TFS_LIVE=true. Published live. post_id=sp_cghti7jaCwiktob63kh7. Fact-check PASSED.
+
+## 2026-06-14 13:04 PHT | threads | PUBLISHED (live)
+
+**Topic:** deped-three-term-calendar-pisa
+**Hook:** "Philippine students ranked 77th out of 81 countries in the 2022 PISA global assessment. Five to six years behind the global average."
+**Tagalog beat:** "Binago ang kalendaryo. Hindi ang kalidad." (specific to DepEd's calendar reform vs. the real structural gaps in education quality -- cannot stand in for any other post)
+**Char count:** 342
+**Caption:** output/posts/2026-06-14-deped-three-term-calendar-threads.txt
+**Sources:**
+- https://www.rappler.com/philippines/deped-reaction-statement-program-international-student-assessment-result-2022/
+- https://www.philstar.com/headlines/2023/12/07/2317044/pisa-philippines-5-6-years-behind
+- https://www.rappler.com/philippines/three-term-calendar-public-schools-opening-classes-june-2026/
+- https://mb.com.ph/2026/04/20/back-to-school-deped-sets-june-8-opening-of-classes-for-sy-20262027
+**Publish note:** TFS_LIVE=true. Published live. post_id=sp_JM26xrPaYR53E7FUdgiDQ. Fact-check PASSED.

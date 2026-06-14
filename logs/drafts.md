@@ -1350,3 +1350,15 @@ Hindi ito malas. Resulta ng sistema.
 - https://www.rappler.com/philippines/three-term-calendar-public-schools-opening-classes-june-2026/
 - https://mb.com.ph/2026/04/20/back-to-school-deped-sets-june-8-opening-of-classes-for-sy-20262027
 **Publish note:** TFS_LIVE=true. Published live. post_id=sp_JM26xrPaYR53E7FUdgiDQ. Fact-check PASSED.
+
+## 2026-06-14 14:06 PHT | threads | PUBLISHED (live)
+
+**Topic:** oecd-flood-control-corruption-accountability
+**Hook:** "The OECD just put a number on Philippine flood-control corruption: ₱545 billion in irregularities since 2022."
+**Tagalog beat:** "Hindi sapat ang batas kung walang nagpapatupad." (specific to the OECD finding that laws and oversight bodies exist but accountability safeguards remain insufficient -- cannot stand in for any other post)
+**Char count:** 308
+**Caption:** output/posts/2026-06-14-oecd-flood-control-corruption-threads.txt
+**Sources:**
+- https://mb.com.ph/2026/06/12/oecd-flood-control-corruption-shows-weak-infra-safeguards-in-philippines
+- https://www.oecd.org/en/publications/oecd-economic-surveys-philippines-2026_f0e0c581-en.html
+**Publish note:** TFS_LIVE=true. Published live. post_id=sp_1pYa9xLCzODxT5oNZcA3X. Fact-check PASSED.

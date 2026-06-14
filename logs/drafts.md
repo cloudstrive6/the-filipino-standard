@@ -1480,3 +1480,15 @@ Hindi ito malas. Resulta ng sistema.
 - https://www.oecd.org/en/publications/oecd-economic-surveys-philippines-2026_f0e0c581-en.html
 - https://fortune.com/2026/01/14/philippines-asean-chair-marcos-flood-corruption-tariffs/
 **Publish note:** TFS_LIVE=true. Published live. post_id=sp_OAsgWYGVeLEJWmqUtLIJ. Fact-check PASSED.
+
+## 2026-06-15 06:04 PHT | threads | PUBLISHED (live)
+
+**Topic:** mindanao-earthquake-ndrrmc-ocd-death-toll-discrepancy-june2026
+**Hook:** "Five days after the Mindanao earthquake, two PH government agencies still can't agree on the death toll. NDRRMC says 46. OCD says 61. Same disaster. Two versions of reality."
+**Tagalog beat:** "Wala bang nagbibilang ng tama?" (specific to the death-count discrepancy between NDRRMC and OCD -- asking who is actually counting correctly -- cannot stand in for any other post)
+**Char count:** 347
+**Caption:** /tmp/caption_threads_mindanao_jun14.txt
+**Sources:**
+- https://www.manilatimes.net/2026/06/14/news/national/mindanao-earthquake-discrepancies-persist-in-ndrrmc-ocd-death-toll-reports/2364925
+- https://newsinfo.inquirer.net/2243306/death-toll-from-mindanao-quake-rises-to-37-479-injured-ndrrmc
+**Publish note:** TFS_LIVE=true. Published live. post_id=sp_icrQR35pfKJiCcDzmsdvE. Fact-check PASSED.

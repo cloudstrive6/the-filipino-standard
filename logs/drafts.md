@@ -1362,3 +1362,17 @@ Hindi ito malas. Resulta ng sistema.
 - https://mb.com.ph/2026/06/12/oecd-flood-control-corruption-shows-weak-infra-safeguards-in-philippines
 - https://www.oecd.org/en/publications/oecd-economic-surveys-philippines-2026_f0e0c581-en.html
 **Publish note:** TFS_LIVE=true. Published live. post_id=sp_1pYa9xLCzODxT5oNZcA3X. Fact-check PASSED.
+
+## 2026-06-14 15:02 PHT | threads | PUBLISHED (live)
+
+**Topic:** china-sanctions-teodoro-west-philippine-sea
+**Hook:** "China sanctioned Philippine Defense Secretary Teodoro this week, banning him and his family from entering China, Hong Kong, and Macau."
+**Tagalog beat:** "Ating dagat, ating desisyon." (specific to West Philippine Sea sovereignty - cannot stand in for any other post)
+**Char count:** 394
+**Caption:** output/posts/2026-06-14-china-sanctions-teodoro-wps-threads.txt
+**Sources:**
+- https://www.bloomberg.com/news/articles/2026-06-11/china-sanctions-philippine-defense-chief-teodoro-over-remarks
+- https://www.philstar.com/headlines/2026/06/14/2535161/lawmakers-military-execs-hit-china-sanctions-teodoro
+- https://www.washingtonpost.com/world/2026/06/11/philippines-china-defense-secretary-gilberto-teodoro-jr/
+- https://globalnation.inquirer.net/327015/china-bars-teodoro-family-from-entry-business-dealings-2
+**Publish note:** TFS_LIVE=true. Published live. post_id=sp_YdNsXLZrMTYMWnATxn3OP. Fact-check PASSED.

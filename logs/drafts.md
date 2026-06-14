@@ -1389,3 +1389,15 @@ Hindi ito malas. Resulta ng sistema.
 - https://newsinfo.inquirer.net/2237974/bantay-senado-launched-to-monitor-sara-duterte-impeachment-trial
 - https://www.rappler.com/philippines/bantay-senado-monitor-sara-duterte-impeachment-trial/
 **Publish note:** TFS_LIVE=true. Published live. post_id=sp_Kgx4irUEqSJP5s52eDcvz. Fact-check PASSED.
+
+## 2026-06-14 17:04 PHT | threads | PUBLISHED (live)
+
+**Topic:** oecd-flood-control-corruption-philippines-2026
+**Hook:** "The OECD just confirmed it: Philippine flood-control corruption costs ₱42 to ₱118 billion a year."
+**Tagalog beat:** "Ninakaw ang pondo ng baha. Tayo ang nalulunod." (specific to flood funds stolen -- cannot stand in for any other post)
+**Char count:** 311
+**Caption:** /tmp/caption_threads.txt
+**Sources:**
+- https://mb.com.ph/2026/06/12/oecd-flood-control-corruption-shows-weak-infra-safeguards-in-philippines
+- https://www.oecd.org/en/publications/oecd-economic-surveys-philippines-2026_f0e0c581-en.html
+**Publish note:** TFS_LIVE=true. Published live. post_id=sp_3VEaFRDSDPhhSnrfTZQPN. Fact-check PASSED.

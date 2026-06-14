@@ -1428,3 +1428,16 @@ Hindi ito malas. Resulta ng sistema.
 - https://www.philstar.com/headlines/2026/06/14/2535047/philippines-open-new-embassies-consulates
 - https://ptvnews.ph/ph-expands-diplomatic-footprint-via-new-embassies-consulate/
 **Publish note:** TFS_LIVE=true. Published live. post_id=sp_0T7Hwfc9RTBGkq6pI2H. Fact-check PASSED.
+
+## 2026-06-14 20:03 PHT | threads | PUBLISHED (live)
+
+**Topic:** philippines-bantay-impeachment-civic-groups-vp-trial
+**Hook:** "120+ civic groups just formed 'Bantay Impeachment' to monitor the VP's Senate trial."
+**Tagalog beat:** "Tayo na ang magbantay." (specific to the Bantay Impeachment watchdog launch -- citizens organizing because institutional transparency is absent -- cannot stand in for any other post)
+**Char count:** 332
+**Caption:** /tmp/caption_threads_jun14d.txt
+**Sources:**
+- https://www.philstar.com/headlines/2026/06/14/2535057/bantay-impeachment-launched-monitor-vp-trial
+- https://www.rappler.com/philippines/bantay-senado-monitor-sara-duterte-impeachment-trial/
+- https://newsinfo.inquirer.net/2237974/bantay-senado-launched-to-monitor-sara-duterte-impeachment-trial
+**Publish note:** TFS_LIVE=true. Published live. post_id=sp_U66xUgoSOwreiwauQAkfR. Fact-check PASSED.

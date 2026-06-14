@@ -1415,3 +1415,16 @@ Hindi ito malas. Resulta ng sistema.
 - https://www.rappler.com/philippines/three-term-calendar-public-schools-opening-classes-june-2026/
 - https://mb.com.ph/2026/03/22/marcos-oks-3-term-school-calendar-starting-sy-20262027
 **Publish note:** TFS_LIVE=true. Published live. post_id=sp_HGjdYv0iW6JYZkCHUQ8r. Fact-check PASSED.
+
+## 2026-06-14 19:07 PHT | threads | PUBLISHED (live)
+
+**Topic:** philippines-ofw-new-embassies-kazakhstan-ghana-miami
+**Hook:** "Over 10 million Filipinos are living and working abroad. The government's answer: new embassies in Kazakhstan, Ghana, and a Miami consulate."
+**Tagalog beat:** "Dagdag embahada. Pero bakit nga ba kailangang umalis?" (specific to the embassy expansion announcement vs the structural reason Filipinos leave -- cannot stand in for any other post)
+**Char count:** 293
+**Caption:** /tmp/caption_threads_jun14c.txt
+**Sources:**
+- https://mb.com.ph/2026/06/13/marcos-announces-new-embassies-in-kazakhstan-ghana-miami-consulate-planned
+- https://www.philstar.com/headlines/2026/06/14/2535047/philippines-open-new-embassies-consulates
+- https://ptvnews.ph/ph-expands-diplomatic-footprint-via-new-embassies-consulate/
+**Publish note:** TFS_LIVE=true. Published live. post_id=sp_0T7Hwfc9RTBGkq6pI2H. Fact-check PASSED.

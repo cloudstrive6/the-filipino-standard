@@ -1376,3 +1376,16 @@ Hindi ito malas. Resulta ng sistema.
 - https://www.washingtonpost.com/world/2026/06/11/philippines-china-defense-secretary-gilberto-teodoro-jr/
 - https://globalnation.inquirer.net/327015/china-bars-teodoro-family-from-entry-business-dealings-2
 **Publish note:** TFS_LIVE=true. Published live. post_id=sp_YdNsXLZrMTYMWnATxn3OP. Fact-check PASSED.
+
+## 2026-06-14 16:04 PHT | threads | PUBLISHED (live)
+
+**Topic:** bantay-impeachment-civic-watch-sara-duterte-trial
+**Hook:** "120 civic groups launched 'Bantay Impeachment' to monitor VP Sara Duterte's Senate trial, starting July 6."
+**Tagalog beat:** "Ang Senado ang hukom. Tayo ang bantay." (specific to civic groups watching the Senate conduct the impeachment trial -- cannot stand in for any other post)
+**Char count:** 300
+**Caption:** output/posts/2026-06-14-bantay-impeachment-civic-watch-threads.txt
+**Sources:**
+- https://www.philstar.com/headlines/2026/06/14/2535057/bantay-impeachment-launched-monitor-vp-trial
+- https://newsinfo.inquirer.net/2237974/bantay-senado-launched-to-monitor-sara-duterte-impeachment-trial
+- https://www.rappler.com/philippines/bantay-senado-monitor-sara-duterte-impeachment-trial/
+**Publish note:** TFS_LIVE=true. Published live. post_id=sp_Kgx4irUEqSJP5s52eDcvz. Fact-check PASSED.

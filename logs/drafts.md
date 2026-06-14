@@ -1453,3 +1453,17 @@ Hindi ito malas. Resulta ng sistema.
 - https://www.rappler.com/business/meralco-power-rates-june-2026/
 - https://www.pna.gov.ph/articles/1277062
 **Publish note:** TFS_LIVE=true. Published live. post_id=sp_KUtF87u8R2NFxfdUGsK. Fact-check PASSED.
+
+## 2026-06-14 22:04 PHT | threads | PUBLISHED (live)
+
+**Topic:** erc-rcoa-100kw-threshold-june-2026
+**Hook:** "As of June 26, medium-sized businesses in the Philippines can finally choose their own power supplier under a new ERC rule."
+**Tagalog beat:** "Hakbang pasulong. Hindi para sa iyo." (specific to electricity consumer choice reform that expands access for businesses but leaves residential households still captive -- cannot stand in for any other post)
+**Char count:** 342
+**Caption:** /tmp/caption_threads_jun14f.txt
+**Sources:**
+- https://www.pna.gov.ph/articles/1262544
+- https://www.philstar.com/business/2025/11/07/2485330/rcoa-threshold-reduced-100-kw
+- https://mb.com.ph/2025/11/04/erc-oks-new-rules-to-boost-consumer-power-choice-smart-grid-shift
+- https://businessmirror.com.ph/2025/11/05/erc-approves-lower-open-access-threshold/
+**Publish note:** TFS_LIVE=true. Published live. post_id=sp_EedqgoNRWjAAGOFVzxsLD. Fact-check PASSED.

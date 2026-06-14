@@ -1282,3 +1282,16 @@ Hindi ito malas. Resulta ng sistema.
 - https://gulfnews.com/world/asia/philippines/673-ghost-flood-projects-drain-filipino-taxpayers-senate-uncovers-3-billion-scam-1.500367682
 - https://www.rappler.com/philippines/flood-control-corruption-senate-blue-ribbon-panel-partial-findings-recommendations/
 **Publish note:** TFS_LIVE=true but publisher returned HTTP 401 (Invalid or expired token on get_social_accounts). Same PostForMe API token expiry as all prior runs. Caption ready at output/posts/2026-06-14-independence-day-truth-threads.txt.
+
+## 2026-06-14 08:30 PHT | threads | PUBLISH FAILED (HTTP 401 token expired)
+
+**Topic:** bantay-impeachment-civic-watchdog-threads
+**Hook:** "120 civic groups just formed a coalition to watch the VP Duterte impeachment trial."
+**Tagalog beat:** "Nagbabantay na tayo ng nagbabantay." (specific to 120-group watchdog coalition formed because institutional trust is broken — can't stand in for any other post)
+**Char count:** 380
+**Caption:** output/posts/2026-06-14-bantay-impeachment-threads.txt
+**Sources:**
+- https://www.philstar.com/headlines/2026/06/14/2535057/bantay-impeachment-launched-monitor-vp-trial
+- https://tribune.net.ph/2026/06/13/bantay-impeachment
+- https://newsinfo.inquirer.net/2237974/bantay-senado-launched-to-monitor-sara-duterte-impeachment-trial
+**Publish note:** TFS_LIVE=true but publisher returned HTTP 401 (Invalid or expired token on get_social_accounts). Same PostForMe API token expiry as all prior runs. Caption ready at output/posts/2026-06-14-bantay-impeachment-threads.txt.

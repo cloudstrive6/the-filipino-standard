@@ -1693,3 +1693,30 @@ Hindi ito malas. Resulta ng sistema.
 - https://www.pna.gov.ph/articles/1277007 (PNA, platform moves to Bajo de Masinloc)
 - https://bworldonline.com/the-nation/2026/06/10/755947/phl-urges-china-to-withdraw-floating-scarborough-structure/ (BusinessWorld, PH urges withdrawal)
 - https://www.inquirer.net/477394/west-ph-sea-chinese-platform-in-panatag-linked-to-illegal-marine-research/ (Inquirer, illegal marine research)
+
+## 2026-06-15 22:08 PHT | threads | BLOCKED (fact-check 503, first draft)
+
+**Topic:** DepEd-lesson-planning-simplification-ILAW-framework-June-2026
+**Hook attempted:** "DepEd just simplified lesson planning for 900,000 teachers. The admission buried in that reform is the story."
+**Tagalog beat attempted:** "Papel muna, bata mamaya." (specific to teachers drowning in paperwork while students waited -- cannot stand in for any other post)
+**Char count:** 439
+**Caption:** /tmp/caption_threads_deped_jun15.txt
+**Block reason:** Gemini fact-check API returned HTTP 503 (high demand / service unavailable) after 3 retries. Script fails closed. One alternative attempt used per hard rules.
+**Sources consulted:**
+- https://www.gmanetwork.com/news/topstories/nation/991496/deped-eases-lesson-planning-for-public-school-teachers/story/ (GMA News, June 15 2026)
+- https://newsinfo.inquirer.net/2241652/deped-unveils-sy-2026-2027-reforms-benefiting-26m-students (Inquirer, June 7 2026)
+
+## 2026-06-15 22:08 PHT | threads | PUBLISHED LIVE
+
+**Topic:** BARMM-education-funds-COA-audit-P1.77B-single-day
+**Hook:** "P1.77 billion in education funds for Bangsamoro children. Processed in a single working day."
+**Tagalog beat:** "Sino ang nagbabantay ng nagbabantay?" (specific to the COA audit / accountability gap -- who watches the watchers when the system itself bypassed checks -- cannot stand in for any other post)
+**Char count:** 355
+**Angle:** The COA flagged P1.77 billion in BARMM education funds processed in a single day on March 7, 2025 -- bypassing Finance Division review, procurement rules, and documentation requirements. Systemic accountability failure: the checks designed to catch this didn't run.
+**Caption:** /tmp/caption_threads_barmm_jun15.txt
+**post_id:** sp_WDJDJBcBoEACuhV2Nwo8N. Fact-check PASSED. Used as the one permitted alternative after DepEd story hit Gemini 503.
+**Sources:**
+- https://tribune.net.ph/2026/03/19/audit-flags-p22b-in-barmm-education-procurements (Tribune, March 19 2026)
+- https://www.philstar.com/nation/2026/04/10/2519990/barmm-education-leadership-hot-water-over-p22-billion-audit-findings (Philstar, April 10 2026)
+- https://www.rappler.com/philippines/mindanao/state-auditors-flag-irregularities-barmm-education-deals/ (Rappler)
+- https://www.philstar.com/nation/2026/05/19/2529099/coa-report-flags-p22b-fund-misuse-barmm-education-ministry (Philstar, May 19 2026)

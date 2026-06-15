@@ -1505,3 +1505,17 @@ Hindi ito malas. Resulta ng sistema.
 - https://www.philstar.com/headlines/2026/06/04/2532766/house-oks-anti-political-dynasty-bill-opposition-slams-it-fake-watered-down
 - https://newsinfo.inquirer.net/2239590/house-approves-anti-dynasty-bill-on-final-reading
 **Publish note:** TFS_LIVE=true. Published live. post_id=sp_qnQRslXpZMpDParZnFAhB. Fact-check PASSED (initial draft failed fact-check for claiming full Congress passed; fixed to say "the House"). 
+
+## 2026-06-15 08:05 PHT | facebook,instagram | PUBLISHED (live)
+
+**Topic:** meralco-june-2026-rate-hike
+**Hook:** "This month, Meralco raised your electricity rate again. In Auckland, the power company mails households a check."
+**Char count:** 2046
+**Tagalog beat:** "Taon-taon, bayad nang bayad. Sino ba talaga ang nakikinabang?" (specific to Meralco ownership/rate hike -- could not stand in for another post)
+**Image:** output/images/2026-06-15-meralco-june-rate-hike.png
+**Scheduled:** 2026-06-15 19:00 PHT
+**post_id:** sp_lOWeLwvMrHwZZRDQrU0B. Fact-check PASSED. (First draft failed for unverifiable "four plants" Visayas claim; revised to remove that section.)
+**Sources:**
+- https://company.meralco.com.ph/news-and-advisories/higher-residential-rates-june-2026
+- https://www.dailyguardian.com.ph/blog/plant-outages-push-power-rates-higher-in-june-2026
+- https://www.oecd.org/en/publications/oecd-economic-surveys-philippines-2026_f0e0c581-en.html

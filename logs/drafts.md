@@ -1664,3 +1664,16 @@ Hindi ito malas. Resulta ng sistema.
 - https://bilyonaryo.com/2026/04/17/imf-slashes-philippines-2026-growth-to-4-1-biggest-cut-in-asean/business/ (Bilyonaryo, IMF steepest ASEAN cut)
 - https://filipinotimes.net/latest-news/2026/04/14/imf-cuts-ph-growth-forecast-to-4-1-for-2026-amid-global-domestic-pressures/ (Filipino Times, IMF 4.1%)
 - https://www.bworldonline.com/editors-picks/2026/04/15/742933/imf-downgrades-philippine-growth-to-4-1/ (BusinessWorld, flood control scandal)
+
+## 2026-06-15 20:07 PHT | threads | PUBLISHED LIVE
+
+**Topic:** marcos-special-session-june17-congress-welfare-basics
+**Hook:** "The Philippines just called a special session of Congress for June 17."
+**Tagalog beat:** "Pang-espesyal na sesyon lang pala ang welfare ng Pilipino." (specific to the irony that basic welfare - child nutrition, tuition, senior healthcare, remote schools - requires a special/emergency session call, not regular business)
+**Char count:** 375
+**Angle:** That the basics of government - child nutrition, free tuition, senior healthcare, and schools for remote communities - require a presidential special session tells you what Congress treats as normal business. Systemic prioritization critique.
+**Caption:** /tmp/caption_threads_special_session_jun15.txt
+**post_id:** sp_WN5zvdquOuxFcM1hQG0qD. Fact-check PASSED (after 2 retries on 503, 3rd attempt passed).
+**Sources:**
+- https://mb.com.ph/2026/06/15/marcos-calls-congress-special-session-on-june-17-to-fast-track-social-protection-education-bills (Manila Bulletin, Proclamation No. 1318)
+- https://www.gmanetwork.com/news/topstories/nation/991483/marcos-congress-special-session-june-17-2026/story/ (GMA News)

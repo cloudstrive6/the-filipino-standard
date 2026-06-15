@@ -1609,3 +1609,16 @@ Hindi ito malas. Resulta ng sistema.
 - https://mb.com.ph/2026/06/15/marcos-calls-congress-special-session-on-june-17-to-fast-track-social-protection-education-bills (Special session, Manila Bulletin)
 - https://www.gmanetwork.com/news/topstories/nation/991483/marcos-congress-special-session-june-17-2026/story/ (GMA News)
 - https://www.rappler.com/philippines/marcos-special-session-congress-june-17/ (Rappler)
+
+## 2026-06-15 16:08 PHT | threads | BLOCKED (fact-check service 503)
+
+**Topic:** PH energy reform window post-US-Iran peace deal / Gatchalian June 2026 call
+**Hook:** "A US-Iran peace deal eased the Philippines' fuel crisis. Senator Gatchalian's warning is the sharper story: treat this as a window, not an exit."
+**Tagalog beat:** "Ito na ang pagkakataon. Huwag na naman palampasin." (specific to the post-ceasefire opportunity window PH must act on -- cannot stand in for any other post)
+**Char count:** 380
+**Caption:** /tmp/caption_threads_energy_window_jun15.txt
+**Block reason:** Gemini fact-check API returned HTTP 503 (high demand / service unavailable) after 3 retries. Script fails closed. Also tried alternative draft on Marcos special session (June 17 call, 359 chars) -- same 503 block. Two attempts exhausted; clean exit per hard rules.
+**Sources:**
+- https://www.pna.gov.ph/articles/1277223 (Gatchalian energy reform statement, PNA June 15 2026)
+- https://www.gmanetwork.com/news/topstories/nation/983130/philippines-oil-supply-ceasefire-marcos/story/ (Marcos on oil supply / US-Iran ceasefire, GMA News)
+- https://mb.com.ph/2026/06/15/marcos-calls-congress-special-session-on-june-17-to-fast-track-social-protection-education-bills (Marcos special session June 17, Manila Bulletin)

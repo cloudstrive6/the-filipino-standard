@@ -1557,3 +1557,13 @@ Hindi ito malas. Resulta ng sistema.
 - https://www.philstar.com/business/2026/06/05/2532844/world-bank-philippines-likely-miss-2028-single-digit-poverty-target
 - https://bworldonline.com/top-stories/2026/06/04/754460/philippines-unlikely-to-cut-poverty-rate-to-single-digits-by-2028/
 **Publish note:** TFS_LIVE=true. Published live. post_id=sp_Cvc5E9bOVGlbaHTxUIOgw. Fact-check PASSED.
+
+## 2026-06-15 12:06 PHT | threads | SKIPPED (fact-check blocked)
+
+**Topic:** Visayas grid yellow alert June 15 2026 - coal plant outages, 99 MW buffer
+**Hook attempted:** "The Visayas grid is under yellow alert again today."
+**Tagalog beat attempted:** "Puro coal, walang backup. Ayan ang sistema."
+**Reason skipped:** Two consecutive fact-check failures. First draft: "26 power plants offline" contradicted (cumulative count, not today's specific number). Second draft: "walang backup" contradicted (Visayas grid has power imports from Luzon/Mindanao and BESS in development). Per agent rules, stopping after one failed alternative.
+**Sources consulted:**
+- https://www.gmanetwork.com/news/money/economy/991469/ngcp-visayas-grid-yellow-alert-june-15-2026/story/
+- https://www.manilatimes.net/2026/06/15/news/ngcp-issues-yellow-alert-for-visayas-anew/2365185

@@ -1544,3 +1544,16 @@ Hindi ito malas. Resulta ng sistema.
 - https://www.bworldonline.com/editors-picks/2026/04/15/742933/imf-downgrades-philippine-growth-to-4-1/
 - https://eastasiaforum.org/2026/06/09/energy-crisis-gives-philippine-oil-deregulation-a-reality-check/
 **Publish note:** TFS_LIVE=true. Published live. post_id=sp_81WpTLS8nXKF7s4vcIyV. Fact-check PASSED.
+
+## 2026-06-15 11:03 PHT | threads | PUBLISHED (live)
+
+**Topic:** world-bank-ph-poverty-2028-missed-target-june2026
+**Hook:** "The government's own target: bring poverty below 9% by 2028."
+**Tagalog beat:** "Kulang ang intensyon, hindi ang potensyal." (specific to government having World Bank guidance and reform roadmaps but lacking urgency to close the poverty gap -- cannot stand in for any other post)
+**Char count:** 417
+**Caption:** /tmp/caption_threads_poverty_jun15.txt
+**Sources:**
+- https://www.worldbank.org/en/news/press-release/2026/06/04/philippines-can-end-poverty-and-build-a-middle-class-society-by-2040-but-only-with-urgent-reforms
+- https://www.philstar.com/business/2026/06/05/2532844/world-bank-philippines-likely-miss-2028-single-digit-poverty-target
+- https://bworldonline.com/top-stories/2026/06/04/754460/philippines-unlikely-to-cut-poverty-rate-to-single-digits-by-2028/
+**Publish note:** TFS_LIVE=true. Published live. post_id=sp_Cvc5E9bOVGlbaHTxUIOgw. Fact-check PASSED.

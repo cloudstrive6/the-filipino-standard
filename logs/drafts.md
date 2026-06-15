@@ -1581,3 +1581,17 @@ Hindi ito malas. Resulta ng sistema.
 - https://mb.com.ph/2026/06/10/impeachment-2026-gatchalian-affirms-16-votes-still-needed-to-convict-vp-sara-duterte
 - https://www.philstar.com/headlines/2026/05/22/2529687/saras-impeachment-trial-start-july-6
 **Publish note:** TFS_LIVE=true. Published live. post_id=sp_nOHRYSdZbWKsXWq6Dlmle. Fact-check PASSED.
+
+## 2026-06-15 14:04 PHT | threads | PUBLISHED LIVE
+
+**Topic:** Philippines 98% oil import dependence + national energy emergency as governance failure
+**Hook:** "A national energy emergency. Declared in March because the Philippines imports about 98% of its oil from the Middle East."
+**Tagalog beat:** "Gaano ba katagal bago matuto ang sistema?" (specific to energy system's failure to learn from recurring crises -- cannot stand in for any other post)
+**Char count:** 380
+**Caption:** /tmp/caption_threads_energy_jun15.txt
+**Sources:**
+- https://www.pna.gov.ph/articles/1277223 (Gatchalian on US-Iran deal + energy security, June 15 2026)
+- https://pco.gov.ph/news_releases/president-marcos-declares-state-of-national-energy-emergency-activates-uplift-as-whole-of-government-response-framework/ (EO 110, March 24 2026)
+- https://mb.com.ph/2026/03/24/marcos-declares-state-of-national-energy-emergency (Manila Bulletin, EO 110)
+- https://www.rappler.com/philippines/marcos-declares-national-energy-emergency-march-2026/ (Rappler, EO 110)
+**Publish note:** TFS_LIVE=true. Published live. post_id=sp_yJGxtg9usMNkgy0uRQP7m. Fact-check PASSED.

@@ -1750,3 +1750,18 @@ Hindi ito malas. Resulta ng sistema.
 - https://business.inquirer.net/579217/maynilad-manila-water-to-raise-rates-in-the-second-quarter (Inquirer Business, Q2 2026 rate hike)
 - https://www.philstar.com/headlines/2026/03/14/2514143/water-rates-go-next-month (Philstar, March 14 2026)
 - https://www.mayniladwater.com.ph/notice-to-maynilad-customers-foreign-currency-differential-adjustment-fcda-effective-april-1-2026/ (Maynilad official FCDA notice)
+
+## 2026-06-16 07:04 PHT | threads | PUBLISHED LIVE
+
+**Topic:** Nullsec-Philippines-Senate-website-defacement-June10-hacktivist-accountability
+**Hook:** "A hacktivist group defaced the Philippine Senate's website on June 10. Their message: 'The Filipino people entrusted you with power to serve the nation. Not personal interests. Not dynasties. Not corrupt networks.'"
+**Tagalog beat:** "Nagagamit pa ba ang tamang daan?" (specific to the failure of legitimate channels of dissent -- the question of whether the proper path still works, prompted by citizens resorting to a server breach to be heard -- cannot stand in for any other post)
+**Char count:** 481
+**Angle:** Hacktivist group Nullsec Philippines defaced the Senate website on June 10 with an accountability message. Nobody contested the message, only the method. The TFS angle: the system's failure is that it had to be hacked onto a government server to feel like it mattered.
+**Caption:** /tmp/caption_threads_hacktivist_jun16.txt
+**post_id:** sp_qsRTokpwHrQZTL6UC8r. Fact-check PASSED.
+**Sources:**
+- https://newsinfo.inquirer.net/2244496/transparency-is-not-optional-hacktivists-claim-senate-website-defacement (Inquirer)
+- https://www.philstar.com/headlines/2026/06/11/2534452/hacktivist-group-defaces-senate-website-calls-accountability-govt (Philstar)
+- https://www.rappler.com/technology/nullsec-philippines-claims-responsibility-defacing-senate-website/ (Rappler)
+- https://www.pna.gov.ph/articles/1277063 (PNA)

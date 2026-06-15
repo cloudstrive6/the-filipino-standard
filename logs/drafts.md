@@ -1595,3 +1595,17 @@ Hindi ito malas. Resulta ng sistema.
 - https://mb.com.ph/2026/03/24/marcos-declares-state-of-national-energy-emergency (Manila Bulletin, EO 110)
 - https://www.rappler.com/philippines/marcos-declares-national-energy-emergency-march-2026/ (Rappler, EO 110)
 **Publish note:** TFS_LIVE=true. Published live. post_id=sp_yJGxtg9usMNkgy0uRQP7m. Fact-check PASSED.
+
+## 2026-06-15 15:04 PHT | threads | BLOCKED (fact-check service 503)
+
+**Topic:** Anti-Political Dynasty Law finally moving after 39 years of constitutional mandate
+**Hook:** "The House of Representatives passed the Anti-Political Dynasty bill."
+**Tagalog beat:** "Kailan pa ba nila ipapasa ang batas na laban sa kanilang sarili?" (specific to the paradox of dynasty-members voting on the anti-dynasty law)
+**Char count:** 385
+**Caption:** /tmp/caption_threads_dynasty_jun15.txt
+**Block reason:** Gemini fact-check API returned HTTP 503 (high demand / service unavailable) after 3 retries. Script fails closed. No post published this run.
+**Sources:**
+- https://www.pna.gov.ph/articles/1276504 (House passes anti-political dynasty bill, PNA)
+- https://mb.com.ph/2026/06/15/marcos-calls-congress-special-session-on-june-17-to-fast-track-social-protection-education-bills (Special session, Manila Bulletin)
+- https://www.gmanetwork.com/news/topstories/nation/991483/marcos-congress-special-session-june-17-2026/story/ (GMA News)
+- https://www.rappler.com/philippines/marcos-special-session-congress-june-17/ (Rappler)

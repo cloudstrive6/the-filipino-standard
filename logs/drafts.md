@@ -1650,3 +1650,17 @@ Hindi ito malas. Resulta ng sistema.
 - https://newsinfo.inquirer.net/2246435/fwd-senate-reso-urges-govt-to-secure-recovery-funds-for-mindanao-quake (Senate resolution SR 447, Inquirer)
 - https://www.gmanetwork.com/news/topstories/nation/990743/live-updates-magnitude-7-8-mindanao-earthquake-effects-june-9-2026/story/ (GMA Live Updates, earthquake)
 - https://mb.com.ph/2026/06/11/gatchalian-government-should-tap-p180-b-under-2026-national-budget-for-mindanao-quake-response (Gatchalian P180B, Manila Bulletin)
+
+## 2026-06-15 19:08 PHT | threads | BLOCKED (fact-check failed x3, clean exit)
+
+**Topic:** Philippines steepest growth downgrade in ASEAN + 4th consecutive year of missing growth target
+**Hook attempted:** "The Philippines got the steepest growth downgrade in ASEAN this year."
+**Tagalog beat attempted:** "Talo pa tayo ng Vietnam at Malaysia." (specific to ASEAN growth comparison -- Philippines 4.1% vs Vietnam 7%+ and Malaysia 4.7%)
+**Char count:** 366
+**Caption:** /tmp/caption_threads_growth_jun15.txt
+**Block reason:** Attempt 1 -- "Vietnam: upgraded" contradicted (AMRO downgraded Vietnam, IMF raised it; inconsistency). Attempt 2 -- "Four straight years" contradicted (Philippines met 2022 target; only 3 consecutive misses to date, 2026 on track for 4th). Attempt 3 -- "steepest growth downgrade in ASEAN" not conclusively confirmable by verifier despite Bilyonaryo reporting it. Three attempts exhausted; clean exit per hard rules.
+**Sources consulted:**
+- https://www.gmanetwork.com/news/money/economy/983883/philippines-economic-growth-target/story/ (GMA News, 4th straight year framing)
+- https://bilyonaryo.com/2026/04/17/imf-slashes-philippines-2026-growth-to-4-1-biggest-cut-in-asean/business/ (Bilyonaryo, IMF steepest ASEAN cut)
+- https://filipinotimes.net/latest-news/2026/04/14/imf-cuts-ph-growth-forecast-to-4-1-for-2026-amid-global-domestic-pressures/ (Filipino Times, IMF 4.1%)
+- https://www.bworldonline.com/editors-picks/2026/04/15/742933/imf-downgrades-philippine-growth-to-4-1/ (BusinessWorld, flood control scandal)

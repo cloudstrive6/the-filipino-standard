@@ -1622,3 +1622,17 @@ Hindi ito malas. Resulta ng sistema.
 - https://www.pna.gov.ph/articles/1277223 (Gatchalian energy reform statement, PNA June 15 2026)
 - https://www.gmanetwork.com/news/topstories/nation/983130/philippines-oil-supply-ceasefire-marcos/story/ (Marcos on oil supply / US-Iran ceasefire, GMA News)
 - https://mb.com.ph/2026/06/15/marcos-calls-congress-special-session-on-june-17-to-fast-track-social-protection-education-bills (Marcos special session June 17, Manila Bulletin)
+
+## 2026-06-15 17:06 PHT | threads | PUBLISHED LIVE
+
+**Topic:** SSS pension hike advanced 3 months early because of inflation - June 2026
+**Hook:** "SSS released the pension hike early this June - three months ahead of schedule - specifically because of inflation."
+**Tagalog beat:** "Hindi regalo ang tamang serbisyo." (specific to SSS/social security -- the framing that good service is not a gift, it is what people already paid for -- cannot stand in for any other post)
+**Char count:** 373
+**Caption:** /tmp/caption_threads_sss_jun15.txt
+**Sources:**
+- https://www.sss.gov.ph/news-and-updates/sss-begins-early-june-rollout-of-2026-pension-hike-citing-need-for-early-relief-for-pensioners/ (SSS official release)
+- https://pia.gov.ph/press-release/sss-begins-early-june-rollout-of-2026-pension-hike-citing-need-for-early-relief-for-pensioners/ (Philippine Information Agency)
+- https://www.gmanetwork.com/news/money/companies/989905/sss-begins-early-rollout-of-pension-hikes/story/ (GMA News)
+- https://tribune.net.ph/amp/story/2026/06/02/sss-starts-early-rollout-of-2026-pension-increase (Tribune)
+**Publish note:** TFS_LIVE=true. Published live. post_id=sp_agMAZ3hOSs9CmiGlo8za. Fact-check PASSED. First draft (OECD informality 2/3 workers angle) blocked by Gemini 503. SSS angle used as the one permitted alternative.

@@ -1735,3 +1735,18 @@ Hindi ito malas. Resulta ng sistema.
 - https://www.philstar.com/headlines/2026/05/07/2526251/philippine-economy-slows-28-q1-weakest-5-years (Philstar, May 7 2026)
 - https://www.gmanetwork.com/news/money/economy/983883/philippines-economic-growth-target/story/ (GMA News, 4th straight year miss)
 - https://business.inquirer.net/584588/adb-cuts-2026-ph-gdp-growth-forecast-to-4-4 (Business Inquirer, ADB downgrade)
+
+## 2026-06-16 06:07 PHT | threads | PUBLISHED LIVE
+
+**Topic:** Manila-water-privatization-1997-FCDA-forex-rate-hike-April-2026
+**Hook:** "When the peso weakens, your water bill goes up. That is not a coincidence. It is written in the contract."
+**Tagalog beat:** "Ang utang nila, bayad natin." (specific to private water concessionaires passing their dollar-denominated debt forex losses to Metro Manila consumers via the FCDA mechanism -- cannot stand in for any other post)
+**Char count:** 376
+**Angle:** Manila's water was privatized in 1997. Maynilad and Manila Water borrowed in dollars. The concession agreement includes FCDA - a mechanism that lets them pass any forex loss to consumers. Rates went up again in April 2026. No public option, no competing service.
+**Caption:** /tmp/caption_threads_water_jun16.txt
+**post_id:** sp_vudS6fWCPh2MKu3gxdtDB. Fact-check PASSED.
+**Sources:**
+- https://www.gmanetwork.com/news/money/companies/979882/higher-water-bills-loom-for-manila-water-maynilad-customers-starting-april-2026/story/ (GMA News, April 2026 rate hike)
+- https://business.inquirer.net/579217/maynilad-manila-water-to-raise-rates-in-the-second-quarter (Inquirer Business, Q2 2026 rate hike)
+- https://www.philstar.com/headlines/2026/03/14/2514143/water-rates-go-next-month (Philstar, March 14 2026)
+- https://www.mayniladwater.com.ph/notice-to-maynilad-customers-foreign-currency-differential-adjustment-fcda-effective-april-1-2026/ (Maynilad official FCDA notice)

@@ -1677,3 +1677,19 @@ Hindi ito malas. Resulta ng sistema.
 **Sources:**
 - https://mb.com.ph/2026/06/15/marcos-calls-congress-special-session-on-june-17-to-fast-track-social-protection-education-bills (Manila Bulletin, Proclamation No. 1318)
 - https://www.gmanetwork.com/news/topstories/nation/991483/marcos-congress-special-session-june-17-2026/story/ (GMA News)
+
+## 2026-06-15 21:05 PHT | threads | PUBLISHED LIVE
+
+**Topic:** China-floating-platform-Panatag-Shoal-marine-research-UNCLOS
+**Hook:** "China placed a floating platform inside Panatag Shoal and called it 'marine scientific research.'"
+**Tagalog beat:** "Ang soberanya ay hindi lamang salita." (specific to the WPS sovereignty dispute -- sovereignty is not just a word -- cannot stand in for any other post)
+**Char count:** 324
+**Angle:** China's unauthorized floating research platform at Panatag Shoal violates UNCLOS and the 2016 arbitral ruling that affirms PH exclusive research rights in its EEZ. DFA filed protests but the platform remains. System critique: words (protests, rulings) vs. outcomes (platform still there).
+**Caption:** /tmp/caption_threads_wps_platform_jun15.txt
+**post_id:** sp_y0Adj3t7tn8PT4FfMX. Fact-check PASSED. First draft (Bato dela Rosa 117 firearms / ICC warrant / 20 surrendered) hit Gemini 503 on fact-check. WPS alternative used as the one permitted alternative attempt.
+**Sources:**
+- https://www.philstar.com/headlines/2026/06/14/2535049/chinas-movable-floating-platform-still-within-panatag (Philstar, platform still there June 14)
+- https://www.rappler.com/philippines/manila-urge-china-remove-floating-platform-scarborough-shoal/ (Rappler, DFA urges removal)
+- https://www.pna.gov.ph/articles/1277007 (PNA, platform moves to Bajo de Masinloc)
+- https://bworldonline.com/the-nation/2026/06/10/755947/phl-urges-china-to-withdraw-floating-scarborough-structure/ (BusinessWorld, PH urges withdrawal)
+- https://www.inquirer.net/477394/west-ph-sea-chinese-platform-in-panatag-linked-to-illegal-marine-research/ (Inquirer, illegal marine research)

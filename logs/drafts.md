@@ -1519,3 +1519,15 @@ Hindi ito malas. Resulta ng sistema.
 - https://company.meralco.com.ph/news-and-advisories/higher-residential-rates-june-2026
 - https://www.dailyguardian.com.ph/blog/plant-outages-push-power-rates-higher-in-june-2026
 - https://www.oecd.org/en/publications/oecd-economic-surveys-philippines-2026_f0e0c581-en.html
+
+## 2026-06-15 09:03 PHT | threads | PUBLISHED (live)
+
+**Topic:** deped-classroom-shortage-june2026
+**Hook:** "165,000 classrooms are missing. Schools opened anyway."
+**Tagalog beat:** "Taon-taon, bubukas ang klase. Taon-taon, kulang pa rin." (specific to the pattern of annual school openings against the same unresolved classroom crisis -- cannot stand in for any other post)
+**Char count:** 256
+**Caption:** /tmp/caption_threads_deped_jun15.txt
+**Sources:**
+- https://tribune.net.ph/2026/06/14/solon-urges-administration-deped-to-address-classroom-issue
+- https://edcom2.gov.ph/edcom-ii-51000-classrooms-likely-to-be-condemned-by-2028/
+**Publish note:** TFS_LIVE=true. Published live. post_id=sp_bqEB6Xy9bf9RsEtxkt. Fact-check PASSED.

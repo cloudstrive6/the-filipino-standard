@@ -1531,3 +1531,16 @@ Hindi ito malas. Resulta ng sistema.
 - https://tribune.net.ph/2026/06/14/solon-urges-administration-deped-to-address-classroom-issue
 - https://edcom2.gov.ph/edcom-ii-51000-classrooms-likely-to-be-condemned-by-2028/
 **Publish note:** TFS_LIVE=true. Published live. post_id=sp_bqEB6Xy9bf9RsEtxkt. Fact-check PASSED.
+
+## 2026-06-15 10:04 PHT | threads | PUBLISHED (live)
+
+**Topic:** ph-oil-deregulation-energy-crisis-2026
+**Hook:** "The Philippines deregulated its oil industry in 1998. The promise: market competition would keep prices fair."
+**Tagalog beat:** "Pinalaya ang merkado. Ang tao, hindi." (specific to oil deregulation betrayal -- the market was freed, not the people; cannot stand in for any other post)
+**Char count:** 403
+**Caption:** /tmp/caption_threads_oil_deregulation.txt
+**Sources:**
+- https://en.wikipedia.org/wiki/2026_Philippine_energy_crisis
+- https://www.bworldonline.com/editors-picks/2026/04/15/742933/imf-downgrades-philippine-growth-to-4-1/
+- https://eastasiaforum.org/2026/06/09/energy-crisis-gives-philippine-oil-deregulation-a-reality-check/
+**Publish note:** TFS_LIVE=true. Published live. post_id=sp_81WpTLS8nXKF7s4vcIyV. Fact-check PASSED.

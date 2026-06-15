@@ -1636,3 +1636,17 @@ Hindi ito malas. Resulta ng sistema.
 - https://www.gmanetwork.com/news/money/companies/989905/sss-begins-early-rollout-of-pension-hikes/story/ (GMA News)
 - https://tribune.net.ph/amp/story/2026/06/02/sss-starts-early-rollout-of-2026-pension-increase (Tribune)
 **Publish note:** TFS_LIVE=true. Published live. post_id=sp_agMAZ3hOSs9CmiGlo8za. Fact-check PASSED. First draft (OECD informality 2/3 workers angle) blocked by Gemini 503. SSS angle used as the one permitted alternative.
+
+## 2026-06-15 18:05 PHT | threads | BLOCKED (fact-check failed + 503)
+
+**Topic:** Mindanao magnitude 7.8 earthquake (June 8) - rehabilitation fund still not secured one week later
+**Hook attempted:** "A magnitude 7.8 earthquake struck Mindanao on June 8."
+**Tagalog beat attempted:** "Pitong araw na. Bakit kailangan pang manawagan?" (specific to the post-quake funding delay -- cannot stand in for any other post)
+**Char count:** 499
+**Caption:** /tmp/caption_threads_quake_jun15.txt
+**Block reason:** First draft: "624,000 affected" contradicted by fact-check (actual: 553,068 as of June 15). Corrected to "Over 550,000 affected" -- second attempt hit Gemini HTTP 503 (fail-closed). Two attempts exhausted; clean exit per hard rules.
+**Sources consulted:**
+- https://www.pna.gov.ph/articles/1277227 (Housing, recovery fund eyed for quake-hit Mindanao, PNA)
+- https://newsinfo.inquirer.net/2246435/fwd-senate-reso-urges-govt-to-secure-recovery-funds-for-mindanao-quake (Senate resolution SR 447, Inquirer)
+- https://www.gmanetwork.com/news/topstories/nation/990743/live-updates-magnitude-7-8-mindanao-earthquake-effects-june-9-2026/story/ (GMA Live Updates, earthquake)
+- https://mb.com.ph/2026/06/11/gatchalian-government-should-tap-p180-b-under-2026-national-budget-for-mindanao-quake-response (Gatchalian P180B, Manila Bulletin)

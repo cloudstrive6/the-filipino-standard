@@ -1567,3 +1567,17 @@ Hindi ito malas. Resulta ng sistema.
 **Sources consulted:**
 - https://www.gmanetwork.com/news/money/economy/991469/ngcp-visayas-grid-yellow-alert-june-15-2026/story/
 - https://www.manilatimes.net/2026/06/15/news/ngcp-issues-yellow-alert-for-visayas-anew/2365185
+
+## 2026-06-15 13:07 PHT | threads | PUBLISHED LIVE
+
+**Topic:** VP impeachment pre-trial briefs deadline + Senate conviction track record
+**Hook:** "Both sides submit pre-trial briefs TODAY for the VP's impeachment. Trial proper starts July 6."
+**Tagalog beat:** "Isang hatol. Sa buong kasaysayan. Sapat na ba?" (specific to the Senate impeachment court's one-conviction-only record in Philippine history -- cannot stand in for any other post)
+**Char count:** 289
+**Caption:** /tmp/caption_threads_impeachment_jun15.txt
+**Sources:**
+- https://www.rappler.com/philippines/gatchalian-senate-sets-impeachment-pre-trial-sara-duterte-june-18-2026/
+- https://newsinfo.inquirer.net/2243575/senate-invites-parties-sets-june-18-impeachment-pre-trial-conference
+- https://mb.com.ph/2026/06/10/impeachment-2026-gatchalian-affirms-16-votes-still-needed-to-convict-vp-sara-duterte
+- https://www.philstar.com/headlines/2026/05/22/2529687/saras-impeachment-trial-start-july-6
+**Publish note:** TFS_LIVE=true. Published live. post_id=sp_nOHRYSdZbWKsXWq6Dlmle. Fact-check PASSED.

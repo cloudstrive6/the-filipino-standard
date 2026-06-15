@@ -1720,3 +1720,18 @@ Hindi ito malas. Resulta ng sistema.
 - https://www.philstar.com/nation/2026/04/10/2519990/barmm-education-leadership-hot-water-over-p22-billion-audit-findings (Philstar, April 10 2026)
 - https://www.rappler.com/philippines/mindanao/state-auditors-flag-irregularities-barmm-education-deals/ (Rappler)
 - https://www.philstar.com/nation/2026/05/19/2529099/coa-report-flags-p22b-fund-misuse-barmm-education-ministry (Philstar, May 19 2026)
+
+## 2026-06-15 23:06 PHT | threads | PUBLISHED LIVE
+
+**Topic:** Philippines-GDP-Q1-2026-2.8pct-4th-straight-year-missed-target
+**Hook:** "The Philippine economy grew 2.8% in Q1 2026. The government's target: 5% to 6%."
+**Tagalog beat:** "Apat na taon. Apat na palya. At lalo pang bumababa." (specific to the 4-year streak of missed growth targets + Q1 2026 contraction in agriculture and industry -- cannot stand in for any other post)
+**Char count:** 360
+**Angle:** Q1 2026 GDP was 2.8% -- weakest since the pandemic year -- while the government's target is 5-6%. Agriculture and industry both contracted. Four straight years of missed targets, with economists linking the slowdown to a corruption scandal that froze public construction spending.
+**Caption:** /tmp/caption_threads_gdp_jun15.txt
+**post_id:** sp_jx34ORY2cRlw7pCvyJiB. Fact-check PASSED.
+**Sources:**
+- https://psa.gov.ph/content/gdp-grows-28-percent-first-quarter-2026 (PSA official Q1 2026 GDP release, May 7 2026)
+- https://www.philstar.com/headlines/2026/05/07/2526251/philippine-economy-slows-28-q1-weakest-5-years (Philstar, May 7 2026)
+- https://www.gmanetwork.com/news/money/economy/983883/philippines-economic-growth-target/story/ (GMA News, 4th straight year miss)
+- https://business.inquirer.net/584588/adb-cuts-2026-ph-gdp-growth-forecast-to-4-4 (Business Inquirer, ADB downgrade)

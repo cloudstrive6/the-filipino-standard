@@ -1911,3 +1911,15 @@ Hindi ito malas. Resulta ng sistema.
   - https://www.rappler.com/philippines/senate-quorum-june-3-2026-legal-valid-ibp-law-deans/ (Rappler)
   - https://www.philstar.com/headlines/2026/06/10/2534238/supreme-court-junks-petition-vs-cayetano-others-over-senate-leadership-dispute (Philstar)
   - https://newsinfo.inquirer.net/2244645/sotto-people-misunderstand-sc-ruling-on-senate-leadership-petition (Inquirer)
+
+---
+
+**2026-06-16 21:04 PHT | threads**
+- Topic: OFW remittance growth slowest in nearly 4 years (April 2026, 2% YoY, $2.718B)
+- Hook: "OFW remittances just logged their slowest growth in nearly 4 years: 2% in April 2026."
+- Tagalog beat: "Ang Pilipinas ay hinihila ng pawis ng OFW, hindi ng patakaran."
+- Post ID: sp_O1jgOBXyYWmWn3yXQrlhN | LIVE
+- Sources:
+  - https://bworldonline.com/top-stories/2026/06/16/756639/ofw-remittances-rise-2-in-april-slowest-pace-in-nearly-4-years/ (BusinessWorld)
+  - https://www.manilatimes.net/2026/06/16/business/remittances-slow-in-april/2365823 (Manila Times)
+  - https://www.philstar.com/business/2026/06/16/2535448/remittance-growth-hits-slowest-pace-4-years (Philstar)

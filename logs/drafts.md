@@ -1765,3 +1765,17 @@ Hindi ito malas. Resulta ng sistema.
 - https://www.philstar.com/headlines/2026/06/11/2534452/hacktivist-group-defaces-senate-website-calls-accountability-govt (Philstar)
 - https://www.rappler.com/technology/nullsec-philippines-claims-responsibility-defacing-senate-website/ (Rappler)
 - https://www.pna.gov.ph/articles/1277063 (PNA)
+
+## 2026-06-16 09:03 PHT | threads | PUBLISHED LIVE
+
+**Topic:** Philippines-trust-news-Reuters-Institute-DNR-2026-28pct-steepest-fall-48-markets
+**Hook:** "Only 28% of Filipinos trust the news. That is the steepest 10-point drop among 48 countries in the 2026 Reuters Institute Digital News Report."
+**Tagalog beat:** "Sino pa ang maniniwala?" (specific to the collapse of public trust in all journalism -- not just bad outlets -- driven by media attacks and disinformation floods -- cannot stand in for any other post)
+**Char count:** 460
+**Angle:** The 2026 Reuters Institute Digital News Report shows the Philippines had the biggest trust collapse in news among 48 countries -- a 10-point fall to 28%, below the global average of 37%. Sustained attacks on the press and political divisions spread distrust to legitimate outlets too.
+**Caption:** /tmp/caption_threads_trust_jun16.txt
+**post_id:** sp_MYGmoDvsRIg6jKUwTlm4B. Fact-check PASSED.
+**Sources:**
+- https://www.philstar.com/headlines/2026/06/16/2535445/filipino-trust-news-posts-biggest-fall-2026-report (Philstar, June 16 2026)
+- https://verafiles.org/articles/filipino-trust-in-news-posts-biggest-fall-digital-news-report-2026 (Vera Files, June 16 2026)
+- https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2026/dnr-executive-summary (Reuters Institute, DNR 2026 executive summary)

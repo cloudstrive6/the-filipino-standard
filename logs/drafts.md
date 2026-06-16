@@ -1857,3 +1857,16 @@ Hindi ito malas. Resulta ng sistema.
   - https://business.inquirer.net/595459/fuel-price-rollback-of-up-to-p5-71-liter-set-on-june-16 (Inquirer)
   - https://www.gmanetwork.com/news/money/economy/991490/oil-prices-oil-price-adjustment-rollback-june-16-2026/story/ (GMA News)
   - https://www.pna.gov.ph/articles/1273793 (PNA)
+
+## 2026-06-16 16:04 PHT | threads | LIVE
+
+**Topic:** Anti-Political Dynasty Bill on Marcos special session agenda - 39 years after 1987 Constitution mandated it
+**Hook:** "The Anti-Political Dynasty Bill is on Congress's special session list."
+**Angle:** Constitutional irony - Art. II Sec. 26 of the 1987 Constitution mandates the law but Congress has blocked it for four decades; the same dynasties in Congress are now being asked to vote on it during Marcos's June 17 special session.
+**Tagalog beat:** "Maniwala ka ba?"
+**Post ID:** sp_fUW76qRDdtIL5262sq06o
+**Sources:**
+  - https://www.philstar.com/headlines/2026/06/16/2535504/marcos-calls-congress-special-session-june-17 (Philstar)
+  - https://www.rappler.com/philippines/marcos-special-session-congress-june-17/ (Rappler)
+  - https://www.gmanetwork.com/news/topstories/nation/991483/marcos-congress-special-session-june-17-2026/story/ (GMA News)
+  - https://bworldonline.com/top-stories/2026/06/16/756647/marcos-calls-special-session-to-fast-track-social-reform-bills/ (BusinessWorld)

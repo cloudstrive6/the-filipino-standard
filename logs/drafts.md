@@ -1870,3 +1870,15 @@ Hindi ito malas. Resulta ng sistema.
   - https://www.rappler.com/philippines/marcos-special-session-congress-june-17/ (Rappler)
   - https://www.gmanetwork.com/news/topstories/nation/991483/marcos-congress-special-session-june-17-2026/story/ (GMA News)
   - https://bworldonline.com/top-stories/2026/06/16/756647/marcos-calls-special-session-to-fast-track-social-reform-bills/ (BusinessWorld)
+
+## 2026-06-16 18:06 PHT | threads | LIVE
+
+**Topic:** NGCP cuts transmission rates for June 2026 - yet Meralco bill still went up due to generation charge spike
+**Hook:** "NGCP just cut transmission rates for June. / Your Meralco bill still went up."
+**Angle:** Structural fragmentation of the Philippine power industry: each component (transmission, generation, distribution) has its own regulator and pricing formula; a drop in one layer is offset by spikes in others, and consumers bear the net burden with no single regulator seeing the full picture.
+**Tagalog beat:** "Marami silang regulator. Iisa ang nagbabayad."
+**Post ID:** sp_npccbmlEnJfOdxQ33qUC
+**Sources:**
+  - https://business.inquirer.net/595457/transmission-rates-drop-in-consumers-june-power-bills (Inquirer)
+  - https://www.manilatimes.net/2026/06/16/business/lower-transmission-rates-to-trim-power-bills-ngcp/2365791 (Manila Times)
+  - https://www.mindanaotimes.com.ph/overall-transmission-rates-down-in-june-2026-consumers-electric-bills/ (Mindanao Times)

@@ -1845,3 +1845,15 @@ Hindi ito malas. Resulta ng sistema.
   - https://bworldonline.com/top-stories/2026/06/15/756639/ofw-remittances-rise-2-in-april-slowest-pace-in-nearly-4-years/ (BusinessWorld)
   - https://www.philstar.com/business/2026/06/16/2535448/remittance-growth-hits-slowest-pace-4-years (Philstar)
   - https://www.manilatimes.net/2026/06/16/business/remittances-slow-in-april/2365823 (Manila Times)
+
+## 2026-06-16 15:07 PHT | threads | LIVE
+
+**Topic:** Philippines diesel price rollback June 16, 2026 - structural crude oil import dependence
+**Hook:** "Diesel prices roll back by up to P5.71/liter today. Good news."
+**Angle:** Rollback is good news on its face, but the systemic issue is total import dependence with no strategic petroleum reserve - geopolitical shocks (Iran, Red Sea, Russia) travel straight to the pump.
+**Tagalog beat:** "Kailan tayo maghahanda?"
+**Post ID:** sp_6RtfHceW88QqVoaQTgrx
+**Sources:**
+  - https://business.inquirer.net/595459/fuel-price-rollback-of-up-to-p5-71-liter-set-on-june-16 (Inquirer)
+  - https://www.gmanetwork.com/news/money/economy/991490/oil-prices-oil-price-adjustment-rollback-june-16-2026/story/ (GMA News)
+  - https://www.pna.gov.ph/articles/1273793 (PNA)

@@ -1882,3 +1882,20 @@ Hindi ito malas. Resulta ng sistema.
   - https://business.inquirer.net/595457/transmission-rates-drop-in-consumers-june-power-bills (Inquirer)
   - https://www.manilatimes.net/2026/06/16/business/lower-transmission-rates-to-trim-power-bills-ngcp/2365791 (Manila Times)
   - https://www.mindanaotimes.com.ph/overall-transmission-rates-down-in-june-2026-consumers-electric-bills/ (Mindanao Times)
+
+---
+
+- **Timestamp:** 2026-06-16 19:10 PHT
+- **Platform:** facebook, instagram
+- **Topic:** Philippine stagflation signal - May 2026 inflation at 6.8% (rice +15.6%, corn +25.5%), Q1 GDP at 2.8% (5-year low), BSP expected to hike rates at June 18 meeting from 4.5% to 4.75%+
+- **Hook:** "Rice prices rose 15.6% in May. The Philippine economy grew 2.8% in Q1."
+- **Angle:** Structural inflation driven by energy monopolies, poor farm-to-market roads, and underfunded public transit forces the BSP to raise interest rates, making ordinary Filipinos pay twice - in higher prices and higher borrowing costs
+- **Tagalog beat:** "Mahal ang bilihin. Mahal pa ang mangutang."
+- **Scheduled:** 2026-06-16 20:00 PHT
+- **Status:** LIVE (post_id: sp_KclgBlM8EhM4bScti4RMy)
+- **Sources:**
+  - https://www.philstar.com/business/2026/06/05/2533026/inflation-slows-68-may-2026-amid-easing-transport-food-costs (Philstar, May 2026 inflation)
+  - https://www.gmanetwork.com/news/money/economy/990310/inflation-cools-down-to-6-8-in-may-2026/story/ (GMA News, May 2026 inflation 6.8%)
+  - https://www.philstar.com/headlines/2026/05/07/2526251/philippine-economy-slows-28-q1-weakest-5-years (Philstar, Q1 2026 GDP 2.8%)
+  - https://bworldonline.com/top-stories/2026/04/24/745239/bsp-raises-rates-signals-more-hikes/ (BusinessWorld, BSP rate 4.5%)
+  - https://www.manilatimes.net/2026/06/15/business/top-business/rate-hike-seen-this-week/2365105 (Manila Times, June 18 hike expected)

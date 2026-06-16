@@ -1779,3 +1779,17 @@ Hindi ito malas. Resulta ng sistema.
 - https://www.philstar.com/headlines/2026/06/16/2535445/filipino-trust-news-posts-biggest-fall-2026-report (Philstar, June 16 2026)
 - https://verafiles.org/articles/filipino-trust-in-news-posts-biggest-fall-digital-news-report-2026 (Vera Files, June 16 2026)
 - https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2026/dnr-executive-summary (Reuters Institute, DNR 2026 executive summary)
+
+## 2026-06-16 10:03 PHT | threads | PUBLISHED LIVE
+
+**Topic:** Philippines-anti-dynasty-bill-House-passed-June3-authored-by-Presidents-son-and-Speaker-watered-down
+**Hook:** "The Constitution has mandated an anti-dynasty law since 1987. For 39 years, Congress did nothing."
+**Tagalog beat:** "Bakit pa nagtataka tayo?" (specific to the disbelief that the bill defining dynasties was written by the President's son and the House Speaker -- cannot reuse for any other topic)
+**Char count:** 289
+**Angle:** The 1987 Constitution mandates an anti-political dynasty law (Art II Sec 26). For 39 years nothing passed. The House finally approved HB 8389 on June 3, 2026 -- but it was authored by House Majority Leader Sandro Marcos (the President's son) and House Speaker Dy. Critics called it "watered-down" and "fake." The foxes built the henhouse.
+**Caption:** /tmp/caption_threads_dynasty_jun16.txt
+**post_id:** sp_Ggz2z1R06Zik9PdmYYfvL. Fact-check PASSED.
+**Sources:**
+- https://mb.com.ph/2026/06/03/house-makes-history-oks-anti-political-dynasty-bill-on-3rd-reading (Manila Bulletin, June 3 2026)
+- https://www.philstar.com/headlines/2026/06/04/2532766/house-oks-anti-political-dynasty-bill-opposition-slams-it-fake-watered-down (Philstar, June 4 2026)
+- https://www.pna.gov.ph/articles/1276504 (PNA)

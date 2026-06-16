@@ -1793,3 +1793,16 @@ Hindi ito malas. Resulta ng sistema.
 - https://mb.com.ph/2026/06/03/house-makes-history-oks-anti-political-dynasty-bill-on-3rd-reading (Manila Bulletin, June 3 2026)
 - https://www.philstar.com/headlines/2026/06/04/2532766/house-oks-anti-political-dynasty-bill-opposition-slams-it-fake-watered-down (Philstar, June 4 2026)
 - https://www.pna.gov.ph/articles/1276504 (PNA)
+
+---
+
+**2026-06-16 11:05 PHT | threads | LIVE | post_id: sp_reFVYyUH9vUKWV0QUWDBx**
+- **Topic:** Philippine Senate quorum crisis — senators unavailable due to plunder detention and ICC warrant
+- **Hook:** "Two Philippine senators: one in detention (plunder charges), one evading an ICC warrant."
+- **Tagalog beat:** "Pitumpu't pitong taon ang lumipas. 1949 pa rin ang sagot sa krisis ng 2026."
+- **Angle:** The Senate invoked Avelino v. Cuenco (1949 SC ruling) to determine quorum with 12 senators when two were excluded — a system with no automatic safeguard for senators facing criminal liability
+- **Sources:**
+  - https://newsinfo.inquirer.net/2240524/drilon-scs-intervention-needed-to-resolve-senate-leadership-row (Inquirer)
+  - https://newsinfo.inquirer.net/2240481/ibp-says-june-3-senate-quorum-lawful-valid (Inquirer, IBP statement)
+  - https://www.sunstar.com.ph/cebu/legal-twist-in-senate-drama-brings-up-cebuano-senate-presidents-1949-case (SunStar, Avelino v. Cuenco explainer)
+  - https://www.rappler.com/philippines/senate-quorum-twelve-senators-legal-basis-avelino-doctrine/ (Rappler)

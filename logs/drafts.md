@@ -1833,3 +1833,15 @@ Hindi ito malas. Resulta ng sistema.
 - **Sources:**
   - https://tempo.mb.com.ph/2026/06/03/house-passes-child-online-safety-and-right-to-information-bills/ (Manila Bulletin/Tempo, House passage June 3)
   - https://mb.com.ph/2026/05/04/senate-oks-peoples-freedom-of-information-act (Manila Bulletin, Senate passage May 4)
+
+---
+
+**2026-06-16 14:03 PHT | threads | LIVE | post_id: sp_x6CjGMWKOHhLenwGdZtzZ**
+- **Topic:** OFW remittances at slowest growth pace in nearly four years (BSP data, April 2026)
+- **Hook:** "OFW remittances grew just 2% in April. Slowest pace in nearly four years."
+- **Tagalog beat:** "Walang plano B."
+- **Angle:** Structural dependency on OFW labor exports; when remittance growth slows, no domestic economy to catch the fall
+- **Sources:**
+  - https://bworldonline.com/top-stories/2026/06/15/756639/ofw-remittances-rise-2-in-april-slowest-pace-in-nearly-4-years/ (BusinessWorld)
+  - https://www.philstar.com/business/2026/06/16/2535448/remittance-growth-hits-slowest-pace-4-years (Philstar)
+  - https://www.manilatimes.net/2026/06/16/business/remittances-slow-in-april/2365823 (Manila Times)

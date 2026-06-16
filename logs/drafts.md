@@ -1961,3 +1961,14 @@ Hindi ito malas. Resulta ng sistema.
   - https://newsinfo.inquirer.net/2236568/senate-hearings-into-flood-control-scandal-to-resume-on-june-4-cayetano (Inquirer)
   - https://www.rappler.com/philippines/flood-control-corruption-senate-blue-ribbon-panel-partial-findings-recommendations/ (Rappler)
   - https://eastasiaforum.org/2025/12/02/accountability-washed-away-in-philippine-flood-control-corruption/ (East Asia Forum)
+
+## 2026-06-17 07:03 PHT | threads | ofw-remittances-slowest-4-years
+
+**Topic:** OFW cash remittances grew only 2% YoY in April 2026 - slowest annual growth in nearly 4 years (since May 2022). $2.718B, down 5.4% month-on-month from March.
+**Hook:** "OFW remittances grew just 2% in April - the slowest in nearly 4 years."
+**Angle:** PH economy's structural dependence on OFW remittances is a design flaw, not resilience. When this engine slows, the whole economy trembles - because no alternative engine was ever built.
+**Tagalog beat:** "Tayo pa rin ang nagbabayo."
+**Post ID:** sp_Uw0HeP35f7LDhbsgK66I | LIVE
+**Sources:**
+  - https://www.philstar.com/business/2026/06/16/2535448/remittance-growth-hits-slowest-pace-4-years (Philstar, June 16 2026)
+  - https://bworldonline.com/top-stories/2026/06/15/756639/ofw-remittances-rise-2-in-april-slowest-pace-in-nearly-4-years/ (BusinessWorld, June 15 2026)

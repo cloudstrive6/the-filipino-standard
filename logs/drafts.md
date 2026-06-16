@@ -1935,3 +1935,15 @@ Hindi ito malas. Resulta ng sistema.
   - https://www.philstar.com/business/2026/06/16/2535447/maharlika-nets-p629-million-q1 (Philstar, June 16 2026)
   - https://www.bworldonline.com/economy/2026/05/21/751181/mic-books-p623-m-net-income-in-first-quarter/ (BusinessWorld, May 21 2026)
   - https://www.philstar.com/business/2026/04/07/2519112/maharlika-has-p68-billion-investible-funds-consing (Philstar, April 2026 - P68B undeployed)
+
+## 2026-06-16 23:06 PHT | threads | LIVE
+
+**Topic:** SWS Q1 2026 hunger survey - 23.2% of Filipino families experienced involuntary hunger in March 2026, highest since March 2025
+**Hook:** "In Q1 2026, 23.2% of Filipino families went hungry. Nearly 1 in 4."
+**Angle:** Hunger rate rose to 23.2% (from 20.1% in November 2025) before May's rice price surge compounded the crisis. Systemic policy failure, not personal failure.
+**Tagalog beat:** "Gutom sa Pilipinas hindi aksidente. Resulta ng sistema."
+**Post ID:** sp_ESCkuIiSCLgcVLzgr2jLf | LIVE
+**Sources:**
+  - https://newsinfo.inquirer.net/2227801/sws-hunger-among-filipino-families-rises-to-23-2-in-march-2026 (Inquirer)
+  - https://mb.com.ph/2026/05/12/hunger-among-filipino-families-rises-in-q1-2026-sws (Manila Bulletin)
+  - https://tribune.net.ph/2026/05/13/sws-hunger-among-filipino-families-rises-to-232 (Tribune)

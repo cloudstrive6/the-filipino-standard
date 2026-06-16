@@ -1923,3 +1923,15 @@ Hindi ito malas. Resulta ng sistema.
   - https://bworldonline.com/top-stories/2026/06/16/756639/ofw-remittances-rise-2-in-april-slowest-pace-in-nearly-4-years/ (BusinessWorld)
   - https://www.manilatimes.net/2026/06/16/business/remittances-slow-in-april/2365823 (Manila Times)
   - https://www.philstar.com/business/2026/06/16/2535448/remittance-growth-hits-slowest-pace-4-years (Philstar)
+
+## 2026-06-16 22:05 PHT | threads | LIVE
+
+**Topic:** Maharlika Investment Fund Q1 2026 results - P629M profit, P129B assets, P68B still in cash - transparency gap vs. Norway sovereign wealth fund
+**Hook:** "The Maharlika Fund posted P629 million in Q1 profit on P129 billion in assets."
+**Angle:** P68 billion - majority of public money from Landbank and DBP - sits in cash nearly 3 years after launch. Norway's GPFG publishes every holding publicly; what can ordinary Filipinos see about where their sovereign wealth fund money goes?
+**Tagalog beat:** "Kailan natin makikita ang buong kuwento?"
+**Post ID:** sp_rBmuWonOlVu7h9deAC6wB | LIVE
+**Sources:**
+  - https://www.philstar.com/business/2026/06/16/2535447/maharlika-nets-p629-million-q1 (Philstar, June 16 2026)
+  - https://www.bworldonline.com/economy/2026/05/21/751181/mic-books-p623-m-net-income-in-first-quarter/ (BusinessWorld, May 21 2026)
+  - https://www.philstar.com/business/2026/04/07/2519112/maharlika-has-p68-billion-investible-funds-consing (Philstar, April 2026 - P68B undeployed)

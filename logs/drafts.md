@@ -1806,3 +1806,19 @@ Hindi ito malas. Resulta ng sistema.
   - https://newsinfo.inquirer.net/2240481/ibp-says-june-3-senate-quorum-lawful-valid (Inquirer, IBP statement)
   - https://www.sunstar.com.ph/cebu/legal-twist-in-senate-drama-brings-up-cebuano-senate-presidents-1949-case (SunStar, Avelino v. Cuenco explainer)
   - https://www.rappler.com/philippines/senate-quorum-twelve-senators-legal-basis-avelino-doctrine/ (Rappler)
+
+---
+
+- **Timestamp:** 2026-06-16 12:06 PHT
+- **Platform:** facebook, instagram
+- **Topic:** Meralco June 2026 rate hike — P0.1488/kWh increase (rate: P14.4833/kWh) driven by WESM spike from May red alerts on Luzon grid
+- **Hook:** "Luzon had red alerts in May. / In June, Filipino households pay the bill. / Not the power companies."
+- **Tagalog beat:** "Tuwing red alert ang Luzon grid, may isang bagay na sigurado: ikaw ang magbabayad."
+- **Scheduled:** 2026-06-16 19:00 PHT
+- **Status:** LIVE (post_id: sp_q1V9b2UHZ8pW9bmZGaqX0)
+- **Sources:**
+  - https://www.rappler.com/business/meralco-power-rates-june-2026/ (Rappler)
+  - https://www.gmanetwork.com/news/money/companies/991066/meralco-electricity-bills-household-rate/story/ (GMA News)
+  - https://www.philstar.com/headlines/2026/06/12/2534555/higher-meralco-bills-expected-month (Philstar)
+  - https://www.manilatimes.net/2026/06/11/business/meralco-raises-june-electricity-rates-on-higher-generation-charge-peso-weakness/2363337 (Manila Times)
+  - https://company.meralco.com.ph/news-and-advisories/higher-residential-rates-june-2026 (Meralco official)

@@ -1947,3 +1947,17 @@ Hindi ito malas. Resulta ng sistema.
   - https://newsinfo.inquirer.net/2227801/sws-hunger-among-filipino-families-rises-to-23-2-in-march-2026 (Inquirer)
   - https://mb.com.ph/2026/05/12/hunger-among-filipino-families-rises-in-q1-2026-sws (Manila Bulletin)
   - https://tribune.net.ph/2026/05/13/sws-hunger-among-filipino-families-rises-to-232 (Tribune)
+
+---
+
+## 2026-06-17 06:04 PHT | threads | flood-control-corruption
+
+**Topic:** Philippines Senate flood control corruption probe (June 2026) — ghost projects, plunder charges against a senator (non-bailable, Camp Crame surrender June 1), blue ribbon committee hearings resumed June 8 under Sen. Tulfo; witnesses (former marines) had to bypass blocking officials to testify.
+**Angle:** Systemic failure: 20-typhoon-a-year country, flood protection money stolen. System works for insiders, not Filipinos.
+**Hook:** "Flood control money stolen. Ghost projects. A senator arrested on plunder charges. Senate hearings trying to break through."
+**Tagalog beat:** "Hanggang kelan natin titiising ito?"
+**Post ID:** sp_szEnEJ2Te1wdHg1a9G45 | LIVE
+**Sources:**
+  - https://newsinfo.inquirer.net/2236568/senate-hearings-into-flood-control-scandal-to-resume-on-june-4-cayetano (Inquirer)
+  - https://www.rappler.com/philippines/flood-control-corruption-senate-blue-ribbon-panel-partial-findings-recommendations/ (Rappler)
+  - https://eastasiaforum.org/2025/12/02/accountability-washed-away-in-philippine-flood-control-corruption/ (East Asia Forum)

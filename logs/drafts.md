@@ -1822,3 +1822,14 @@ Hindi ito malas. Resulta ng sistema.
   - https://www.philstar.com/headlines/2026/06/12/2534555/higher-meralco-bills-expected-month (Philstar)
   - https://www.manilatimes.net/2026/06/11/business/meralco-raises-june-electricity-rates-on-higher-generation-charge-peso-weakness/2363337 (Manila Times)
   - https://company.meralco.com.ph/news-and-advisories/higher-residential-rates-june-2026 (Meralco official)
+
+---
+
+**2026-06-16 13:03 PHT | threads | LIVE | post_id: sp_IiMutBgg8syqk79M45Kcv**
+- **Topic:** Philippines Right to Information (RTI) Act - House passed 284-0, Senate passed 22-0 in May, headed for bicameral conference
+- **Hook:** "The House passed the Right to Information bill 284-0."
+- **Tagalog beat:** "Hindi dapat lihim kung saan napupunta ang pera ng bayan."
+- **Angle:** Both chambers have passed FOI bills; first time all three branches will be covered; 130+ countries have had this for decades
+- **Sources:**
+  - https://tempo.mb.com.ph/2026/06/03/house-passes-child-online-safety-and-right-to-information-bills/ (Manila Bulletin/Tempo, House passage June 3)
+  - https://mb.com.ph/2026/05/04/senate-oks-peoples-freedom-of-information-act (Manila Bulletin, Senate passage May 4)

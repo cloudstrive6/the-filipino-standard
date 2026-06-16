@@ -1899,3 +1899,15 @@ Hindi ito malas. Resulta ng sistema.
   - https://www.philstar.com/headlines/2026/05/07/2526251/philippine-economy-slows-28-q1-weakest-5-years (Philstar, Q1 2026 GDP 2.8%)
   - https://bworldonline.com/top-stories/2026/04/24/745239/bsp-raises-rates-signals-more-hikes/ (BusinessWorld, BSP rate 4.5%)
   - https://www.manilatimes.net/2026/06/15/business/top-business/rate-hike-seen-this-week/2365105 (Manila Times, June 18 hike expected)
+
+## 2026-06-16 20:07 PHT | threads | LIVE
+
+**Topic:** Philippine Senate leadership constitutional crisis - two competing sets of officers, 12-senator quorum vote on June 3 under 1949 Avelino v. Cuenco doctrine, SC dismissed challenge without ruling on legality
+**Hook:** "The Philippine Senate has two competing sets of officers right now."
+**Angle:** Constitutional ambiguity - the 12-senator bloc invoked a 1949 doctrine to justify a quorum and vote out old leadership; SC's dismissal was on standing, not legality, leaving the constitutional question unresolved
+**Tagalog beat:** "Laro nila, patakaran nila."
+**Post ID:** sp_UtK2UdYzLEVkYg0NADtF4
+**Sources:**
+  - https://www.rappler.com/philippines/senate-quorum-june-3-2026-legal-valid-ibp-law-deans/ (Rappler)
+  - https://www.philstar.com/headlines/2026/06/10/2534238/supreme-court-junks-petition-vs-cayetano-others-over-senate-leadership-dispute (Philstar)
+  - https://newsinfo.inquirer.net/2244645/sotto-people-misunderstand-sc-ruling-on-senate-leadership-petition (Inquirer)

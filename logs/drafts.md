@@ -1998,3 +1998,15 @@ Hindi ito malas. Resulta ng sistema.
   - https://www.gmanetwork.com/news/money/companies/991066/meralco-electricity-bills-household-rate/story/ (GMA News, June 2026)
   - https://www.pna.gov.ph/articles/1277062 (PNA, June 2026)
   - https://bworldonline.com/top-stories/2026/06/12/756242/meralco-rates-climb-p0-15-kwh-in-june/ (BusinessWorld, June 12 2026)
+
+## 2026-06-17 11:05 PHT | threads | senate-leadership-standoff-june-2026
+
+**Topic:** Philippine Senate two-week leadership dispute (Gatchalian vs Cayetano) resolved in special session on June 17, 2026. Gatchalian elected Senate president 13-0 among senators present; Cayetano conceded before the session. Pending legislation and Cabinet appointments were stalled during the standoff.
+**Hook:** "The Philippine Senate spent two weeks in a leadership standoff."
+**Angle:** Constitutional mandate (Art. II Sec. 1) vs. institutional reality: internal power politics can paralyze the Senate chamber, stalling legislation and appointments while Filipinos wait. Attack on the system design that allows this, not on named individuals.
+**Tagalog beat:** "Sila-sila muna, tayo mamaya."
+**Post ID:** sp_UN1LQfKNXqTYLUKZ9yVXx | LIVE
+**Sources:**
+  - https://www.rappler.com/philippines/win-gatchalian-elected-senate-president/ (Rappler, June 17 2026)
+  - https://www.gmanetwork.com/news/topstories/nation/991728/sherwin-gatchalian-elected-senate-president/story/ (GMA News, June 17 2026)
+  - https://newsinfo.inquirer.net/2247753/fwd-gatchalian-now-senate-president (Inquirer, June 17 2026)

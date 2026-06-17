@@ -1972,3 +1972,16 @@ Hindi ito malas. Resulta ng sistema.
 **Sources:**
   - https://www.philstar.com/business/2026/06/16/2535448/remittance-growth-hits-slowest-pace-4-years (Philstar, June 16 2026)
   - https://bworldonline.com/top-stories/2026/06/15/756639/ofw-remittances-rise-2-in-april-slowest-pace-in-nearly-4-years/ (BusinessWorld, June 15 2026)
+
+## 2026-06-17 08:04 PHT | threads | anti-dynasty-bill-hollow
+
+**Topic:** Anti-Political Dynasty Bill passed by House (June 3, 2026) - 39 years after the 1987 Constitution mandated it - but immediately condemned by civil society as "pro-dynasty" and "fake." Now headed to Senate in Marcos-called special session today (June 17).
+**Hook:** "The 1987 Constitution requires a law against political dynasties. 39 years later, Congress passed one - and civil society immediately called it 'pro-dynasty.'"
+**Angle:** Systemic capture: dynasties write the rules against themselves, producing a bill that protects them instead. Constitution mandated it; the system gamed it.
+**Tagalog beat:** "Tama na itong palabas."
+**Post ID:** sp_KfzL51SuMcN680YOYI1Qs | LIVE
+**Sources:**
+  - https://www.philstar.com/headlines/2026/06/17/2535784/groups-call-rejection-dynasty-bill (Philstar, June 17 2026)
+  - https://www.rappler.com/philippines/house-passes-weak-anti-dynasty-bill-june-3-2026/ (Rappler, June 3 2026)
+  - https://www.pna.gov.ph/articles/1276504 (PNA - House final reading)
+  - https://www.gmanetwork.com/news/topstories/nation/991483/marcos-calls-congress-for-special-session-on-june-17-2026/story/ (GMA News - special session)

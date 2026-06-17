@@ -2139,3 +2139,17 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
   - https://newsinfo.inquirer.net/2248270/legarda-lauds-senate-for-ratifying-enhanced-free-college-law (Inquirer, June 17 2026)
   - https://lorenlegarda.com.ph/senate-ratifies-enhanced-free-college-law-legarda-hails-wider-support-for-learners/ (Legarda official, June 17 2026)
   - https://www.pna.gov.ph/articles/1274848 (PNA, May 2026)
+
+---
+**2026-06-17 23:10 PHT | threads | ph-dollar-bonds-2-5b-national-debt-june17-2026**
+
+**Topic:** Philippines raised $2.5 billion in a triple-tranche dollar bond offering on June 17, 2026 — second global bond issuance of 2026 (after $2.75B in January). Use of proceeds: "general budget financing." National debt hit P17.71 trillion at end of 2025, projected to hit P19 trillion by end of 2026.
+**Hook:** "The Philippines just borrowed another $2.5 billion from global markets. June 17, 2026."
+**Angle:** Systemic critique of debt-financed budget operations: borrowing billions twice in a year for general expenses, not specific investments, while ordinary Filipinos will bear the future tax burden.
+**Tagalog beat:** "Sino ang nagbabayad nito? Tayo na naman."
+**Post ID:** sp_5oifK4QauRb1d0CZl1FsZ | LIVE | fact-check: PASS
+**Sources:**
+  - https://bworldonline.com/top-stories/2026/06/17/757264/philippines-raises-2-5-billion-in-dollar-bonds-adding-to-southeast-asia-issuance/ (BusinessWorld, June 17 2026)
+  - https://www.philstar.com/business/2026/06/17/2535667/philippines-launches-fresh-global-bond-offer (PhilStar, June 17 2026)
+  - https://business.inquirer.net/477231/govt-raises-2-5b-from-us-dollar-bonds (Inquirer Business, June 17 2026)
+  - https://newsinfo.inquirer.net/2170421/ph-debt-stock-projected-to-hit-p19t-by-end-of-2026 (Inquirer - P19T projection)

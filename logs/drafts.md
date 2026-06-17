@@ -2153,3 +2153,17 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
   - https://www.philstar.com/business/2026/06/17/2535667/philippines-launches-fresh-global-bond-offer (PhilStar, June 17 2026)
   - https://business.inquirer.net/477231/govt-raises-2-5b-from-us-dollar-bonds (Inquirer Business, June 17 2026)
   - https://newsinfo.inquirer.net/2170421/ph-debt-stock-projected-to-hit-p19t-by-end-of-2026 (Inquirer - P19T projection)
+
+---
+**2026-06-18 06:04 PHT | threads | mindanao-earthquake-p3000-per-family-june18-2026**
+
+**Topic:** Philippine government released P278M for ~90,000 families affected by the June 8 magnitude 7.8 Mindanao earthquake -- roughly P3,000 per family. 1.4 million people affected total, 68 killed. Senate passed a non-binding resolution on June 17 urging "adequate funding" -- not an appropriation.
+**Hook:** "1.4 million Filipinos were affected by the Mindanao earthquake."
+**Angle:** Contrast between scale of disaster and inadequacy of government response: P3,000 per family for rebuilding. Senate's action was a resolution (non-binding), not money.
+**Tagalog beat:** "Sapat ba iyon?"
+**Post ID:** sp_cai4A6IoGbTeMNfevY1gv | LIVE | fact-check: PASS
+**Sources:**
+  - https://pia.gov.ph/news/p278m-socio-civic-projects-fund-released-to-earthquake-hit-provinces-from-office-of-the-president/ (PIA, June 2026)
+  - https://www.gmanetwork.com/news/topstories/regions/991525/marcos-turns-over-p20-m-aid-to-glan-sarangani-after-mindanao-earthquake/story/ (GMA News, June 2026)
+  - https://newsinfo.inquirer.net/2248044/senate-oks-reso-urging-govt-to-ensure-fund-for-mindanao-recovery (Inquirer, June 17 2026)
+  - https://www.gmanetwork.com/news/topstories/nation/991762/senate-adopts-reso-seeking-enough-funding-for-mindanao-earthquake-response/story/ (GMA News, June 17 2026)

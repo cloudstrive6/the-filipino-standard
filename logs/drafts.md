@@ -1985,3 +1985,16 @@ Hindi ito malas. Resulta ng sistema.
   - https://www.rappler.com/philippines/house-passes-weak-anti-dynasty-bill-june-3-2026/ (Rappler, June 3 2026)
   - https://www.pna.gov.ph/articles/1276504 (PNA - House final reading)
   - https://www.gmanetwork.com/news/topstories/nation/991483/marcos-calls-congress-for-special-session-on-june-17-2026/story/ (GMA News - special session)
+
+## 2026-06-17 10:05 PHT | threads | meralco-june-rate-hike-red-alert
+
+**Topic:** Meralco June 2026 rate increase (P0.1488/kWh, from P14.3345 to P14.4833/kWh) caused by Luzon grid Red Alert three consecutive days in May 2026 (May 13-15). Generation charge climbed to P9.0704/kWh; WESM hit P7.0281/kWh.
+**Hook:** "Meralco raised rates for June. Reason: Luzon grid hit Red Alert three days straight in May."
+**Angle:** Pass-through cost model: when the grid fails (tight supply, Red Alerts from demand exceeding capacity), consumers absorb the cost - not the planners who under-built infrastructure, not the monopoly. System failure = consumer bill.
+**Tagalog beat:** "Ikaw na naman ang babayad."
+**Post ID:** sp_cGafKrpeQohl7yzNaaSOA | LIVE
+**Sources:**
+  - https://www.rappler.com/business/meralco-power-rates-june-2026/ (Rappler, June 2026)
+  - https://www.gmanetwork.com/news/money/companies/991066/meralco-electricity-bills-household-rate/story/ (GMA News, June 2026)
+  - https://www.pna.gov.ph/articles/1277062 (PNA, June 2026)
+  - https://bworldonline.com/top-stories/2026/06/12/756242/meralco-rates-climb-p0-15-kwh-in-june/ (BusinessWorld, June 12 2026)

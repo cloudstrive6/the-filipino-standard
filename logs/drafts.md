@@ -2126,3 +2126,16 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
   - https://newsinfo.inquirer.net/2247666/court-orders-jinggoy-estrada-suspended-for-90-days (Inquirer, June 17 2026)
   - https://www.philstar.com/headlines/2026/06/16/2535638/sandigan-imposes-90-day-suspension-jinggoy-estrada (Philstar, June 16 2026)
   - https://mb.com.ph/2026/06/16/sandiganbayan-suspends-jinggoy-estrada-over-flood-control-related-graft-case (Manila Bulletin, June 16 2026)
+
+---
+**2026-06-17 21:12 PHT | threads | free-college-law-tess-4ps-gap-june17-2026**
+
+**Topic:** Senate ratified enhanced free college law (SB 1894 / RA 10931 enhancement) on June 17, 2026. EDCOM 2 data showed only 1.23% of 4Ps senior high school completers (4,746 out of 384,388) received Tertiary Education Subsidy in AY 2024-2025 - despite the free college law existing since 2017.
+**Hook:** "The Philippines' free college law has existed since 2017. Last school year, only 1.23% of its poorest high school graduates - 4Ps students - actually received tuition support under it."
+**Angle:** Implementation critique: laws without accountability mechanisms don't deliver. The free college law needed a full enhancement 9 years in because it was systematically failing to reach its target beneficiaries.
+**Tagalog beat:** "Aabot ba ito sa pinakamahirap?"
+**Post ID:** sp_31L3AQZ775TjkeF1GfAU | LIVE | fact-check: PASS
+**Sources:**
+  - https://newsinfo.inquirer.net/2248270/legarda-lauds-senate-for-ratifying-enhanced-free-college-law (Inquirer, June 17 2026)
+  - https://lorenlegarda.com.ph/senate-ratifies-enhanced-free-college-law-legarda-hails-wider-support-for-learners/ (Legarda official, June 17 2026)
+  - https://www.pna.gov.ph/articles/1274848 (PNA, May 2026)

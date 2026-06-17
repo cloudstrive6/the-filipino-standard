@@ -2088,3 +2088,28 @@ Hindi ito malas. Resulta ng sistema.
   - https://www.rappler.com/business/inflation-rate-philippines-may-2026/ (Rappler, June 2026)
   - https://tribune.net.ph/2026/06/05/more-bsp-hikes-loom-economists-say (Tribune, June 5 2026)
   - https://business.inquirer.net/595369/bsp-poised-to-hike-interest-rates-poll (Inquirer Business, June 2026)
+
+---
+**2026-06-17 19:06 PHT | threads | senate-gridlock-mindanao-earthquake**
+
+Hook: "Weeks of Senate gridlock over who holds the gavel. A 7.8 earthquake strikes Mindanao while senators count votes for themselves."
+
+Tagalog beat: "Nagtatalo sila sa upuan habang naghihintay ang mahihirap."
+
+Full caption (345 chars):
+> Weeks of Senate gridlock over who holds the gavel. A 7.8 earthquake strikes Mindanao while senators count votes for themselves.
+>
+> Today, the President had to call a special session just to move laws that protect the poor.
+>
+> The Senate's job was never about senators.
+>
+> Nagtatalo sila sa upuan habang naghihintay ang mahihirap.
+>
+> #TheFilipinoStandard
+
+Sources:
+- https://www.gmanetwork.com/news/topstories/nation/991483/marcos-congress-special-session-june-17-2026/story/
+- https://www.rappler.com/philippines/win-gatchalian-elected-senate-president/
+- https://www.gmanetwork.com/news/topstories/regions/990585/live-updates-magnitude-7-8-earthquake-tsunami-warning-in-mindanao-june-8-2026/story/
+
+Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS

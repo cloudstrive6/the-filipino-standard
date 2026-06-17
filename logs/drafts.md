@@ -2062,3 +2062,17 @@ Hindi ito malas. Resulta ng sistema.
   - https://bworldonline.com/top-stories/2026/06/12/756242/meralco-rates-climb-p0-15-kwh-in-june/ (BusinessWorld, June 12 2026)
   - https://www.pna.gov.ph/articles/1277062 (PNA, June 2026)
   - https://company.meralco.com.ph/news-and-advisories/higher-residential-rates-june-2026 (Meralco official, June 2026)
+
+## 2026-06-17 17:06 PHT | threads | anti-dynasty-bill-fake-hollow-june17-2026
+
+**Topic:** House passed an "anti-dynasty" bill on June 3, 2026 - the first time in 39 years Congress acted on the Article II Section 26 mandate - but critics from opposition lawmakers to business groups are calling it 'fake' and 'hollow,' with loopholes that let dynasties hold positions across different government levels simultaneously. Senate is being asked to rush it through today's special session.
+**Hook:** "The 1987 Constitution mandated an anti-dynasty law. Congress had 39 years."
+**Angle:** Systemic irony: the constitutional mandate for anti-dynasty legislation (39 years old) was finally answered with a bill authored by dynastic families, written with loopholes to protect the very system it was supposed to dismantle.
+**Tagalog beat:** "Tatlumpu't siyam na taon ng paghihintay, tapos ganito."
+**Post ID:** sp_0XcvGN4u9RFRlmIeK28T | LIVE
+**Sources:**
+  - https://www.rappler.com/philippines/house-passes-weak-anti-dynasty-bill-june-3-2026/ (Rappler, June 3 2026)
+  - https://newsinfo.inquirer.net/2239590/house-approves-anti-dynasty-bill-on-final-reading (Inquirer, June 3 2026)
+  - https://www.philstar.com/headlines/2026/06/04/2532766/house-oks-anti-political-dynasty-bill-opposition-slams-it-fake-watered-down (Philstar, June 4 2026)
+  - https://tribune.net.ph/2026/06/16/business-groups-reject-anti-dynasty-bill (Tribune, June 16 2026)
+  - https://newsinfo.inquirer.net/2247654/groups-to-marcos-senate-junk-fake-antidynasty-bill (Inquirer, June 2026)

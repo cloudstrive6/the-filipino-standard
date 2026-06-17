@@ -2022,3 +2022,16 @@ Hindi ito malas. Resulta ng sistema.
   - https://www.ibon.org/national-family-living-wage-as-of-april-2026/ (IBON Foundation, April 2026)
   - https://newsinfo.inquirer.net/2221414/decision-on-p1200-basic-pay-petitions-in-ncr-seen-in-july (Inquirer, June 2026)
   - https://noypi.com.ph/minimum-wage-manila/ (noypi.com.ph, 2026)
+
+## 2026-06-17 14:03 PHT | threads | flood-control-graft-sandiganbayan-june-2026
+
+**Topic:** Sandiganbayan orders 90-day preventive suspension of senator over P573 million in alleged kickbacks from flood control projects under RA 3019.
+**Hook:** "P573 million in alleged kickbacks. From flood control projects."
+**Angle:** System critique: flood control funds as a chronic graft target; slow judicial timelines fail communities that flood every year.
+**Tagalog beat:** "Ilang baha pa bago may pananagutan?"
+**Post ID:** sp_0Yw7ZgjGKgSPXII07cFq | LIVE
+**Sources:**
+  - https://newsinfo.inquirer.net/2247666/court-orders-jinggoy-estrada-suspended-for-90-days (Inquirer, June 16 2026)
+  - https://www.rappler.com/philippines/sandiganbayan-suspension-order-jinggoy-estrada-graft-case-flood-control/ (Rappler, June 16 2026)
+  - https://www.philstar.com/headlines/2026/06/16/2535638/sandigan-imposes-90-day-suspension-jinggoy-estrada (Philippine Star, June 16 2026)
+  - https://mb.com.ph/2026/06/16/sandiganbayan-suspends-jinggoy-estrada-over-flood-control-related-graft-case (Manila Bulletin, June 16 2026)

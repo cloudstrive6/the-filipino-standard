@@ -2167,3 +2167,17 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
   - https://www.gmanetwork.com/news/topstories/regions/991525/marcos-turns-over-p20-m-aid-to-glan-sarangani-after-mindanao-earthquake/story/ (GMA News, June 2026)
   - https://newsinfo.inquirer.net/2248044/senate-oks-reso-urging-govt-to-ensure-fund-for-mindanao-recovery (Inquirer, June 17 2026)
   - https://www.gmanetwork.com/news/topstories/nation/991762/senate-adopts-reso-seeking-enough-funding-for-mindanao-earthquake-response/story/ (GMA News, June 17 2026)
+
+---
+**2026-06-18 07:05 PHT | threads | vp-impeachment-constitutional-structure-july6-2026**
+
+**Topic:** The Philippines VP impeachment trial starts July 6. The constitutional mechanism requires a House vote + two-thirds Senate conviction. No independent prosecutor, no neutral tribunal - a political body judging a political official.
+**Hook:** "The Philippines will put its vice president on trial starting July 6 - through impeachment, the only constitutional path to removal."
+**Angle:** Systemic critique of the Philippine impeachment mechanism: it is purely political (House + Senate), with no independent prosecutorial or judicial body, making accountability structurally dependent on political will.
+**Tagalog beat:** "Hindi ito accountability. Politika lang naka-costume."
+**Post ID:** sp_p90ONrIWx5QcxaUa4sIBw | LIVE | fact-check: PASS
+**Sources:**
+  - https://www.rappler.com/philippines/gatchalian-senate-sets-impeachment-pre-trial-sara-duterte-june-18-2026/ (Rappler - pre-trial June 18)
+  - https://www.rappler.com/philippines/vice-president-sara-duterte-trial-schedule-2026/ (Rappler - trial July 6)
+  - https://newsinfo.inquirer.net/2247302/senate-urged-to-open-duterte-impeachment-pre-trial-meet-to-public (Inquirer - pre-trial)
+  - https://en.wikipedia.org/wiki/Second_impeachment_of_Sara_Duterte (Wikipedia - constitutional structure)

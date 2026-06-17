@@ -2113,3 +2113,16 @@ Sources:
 - https://www.gmanetwork.com/news/topstories/regions/990585/live-updates-magnitude-7-8-earthquake-tsunami-warning-in-mindanao-june-8-2026/story/
 
 Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
+
+---
+**2026-06-17 20:03 PHT | threads | flood-control-kickbacks-senator-suspension-june17-2026**
+
+**Topic:** Sandiganbayan ordered 90-day preventive suspension of Senator Jinggoy Estrada for graft and plunder - P573 million in kickbacks from flood control project budget allocations (charges filed May 28, 2026; suspension effective June 16, 2026).
+**Hook:** "P573 million in flood control funds."
+**Angle:** Systemic critique: money allocated to protect communities from floods was diverted as kickbacks; the consequence is a 90-day suspension - not accountability, a pause.
+**Tagalog beat:** "Para sa baha raw, para sa sarili pala."
+**Post ID:** sp_7IqhkThQqRGMt9yBK1HR | LIVE | fact-check: PASS
+**Sources:**
+  - https://newsinfo.inquirer.net/2247666/court-orders-jinggoy-estrada-suspended-for-90-days (Inquirer, June 17 2026)
+  - https://www.philstar.com/headlines/2026/06/16/2535638/sandigan-imposes-90-day-suspension-jinggoy-estrada (Philstar, June 16 2026)
+  - https://mb.com.ph/2026/06/16/sandiganbayan-suspends-jinggoy-estrada-over-flood-control-related-graft-case (Manila Bulletin, June 16 2026)

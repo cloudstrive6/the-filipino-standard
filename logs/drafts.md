@@ -2049,3 +2049,16 @@ Hindi ito malas. Resulta ng sistema.
   - https://www.inquirer.net/477904/live-updates-congress-convenes-in-special-session-june-17-2026/ (Inquirer, June 17 2026)
   - https://www.gmanetwork.com/news/topstories/nation/991720/live-updates-congress-convenes-special-session-june-17-2026/story/ (GMA News, June 17 2026)
   - https://www.rappler.com/philippines/livestream-senate-special-session-june-17-2026/ (Rappler, June 17 2026)
+
+## 2026-06-17 16:05 PHT | threads | meralco-june-rate-hike-red-alert-2026
+
+**Topic:** Meralco raised June 2026 billing rates by P0.1488/kWh (about P30 more per 200 kWh household) following three days of Luzon red alerts in May that sent WESM spot prices to the regulatory ceiling.
+**Hook:** "Meralco raised June rates by P0.15/kWh. That's P30 more per household."
+**Angle:** Systemic critique: in a captive-market distribution monopoly, every grid stress event passes cost directly to consumers with no recourse; the distributor is insulated, the household is not.
+**Tagalog beat:** "Kada red alert sa grid, red alert din ang ating pitaka."
+**Status:** BLOCKED - fact-check service (Gemini) returned HTTP 503 on both attempts; post not published.
+**Sources:**
+  - https://www.gmanetwork.com/news/money/companies/991066/meralco-electricity-bills-household-rate/story/ (GMA News, June 2026)
+  - https://bworldonline.com/top-stories/2026/06/12/756242/meralco-rates-climb-p0-15-kwh-in-june/ (BusinessWorld, June 12 2026)
+  - https://www.pna.gov.ph/articles/1277062 (PNA, June 2026)
+  - https://company.meralco.com.ph/news-and-advisories/higher-residential-rates-june-2026 (Meralco official, June 2026)

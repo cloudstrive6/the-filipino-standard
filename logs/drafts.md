@@ -2010,3 +2010,15 @@ Hindi ito malas. Resulta ng sistema.
   - https://www.rappler.com/philippines/win-gatchalian-elected-senate-president/ (Rappler, June 17 2026)
   - https://www.gmanetwork.com/news/topstories/nation/991728/sherwin-gatchalian-elected-senate-president/story/ (GMA News, June 17 2026)
   - https://newsinfo.inquirer.net/2247753/fwd-gatchalian-now-senate-president (Inquirer, June 17 2026)
+
+## 2026-06-17 12:04 PHT | threads | minimum-wage-vs-living-wage-june-2026
+
+**Topic:** NCR minimum wage (P695/day) vs. IBON Foundation family living wage (P1,266/day as of April 2026). P1,200 daily wage petition still being heard; decision expected July 2026.
+**Hook:** "Metro Manila minimum wage: P695 a day. / Family living wage (IBON Foundation, April 2026): P1,266 a day."
+**Angle:** The P571 gap between the legal minimum and what it actually costs to live in Metro Manila is the system working as designed. Workers absorb the shortfall. Even the P1,200 petition, if approved, would barely close the gap.
+**Tagalog beat:** "Kulang na kulang, taon-taon."
+**Post ID:** sp_kknOwJQ1VEeG4g5MGjYz | LIVE
+**Sources:**
+  - https://www.ibon.org/national-family-living-wage-as-of-april-2026/ (IBON Foundation, April 2026)
+  - https://newsinfo.inquirer.net/2221414/decision-on-p1200-basic-pay-petitions-in-ncr-seen-in-july (Inquirer, June 2026)
+  - https://noypi.com.ph/minimum-wage-manila/ (noypi.com.ph, 2026)

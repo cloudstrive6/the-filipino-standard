@@ -2076,3 +2076,15 @@ Hindi ito malas. Resulta ng sistema.
   - https://www.philstar.com/headlines/2026/06/04/2532766/house-oks-anti-political-dynasty-bill-opposition-slams-it-fake-watered-down (Philstar, June 4 2026)
   - https://tribune.net.ph/2026/06/16/business-groups-reject-anti-dynasty-bill (Tribune, June 16 2026)
   - https://newsinfo.inquirer.net/2247654/groups-to-marcos-senate-junk-fake-antidynasty-bill (Inquirer, June 2026)
+
+## 2026-06-17 18:04 PHT | threads | bsp-rate-hike-inflation-june18-2026
+
+**Topic:** Philippines inflation at 6.8% in May 2026 (above BSP's 2-4% target band); Monetary Board expected to hike rates on June 18, 2026. Rate hikes raise borrowing costs for ordinary Filipinos while structural causes of inflation (oil import dependency, utility monopolies, supply chain concentration) remain unaddressed.
+**Hook:** "Philippine inflation: 6.8% in May. The BSP's target band: 2% to 4%."
+**Angle:** The rate-hike mechanism punishes borrowers (mortgages, SME loans, credit) without touching the structural drivers of inflation. Treating the symptom, not the system.
+**Tagalog beat:** "Sila ang dahilan, tayo ang kabayaran."
+**Post ID:** sp_K0YiQMK3X4uYVBVLXDQAr | LIVE
+**Sources:**
+  - https://www.rappler.com/business/inflation-rate-philippines-may-2026/ (Rappler, June 2026)
+  - https://tribune.net.ph/2026/06/05/more-bsp-hikes-loom-economists-say (Tribune, June 5 2026)
+  - https://business.inquirer.net/595369/bsp-poised-to-hike-interest-rates-poll (Inquirer Business, June 2026)

@@ -2035,3 +2035,17 @@ Hindi ito malas. Resulta ng sistema.
   - https://www.rappler.com/philippines/sandiganbayan-suspension-order-jinggoy-estrada-graft-case-flood-control/ (Rappler, June 16 2026)
   - https://www.philstar.com/headlines/2026/06/16/2535638/sandigan-imposes-90-day-suspension-jinggoy-estrada (Philippine Star, June 16 2026)
   - https://mb.com.ph/2026/06/16/sandiganbayan-suspends-jinggoy-estrada-over-flood-control-related-graft-case (Manila Bulletin, June 16 2026)
+
+## 2026-06-17 15:07 PHT | threads | special-session-earthquake-senate-leadership-june17-2026
+
+**Topic:** Congress held a special session the same day earthquake victims from the June 8 Mindanao 7.8 quake are still waiting; the Senate's first major act was electing a new president after a leadership dispute.
+**Hook:** "A 7.8 earthquake struck Mindanao nine days ago. 68 dead. Thousands displaced. Schools damaged on the first day of classes."
+**Angle:** Systemic critique: political infighting (Senate leadership dispute) dominated the legislative agenda while earthquake victims waited; senators resolving a power struggle while 68 are dead and thousands remain in evacuation centers.
+**Tagalog beat:** "Sino ba talaga ang pinaglilingkuran nila?"
+**Post ID:** sp_3oOCGUUEap3Zn2dO5JuRu | LIVE
+**Sources:**
+  - https://www.rappler.com/philippines/mindanao/sarangani-earthquake-updates-news-information-areas-affected-damage-aftershocks-june-2026/ (Rappler, June 2026)
+  - https://news.un.org/en/story/2026/06/1167672 (UN News, June 2026)
+  - https://www.inquirer.net/477904/live-updates-congress-convenes-in-special-session-june-17-2026/ (Inquirer, June 17 2026)
+  - https://www.gmanetwork.com/news/topstories/nation/991720/live-updates-congress-convenes-special-session-june-17-2026/story/ (GMA News, June 17 2026)
+  - https://www.rappler.com/philippines/livestream-senate-special-session-june-17-2026/ (Rappler, June 17 2026)

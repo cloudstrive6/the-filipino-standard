@@ -2306,3 +2306,19 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
   - https://www.philstar.com/headlines/2026/06/04/2532766/house-oks-anti-political-dynasty-bill-opposition-slams-it-fake-watered-down (Philstar, June 4 2026)
   - https://www.pna.gov.ph/articles/1276504 (PNA - House passes bill on final reading)
   - https://www.philstar.com/headlines/2026/06/18/2535974/house-dynasty-bill-not-watered-down (Philstar, June 18 2026 - fresh coverage)
+
+---
+**2026-06-18 17:04 PHT | threads | meralco-june-rate-hike-2026**
+
+**Topic:** Meralco raised electricity rates by P0.1488/kWh for June 2026, bringing the overall household rate to P14.4833/kWh (up from P14.3345 in May). Red alerts hit the Luzon grid for three consecutive days in May 2026. Contrast with Auckland's Entrust community trust, which paid NZD $364 back to every household - a structural critique of private monopoly vs community ownership.
+**Hook:** "Meralco raised electricity rates again this June. P14.4833 per kWh, up from P14.3345 in May."
+**Angle:** Private monopoly extracts; community-owned structures return value. 123 years of Meralco history with no community ownership model.
+**Tagalog beat:** "Tayo ang nagbabayad. Hindi tayo nagmamay-ari." (placement: closing_verdict)
+**Chars:** 412
+**Post ID:** sp_dzUJcYJfsv16vIJ5MIaBo | LIVE | fact-check: PASS
+**Sources:**
+  - https://www.rappler.com/business/meralco-power-rates-june-2026/ (Rappler, June 2026)
+  - https://www.gmanetwork.com/news/money/companies/991066/meralco-electricity-bills-household-rate/story/ (GMA News)
+  - https://bworldonline.com/top-stories/2026/06/12/756242/meralco-rates-climb-p0-15-kwh-in-june/ (BusinessWorld)
+  - https://www.pna.gov.ph/articles/1277062 (PNA)
+  - https://company.meralco.com.ph/news-and-advisories/higher-residential-rates-june-2026 (Meralco official)

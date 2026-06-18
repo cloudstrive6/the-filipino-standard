@@ -2337,3 +2337,18 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
   - https://pia.gov.ph/news/sss-advances-release-of-2026-pension-hike/ (PIA)
   - https://cebudailynews.inquirer.net/729858/sss-pension-increase-this-june-2026-how-much-more-will-you-receive (Inquirer / Cebu Daily News)
   - https://www.dof.gov.ph/sss-begins-early-june-rollout-of-2026-pension-hike-citing-need-for-early-relief-for-pensioners/ (DOF)
+
+---
+**2026-06-18 19:04 PHT | threads | arrow-act-subway-row-governance-reform-jun18-2026**
+
+**Topic:** The ARROW Act (RA 12289, signed September 2025) enabled the Metro Manila Subway's right-of-way acquisition to hit 91% by June 2026, after years of delays under the old framework. The TFS angle: the system was so broken it needed an entirely new Act of Congress just to make basic land compensation processes work.
+**Hook:** "It took a new law just to make the government properly compensate landowners for infrastructure projects."
+**Angle:** Systemic critique of how broken the old right-of-way framework was - that a functioning process required legislation to exist, rather than being built into standard government operations.
+**Tagalog beat:** "Dapat ordinaryong proseso. Batas pa pala ang kailangan." (placement: closing_verdict)
+**Chars:** 424
+**Post ID:** sp_4pFl5hXsMIn4GehnUXbvG | LIVE | fact-check: PASS
+**Sources:**
+  - https://www.pna.gov.ph/articles/1269024 (PNA - ROW on track for 100% by June)
+  - https://www.pna.gov.ph/articles/1266562 (PNA - DOTr acquires 90% ROW for subway)
+  - https://www.sunstar.com.ph/manila/metro-subways-right-of-way-on-track-for-100-completion-by-june (SunStar)
+  - https://gulfnews.com/world/asia/philippines/manila-subway-right-of-way-snags-fall-like-dominoes-under-new-law-called-arrow-act-1.500443891 (Gulf News)

@@ -2352,3 +2352,18 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
   - https://www.pna.gov.ph/articles/1266562 (PNA - DOTr acquires 90% ROW for subway)
   - https://www.sunstar.com.ph/manila/metro-subways-right-of-way-on-track-for-100-completion-by-june (SunStar)
   - https://gulfnews.com/world/asia/philippines/manila-subway-right-of-way-snags-fall-like-dominoes-under-new-law-called-arrow-act-1.500443891 (Gulf News)
+
+---
+**2026-06-18 20:07 PHT | threads | mindanao-earthquake-insurance-gap-jun18-2026**
+
+**Topic:** June 8, 2026 magnitude 7.8 earthquake in Mindanao (offshore Sarangani) - strongest in decades. At least 68 dead, over 1,300 injured. AM Best and S&P Global confirmed the Philippines' catastrophe protection gap: most residential and SME properties uninsured, insurance penetration at 2.03% in Q1 2026. Systemic critique: most disaster-exposed country in the world with no government-built protection floor for ordinary families.
+**Hook:** "June 8. Mindanao. Magnitude 7.8."
+**Angle:** The Philippines is #1 on the World Risk Index yet has 2% insurance penetration. When catastrophe hits, ordinary families bear the full economic cost alone - the system built no floor.
+**Tagalog beat:** "Walang insurance ang karamihan. Ikaw na ang bahala." (placement: closing_verdict)
+**Chars:** 345
+**Post ID:** sp_Z6xd6KzD1Kdn9QcPGQm3O | LIVE | fact-check: PASS
+**Sources:**
+  - https://mb.com.ph/2026/06/10/most-mindanao-earthquake-damage-uninsuredam-best (Manila Bulletin / AM Best)
+  - https://www.spglobal.com/market-intelligence/en/news-insights/articles/2026/6/protection-gap-means-minimal-insured-losses-after-philippines-earthquake-102530662 (S&P Global)
+  - https://www.gmanetwork.com/news/topstories/nation/990743/live-updates-magnitude-7-8-mindanao-earthquake-effects-june-9-2026/story/ (GMA News)
+  - https://www.reinsurancene.ws/mindanao-earthquake-insured-losses-to-be-limited-due-to-philippines-protection-gap-am-best/ (ReinsuranceNe.ws / AM Best)

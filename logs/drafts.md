@@ -2242,3 +2242,22 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
   - https://www.manilatimes.net/2026/06/11/business/meralco-raises-june-electricity-rates-on-higher-generation-charge-peso-weakness/2363337 (Manila Times)
   - https://www.philstar.com/headlines/2026/06/12/2534555/higher-meralco-bills-expected-month (PhilStar)
   - https://www.pna.gov.ph/articles/1277062 (PNA)
+
+---
+**2026-06-18 12:07 PHT | facebook,instagram | confidential-funds-no-receipts-ph**
+
+**Topic:** Philippine government's confidential and intelligence fund (CIF) system allocates P11.8 billion in 2026 with no receipt requirement - news hook is today's Senate pre-trial conference for the VP impeachment (trial July 6), where COA findings show P448 million ordered returned after P375 million flagged for unauthorized transfers, unsubstantiated rewards, and missing documents. P125 million from the OVP was spent in under 18 hours per House committee testimony.
+**Hook:** "P125 million in public funds. Spent in under 18 hours. Not a single receipt required."
+**Angle:** Systemic critique of the confidential funds regime: P11.8 billion/year in taxpayer funds with no receipts, only "certifications." The impeachment pre-trial is the news hook; the CIF system is the story. Constitutional angle via Article II Section 1.
+**Tagalog beat:** "Pera ng bayan, walang resibo." (placement: closing_verdict)
+**Image:** output/images/2026-06-18-confidential-funds-no-receipts.png
+**Chars:** 2164
+**Scheduled:** 2026-06-18 20:00 PHT
+**Post ID:** sp_3wNcplmrOt4Y8r083ln | LIVE | fact-check: PASS
+**Sources:**
+  - https://www.rappler.com/philippines/madriaga-sara-duterte-confidential-funds-impeachment-hearing-april-14-2026/ (Rappler - P125M in under 18 hours)
+  - https://newsinfo.inquirer.net/2215194/coa-ruling-raises-vp-dutertes-confidential-fund-liability-to-p448-m (Inquirer - P448M COA ruling)
+  - https://www.philstar.com/headlines/2026/04/20/2522325/coa-flags-new-p375m-sara-duterte-funds-orders-return-p448m (PhilStar - COA disallowance)
+  - https://newsinfo.inquirer.net/2163294/marcos-office-gets-p4-5-billion-secret-funds-for-2026 (Inquirer - P4.5B OP + P11.8B total)
+  - https://www.rappler.com/philippines/senate-pre-trial-proceedings-sara-duterte-impeachment/ (Rappler - June 18 pre-trial)
+  - https://www.rappler.com/philippines/vice-president-sara-duterte-trial-schedule-2026/ (Rappler - July 6 trial date)

@@ -2367,3 +2367,18 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
   - https://www.spglobal.com/market-intelligence/en/news-insights/articles/2026/6/protection-gap-means-minimal-insured-losses-after-philippines-earthquake-102530662 (S&P Global)
   - https://www.gmanetwork.com/news/topstories/nation/990743/live-updates-magnitude-7-8-mindanao-earthquake-effects-june-9-2026/story/ (GMA News)
   - https://www.reinsurancene.ws/mindanao-earthquake-insured-losses-to-be-limited-due-to-philippines-protection-gap-am-best/ (ReinsuranceNe.ws / AM Best)
+
+---
+**2026-06-18 21:05 PHT | threads | ph-food-inflation-russia-summit-jun18-2026**
+
+**Topic:** May 2026 Philippines headline inflation at 6.8 percent (PSA official release, June 5, 2026), above the government's 2-4 percent target. Rice inflation accelerated to 15.6 percent in May. Contrasted against President Marcos attending the ASEAN-Russia Commemorative Summit in Kazan (June 17-18, 2026) to discuss "food security" with Putin. Systemic critique: the food security conversation needs to happen at home, not abroad, given PSA data showing staple food prices well above target.
+**Hook:** "The Philippines government's inflation target: 2 to 4 percent."
+**Angle:** Gap between official inflation target (2-4%) and reality (6.8%, rice at 15.6%) framed against the government's simultaneous diplomatic agenda on food security in Russia. Attack on systemic governance failure: the data is already in the market.
+**Tagalog beat:** "Ang sagot nasa palengke. Hindi sa Kazan." (placement: closing_verdict)
+**Chars:** 236
+**Post ID:** sp_hyiDcowhxfVyxdpDwFEi | LIVE | fact-check: PASS
+**Sources:**
+  - https://pia.gov.ph/news/psa-inflation-slows-to-6-8-in-may-2026/ (PIA - PSA official release)
+  - https://www.sunstar.com.ph/amp/story/manila/ph-inflation-slows-to-68-in-may-as-transport-food-price-pressures-ease (Sun Star)
+  - https://www.pna.gov.ph/articles/1277399 (PNA - Marcos Russia trip)
+  - https://www.philstar.com/headlines/2026/06/18/2536124/marcos-sees-room-expand-trade-russia (Philstar)

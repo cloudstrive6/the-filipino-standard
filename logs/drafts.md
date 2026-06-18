@@ -2197,3 +2197,17 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
   - https://www.rappler.com/business/meralco-power-rates-june-2026/ (Rappler, June 2026)
   - https://www.manilatimes.net/2026/06/11/business/meralco-raises-june-electricity-rates-on-higher-generation-charge-peso-weakness/2363337 (Manila Times, June 11 2026)
   - https://www.pna.gov.ph/articles/1277062 (Philippine News Agency)
+
+---
+**2026-06-18 09:04 PHT | threads | sss-pension-hike-inflation-june-2026**
+
+**Topic:** SSS began the early rollout of a 10% pension hike for 4.1 million retirees in June 2026 (second tranche of the Pension Reform Program). Average monthly pension ~P5,000 rises to ~P5,500. Philippine inflation peaked at 7.2% in April 2026, eased to 6.8% in May 2026 (PSA).
+**Hook:** "SSS just gave 4.1 million retirees a 10% pension hike."
+**Angle:** Structural critique: a 10% raise sounds significant but in absolute terms P5,500/month is still insufficient survival income in a high-inflation environment. The system keeps retirees barely afloat, not dignified.
+**Tagalog beat:** "Buong buhay nagtatrabaho para sa P5,500 sa katandaan."
+**Post ID:** sp_NTZOPuLbKx31U6bAKIyRO | LIVE | fact-check: PASS
+**Sources:**
+  - https://www.sss.gov.ph/news-and-updates/sss-begins-early-june-rollout-of-2026-pension-hike-citing-need-for-early-relief-for-pensioners/ (SSS official, June 2026)
+  - https://pia.gov.ph/news/sss-advances-release-of-2026-pension-hike/ (Philippine Information Agency)
+  - https://cebudailynews.inquirer.net/729858/sss-pension-increase-this-june-2026-how-much-more-will-you-receive (Cebu Daily News / Inquirer)
+  - https://tradingeconomics.com/philippines/inflation-cpi (PSA data via Trading Economics - inflation 7.2% April, 6.8% May 2026)

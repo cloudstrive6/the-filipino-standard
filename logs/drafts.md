@@ -2261,3 +2261,18 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
   - https://newsinfo.inquirer.net/2163294/marcos-office-gets-p4-5-billion-secret-funds-for-2026 (Inquirer - P4.5B OP + P11.8B total)
   - https://www.rappler.com/philippines/senate-pre-trial-proceedings-sara-duterte-impeachment/ (Rappler - June 18 pre-trial)
   - https://www.rappler.com/philippines/vice-president-sara-duterte-trial-schedule-2026/ (Rappler - July 6 trial date)
+
+---
+**2026-06-18 14:04 PHT | threads | marcos-russia-food-security-irri**
+
+**Topic:** President Marcos arrived in Kazan, Russia (June 17-18) for the ASEAN-Russia Commemorative Summit and bilateral meeting with Putin, with food and energy security as key agenda items. News hook used to critique the structural paradox: the Philippines hosts IRRI (the world's leading rice research institute) yet remains one of the world's largest rice importers. Systemic critique of agricultural policy failure.
+**Hook:** "The President flew to Russia this week to negotiate food security."
+**Angle:** The Philippines has the soil, the climate, and the world's premier rice research institution on its own territory. It still imports more rice than almost any nation on earth. That is a policy failure, not a geography problem.
+**Tagalog beat:** "Matabang lupain, gutom na bansa." (placement: closing_verdict)
+**Chars:** 287
+**Post ID:** sp_9Zedjd0yhRwOZb9ULWh1h | LIVE | fact-check: PASS
+**Sources:**
+  - https://mb.com.ph/2026/06/17/marcos-flies-to-russia-for-asean-russia-summit-in-kazan-meeting-with-putin (Manila Bulletin)
+  - https://www.manilatimes.net/2026/06/17/news/marcos-arrives-in-kazan-for-asean-russia-meet/2367280 (Manila Times)
+  - https://pco.gov.ph/news_releases/president-marcos-arrives-in-kazan-for-asean-russia-summit-bilateral-meeting-with-putin/ (PCO official)
+  - https://www.irri.org/ (IRRI headquarters, Los Banos, Laguna, Philippines)

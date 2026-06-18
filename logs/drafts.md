@@ -2211,3 +2211,18 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
   - https://pia.gov.ph/news/sss-advances-release-of-2026-pension-hike/ (Philippine Information Agency)
   - https://cebudailynews.inquirer.net/729858/sss-pension-increase-this-june-2026-how-much-more-will-you-receive (Cebu Daily News / Inquirer)
   - https://tradingeconomics.com/philippines/inflation-cpi (PSA data via Trading Economics - inflation 7.2% April, 6.8% May 2026)
+
+---
+**2026-06-18 10:05 PHT | threads | ph-senate-leadership-chaos-june18-2026**
+
+**Topic:** Philippine Senate leadership crisis resolved June 17-18, 2026, with Sherwin Gatchalian formally elected Senate President after a month-long series of coups and standoffs - including a shooting incident on May 13, 2026, inside the Senate building during the arrest of Senator Ronald dela Rosa.
+**Hook:** "Gunshots inside the Philippine Senate building. That was May 13, 2026."
+**Angle:** Political dysfunction critique: the Philippine Senate spent a month in internal leadership coups while the country dealt with an economic slowdown, a major earthquake, and an impending VP impeachment trial. Systemic critique of incentive structures that prioritize power grabs over governance.
+**Tagalog beat:** "Habang nag-aaway sila sa pwesto, sino ang nagtatrabaho?"
+**Post ID:** sp_F5GTtVo9H4jyW34MsNhg0 | LIVE | fact-check: PASS
+**Sources:**
+  - https://www.rappler.com/philippines/senate-coups-gunshots-standoff-2026-mess/ (Rappler - full timeline)
+  - https://www.rappler.com/philippines/timeline-senate-shooting-incident-may-13-2026/ (Rappler - May 13 shooting)
+  - https://newsinfo.inquirer.net/2248388/senate-row-ends-gatchalian-takes-helm-cayetano-yields (Inquirer, June 18 2026)
+  - https://www.philstar.com/headlines/2026/06/18/2535997/gatchalian-elected-senate-president (PhilStar, June 18 2026)
+  - https://en.wikipedia.org/wiki/2026_Philippine_Senate_lockdown (Wikipedia)

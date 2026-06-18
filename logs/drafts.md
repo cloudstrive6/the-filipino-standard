@@ -2291,3 +2291,18 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
   - https://verafiles.org/articles/filipino-trust-in-news-posts-biggest-fall-digital-news-report-2026 (VERA Files, June 16 2026)
   - https://www.gmanetwork.com/news/topstories/nation/991631/trust-in-news-filipinos-drop-2026-reuters/story/ (GMA News)
   - https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2026/dnr-executive-summary (Reuters Institute Oxford, primary source)
+
+---
+**2026-06-18 16:04 PHT | threads | ph-anti-dynasty-bill-house-june-2026**
+
+**Topic:** The Philippine House passed an anti-political dynasty bill on June 3, 2026 (first time in history), nearly 40 years after the 1987 Constitution mandated it. Critics call the bill watered-down, saying it only bans relatives from holding office in the same local jurisdiction simultaneously and legitimizes dynasties across different areas.
+**Hook:** "The Philippine House passed an anti-political dynasty bill this June. Nearly 40 years after the 1987 Constitution called for it."
+**Angle:** Structural critique of the bill's narrow scope - attacks the incentive system that produced a toothless reform, not individual legislators.
+**Tagalog beat:** "Nagtagal ng 40 taon para sa ganito." (placement: closing_verdict)
+**Chars:** 347
+**Post ID:** sp_aonNS1iTgxPoWWyW9SgsU | LIVE | fact-check: PASS
+**Sources:**
+  - https://mb.com.ph/2026/06/03/house-makes-history-oks-anti-political-dynasty-bill-on-3rd-reading (Manila Bulletin, June 3 2026)
+  - https://www.philstar.com/headlines/2026/06/04/2532766/house-oks-anti-political-dynasty-bill-opposition-slams-it-fake-watered-down (Philstar, June 4 2026)
+  - https://www.pna.gov.ph/articles/1276504 (PNA - House passes bill on final reading)
+  - https://www.philstar.com/headlines/2026/06/18/2535974/house-dynasty-bill-not-watered-down (Philstar, June 18 2026 - fresh coverage)

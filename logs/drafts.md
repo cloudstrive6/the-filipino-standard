@@ -2181,3 +2181,19 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
   - https://www.rappler.com/philippines/vice-president-sara-duterte-trial-schedule-2026/ (Rappler - trial July 6)
   - https://newsinfo.inquirer.net/2247302/senate-urged-to-open-duterte-impeachment-pre-trial-meet-to-public (Inquirer - pre-trial)
   - https://en.wikipedia.org/wiki/Second_impeachment_of_Sara_Duterte (Wikipedia - constitutional structure)
+
+---
+**2026-06-18 08:21 PHT | facebook,instagram | meralco-june-hike-red-alert-energy-reform**
+
+**Topic:** Meralco raised electricity rates by P0.1488/kWh for June 2026 billing (average now P14.4833/kWh), following red alert conditions on the Luzon grid in May 2026. Contrasted with Auckland's Entrust community trust model (NZD $364 per household in 2025). Constitutional angle: Article II, Section 4.
+**Hook:** "Meralco raised electricity rates again in June. The Luzon grid was on red alert in May. And customers still have no alternative."
+**Angle:** Utility monopoly extraction vs. community-owned energy returns. Structural critique: private ownership means customers pay more in a crisis; community ownership returns money to households.
+**Tagalog beat:** "Nasa red alert ang grid. Tumaas pa rin ang singil mo."
+**Image:** output/images/2026-06-18-meralco-energy-emergency.png
+**Scheduled:** 2026-06-18 18:00 PHT
+**Post ID:** sp_sZprTsF2Ihb1K1WYlXvV | LIVE | fact-check: PASS
+**Sources:**
+  - https://www.gmanetwork.com/news/money/companies/991066/meralco-electricity-bills-household-rate/story/ (GMA News, June 11 2026)
+  - https://www.rappler.com/business/meralco-power-rates-june-2026/ (Rappler, June 2026)
+  - https://www.manilatimes.net/2026/06/11/business/meralco-raises-june-electricity-rates-on-higher-generation-charge-peso-weakness/2363337 (Manila Times, June 11 2026)
+  - https://www.pna.gov.ph/articles/1277062 (Philippine News Agency)

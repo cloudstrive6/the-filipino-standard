@@ -2276,3 +2276,18 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
   - https://www.manilatimes.net/2026/06/17/news/marcos-arrives-in-kazan-for-asean-russia-meet/2367280 (Manila Times)
   - https://pco.gov.ph/news_releases/president-marcos-arrives-in-kazan-for-asean-russia-summit-bilateral-meeting-with-putin/ (PCO official)
   - https://www.irri.org/ (IRRI headquarters, Los Banos, Laguna, Philippines)
+
+---
+**2026-06-18 15:04 PHT | threads | ph-trust-news-reuters-digital-report-2026**
+
+**Topic:** The 2026 Reuters Institute Digital News Report (Oxford University) found that trust in Philippine news fell by 10 percentage points to 28%, the steepest single-year decline among all 48 markets surveyed. Report cites sustained attacks on the media, political divisions, and fragmented information environment as key factors.
+**Hook:** "Trust in Philippine news fell to 28%."
+**Angle:** Press freedom critique framed as a governance failure: when the state enables or conducts sustained attacks on media, public trust collapses and accountability dies with it. No named individuals - systemic critique.
+**Tagalog beat:** "Bumagsak ang tiwala dahil may dahilan." (placement: closing_verdict)
+**Chars:** 296
+**Post ID:** sp_wSgX6n2d3Mxzga2gcIIaj | LIVE | fact-check: PASS
+**Sources:**
+  - https://www.philstar.com/headlines/2026/06/16/2535445/filipino-trust-news-posts-biggest-fall-2026-report (PhilStar, June 16 2026)
+  - https://verafiles.org/articles/filipino-trust-in-news-posts-biggest-fall-digital-news-report-2026 (VERA Files, June 16 2026)
+  - https://www.gmanetwork.com/news/topstories/nation/991631/trust-in-news-filipinos-drop-2026-reuters/story/ (GMA News)
+  - https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2026/dnr-executive-summary (Reuters Institute Oxford, primary source)

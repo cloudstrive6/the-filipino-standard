@@ -2226,3 +2226,19 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
   - https://newsinfo.inquirer.net/2248388/senate-row-ends-gatchalian-takes-helm-cayetano-yields (Inquirer, June 18 2026)
   - https://www.philstar.com/headlines/2026/06/18/2535997/gatchalian-elected-senate-president (PhilStar, June 18 2026)
   - https://en.wikipedia.org/wiki/2026_Philippine_Senate_lockdown (Wikipedia)
+
+---
+**2026-06-18 11:03 PHT | threads | meralco-june-2026-rate-hike**
+
+**Topic:** Meralco hikes June 2026 electricity rates by P0.1488/kWh (P0.15/kWh), raising the overall rate to P14.4833/kWh. Main driver: higher WESM generation charges after the Luzon grid was placed on red alert May 13-15 due to tight supply. Households consuming 200 kWh pay ~P30 more.
+**Hook:** "Meralco just hiked June 2026 electricity rates by P0.15/kWh. Higher generation costs. Tight supply. Your problem, not theirs."
+**Angle:** Utility monopoly critique: consumers have zero say in rate decisions because there is no community ownership, no vote, no dividend - contrasted with NZ community energy trusts that paid households up to NZD $364 in 2025.
+**Tagalog beat:** "Walang boto. Walang boses. Mag-bayad ka na lang."
+**Post ID:** sp_1EevK0DU0lXCIgvslLm | LIVE | fact-check: PASS
+**Sources:**
+  - https://www.rappler.com/business/meralco-power-rates-june-2026/ (Rappler)
+  - https://www.gmanetwork.com/news/money/companies/991066/meralco-electricity-bills-household-rate/story/ (GMA News)
+  - https://bworldonline.com/top-stories/2026/06/12/756242/meralco-rates-climb-p0-15-kwh-in-june/ (BusinessWorld)
+  - https://www.manilatimes.net/2026/06/11/business/meralco-raises-june-electricity-rates-on-higher-generation-charge-peso-weakness/2363337 (Manila Times)
+  - https://www.philstar.com/headlines/2026/06/12/2534555/higher-meralco-bills-expected-month (PhilStar)
+  - https://www.pna.gov.ph/articles/1277062 (PNA)

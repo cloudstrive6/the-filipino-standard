@@ -2507,3 +2507,16 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
   - https://en.wikipedia.org/wiki/2026_Philippine_energy_crisis (Wikipedia - 98% import dependence, Strait of Hormuz, state of emergency)
   - https://www.philstar.com/headlines/2026/03/28/2517350/president-marcos-philippines-crude-oil-enough-until-june-30 (Philstar - June 30 supply deadline)
   - https://www.gmanetwork.com/news/topstories/nation/981581/marcos-ph-has-enough-crude-oil-until-june-30-2026/story/ (GMA - June 30 deadline corroboration)
+
+---
+**2026-06-23 18:06 PHT | threads | mindanao-quake-aid / oecd-informal-employment**
+
+**Topic:** Attempt 1 - Mindanao June 8 earthquake (7.8 magnitude), farmers/fishers in Sarangani still can't reach fields/sea two weeks on. Attempt 2 - OECD 2026 survey calling for formal employment reforms; 70%+ of Filipino workers informal.
+**Hook (Attempt 1):** "A magnitude 7.8 earthquake struck Mindanao on June 8. Two weeks later, farmers in Sarangani still can't reach their fields."
+**Hook (Attempt 2):** "The OECD's 2026 survey on the Philippines says it plainly: the country needs urgent reforms to increase formal employment."
+**Tagalog beat (Attempt 1):** "Dalawang linggo na. Hindi pa nakakaabot."
+**Tagalog beat (Attempt 2):** "Sino ba talaga ang pinoprotektahan ng gobyerno?"
+**Status:** NOT PUBLISHED - Both attempts blocked by fail-closed fact-check gate (Gemini API HTTP 503 on all 3 retries, high demand). Clean stop per two-attempt rule.
+**Sources:**
+  - https://www.rappler.com/ (Rappler - June 23 earthquake recovery, Sarangani aid delay)
+  - https://www.oecd.org/en/about/news/press-releases/2026/02/ambitious-reforms-to-strengthen-competition-and-increase-formal-employment-would-further-boost-the-philippines-growth-trajectory.html (OECD 2026 Philippines survey)

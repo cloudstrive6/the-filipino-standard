@@ -2395,3 +2395,17 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
 **Sources:**
   - https://www.rappler.com/newsbreak/in-depth/can-philippines-marcos-jr-administration-pass-freedom-information-foi-bill/ (Rappler - FOI bill under Marcos 2026)
   - https://www.oecd.org/en/about/news/press-releases/2026/02/ambitious-reforms-to-strengthen-competition-and-increase-formal-employment-would-further-boost-the-philippines-growth-trajectory.html (OECD - Philippines governance context 2026)
+
+---
+**2026-06-23 10:04 PHT | threads | anti-dynasty-bill-senate-jun23-2026**
+
+**Topic:** The House passed an anti-dynasty bill (HB 8389) on June 3, 2026 - the first time in Philippine history - fulfilling Article II, Section 26 of the 1987 Constitution. The bill now sits in the Senate. The White Ribbon Movement marches at EDSA on June 28 to pressure action.
+**Hook:** "The House finally passed an anti-dynasty bill. First time in Philippine history."
+**Angle:** Constitutional mandate unfulfilled for 39 years, House milestone, Senate now the bottleneck, civil society mobilizing.
+**Tagalog beat:** "Nasa Senado na. Hintay na naman." (placement: closing_verdict)
+**Chars:** 249
+**Post ID:** sp_iikraFCnV0dUFjukvKuP | LIVE | fact-check: PASS
+**Sources:**
+  - https://www.rappler.com/philippines/religious-civil-society-leaders-anti-corruption-protest-edsa-june-2026/ (Rappler - White Ribbon Movement rally)
+  - https://newsinfo.inquirer.net/2249194/groups-to-hold-anticorruption-rally-on-june-28 (Inquirer - anti-corruption rally June 28)
+  - https://www.philstar.com/headlines/2026/06/20/2536517/another-trillion-peso-march-set-june-28 (Philstar - White Ribbon March June 28)

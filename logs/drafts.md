@@ -2424,3 +2424,17 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
   - https://www.gmanetwork.com/news/topstories/nation/981581/marcos-ph-has-enough-crude-oil-until-june-30-2026/story/ (GMA News - crude oil deadline)
   - https://www.philstar.com/headlines/2026/03/28/2517350/president-marcos-philippines-crude-oil-enough-until-june-30 (Philstar - energy emergency)
   - https://en.wikipedia.org/wiki/2026_Philippine_energy_crisis (Wikipedia - 2026 Philippine energy crisis)
+
+---
+**2026-06-23 12:05 PHT | facebook,instagram | ph-energy-independence-fuel-rollback**
+
+**Topic:** Philippines fuel prices roll back June 23 (diesel P9-11/liter down) after US-Iran ceasefire MOU eased global oil markets; systemic angle on 98% oil import dependence and absence of strategic petroleum reserve framework.
+**Hook:** "A foreign country signed a peace deal last week. That is why Filipinos pay less for gas today."
+**Angle:** Relief is real but temporary; system is unchanged; foreign diplomacy - not PH policy - drove the outcome; constitutional accountability angle (Art II Sec 4); call for strategic petroleum reserves and energy security law.
+**Tagalog beat:** "Bumaaba man ang presyo, hindi pa ayos ang sistema." (placement: closer before engagement question)
+**Scheduled:** 2026-06-23 19:00 PHT | LIVE | Post ID: sp_mY4AhhpVYKr0sBRNyAqLn | fact-check: PASS
+**Sources:**
+  - https://www.rappler.com/business/fuel-prices-adjustments-rollback-june-23-2026/ (Rappler - fuel rollback June 23)
+  - https://www.sunstar.com.ph/amp/story/manila/doe-sees-major-fuel-price-rollback-on-june-23 (Sunstar/DOE - fuel rollback)
+  - https://business.inquirer.net/593184/doe-big-time-rollbacks-bring-fuel-prices-closer-to-prewar-levels (Inquirer - DOE rollback)
+  - https://en.wikipedia.org/wiki/2026_Philippine_energy_crisis (Wikipedia - energy crisis context)

@@ -2581,3 +2581,14 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
   - https://newsinfo.inquirer.net/2239590/house-approves-anti-dynasty-bill-on-final-reading (Inquirer - House approves HB 8389 third reading)
   - https://www.gmanetwork.com/news/money/companies/991628/biz-civic-groups-senate-reject-house-bill-8389-pro-dynasty/story/ (GMA - civic/biz groups call on Senate to reject HB 8389)
   - https://www.philstar.com/opinion/2026/06/24/2537362/fake-anti-dynasty-bill (Philstar - "A fake anti-dynasty bill" opinion)
+
+---
+**2026-06-24 07:03 PHT | threads | SKIPPED - fact-check failed**
+
+**Topic attempted:** Visayas grid on yellow alert June 23, 2026 - NGCP yellow alert, power plants offline/derated, Philippines electricity rates in SEA
+**Hook attempted:** "The Visayas grid is on yellow alert again today."
+**Tagalog beat:** "Mahal ang kuryente. Kulang pa rin."
+**Status:** SKIPPED - fact-check gate blocked twice due to conflicting figures across sources for June 23 (MW unavailable, number of plants offline). Topic is valid but specific numbers are inconsistent across real-time NGCP advisories.
+**Sources consulted:**
+  - https://www.manilatimes.net/2026/06/23/news/ngcp-again-issues-yellow-alert-for-visayas-grid/2370542
+  - https://www.gmanetwork.com/news/topstories/regions/992413/visayas-grid-on-yellow-alert-anew/story/

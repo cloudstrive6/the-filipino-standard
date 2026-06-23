@@ -2546,3 +2546,14 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
   - https://www.rappler.com/business/meralco-power-rates-june-2026/ (Rappler - Meralco June 2026 rate hike)
   - https://www.gmanetwork.com/news/money/companies/991066/meralco-electricity-bills-household-rate/story/ (GMA News - P14.4833/kWh rate confirmed)
   - https://company.meralco.com.ph/news-and-advisories/higher-residential-rates-june-2026 (Meralco official advisory)
+
+---
+**2026-06-23 21:04 PHT | threads | oecd-ph-electricity-50pct**
+
+**Topic:** OECD 2026 survey finding that Philippine industrial electricity is ~50% more expensive than Indonesia and Vietnam, due to vertical integration in distribution blocking competition
+**Hook:** "The OECD put it in writing: Philippine industrial electricity runs 50% more expensive than Indonesia and Vietnam."
+**Tagalog beat:** "Alam na ng OECD. Kailan pa natin aayusin?"
+**Status:** PUBLISHED LIVE | post_id=sp_wjxyy3wUhz3rGE4b5N6V | chars=359 | fact-check PASSED
+**Sources:**
+  - https://www.oecd.org/en/about/news/press-releases/2026/02/ambitious-reforms-to-strengthen-competition-and-increase-formal-employment-would-further-boost-the-philippines-growth-trajectory.html (OECD press release - Philippines 2026 survey)
+  - https://www.oecd.org/en/publications/oecd-economic-surveys-philippines-2026_f0e0c581-en/full-report/accelerating-productivity-growth-through-pro-competition-reforms_aa20dfca.html (OECD competition chapter - vertical integration finding)

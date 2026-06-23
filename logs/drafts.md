@@ -2480,3 +2480,16 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
 **Sources:**
   - https://www.rappler.com/philippines/weather/super-typhoon-francisco-southwest-monsoon-update-pagasa-forecast-june-23-2026-5am/ (Rappler - Francisco super typhoon)
   - https://www.pna.gov.ph/articles/1277750 (PNA - typhoon intensifies, troops on standby)
+
+---
+**2026-06-23 16:05 PHT | threads | child-vloggers-labor-gap**
+
+**Topic:** CWC pushing DOLE to regulate child vloggers and online influencers - legal gray area for children making content online.
+**Hook (attempt 1):** "Child vloggers in the Philippines have no labor protection."
+**Hook (attempt 2):** "Child vloggers in the Philippines: still a legal gray area."
+**Angle:** Child models and TV actors require DOLE work permits; child vloggers making income online fall in a regulatory gray area despite CWC's own admission. CWC now pushing DOLE to fix it.
+**Tagalog beat:** "Ang bata, hindi pang-negosyo."
+**Status:** NOT PUBLISHED - Attempt 1: fact-check FAIL (claim "no labor protection" too absolute; existing RA 7610/9231 framework could apply). Attempt 2: fact-check service returned HTTP 503 (Gemini high demand) on all 3 retries. Post blocked by fail-closed gate. Clean stop per two-attempt rule.
+**Sources:**
+  - https://newsinfo.inquirer.net/2250589/cwc-to-dole-regulate-child-vloggers-influencers-amid-exploitation-risk (Inquirer - CWC to DOLE)
+  - https://pia.gov.ph/labor-laws-protecting-child-influencers-sought/ (PIA - labor laws for child influencers)

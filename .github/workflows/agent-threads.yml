@@ -51,7 +51,7 @@ jobs:
           POSTFORME_THREADS_ACCOUNT_ID: ${{ secrets.POSTFORME_THREADS_ACCOUNT_ID }}
           TFS_LIVE: ${{ vars.TFS_LIVE }}
         run: |
-          claude -p "Read agent/post_agent.md and perform exactly ONE run for PLATFORM=threads. The TFS_LIVE env var is your live switch: if it is exactly 'true' you MUST publish live (pass --live to publish_direct.py); otherwise run a dry run (omit --live)." \
+          claude -p "Read agent/post_agent.md and perform exactly ONE run for PLATFORM=threads. Work FAST with only plain foreground WebSearch (2-4 queries) then write and publish - do NOT use the deep-research skill, the Workflow or Task tools, sub-agents, or background/long-running commands. The TFS_LIVE env var is your live switch: if it is exactly 'true' you MUST publish live (pass --live to publish_direct.py); otherwise run a dry run (omit --live)." \
             --allowedTools "Bash,WebSearch,Read,Write,Edit,Glob,Grep" \
             --dangerously-skip-permissions \
             --max-turns 60

@@ -54,6 +54,7 @@ relevant ones before writing.** They are the source of truth; this file is the l
    reviews during dry-run, and what the next run reads to stay varied.
 
 ## Efficiency — finish fast (you have a limited turn budget)
+- **🚫 NEVER use heavy research tooling.** Do NOT invoke the `deep-research` skill, the `Workflow` tool, the `Task`/Agent tool, sub-agents, parallel fan-out, or ANY multi-step research harness. Do NOT launch background/long-running commands (no `run_in_background`, no `&`, no sleeps). These blow the time budget and the run gets killed before it can publish. Use ONLY plain foreground **WebSearch** (2–4 queries total), then write and publish. One post is a 5-minute job, not a research project.
 - **Be decisive.** Do a FOCUSED search (a few queries at most), pick ONE story, write it, fact-check once via `publish_direct`, done. Do NOT over-research, re-read, or re-verify in loops.
 - For anti-repeat, read only the **last ~15 lines** of `logs/drafts.md` (e.g. `tail`), not the whole file.
 - If a draft **fails the fact-check gate**, you may try **ONE** alternative angle. If that also fails, **STOP and publish nothing this run** (clean exit, return success). Never loop through many drafts.

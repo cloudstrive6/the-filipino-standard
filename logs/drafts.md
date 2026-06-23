@@ -2568,3 +2568,16 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
 **Sources:**
   - https://www.rappler.com/business/fuel-prices-adjustments-rollback-june-23-2026/ (Rappler - fuel price rollback June 23 2026)
   - https://business.inquirer.net/596559/big-time-oil-price-rollback-set-for-june-23 (Inquirer - big-time rollback June 23 2026)
+
+---
+**2026-06-24 06:04 PHT | threads | anti-dynasty-bill-hb8389-fake**
+
+**Topic:** House passed HB 8389 (Anti-Political Dynasty Act) on June 3, 2026 - historic first in 39 years, but civic and business groups calling it a "fake" because it only bans simultaneous holding in same jurisdiction, not sequential handoffs or cross-level family control
+**Hook:** "The House just passed the Anti-Dynasty Bill. Historic - first time since 1987."
+**Tagalog beat:** "Pabango lang."
+**Status:** PUBLISHED LIVE | post_id=sp_xnRhqnmd0RMnU7EQymxr | chars=347 | fact-check PASSED
+**Sources:**
+  - https://www.pna.gov.ph/articles/1276504 (PNA - House passes anti-political dynasty bill on final reading)
+  - https://newsinfo.inquirer.net/2239590/house-approves-anti-dynasty-bill-on-final-reading (Inquirer - House approves HB 8389 third reading)
+  - https://www.gmanetwork.com/news/money/companies/991628/biz-civic-groups-senate-reject-house-bill-8389-pro-dynasty/story/ (GMA - civic/biz groups call on Senate to reject HB 8389)
+  - https://www.philstar.com/opinion/2026/06/24/2537362/fake-anti-dynasty-bill (Philstar - "A fake anti-dynasty bill" opinion)

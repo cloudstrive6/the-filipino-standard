@@ -2382,3 +2382,16 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
   - https://www.sunstar.com.ph/amp/story/manila/ph-inflation-slows-to-68-in-may-as-transport-food-price-pressures-ease (Sun Star)
   - https://www.pna.gov.ph/articles/1277399 (PNA - Marcos Russia trip)
   - https://www.philstar.com/headlines/2026/06/18/2536124/marcos-sees-room-expand-trade-russia (Philstar)
+
+---
+**2026-06-23 09:43 PHT | threads | foi-philippines-39-years-jun23-2026**
+
+**Topic:** The Philippines has no comprehensive Freedom of Information law after 39 years of filing FOI bills in every Congress (since 1987). Thailand passed one in 1997, Indonesia in 2008. The Philippines still relies only on Executive Order 2 (2016) covering the executive branch only. Both House and Senate passed their versions in 2026 but the bill is still in bicameral conference committee. Systemic critique: 39 years of legislative inaction on a basic governance transparency tool.
+**Hook:** "The Philippines has been trying to pass a Freedom of Information law since 1987."
+**Angle:** Systemic failure of the legislature to pass a basic transparency law, framed against neighbors who got it done decades ago. Constitutional grounding: Article II, Sec. 1 (sovereignty in the people).
+**Tagalog beat:** "Ilang kongreso pa?" (placement: closing_verdict)
+**Chars:** 391
+**Post ID:** sp_5MfVsftSLZizjLPWimsN | LIVE | fact-check: PASS
+**Sources:**
+  - https://www.rappler.com/newsbreak/in-depth/can-philippines-marcos-jr-administration-pass-freedom-information-foi-bill/ (Rappler - FOI bill under Marcos 2026)
+  - https://www.oecd.org/en/about/news/press-releases/2026/02/ambitious-reforms-to-strengthen-competition-and-increase-formal-employment-would-further-boost-the-philippines-growth-trajectory.html (OECD - Philippines governance context 2026)

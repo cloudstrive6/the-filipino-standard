@@ -2452,3 +2452,17 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
   - https://www.gmanetwork.com/news/topstories/nation/991460/dswd-cash-aid-mindanao-earthquake-victims/story/ (GMA News - DSWD cash aid)
   - https://www.sunstar.com.ph/davao/mindanao-quake-update-16m-individuals-affected (Sunstar - 1.6M affected)
   - https://newsinfo.inquirer.net/2246420/dswd-releases-nearly-p125m-in-aid-for-mindanao-earthquake-victims (Inquirer - DSWD aid)
+
+---
+**2026-06-23 14:07 PHT | threads | white-ribbon-march-june28**
+
+**Topic:** White Ribbon Movement anti-corruption rally, June 28 2026 at EDSA - 4th major march since 2025, demands anti-dynasty bill and electoral reform.
+**Hook:** "Filipinos are marching again this June 28 at EDSA."
+**Angle:** Four marches now and still no accountability - the system absorbs protest without consequence.
+**Tagalog beat:** "Apat na martsa na. Kailan sasapat?" (closer)
+**Status:** NOT PUBLISHED - fact-check service returned HTTP 503 (Gemini high demand) on 2 attempts. Post blocked by fail-closed gate. Clean stop.
+**Sources:**
+  - https://www.rappler.com/philippines/religious-civil-society-leaders-anti-corruption-protest-edsa-june-2026/ (Rappler - June 28 rally)
+  - https://newsinfo.inquirer.net/2249194/groups-to-hold-anticorruption-rally-on-june-28 (Inquirer - June 28 rally)
+  - https://www.philstar.com/headlines/2026/06/20/2536517/another-trillion-peso-march-set-june-28 (Philstar - Trillion Peso March 4th edition)
+  - https://www.sunstar.com.ph/manila/interfaith-rally-vs-corruption-gets-4th-edition (Sunstar - 4th edition confirmation)

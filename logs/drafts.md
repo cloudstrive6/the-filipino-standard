@@ -2534,3 +2534,15 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
   - https://www.philstar.com/opinion/2026/06/23/2537098/stagflation (Philstar - June 23 stagflation analysis)
   - https://www.gmanetwork.com/news/money/economy/986786/philippines-stagflation-gdp-inflation/story/ (GMA - Philippines stagflation, GDP 2.8%)
   - https://www.philstar.com/business/2026/06/23/2537071/government-sets-3545-growth-target-2026 (Philstar - government revised growth target to 3.5-4.5%)
+
+---
+**2026-06-23 20:03 PHT | threads | meralco-june2026-rate-hike**
+
+**Topic:** Meralco June 2026 rate hike to P14.48/kWh after Luzon Red Alert for 3 consecutive days; contrast with NZ community trust dividend of NZD $364 to Auckland households
+**Hook:** "Meralco raised rates again this June - P14.48/kWh - because the Luzon grid was on Red Alert for three consecutive days."
+**Tagalog beat:** "Kailan pa ito matatapos?"
+**Status:** NOT PUBLISHED - Fact-check gate fail-closed (Gemini API HTTP 503 on all 3 retries, high demand). Same persistent technical issue as prior runs today. Clean stop per two-attempt rule.
+**Sources:**
+  - https://www.rappler.com/business/meralco-power-rates-june-2026/ (Rappler - Meralco June 2026 rate hike)
+  - https://www.gmanetwork.com/news/money/companies/991066/meralco-electricity-bills-household-rate/story/ (GMA News - P14.4833/kWh rate confirmed)
+  - https://company.meralco.com.ph/news-and-advisories/higher-residential-rates-june-2026 (Meralco official advisory)

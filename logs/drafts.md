@@ -2409,3 +2409,18 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
   - https://www.rappler.com/philippines/religious-civil-society-leaders-anti-corruption-protest-edsa-june-2026/ (Rappler - White Ribbon Movement rally)
   - https://newsinfo.inquirer.net/2249194/groups-to-hold-anticorruption-rally-on-june-28 (Inquirer - anti-corruption rally June 28)
   - https://www.philstar.com/headlines/2026/06/20/2536517/another-trillion-peso-march-set-june-28 (Philstar - White Ribbon March June 28)
+
+---
+**2026-06-23 11:03 PHT | threads | oil-reserve-deadline-june30-2026**
+
+**Topic:** Philippines national energy emergency declared March 24, 2026; crude oil supply stated to last until June 30 (one week away); 98% of PH oil imported from Middle East, disrupted by Iran war.
+**Hook:** "The government declared a national energy emergency in March. The reason: the Philippines imports 98% of its oil from the Middle East, and the war cut off supply."
+**Angle:** June 30 oil deadline, system-level vulnerability of near-total import dependence, accountability question for what comes next.
+**Tagalog beat:** "Ano na ang plano para sa July?" (placement: closing_question)
+**Chars:** 257
+**Post ID:** sp_KKSqyPx2Bwixci7p5IY0 | LIVE | fact-check: PASS
+**Sources:**
+  - https://www.rappler.com/philippines/marcos-enough-crude-oil-supply-until-june-30/ (Rappler - crude oil until June 30)
+  - https://www.gmanetwork.com/news/topstories/nation/981581/marcos-ph-has-enough-crude-oil-until-june-30-2026/story/ (GMA News - crude oil deadline)
+  - https://www.philstar.com/headlines/2026/03/28/2517350/president-marcos-philippines-crude-oil-enough-until-june-30 (Philstar - energy emergency)
+  - https://en.wikipedia.org/wiki/2026_Philippine_energy_crisis (Wikipedia - 2026 Philippine energy crisis)

@@ -2520,3 +2520,17 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
 **Sources:**
   - https://www.rappler.com/ (Rappler - June 23 earthquake recovery, Sarangani aid delay)
   - https://www.oecd.org/en/about/news/press-releases/2026/02/ambitious-reforms-to-strengthen-competition-and-increase-formal-employment-would-further-boost-the-philippines-growth-trajectory.html (OECD 2026 Philippines survey)
+
+---
+**2026-06-23 19:05 PHT | facebook,instagram | stagflation-ph-cpbrd**
+
+**Topic:** Philippines enters stagflation - CPBRD (congressional think tank) found Q1 2026 GDP at 2.8% (5-year low), inflation ~8%, unemployment ~5%; government slashed 2026 growth target from 5-6% to 3.5-4.5%
+**Hook:** "The government promised 5-6% growth this year. The economy grew 2.8% instead. Now its own think tank is calling it stagflation."
+**Tagalog beat:** "Tinatawag na nilang stagflation. Alam mo na, kahit hindi mo alam ang salita."
+**Status:** NOT PUBLISHED - Fact-check gate fail-closed (Gemini API HTTP 503 on all 3 retries, high demand). Caption and image saved. Clean stop per two-attempt rule (technical failure, not content failure - second angle would hit same API issue).
+**Image:** output/images/stagflation-ph-2026-06-23.png (generated OK)
+**Sources:**
+  - https://business.inquirer.net/596126/govt-think-tank-ph-under-stagflation (Inquirer - CPBRD stagflation finding)
+  - https://www.philstar.com/opinion/2026/06/23/2537098/stagflation (Philstar - June 23 stagflation analysis)
+  - https://www.gmanetwork.com/news/money/economy/986786/philippines-stagflation-gdp-inflation/story/ (GMA - Philippines stagflation, GDP 2.8%)
+  - https://www.philstar.com/business/2026/06/23/2537071/government-sets-3545-growth-target-2026 (Philstar - government revised growth target to 3.5-4.5%)

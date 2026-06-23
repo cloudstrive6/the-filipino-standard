@@ -2466,3 +2466,17 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
   - https://newsinfo.inquirer.net/2249194/groups-to-hold-anticorruption-rally-on-june-28 (Inquirer - June 28 rally)
   - https://www.philstar.com/headlines/2026/06/20/2536517/another-trillion-peso-march-set-june-28 (Philstar - Trillion Peso March 4th edition)
   - https://www.sunstar.com.ph/manila/interfaith-rally-vs-corruption-gets-4th-edition (Sunstar - 4th edition confirmation)
+
+---
+**2026-06-23 15:05 PHT | threads | typhoon-francisco-reactive-governance**
+
+**Topic:** Typhoon Francisco bearing down on northern Luzon, June 23 2026 - reactive vs preventive disaster governance.
+**Hook (attempt 1):** "Typhoon Francisco is bearing down on northern Luzon right now."
+**Hook (attempt 2):** "Typhoon Francisco is offshore. Troops are on standby. Relief goods are pre-loaded."
+**Angle:** Philippines always reacts to typhoons with troops and cash aid but never builds the preventive infrastructure.
+**Tagalog beat attempt 1:** "Kailan pa magiging preventive ang gobyerno natin?" (closer)
+**Tagalog beat attempt 2:** "Hindi ito malas. Sistema ito." (closer)
+**Status:** NOT PUBLISHED - fact-check service returned HTTP 503 (Gemini high demand) on both attempts (3 retries each). Post blocked by fail-closed gate. Clean stop.
+**Sources:**
+  - https://www.rappler.com/philippines/weather/super-typhoon-francisco-southwest-monsoon-update-pagasa-forecast-june-23-2026-5am/ (Rappler - Francisco super typhoon)
+  - https://www.pna.gov.ph/articles/1277750 (PNA - typhoon intensifies, troops on standby)

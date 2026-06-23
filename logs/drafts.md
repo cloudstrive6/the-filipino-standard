@@ -2557,3 +2557,14 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
 **Sources:**
   - https://www.oecd.org/en/about/news/press-releases/2026/02/ambitious-reforms-to-strengthen-competition-and-increase-formal-employment-would-further-boost-the-philippines-growth-trajectory.html (OECD press release - Philippines 2026 survey)
   - https://www.oecd.org/en/publications/oecd-economic-surveys-philippines-2026_f0e0c581-en/full-report/accelerating-productivity-growth-through-pro-competition-reforms_aa20dfca.html (OECD competition chapter - vertical integration finding)
+
+---
+**2026-06-23 22:05 PHT | threads | ph-fuel-rollback-oil-deregulation**
+
+**Topic:** Major fuel price rollback June 23, 2026 - diesel down up to P11/liter, gasoline down up to P5.90/liter - reframed as evidence of the Oil Deregulation Law's pass-through system, not a gift
+**Hook:** "Philippines announced a major fuel rollback today. Diesel: down up to P11/liter. Gasoline: down up to P5.90/liter."
+**Tagalog beat:** "Tayo talaga ang shock absorber."
+**Status:** PUBLISHED LIVE | post_id=sp_8W2R2Svip3emLoqT9YWfk | chars=437 | fact-check PASSED
+**Sources:**
+  - https://www.rappler.com/business/fuel-prices-adjustments-rollback-june-23-2026/ (Rappler - fuel price rollback June 23 2026)
+  - https://business.inquirer.net/596559/big-time-oil-price-rollback-set-for-june-23 (Inquirer - big-time rollback June 23 2026)

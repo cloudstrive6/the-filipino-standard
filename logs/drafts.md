@@ -2438,3 +2438,17 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
   - https://www.sunstar.com.ph/amp/story/manila/doe-sees-major-fuel-price-rollback-on-june-23 (Sunstar/DOE - fuel rollback)
   - https://business.inquirer.net/593184/doe-big-time-rollbacks-bring-fuel-prices-closer-to-prewar-levels (Inquirer - DOE rollback)
   - https://en.wikipedia.org/wiki/2026_Philippine_energy_crisis (Wikipedia - energy crisis context)
+
+---
+**2026-06-23 13:05 PHT | threads | mindanao-earthquake-aid-delay**
+
+**Topic:** 2026 Mindanao earthquake (M7.8, June 8) - 1.6 million affected, DSWD announcing P800M cash aid 15 days after the disaster.
+**Hook:** "A magnitude 7.8 earthquake hit Mindanao on June 8. 1.6 million people affected."
+**Angle:** Systemic critique of disaster response speed - the system works, just not as fast as disasters do.
+**Tagalog beat:** "Sana pag may lindol, kasabay na ang tulong." (placement: closer)
+**Published:** LIVE | Post ID: sp_kwbJRT3DhJJwJtpNaEK3I | fact-check: PASS
+**Sources:**
+  - https://mb.com.ph/2026/06/22/dswd-to-release-nearly-800-million-in-cash-aid-for-139000-quake-hit-families (Manila Bulletin - P800M cash aid)
+  - https://www.gmanetwork.com/news/topstories/nation/991460/dswd-cash-aid-mindanao-earthquake-victims/story/ (GMA News - DSWD cash aid)
+  - https://www.sunstar.com.ph/davao/mindanao-quake-update-16m-individuals-affected (Sunstar - 1.6M affected)
+  - https://newsinfo.inquirer.net/2246420/dswd-releases-nearly-p125m-in-aid-for-mindanao-earthquake-victims (Inquirer - DSWD aid)

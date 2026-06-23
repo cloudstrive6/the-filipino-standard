@@ -2493,3 +2493,17 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
 **Sources:**
   - https://newsinfo.inquirer.net/2250589/cwc-to-dole-regulate-child-vloggers-influencers-amid-exploitation-risk (Inquirer - CWC to DOLE)
   - https://pia.gov.ph/labor-laws-protecting-child-influencers-sought/ (PIA - labor laws for child influencers)
+
+---
+**2026-06-23 17:04 PHT | threads | ph-energy-crisis-june30**
+
+**Topic:** Philippines crude oil supply running out - Marcos said it would last until June 30 (seven days away), exposing 98% import dependence on the Middle East.
+**Hook:** "June 30 is seven days away."
+**Angle:** Decades of no energy diversification made PH acutely vulnerable when the Strait of Hormuz closed. Systemic governance failure, not bad luck.
+**Tagalog beat:** "Hindi naman walang babala."
+**Status:** PUBLISHED LIVE | post_id=sp_XsKlfma5i8nZ4l1B2X0WV | chars=348
+**Sources:**
+  - https://www.rappler.com/business/fuel-prices-adjustments-rollback-june-23-2026/ (Rappler - June 23 fuel rollback, energy crisis context)
+  - https://en.wikipedia.org/wiki/2026_Philippine_energy_crisis (Wikipedia - 98% import dependence, Strait of Hormuz, state of emergency)
+  - https://www.philstar.com/headlines/2026/03/28/2517350/president-marcos-philippines-crude-oil-enough-until-june-30 (Philstar - June 30 supply deadline)
+  - https://www.gmanetwork.com/news/topstories/nation/981581/marcos-ph-has-enough-crude-oil-until-june-30-2026/story/ (GMA - June 30 deadline corroboration)

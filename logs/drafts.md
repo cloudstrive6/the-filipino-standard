@@ -2645,3 +2645,15 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
   - https://www.gmanetwork.com/news/money/companies/991066/meralco-electricity-bills-household-rate/story/ (GMA - ₱0.1488/kWh rate hike for June 2026)
   - https://www.pna.gov.ph/articles/1277062 (PNA - Meralco rates up in June)
   - https://company.meralco.com.ph/news-and-advisories/higher-residential-rates-june-2026 (Meralco official advisory)
+
+---
+**2026-06-24 12:05 PHT | threads | PUBLISHED LIVE**
+
+**Topic:** Manila 455th founding anniversary holiday + OECD 2026 finding that 2 in 3 Filipino workers are informal / outside full labor protections
+**Hook:** "Manila just got a special non-working holiday today. The 455th founding anniversary."
+**Tagalog beat:** "Sa kanila? Walang premium. Walang proteksyon. Holiday lang sa pangalan."
+**Status:** PUBLISHED LIVE | post_id=sp_Lsdd8M0LSNTrMVPX7FE9 | chars=402 | publish-now (no schedule) | fact-check PASSED
+**Sources:**
+  - https://pco.gov.ph/news_releases/president-marcos-declares-june-24-special-non-working-days-in-manila-and-lian-batangas/ (PCO - Marcos declares June 24 special non-working day in Manila, 455th founding anniversary)
+  - https://newsinfo.inquirer.net/2248543/june-24-a-holiday-in-the-city-of-manila-for-455th-founding-anniversary (Inquirer - June 24 holiday in Manila, 455th anniversary)
+  - https://www.oecd.org/en/publications/oecd-economic-surveys-philippines-2026_f0e0c581-en.html (OECD Economic Survey Philippines 2026 - 2 in 3 Filipino workers in informal employment, outside full labor protections)

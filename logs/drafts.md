@@ -2704,3 +2704,20 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
   - https://business.inquirer.net/578783/fdi-inflows-slumped-to-5-year-low-in-2025/ (Inquirer - FDI inflows slumped to 5-year low in 2025)
   - https://mb.com.ph/2026/01/28/corruption-scandal-clouds-2026-philippine-growth-outlookworld-bank (Manila Bulletin - World Bank: corruption scandal clouds 2026 PH growth outlook)
   - https://www.manilatimes.net/2026/02/02/opinion/columns/with-corruption-crisis-ph-international-damage-is-soaring/2269304 (Manila Times - With corruption crisis, PH international damage is soaring)
+
+---
+**2026-06-24 17:05 PHT | threads | NOT PUBLISHED - fact-check service returned 503 (Gemini API overloaded, fail-closed). Both attempts blocked by persistent 503.**
+
+**Attempt 1 - Topic:** White Ribbon Movement rally at EDSA People Power Monument on June 28, 2026 - interfaith leaders, civil society demanding end to corruption, anti-dynasty law, and electoral reform
+**Hook:** "June 28. EDSA. The place where Filipinos changed their government once before."
+**Tagalog beat:** "Lumabas na sila."
+**Sources:**
+  - https://www.rappler.com/philippines/religious-civil-society-leaders-anti-corruption-protest-edsa-june-2026/ (Rappler - Religious, civil society groups set June 28 anti-corruption EDSA protest)
+  - https://newsinfo.inquirer.net/2249194/groups-to-hold-anticorruption-rally-on-june-28 (Inquirer - Groups to hold anti-corruption rally on June 28)
+  - https://www.philstar.com/headlines/2026/06/20/2536517/another-trillion-peso-march-set-june-28 (Philstar - Another Trillion Peso March set on June 28)
+
+**Attempt 2 - Topic:** Philippine national energy emergency (declared March 2026) still active June 2026, energy policy built on imported fuel with no structural reform
+**Hook:** "The Philippines declared a national energy emergency in March because the country was running out of crude oil reserves."
+**Tagalog beat:** "Ito ang resulta ng walang pangmatagalang plano."
+**Sources:**
+  - https://www.iseas.edu.sg/articles-commentaries/iseas-perspective/2026-38-the-philippine-economy-in-2026-growth-under-siege-by-jc-punongbayan/ (ISEAS - The Philippine Economy in 2026: Growth Under Siege)

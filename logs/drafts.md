@@ -2721,3 +2721,14 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
 **Tagalog beat:** "Ito ang resulta ng walang pangmatagalang plano."
 **Sources:**
   - https://www.iseas.edu.sg/articles-commentaries/iseas-perspective/2026-38-the-philippine-economy-in-2026-growth-under-siege-by-jc-punongbayan/ (ISEAS - The Philippine Economy in 2026: Growth Under Siege)
+
+---
+**2026-06-24 18:03 PHT | threads | NOT PUBLISHED - fact-check service returned 503 (Gemini API overloaded, fail-closed). Same persistent 503 as prior run.**
+
+**Topic:** Maynilad and Manila Water Q2 2026 rate hike due to weak peso / Foreign Currency Differential Adjustment (FCDA) clause passing forex risk to consumers
+**Hook:** "Your water bill went up this year because the peso got weaker."
+**Tagalog beat:** "Pasan natin ang panganib nila."
+**Sources:**
+  - https://mb.com.ph/2026/03/13/maynilad-manila-water-to-raise-rates-due-to-weak-peso (Manila Bulletin - Maynilad, Manila Water to raise rates due to weak peso)
+  - https://www.philstar.com/headlines/2026/03/14/2514143/water-rates-go-next-month (Philstar - Water rates to go up next month)
+  - https://eclips.senate.gov.ph/business/higher-water-bills-loom-as-manila-water-maynilad-hike-rates-in-2026 (Senate clips - Higher water bills loom as Manila Water, Maynilad hike rates in 2026)

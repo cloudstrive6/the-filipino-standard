@@ -2669,3 +2669,15 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
   - https://tribune.net.ph/2026/05/07/economy-slows-amid-corruption-oil-shock (Tribune - Philippine Economy Slows in Early 2026)
   - https://mbc.com.ph/2026/05/07/eco-at-a-glance-ph-economy-gdp-at-q1-2026/ (MBC - PH Economy Slows to 2.8% in Q1 2026, New Weakest Post-Pandemic Growth)
   - https://www.iseas.edu.sg/articles-commentaries/iseas-perspective/2026-38-the-philippine-economy-in-2026-growth-under-siege-by-jc-punongbayan/ (ISEAS - The Philippine Economy in 2026: Growth Under Siege)
+
+---
+**2026-06-24 14:06 PHT | threads | SKIPPED (fact-check API 503)**
+
+**Topic:** Philippine Senate monthlong leadership crisis - constitutional standoff over quorum and Senate President election, resolved June 18 with Gatchalian taking helm
+**Hook:** "For weeks, the Philippine Senate couldn't agree on who was in charge."
+**Tagalog beat:** "Isang buwan. Para lang malaman kung sino ang namumuno."
+**Status:** NOT PUBLISHED - fact-check service returned 503 (Gemini API overloaded, fail-closed). First attempt failed content check (stated "3 weeks" but crisis was ~28 days/monthlong); corrected to "for weeks"/"a month" but subsequent attempts blocked by persistent 503.
+**Sources:**
+  - https://newsinfo.inquirer.net/2248388/senate-row-ends-gatchalian-takes-helm-cayetano-yields (Inquirer - Senate row ends, Gatchalian takes helm, Cayetano yields)
+  - https://newsinfo.inquirer.net/2240481/ibp-says-june-3-senate-quorum-lawful-valid (Inquirer - IBP says June 3 Senate quorum lawful and valid)
+  - https://www.sunstar.com.ph/amp/story/cebu/senate-row-may-reach-constitutional-crisis (Sunstar - PH Senate Leadership Row constitutional crisis)

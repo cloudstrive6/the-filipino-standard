@@ -2620,3 +2620,15 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
   - https://www.philstar.com/headlines/2026/06/20/2536517/another-trillion-peso-march-set-june-28 (Philstar - Trillion Peso March June 28)
   - https://www.sunstar.com.ph/manila/interfaith-rally-vs-corruption-gets-4th-edition (Sun Star - 4th edition confirmed)
   - https://cebudailynews.inquirer.net/739588/white-ribbon-march-groups-to-hold-anti-corruption-rally-on-june-28 (Inquirer - White Ribbon March details)
+
+---
+**2026-06-24 10:05 PHT | threads | PUBLISHED LIVE**
+
+**Topic:** Q3 2026 water rate adjustment - Maynilad cuts ₱0.12/cubic meter via FCDA, Manila Water zero reduction - private concession pass-through mechanism puts currency risk on consumers
+**Hook:** "Next quarter's water bill: Maynilad cuts ₱0.12 per cubic meter. Manila Water cuts nothing."
+**Tagalog beat:** "Kapag humina ang piso, tayo ang nagbabayad ng dagdag. Kapag bumuti? Kaunti lang."
+**Status:** PUBLISHED LIVE | post_id=sp_M2o1KERhOVuUymdV7NIi | chars=396 | publish-now (no schedule) | fact-check PASSED
+**Sources:**
+  - https://www.gmanetwork.com/news/money/companies/990189/manila-water-maynilad-rates-mwss/story/ (GMA - Maynilad cuts ₱0.12, Manila Water no change Q3 2026)
+  - https://mb.com.ph/2026/03/13/maynilad-manila-water-to-raise-rates-due-to-weak-peso (Manila Bulletin - FCDA rate hike context)
+  - https://www.bworldonline.com/top-stories/2026/03/13/736156/manila-water-maynilad-to-raise-rates-in-april (BusinessWorld - Q2 rate increase due to weak peso)

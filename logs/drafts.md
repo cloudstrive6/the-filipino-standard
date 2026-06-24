@@ -2799,3 +2799,15 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
   - https://newsinfo.inquirer.net/2235029/sws-marcos-net-satisfaction-rating-at-15-lowest-ever (Inquirer - SWS Marcos net satisfaction rating at -15, lowest ever)
   - https://sws.org.ph/social-weather-report-net-satisfaction-with-president-ferdinand-marcos-jr-falls-from-3-in-november-2025-to-15-in-march-2026/ (SWS.org.ph - Official SWS Social Weather Report)
   - https://tribune.net.ph/2026/06/21/survey-slap-hits-marcos-apologists-solon-analyst-see-mounting-public-anger (Tribune - Survey 'slap' hits Marcos apologists, June 21 2026)
+
+---
+**2026-06-25 06:04 PHT | threads | PUBLISHED**
+
+**Topic:** Philippines flood control corruption - 421 ghost projects flagged by DPWH; White Ribbon Movement march at EDSA June 28, 2026
+**Hook:** "Fifteen years. ₱1.9 trillion spent on flood control. Filipino neighborhoods still go underwater every wet season."
+**Tagalog beat:** "Lumubog ang pera. Hindi lumubog ang galit."
+**Sources:**
+  - https://gulfnews.com/world/asia/philippines/philippines-flood-control-scam-by-the-numbers-421-of-8000-are-ghost-projects-1.500300111 (Gulf News - 421 of 8,000 are ghost projects)
+  - https://newsinfo.inquirer.net/2118008/what-billions-look-like-visualizing-the-staggering-scale-of-flood-control-corruption (Inquirer - ₱1.9 trillion flood control spending)
+  - https://www.rappler.com/philippines/religious-civil-society-leaders-anti-corruption-protest-edsa-june-2026/ (Rappler - White Ribbon Movement June 28 rally)
+  - https://newsinfo.inquirer.net/2249194/groups-to-hold-anticorruption-rally-on-june-28 (Inquirer - Groups to hold anti-corruption rally June 28)

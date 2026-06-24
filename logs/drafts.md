@@ -2592,3 +2592,17 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
 **Sources consulted:**
   - https://www.manilatimes.net/2026/06/23/news/ngcp-again-issues-yellow-alert-for-visayas-grid/2370542
   - https://www.gmanetwork.com/news/topstories/regions/992413/visayas-grid-on-yellow-alert-anew/story/
+
+---
+**2026-06-24 08:04 PHT | facebook,instagram | PUBLISHED LIVE**
+
+**Topic:** PH energy crisis - Philippines crude oil supply runs out June 30, 2026 - structural 98% import dependency from Middle East, no strategic petroleum reserve, PIDS estimates 1.3-3.1M pushed into poverty
+**Hook:** "June 30 is in 6 days. That's when the Philippines' crude oil supply runs out. The government declared this an emergency in March."
+**Tagalog beat:** "Tayo ang palaging nagtitiis."
+**Status:** PUBLISHED LIVE | post_id=sp_eK5MWhZtiqol3TTFlvBfg | chars=1783 | scheduled=2026-06-24 19:00 PHT | fact-check PASSED
+**Sources:**
+  - https://pco.gov.ph/news_releases/president-marcos-declares-state-of-national-energy-emergency-activates-uplift-as-whole-of-government-response-framework/ (PCO - Marcos declares national energy emergency March 24)
+  - https://www.gmanetwork.com/news/topstories/nation/981581/marcos-ph-has-enough-crude-oil-until-june-30-2026/story/ (GMA - crude oil supply until June 30)
+  - https://www.sunstar.com.ph/amp/story/manila/marcos-assures-ph-crude-oil-supply-to-last-until-end-of-june (Sun Star - same)
+  - https://gulfnews.com/amp/story/business/energy/philippines-crude-oil-supply-to-last-until-june-30-says-marcos-1.500488056 (Gulf News - crude oil June 30)
+  - https://www.iseas.edu.sg/articles-commentaries/iseas-perspective/2026-38-the-philippine-economy-in-2026-growth-under-siege-by-jc-punongbayan/ (ISEAS - PIDS poverty estimate 1.3-3.1M)

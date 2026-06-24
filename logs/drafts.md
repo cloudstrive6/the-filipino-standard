@@ -2766,3 +2766,24 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
   - https://www.rappler.com/philippines/senate-coups-gunshots-standoff-2026-mess/ (Rappler - TIMELINE: Coups, gunshots, and standoff in the 2026 Senate mess)
   - https://www.rappler.com/philippines/bato-dela-rosa-left-senate-evades-icc-arrest-may-14-2026/ (Rappler - Bato dela Rosa, wanted by ICC, evades arrest, escapes Senate premises)
   - https://abcnews.com/International/wireStory/philippine-senate-reopens-after-impasse-standoff-senators-remain-133569772 (ABC News - Philippine Senate reopens after impasse)
+
+---
+**2026-06-24 22:04 PHT | threads | NOT PUBLISHED - fact-check gate returned 503 (Gemini API overloaded); fail-closed system blocked publish.**
+
+**Topic:** White Ribbon Movement - 4th anti-corruption rally set for June 28, 2026 at EDSA People Power Monument
+**Hook:** "June 28. EDSA. The 4th anti-corruption rally in two years."
+**Tagalog beat:** "Pang-apat na beses. Wala pa ring nakulong."
+**Sources:**
+  - https://newsinfo.inquirer.net/2249194/groups-to-hold-anticorruption-rally-on-june-28 (Inquirer - Groups to hold anti-corruption rally on June 28)
+  - https://www.rappler.com/philippines/religious-civil-society-leaders-anti-corruption-protest-edsa-june-2026/ (Rappler - Religious, civil society groups set June 28 anti-corruption EDSA protest)
+  - https://www.philstar.com/headlines/2026/06/20/2536517/another-trillion-peso-march-set-june-28 (Philstar - Another Trillion Peso March set on June 28)
+
+---
+**2026-06-24 22:05 PHT | threads | NOT PUBLISHED - fact-check gate FAIL: 24.5% FDI figure unverified by Gemini (OECD vs BSP sourcing); "turnaround year" claim too broad to verify.**
+
+**Topic:** Philippine FDI contraction 2025 per OECD/BSP data - investor concerns about corruption, policy risk, electricity costs
+**Hook:** "Foreign direct investment in the Philippines contracted 24.5% in 2025, according to the OECD."
+**Tagalog beat:** "Sabi nila kailangan ng pagbabago. Naghihintay pa rin tayo."
+**Sources:**
+  - https://www.oecd.org/en/publications/oecd-economic-surveys-philippines-2026_f0e0c581-en.html (OECD - Economic Surveys: Philippines 2026)
+  - https://www.iseas.edu.sg/articles-commentaries/iseas-perspective/2026-38-the-philippine-economy-in-2026-growth-under-siege-by-jc-punongbayan/ (ISEAS - The Philippine Economy in 2026: Growth Under Siege)

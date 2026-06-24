@@ -2787,3 +2787,15 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
 **Sources:**
   - https://www.oecd.org/en/publications/oecd-economic-surveys-philippines-2026_f0e0c581-en.html (OECD - Economic Surveys: Philippines 2026)
   - https://www.iseas.edu.sg/articles-commentaries/iseas-perspective/2026-38-the-philippine-economy-in-2026-growth-under-siege-by-jc-punongbayan/ (ISEAS - The Philippine Economy in 2026: Growth Under Siege)
+
+---
+**2026-06-24 23:04 PHT | threads | PUBLISHED**
+
+**Topic:** SWS Q1 2026 survey - Marcos administration hits record-low net satisfaction rating
+**Hook:** "46% of Filipinos told SWS they are dissatisfied with the current administration's performance. Net satisfaction: -13. A record low."
+**Tagalog beat:** "Kaya pala may malalim na hinaing."
+**Sources:**
+  - https://www.philstar.com/headlines/2026/05/27/2530823/sws-satisfaction-marcos-drops-record-low-33 (Philstar - SWS satisfaction with Marcos drops to record low 33%)
+  - https://newsinfo.inquirer.net/2235029/sws-marcos-net-satisfaction-rating-at-15-lowest-ever (Inquirer - SWS Marcos net satisfaction rating at -15, lowest ever)
+  - https://sws.org.ph/social-weather-report-net-satisfaction-with-president-ferdinand-marcos-jr-falls-from-3-in-november-2025-to-15-in-march-2026/ (SWS.org.ph - Official SWS Social Weather Report)
+  - https://tribune.net.ph/2026/06/21/survey-slap-hits-marcos-apologists-solon-analyst-see-mounting-public-anger (Tribune - Survey 'slap' hits Marcos apologists, June 21 2026)

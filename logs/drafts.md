@@ -2692,3 +2692,15 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
 **Sources:**
   - https://www.panaynews.net/bong-go-urges-philhealth-to-deliver-promised-wider-emergency-coverage-amid-viral-non-coverage-case-after-death-of-longtime-member/ (Panay News - Bong Go urges PhilHealth on viral non-coverage case)
   - https://tribune.net.ph/2026/06/16/go-presses-philhealth-probe-after-viral-case (Tribune - Go presses PhilHealth probe after viral case)
+
+---
+**2026-06-24 16:03 PHT | threads | PUBLISHED LIVE | post_id=sp_xiWQzB1tScyglpRtlAHMY | chars=337 | fact-check PASSED**
+
+**Topic:** Philippine FDI sank to a 5-year low in 2025, driven by DPWH corruption scandal (ghost flood-control projects, inflated costs, political kickbacks)
+**Hook:** "Philippine FDI sank to a 5-year low in 2025. Not because of a global recession. Because of ghost projects, inflated contracts, and political kickbacks inside the DPWH."
+**Tagalog beat:** "Tayo ang nagbabayad ng kanilang kurap. Paulit-ulit."
+**Status:** PUBLISHED LIVE | post_id=sp_xiWQzB1tScyglpRtlAHMY | chars=337 | publish-now (no schedule) | fact-check PASSED
+**Sources:**
+  - https://business.inquirer.net/578783/fdi-inflows-slumped-to-5-year-low-in-2025/ (Inquirer - FDI inflows slumped to 5-year low in 2025)
+  - https://mb.com.ph/2026/01/28/corruption-scandal-clouds-2026-philippine-growth-outlookworld-bank (Manila Bulletin - World Bank: corruption scandal clouds 2026 PH growth outlook)
+  - https://www.manilatimes.net/2026/02/02/opinion/columns/with-corruption-crisis-ph-international-damage-is-soaring/2269304 (Manila Times - With corruption crisis, PH international damage is soaring)

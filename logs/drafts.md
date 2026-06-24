@@ -2632,3 +2632,16 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
   - https://www.gmanetwork.com/news/money/companies/990189/manila-water-maynilad-rates-mwss/story/ (GMA - Maynilad cuts ₱0.12, Manila Water no change Q3 2026)
   - https://mb.com.ph/2026/03/13/maynilad-manila-water-to-raise-rates-due-to-weak-peso (Manila Bulletin - FCDA rate hike context)
   - https://www.bworldonline.com/top-stories/2026/03/13/736156/manila-water-maynilad-to-raise-rates-in-april (BusinessWorld - Q2 rate increase due to weak peso)
+
+---
+**2026-06-24 11:04 PHT | threads | PUBLISHED LIVE**
+
+**Topic:** Meralco June 2026 rate hike - grid red alerts in May push up consumer bills with no rebate or accountability mechanism
+**Hook:** "Meralco raised electricity rates again for June. ₱14.48 per kWh for a typical household."
+**Tagalog beat:** "Sino man ang nagkulang, tayo pa rin ang nagbabayad."
+**Status:** PUBLISHED LIVE | post_id=sp_VhAQVJYYciAnL28xDpEu | chars=429 | publish-now (no schedule) | fact-check PASSED
+**Sources:**
+  - https://www.rappler.com/business/meralco-power-rates-june-2026/ (Rappler - Meralco hikes June 2026 rates)
+  - https://www.gmanetwork.com/news/money/companies/991066/meralco-electricity-bills-household-rate/story/ (GMA - ₱0.1488/kWh rate hike for June 2026)
+  - https://www.pna.gov.ph/articles/1277062 (PNA - Meralco rates up in June)
+  - https://company.meralco.com.ph/news-and-advisories/higher-residential-rates-june-2026 (Meralco official advisory)

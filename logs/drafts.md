@@ -2606,3 +2606,17 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
   - https://www.sunstar.com.ph/amp/story/manila/marcos-assures-ph-crude-oil-supply-to-last-until-end-of-june (Sun Star - same)
   - https://gulfnews.com/amp/story/business/energy/philippines-crude-oil-supply-to-last-until-june-30-says-marcos-1.500488056 (Gulf News - crude oil June 30)
   - https://www.iseas.edu.sg/articles-commentaries/iseas-perspective/2026-38-the-philippine-economy-in-2026-growth-under-siege-by-jc-punongbayan/ (ISEAS - PIDS poverty estimate 1.3-3.1M)
+
+---
+**2026-06-24 09:03 PHT | threads | PUBLISHED LIVE**
+
+**Topic:** White Ribbon March / Trillion Peso March 4th edition - June 28 EDSA - interfaith anti-corruption rally against political dynasties and flood management contract scandal
+**Hook:** "The Trillion Peso March is back. June 28. EDSA."
+**Tagalog beat:** "Libo-libo na naman. Dahil walang nagsagot."
+**Status:** PUBLISHED LIVE | post_id=sp_mm4VSgRZdmvRiHohdGEM | chars=391 | publish-now (no schedule) | fact-check PASSED
+**Sources:**
+  - https://www.rappler.com/philippines/religious-civil-society-leaders-anti-corruption-protest-edsa-june-2026/ (Rappler - June 28 EDSA anti-corruption protest)
+  - https://www.gmanetwork.com/news/topstories/nation/992313/cbcp-backs-white-ribbon-march-vs-corruption/story/ (GMA - CBCP backs White Ribbon March)
+  - https://www.philstar.com/headlines/2026/06/20/2536517/another-trillion-peso-march-set-june-28 (Philstar - Trillion Peso March June 28)
+  - https://www.sunstar.com.ph/manila/interfaith-rally-vs-corruption-gets-4th-edition (Sun Star - 4th edition confirmed)
+  - https://cebudailynews.inquirer.net/739588/white-ribbon-march-groups-to-hold-anti-corruption-rally-on-june-28 (Inquirer - White Ribbon March details)

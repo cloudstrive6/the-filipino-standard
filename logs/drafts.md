@@ -2732,3 +2732,15 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
   - https://mb.com.ph/2026/03/13/maynilad-manila-water-to-raise-rates-due-to-weak-peso (Manila Bulletin - Maynilad, Manila Water to raise rates due to weak peso)
   - https://www.philstar.com/headlines/2026/03/14/2514143/water-rates-go-next-month (Philstar - Water rates to go up next month)
   - https://eclips.senate.gov.ph/business/higher-water-bills-loom-as-manila-water-maynilad-hike-rates-in-2026 (Senate clips - Higher water bills loom as Manila Water, Maynilad hike rates in 2026)
+
+---
+**2026-06-24 19:07 PHT | facebook,instagram | NOT PUBLISHED - fact-check failed on both attempts (attempt 1: 3 claims; attempt 2: 2 residual claims after fixes). Two retries exhausted per agent rule.**
+
+**Topic:** OECD 2026 Economic Survey of Philippines - top recommendation is competition in network sectors (electricity, telecoms, water), tied to Q1 2026 GDP at 2.8%, inflation 7.2%, DBCC growth target cut to 3.5-4.5%
+**Hook:** "The OECD just told the Philippines how to fix its economy. The answer: break up the monopolies in power, telecoms, and water."
+**Tagalog beat:** "Sinabi na ng OECD. Ayaw lang nilang makinig."
+**Notes:** Attempt 1 failed on (a) 57% GDP debt projection phrasing, (b) "26 community energy trusts" number, (c) "$1 billion US cooperatives" stat. Attempt 2 fixed those but failed on (a) PHP 13,000 conversion for NZD 364 (fact-checker says ~PHP 12,175 at 2025 rates), (b) "122-year history" should be 123 years (Meralco founded March 1903). Core OECD recommendation, GDP, inflation, DBCC, Netherlands, Entrust NZD 364, and Meralco ownership all verified.
+**Sources:**
+  - https://www.oecd.org/en/publications/oecd-economic-surveys-philippines-2026_f0e0c581-en.html (OECD - Economic Surveys: Philippines 2026)
+  - https://www.iseas.edu.sg/articles-commentaries/iseas-perspective/2026-38-the-philippine-economy-in-2026-growth-under-siege-by-jc-punongbayan/ (ISEAS - The Philippine Economy in 2026: Growth Under Siege)
+  - https://asia.nikkei.com/economy/philippines-lifts-2026-spending-cuts-growth-target-amid-graft-concerns (Nikkei Asia - Philippines lifts 2026 spending, cuts growth target)

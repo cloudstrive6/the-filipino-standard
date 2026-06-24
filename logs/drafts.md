@@ -2755,3 +2755,14 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
   - https://pco.gov.ph/news_releases/president-marcos-declares-state-of-national-energy-emergency-activates-uplift-as-whole-of-government-response-framework/ (PCO - Marcos declares State of National Energy Emergency)
   - https://www.pna.gov.ph/articles/1271702 (PNA - PBBM declares state of nat'l energy emergency amid global supply risks)
   - https://www.aljazeera.com/news/2026/3/25/philippine-president-declares-energy-emergency-as-impact-of-iran-war-felt (Al Jazeera - Philippine president declares energy emergency)
+
+---
+**2026-06-24 21:04 PHT | threads | NOT PUBLISHED - fact-check gate returned 503 (Gemini API overloaded); fail-closed system blocked publish.**
+
+**Topic:** Philippine Senate crisis resolution - Senate Sergeant-at-Arms fired on NBI agents serving ICC warrant, senator escaped, Senate now has new president with no public accountability
+**Hook:** "Six weeks ago, the Philippine Senate's own Sergeant-at-Arms fired on NBI agents trying to execute an ICC arrest warrant. The senator being pursued escaped in the night."
+**Tagalog beat:** "Ganun pala ang trabaho ng Senado."
+**Sources:**
+  - https://www.rappler.com/philippines/senate-coups-gunshots-standoff-2026-mess/ (Rappler - TIMELINE: Coups, gunshots, and standoff in the 2026 Senate mess)
+  - https://www.rappler.com/philippines/bato-dela-rosa-left-senate-evades-icc-arrest-may-14-2026/ (Rappler - Bato dela Rosa, wanted by ICC, evades arrest, escapes Senate premises)
+  - https://abcnews.com/International/wireStory/philippine-senate-reopens-after-impasse-standoff-senators-remain-133569772 (ABC News - Philippine Senate reopens after impasse)

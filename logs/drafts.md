@@ -2657,3 +2657,15 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
   - https://pco.gov.ph/news_releases/president-marcos-declares-june-24-special-non-working-days-in-manila-and-lian-batangas/ (PCO - Marcos declares June 24 special non-working day in Manila, 455th founding anniversary)
   - https://newsinfo.inquirer.net/2248543/june-24-a-holiday-in-the-city-of-manila-for-455th-founding-anniversary (Inquirer - June 24 holiday in Manila, 455th anniversary)
   - https://www.oecd.org/en/publications/oecd-economic-surveys-philippines-2026_f0e0c581-en.html (OECD Economic Survey Philippines 2026 - 2 in 3 Filipino workers in informal employment, outside full labor protections)
+
+---
+**2026-06-24 13:04 PHT | threads | PUBLISHED LIVE**
+
+**Topic:** PH GDP Q1 2026 at 2.8% - weakest since COVID, systemic fragility commentary
+**Hook:** "PH Q1 2026 GDP: 2.8%. The weakest since COVID."
+**Tagalog beat:** "Paulit-ulit ang resulta. Kasi paulit-ulit ang sistema."
+**Status:** PUBLISHED LIVE | post_id=sp_pV5QAYYCw2M0g6kW4Got | chars=255 | publish-now (no schedule) | fact-check PASSED
+**Sources:**
+  - https://tribune.net.ph/2026/05/07/economy-slows-amid-corruption-oil-shock (Tribune - Philippine Economy Slows in Early 2026)
+  - https://mbc.com.ph/2026/05/07/eco-at-a-glance-ph-economy-gdp-at-q1-2026/ (MBC - PH Economy Slows to 2.8% in Q1 2026, New Weakest Post-Pandemic Growth)
+  - https://www.iseas.edu.sg/articles-commentaries/iseas-perspective/2026-38-the-philippine-economy-in-2026-growth-under-siege-by-jc-punongbayan/ (ISEAS - The Philippine Economy in 2026: Growth Under Siege)

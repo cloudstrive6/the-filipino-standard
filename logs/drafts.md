@@ -2681,3 +2681,14 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
   - https://newsinfo.inquirer.net/2248388/senate-row-ends-gatchalian-takes-helm-cayetano-yields (Inquirer - Senate row ends, Gatchalian takes helm, Cayetano yields)
   - https://newsinfo.inquirer.net/2240481/ibp-says-june-3-senate-quorum-lawful-valid (Inquirer - IBP says June 3 Senate quorum lawful and valid)
   - https://www.sunstar.com.ph/amp/story/cebu/senate-row-may-reach-constitutional-crisis (Sunstar - PH Senate Leadership Row constitutional crisis)
+
+---
+**2026-06-24 15:04 PHT | threads | PUBLISHED LIVE | post_id=sp_ZPRpdXWC63M0hynOa0k1 | chars=485 | fact-check PASSED**
+
+**Topic:** PhilHealth denied benefits to Marvin Sulit (25-year member) who died June 2026 after brain hematoma - confinement lasted less than 24 hours, benefits not applied - went viral, Senate and Palace ordered investigation into systemic confinement rule failures
+**Hook:** "A Filipino paid PhilHealth contributions his whole working life."
+**Tagalog beat:** "Nagbayad ka buong buhay. Noong kailangan mo, wala."
+**Status:** PUBLISHED LIVE | post_id=sp_ZPRpdXWC63M0hynOa0k1 | chars=485 | publish-now (no schedule) | fact-check PASSED
+**Sources:**
+  - https://www.panaynews.net/bong-go-urges-philhealth-to-deliver-promised-wider-emergency-coverage-amid-viral-non-coverage-case-after-death-of-longtime-member/ (Panay News - Bong Go urges PhilHealth on viral non-coverage case)
+  - https://tribune.net.ph/2026/06/16/go-presses-philhealth-probe-after-viral-case (Tribune - Go presses PhilHealth probe after viral case)

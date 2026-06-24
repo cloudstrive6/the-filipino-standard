@@ -2811,3 +2811,16 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
   - https://newsinfo.inquirer.net/2118008/what-billions-look-like-visualizing-the-staggering-scale-of-flood-control-corruption (Inquirer - ₱1.9 trillion flood control spending)
   - https://www.rappler.com/philippines/religious-civil-society-leaders-anti-corruption-protest-edsa-june-2026/ (Rappler - White Ribbon Movement June 28 rally)
   - https://newsinfo.inquirer.net/2249194/groups-to-hold-anticorruption-rally-on-june-28 (Inquirer - Groups to hold anti-corruption rally June 28)
+
+---
+**2026-06-25 07:03 PHT | threads | PUBLISHED**
+
+**Topic:** Philippines energy crisis - crude oil supply runs out June 30, 2026; 98% oil import dependency exposed
+**Hook:** "Marcos said it himself: the Philippines has enough crude oil until June 30."
+**Tagalog beat:** "Naghintay lang tayo."
+**Sources:**
+  - https://www.philstar.com/headlines/2026/03/28/2517350/president-marcos-philippines-crude-oil-enough-until-june-30 (Philstar - Marcos: crude oil enough until June 30)
+  - https://newsinfo.inquirer.net/2202216/marcos-on-crude-oil (Inquirer - Marcos on crude oil supply)
+  - https://gulfnews.com/amp/story/business/energy/philippines-crude-oil-supply-to-last-until-june-30-says-marcos-1.500488056 (Gulf News - PH crude oil supply until June 30)
+  - https://pco.gov.ph/news_releases/president-marcos-declares-state-of-national-energy-emergency-activates-uplift-as-whole-of-government-response-framework/ (PCO.gov.ph - Energy Emergency Declaration)
+  - https://www.developmentaid.org/news-stream/post/206233/philippines-energy-emergency (DevelopmentAid - 98% oil import, PIDS poverty projection)

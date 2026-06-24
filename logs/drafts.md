@@ -2744,3 +2744,14 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
   - https://www.oecd.org/en/publications/oecd-economic-surveys-philippines-2026_f0e0c581-en.html (OECD - Economic Surveys: Philippines 2026)
   - https://www.iseas.edu.sg/articles-commentaries/iseas-perspective/2026-38-the-philippine-economy-in-2026-growth-under-siege-by-jc-punongbayan/ (ISEAS - The Philippine Economy in 2026: Growth Under Siege)
   - https://asia.nikkei.com/economy/philippines-lifts-2026-spending-cuts-growth-target-amid-graft-concerns (Nikkei Asia - Philippines lifts 2026 spending, cuts growth target)
+
+---
+**2026-06-24 20:04 PHT | threads | NOT PUBLISHED - fact-check gate returned 503 (Gemini API overloaded) on both attempts; fail-closed system blocked publish.**
+
+**Topic:** 2026 Philippine energy crisis - Marcos declared state of national energy emergency in March, said oil supply lasts until June 30 (6 days from today); Philippines imports 98% of oil from abroad
+**Hook:** "Marcos declared a national energy emergency in March. He said the Philippines had enough oil until June 30. That's in 6 days."
+**Tagalog beat:** "Hanggang Hunyo 30 lang daw. Ano na ngayon?"
+**Sources:**
+  - https://pco.gov.ph/news_releases/president-marcos-declares-state-of-national-energy-emergency-activates-uplift-as-whole-of-government-response-framework/ (PCO - Marcos declares State of National Energy Emergency)
+  - https://www.pna.gov.ph/articles/1271702 (PNA - PBBM declares state of nat'l energy emergency amid global supply risks)
+  - https://www.aljazeera.com/news/2026/3/25/philippine-president-declares-energy-emergency-as-impact-of-iran-war-felt (Al Jazeera - Philippine president declares energy emergency)

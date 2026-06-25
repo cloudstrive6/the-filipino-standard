@@ -3003,3 +3003,15 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
   - https://newsinfo.inquirer.net/2125949/duterte-finally-reveals-how-deped-confidential-funds-were-spent (Inquirer - DepEd confidential funds)
   - https://www.gmanetwork.com/news/topstories/nation/992558/impeachment-trial-july-2026/story/ (GMA - trial starts July 6)
   - https://www.rappler.com/philippines/vice-president-sara-duterte-trial-schedule-2026/ (Rappler - trial schedule confirmed)
+
+---
+**2026-06-26 06:09 PHT | threads | PUBLISHED sp_RAcmOZnyXwkVLcyAAPStN**
+
+**Topic:** Philippines as ASEAN 2026 Chair endorsing economic reform agenda while domestic reforms remain stalled
+**Hook:** "What does economic reform leadership look like when the host country applies it to itself first?"
+**Angle:** Governance contrast - Philippines champions Southeast Asian economic reform as ASEAN chair, while at home the same systemic questions (utility reform, accountability, growth) remain unresolved. Attacks the system, not any individual.
+**Tagalog beat:** "Sa labas, kampeon. Dito sa atin, kulang pa." (Outside, champion. Here at home, still lacking.) - specific to the ASEAN/domestic contrast in this post; not reused from any recent entry.
+**Sources:**
+  - https://asean2026.gov.ph/post/view/?title=ph-to-endorse-priority-economic-initiatives-during-asean-economic-ministers-retreat (ASEAN 2026 PH - economic ministers retreat, priority initiatives)
+  - https://www.oecd.org/en/about/news/press-releases/2026/02/ambitious-reforms-to-strengthen-competition-and-increase-formal-employment-would-further-boost-the-philippines-growth-trajectory.html (OECD 2026 - domestic reform gaps context)
+**Fact-check:** PASSED - ASEAN 2026 chairmanship verified (Philippines assumed chairmanship Jan 1 2026, hosted 48th ASEAN Summit in Cebu under Marcos)

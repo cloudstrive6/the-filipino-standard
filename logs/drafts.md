@@ -2952,3 +2952,16 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
   - https://www.philstar.com/headlines/2026/06/04/2532766/house-oks-anti-political-dynasty-bill-opposition-slams-it-fake-watered-down (Philstar - opposition slams as fake, watered-down)
   - https://newsinfo.inquirer.net/2239590/house-approves-anti-dynasty-bill-on-final-reading (Inquirer - House approves anti-dynasty bill)
   - https://www.rappler.com/?p=3185081 (Rappler - first time in history, passes House but hollow)
+
+---
+**2026-06-25 20:04 PHT | threads | PUBLISHED (LIVE)**
+
+**Topic:** VP Sara Duterte's impeachment pretrial wraps up on June 25; formal trial set for July 6, 2026 - charges include misuse of confidential funds, unexplained wealth, and bribery
+**Hook:** "VP Sara Duterte's impeachment pretrial wrapped up today. The formal trial starts July 6."
+**Tagalog beat:** "Sa Hulyo, makikita natin." (specific to the July 6 trial date - in July, we will see)
+**Angle:** Constitutional accountability mechanism being tested - the question is whether the Senate will deliver genuine accountability or political theater
+**Post ID:** sp_WrOz4jbYMtrYsy99Z
+**Sources:**
+  - https://newsinfo.inquirer.net/2252782/vp-impeachment-pretrial-wraps-up-on-fifth-day (Inquirer - pretrial wraps up day 5)
+  - https://www.gmanetwork.com/news/topstories/nation/992558/impeachment-trial-july-2026/story/ (GMA News - trial set July 6)
+  - https://en.wikipedia.org/wiki/Second_impeachment_of_Sara_Duterte (Wikipedia - charges: misuse of confidential funds, unexplained wealth, bribery)

@@ -2824,3 +2824,15 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
   - https://gulfnews.com/amp/story/business/energy/philippines-crude-oil-supply-to-last-until-june-30-says-marcos-1.500488056 (Gulf News - PH crude oil supply until June 30)
   - https://pco.gov.ph/news_releases/president-marcos-declares-state-of-national-energy-emergency-activates-uplift-as-whole-of-government-response-framework/ (PCO.gov.ph - Energy Emergency Declaration)
   - https://www.developmentaid.org/news-stream/post/206233/philippines-energy-emergency (DevelopmentAid - 98% oil import, PIDS poverty projection)
+
+---
+**2026-06-25 08:06 PHT | threads | SKIPPED - fact-check service unavailable**
+
+**Topic:** Sara Duterte impeachment trial set for July 6, 2026 - accountability delay in the Philippine system
+**Hook:** "The Philippine Vice President's impeachment trial is set to begin July 6."
+**Tagalog beat:** "Hindi ito normal. Ginawang normal lang."
+**Sources:**
+  - https://www.gmanetwork.com/news/topstories/nation/992558/sara-duterte-s-impeachment-trial-set-for-july-6-2026-despite-tight-schedule/story/ (GMA News - trial set July 6)
+  - https://cebudailynews.inquirer.net/740454/vp-saras-impeach-trial-to-show-evidence-of-plot-to-assassinate-first (Inquirer - assassination plot evidence)
+  - https://www.rappler.com/philippines/sara-duterte-impeachment-pre-trial-day-2-swamped-voluminous-documents/ (Rappler - pre-trial)
+**Skip reason:** Attempt 1 blocked on content (contested salary/timeline claims). Attempt 2 blocked by fact-check service HTTP 503 (Gemini unavailable). Both attempts exhausted; clean exit per protocol.

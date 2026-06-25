@@ -2858,3 +2858,15 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
 **Sources:**
   - https://www.oecd.org/en/publications/oecd-economic-surveys-philippines-2026_f0e0c581-en.html (OECD Economic Survey Philippines 2026 - explicitly cites "endo" hiring as a formal employment barrier)
   - https://www.oecd.org/en/about/news/press-releases/2026/02/ambitious-reforms-to-strengthen-competition-and-increase-formal-employment-would-further-boost-the-philippines-growth-trajectory.html (OECD press release - formal employment reforms needed)
+
+---
+**2026-06-25 11:02 PHT | threads | PUBLISHED**
+
+**Topic:** Philippines flood control corruption scandal - P545B spent, P350B with vague/ghost contract markers
+**Hook:** "P545 billion spent on flood control. P350 billion with vague designs or suspected ghost contracts."
+**Tagalog beat:** "Tayo ang nagbabayad. Sila ang nagnanakaw."
+**Sources:**
+  - https://en.wikipedia.org/wiki/Flood_control_projects_scandal_in_the_Philippines (Wikipedia - verified figures)
+  - https://www.gmanetwork.com/news/topstories/specialreports/967723/the-corruption-of-philippine-flood-control-projects/story/ (GMA News)
+  - https://www.scmp.com/week-asia/economics/article/3346029/philippines-budget-deficit-hits-record-us265-billion-corruption-probe-bites (SCMP - budget deficit)
+  - https://edition.cnn.com/2025/12/19/asia/philippines-flood-control-marcos-corruption-dst-intl-hnk (CNN)

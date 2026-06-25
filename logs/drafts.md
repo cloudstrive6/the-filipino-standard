@@ -2924,3 +2924,16 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
 **Sources:**
   - https://www.philstar.com/headlines/2026/05/07/2526251/philippine-economy-slows-28-q1-weakest-5-years (Philstar - Q1 GDP weakest in 5 years)
   - https://business.inquirer.net/589015/philippine-gdp-growth-slows-to-2-8-in-first-quarter (Inquirer Business - GDP slows to 2.8%)
+
+---
+**2026-06-25 18:03 PHT | threads | PUBLISHED (LIVE)**
+
+**Topic:** Meralco June 2026 rate hike to P14.4833/kWh following May red alerts on the Luzon grid
+**Hook:** "Meralco raised its rate again this June - P14.48/kWh for a typical household."
+**Tagalog beat:** "Tayo pa rin ang nagbabayad." (still us paying - specific to the recurring rate hike dynamic)
+**Angle:** Utility monopoly contrast - Meralco bills up while Auckland community energy trust returns NZD 364 per household; system accountability gap
+**Post ID:** sp_2wBjP2YH6uGoan2NRdM40
+**Sources:**
+  - https://www.gmanetwork.com/news/money/companies/991066/meralco-electricity-bills-household-rate/story/ (GMA News - Meralco hikes rate P0.1488/kWh June 2026)
+  - https://www.rappler.com/business/meralco-power-rates-june-2026/ (Rappler - Meralco hikes June rates after May yellow, red alerts)
+  - https://www.pna.gov.ph/articles/1277062 (PNA - Meralco rates up in June)

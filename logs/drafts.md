@@ -2885,3 +2885,16 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
   - https://business.inquirer.net/589015/philippine-gdp-growth-slows-to-2-8-in-first-quarter (Inquirer - GDP confirmation)
   - https://www.gmanetwork.com/news/money/economy/986724/ph-economic-growth-slows-down-to-2-8-in-q1-2026/story/ (GMA News - GDP + capital formation detail)
   - https://tribune.net.ph/2026/05/07/economy-slows-amid-corruption-oil-shock (Tribune - corruption/scandal as causal factor)
+
+---
+**2026-06-25 13:03 PHT | threads | PUBLISHED (LIVE)**
+
+**Topic:** Philippine House passes anti-disinformation bill - 286 votes, up to 12 years prison for "fake news," Senate deliberation pending
+**Hook:** "286 Philippine lawmakers voted to criminalize "fake news." Up to 12 years in prison. It now sits in the Senate."
+**Tagalog beat:** "Sino ang nagtatanggol ng ating Konstitusyon?"
+**Angle:** Constitutional freedom of speech (Article III, Sec. 4) vs. government-defined "fake news" - who decides what's false?
+**Post ID:** sp_tV2Ej8QbBhSBIIvNZ8Jx
+**Sources:**
+  - https://www.pna.gov.ph/articles/1276527 (PNA - House approves anti-disinformation bill, 286 votes, final reading)
+  - https://mb.com.ph/2026/06/04/house-oks-anti-fake-news-troll-farms-bill-on-3rd-reading (Manila Bulletin - House OKs anti-fake news bill)
+  - https://www.hrw.org/news/2026/06/02/philippines-false-information-bill-open-to-abuse (Human Rights Watch - open to abuse warning)

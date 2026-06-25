@@ -2912,3 +2912,15 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
   - https://www.gmanetwork.com/news/topstories/nation/992040/religious-civil-society-groups-march-vs-corruption-political-dynasties/story/ (GMA News - march vs corruption and political dynasties)
   - https://newsinfo.inquirer.net/2249194/groups-to-hold-anticorruption-rally-on-june-28 (Inquirer - groups to hold anti-corruption rally June 28)
   - https://www.philstar.com/headlines/2026/06/20/2536517/another-trillion-peso-march-set-june-28 (Philstar - Trillion Peso March set June 28)
+
+---
+**2026-06-25 17:03 PHT | threads | PUBLISHED (LIVE)**
+
+**Topic:** PH GDP Q1 2026 slowdown (2.8%, weakest since 2021) linked to flood control corruption scandal and budget delays
+**Hook:** "Corruption doesn't just steal money. It kills economic growth."
+**Tagalog beat:** "Ninakaw nang dalawang beses." (Stolen twice - specific to the double-cost argument: stolen funds + economic contraction)
+**Angle:** Corruption has a direct, measurable economic cost - the flood control scandal didn't just steal public funds, it dragged down GDP by denting investor confidence and stalling infrastructure spending
+**Post ID:** sp_bkwGhxjMCIN7JSeiJ
+**Sources:**
+  - https://www.philstar.com/headlines/2026/05/07/2526251/philippine-economy-slows-28-q1-weakest-5-years (Philstar - Q1 GDP weakest in 5 years)
+  - https://business.inquirer.net/589015/philippine-gdp-growth-slows-to-2-8-in-first-quarter (Inquirer Business - GDP slows to 2.8%)

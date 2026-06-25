@@ -2990,3 +2990,16 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
   - https://pia.gov.ph/news/doe-probes-ngcp-over-massive-outages-insists-baseline-power-remains-stable/
   - https://tribune.net.ph/amp/story/2026/06/19/ngcp-studying-move-to-open-grid-projects-to-third-parties
   - https://www.dailyguardian.com.ph/blog/erc-cracks-open-ngcps-grip-on-the-national-grid
+
+---
+**2026-06-25 23:03 PHT | threads | PUBLISHED sp_RkhSCk5ZWoSvVHCMc8Lbe**
+
+**Topic:** Philippines confidential funds system / Sara Duterte impeachment trial
+**Hook:** "₱612.5 million marked 'confidential.' No receipts. No public audit."
+**Angle:** Attack on the confidential funds mechanism as a system designed to make accountability impossible - not on any individual
+**Tagalog beat:** "Pera natin, bawal nating malaman." (Our money, but we're not allowed to know.)
+**Sources:**
+  - https://www.rappler.com/philippines/sara-duterte-plunder-graft-complaint-confidential-funds-2026/ (Rappler - ₱612.5M plunder complaint)
+  - https://newsinfo.inquirer.net/2125949/duterte-finally-reveals-how-deped-confidential-funds-were-spent (Inquirer - DepEd confidential funds)
+  - https://www.gmanetwork.com/news/topstories/nation/992558/impeachment-trial-july-2026/story/ (GMA - trial starts July 6)
+  - https://www.rappler.com/philippines/vice-president-sara-duterte-trial-schedule-2026/ (Rappler - trial schedule confirmed)

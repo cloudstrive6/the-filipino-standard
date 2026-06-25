@@ -2978,3 +2978,15 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
   - https://www.rappler.com/business/gross-domestic-product-philippines-q1-2026/ (Rappler - Q1 2026 GDP 2.8%, weakest since COVID)
   - https://mb.com.ph/2026/06/23/philippines-slipped-to-lower-economic-target-amid-fiscal-paralysis (Manila Bulletin - slipped to lower economic target)
   - https://tribune.net.ph/2026/02/11/flood-scandal-shaved-03-off-gdp-growth-bsp-2 (Tribune - BSP: flood scandal shaved 0.3% off GDP)
+
+---
+**2026-06-25 22:07 PHT | threads | NO PUBLISH - fact-check stopped run**
+
+**Topic attempted:** NGCP 500kV line failure May 13 2026 + ERC opening grid to third parties (June 2026)
+**Hook:** "On May 13, NGCP's 500kV lines tripped and knocked 2,462 megawatts offline. Rolling blackouts hit Luzon and the Visayas."
+**Tagalog beat:** "Tayo ang nag-a-antay sa dilim."
+**Reason stopped:** Fact-check gate failed twice. First pass: "decades" for NGCP tenure was inaccurate (NGCP started 2009, only 17 years). Revised. Second pass: 2,462 MW figure not independently corroborated - other sources cite different numbers (4,000 MW total loss, or individual plant capacities of 734+585+324 MW). Claim disputed; per rules, stopped after one alternative angle.
+**Sources:**
+  - https://pia.gov.ph/news/doe-probes-ngcp-over-massive-outages-insists-baseline-power-remains-stable/
+  - https://tribune.net.ph/amp/story/2026/06/19/ngcp-studying-move-to-open-grid-projects-to-third-parties
+  - https://www.dailyguardian.com.ph/blog/erc-cracks-open-ngcps-grip-on-the-national-grid

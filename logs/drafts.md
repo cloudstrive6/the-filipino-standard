@@ -2898,3 +2898,17 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
   - https://www.pna.gov.ph/articles/1276527 (PNA - House approves anti-disinformation bill, 286 votes, final reading)
   - https://mb.com.ph/2026/06/04/house-oks-anti-fake-news-troll-farms-bill-on-3rd-reading (Manila Bulletin - House OKs anti-fake news bill)
   - https://www.hrw.org/news/2026/06/02/philippines-false-information-bill-open-to-abuse (Human Rights Watch - open to abuse warning)
+
+---
+**2026-06-25 14:02 PHT | threads | PUBLISHED (LIVE)**
+
+**Topic:** White Ribbon Movement anti-corruption rally at EDSA People Power Monument on June 28, 2026 - interfaith and civil society groups demanding end to corruption, anti-political dynasty law, and electoral reform
+**Hook:** "EDSA. June 28. Thousands coming. Not for a politician. Against corruption, political dynasties, and the system that protects both."
+**Tagalog beat:** "Lumalabas na ang tao." (specific to this march - the people coming out)
+**Angle:** People exercising constitutional sovereignty (Article II, Section 1) - the march as the Constitution made visible
+**Post ID:** sp_yYNjPbcsjBnNhtolOVhvI
+**Sources:**
+  - https://www.rappler.com/philippines/religious-civil-society-leaders-anti-corruption-protest-edsa-june-2026/ (Rappler - interfaith groups set June 28 anti-corruption EDSA protest)
+  - https://www.gmanetwork.com/news/topstories/nation/992040/religious-civil-society-groups-march-vs-corruption-political-dynasties/story/ (GMA News - march vs corruption and political dynasties)
+  - https://newsinfo.inquirer.net/2249194/groups-to-hold-anticorruption-rally-on-june-28 (Inquirer - groups to hold anti-corruption rally June 28)
+  - https://www.philstar.com/headlines/2026/06/20/2536517/another-trillion-peso-march-set-june-28 (Philstar - Trillion Peso March set June 28)

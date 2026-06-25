@@ -2870,3 +2870,18 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
   - https://www.gmanetwork.com/news/topstories/specialreports/967723/the-corruption-of-philippine-flood-control-projects/story/ (GMA News)
   - https://www.scmp.com/week-asia/economics/article/3346029/philippines-budget-deficit-hits-record-us265-billion-corruption-probe-bites (SCMP - budget deficit)
   - https://edition.cnn.com/2025/12/19/asia/philippines-flood-control-marcos-corruption-dst-intl-hnk (CNN)
+
+---
+**2026-06-25 12:04 PHT | facebook,instagram | PUBLISHED (LIVE) | scheduled 19:00 PHT**
+
+**Topic:** Philippine GDP hit 2.8% in Q1 2026 - weakest in five years - driven by flood control corruption scandal collapsing public construction spending
+**Hook:** "The economy just hit 2.8% growth. The weakest in five years. No pandemic this time."
+**Tagalog beat:** "Ninakaw ang pera. Ninakaw din ang paglago."
+**Angle:** Economic cost of corruption: ghost contracts don't just steal money, they steal GDP growth. Gross capital formation fell 3.3%. Connects to Article II Sec 4 constitutional duty.
+**Image:** output/images/2026-06-25-corruption-gdp-cost.png
+**Post ID:** sp_VjP2YtDMEBpA72VmQwrc
+**Sources:**
+  - https://www.philstar.com/headlines/2026/05/07/2526251/philippine-economy-slows-28-q1-weakest-5-years (Philstar - GDP 2.8% Q1 2026, weakest in 5 years)
+  - https://business.inquirer.net/589015/philippine-gdp-growth-slows-to-2-8-in-first-quarter (Inquirer - GDP confirmation)
+  - https://www.gmanetwork.com/news/money/economy/986724/ph-economic-growth-slows-down-to-2-8-in-q1-2026/story/ (GMA News - GDP + capital formation detail)
+  - https://tribune.net.ph/2026/05/07/economy-slows-amid-corruption-oil-shock (Tribune - corruption/scandal as causal factor)

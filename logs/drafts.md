@@ -2965,3 +2965,16 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
   - https://newsinfo.inquirer.net/2252782/vp-impeachment-pretrial-wraps-up-on-fifth-day (Inquirer - pretrial wraps up day 5)
   - https://www.gmanetwork.com/news/topstories/nation/992558/impeachment-trial-july-2026/story/ (GMA News - trial set July 6)
   - https://en.wikipedia.org/wiki/Second_impeachment_of_Sara_Duterte (Wikipedia - charges: misuse of confidential funds, unexplained wealth, bribery)
+
+---
+**2026-06-25 21:04 PHT | threads | PUBLISHED (LIVE)**
+
+**Topic:** Philippines Q1 2026 GDP growth at 2.8% - weakest since COVID - with NEDA chief citing flood control corruption controversy as a key cause
+**Hook:** "The Philippines posted its weakest GDP growth since COVID in Q1 2026: 2.8%."
+**Tagalog beat:** "Saan napupunta ang bayad natin?" (where did our payments go - specific to corruption-caused economic drag)
+**Angle:** Corruption as economy-wide drag, not just moral failure - NEDA's own chief connects the flood control scandal to the GDP slowdown; structural governance failure with measurable cost
+**Post ID:** sp_FJ8YIBTHy5831Vo6dpRjr
+**Sources:**
+  - https://www.rappler.com/business/gross-domestic-product-philippines-q1-2026/ (Rappler - Q1 2026 GDP 2.8%, weakest since COVID)
+  - https://mb.com.ph/2026/06/23/philippines-slipped-to-lower-economic-target-amid-fiscal-paralysis (Manila Bulletin - slipped to lower economic target)
+  - https://tribune.net.ph/2026/02/11/flood-scandal-shaved-03-off-gdp-growth-bsp-2 (Tribune - BSP: flood scandal shaved 0.3% off GDP)

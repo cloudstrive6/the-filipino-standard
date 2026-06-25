@@ -2937,3 +2937,18 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
   - https://www.gmanetwork.com/news/money/companies/991066/meralco-electricity-bills-household-rate/story/ (GMA News - Meralco hikes rate P0.1488/kWh June 2026)
   - https://www.rappler.com/business/meralco-power-rates-june-2026/ (Rappler - Meralco hikes June rates after May yellow, red alerts)
   - https://www.pna.gov.ph/articles/1277062 (PNA - Meralco rates up in June)
+
+---
+**2026-06-25 19:07 PHT | facebook,instagram | PUBLISHED (LIVE) | scheduled 20:00 PHT**
+
+**Topic:** Anti-Political Dynasty Act (HB 8389) passes House 267-20-7 on June 3, 2026 - first time in PH history - but critics call it watered-down and hollow; now heads to Senate where dynastic families hold seats
+**Hook:** "Almost 40 years. The 1987 Constitution demanded an anti-dynasty law. The House finally passed one. Critics are calling it hollow."
+**Tagalog beat:** "Nasa kamay nila. Laban sa kanila." (specific to the Senate irony - the power is in the hands of the very dynasties the law targets)
+**Angle:** Constitutional mandate (Art. II Sec. 26) unenforced for nearly four decades; structural problem of asking beneficiaries to dismantle the system that benefits them
+**Image:** output/images/2026-06-25-anti-dynasty-senate.png
+**Post ID:** sp_yfGr3YVlWHGzczMravK6
+**Sources:**
+  - https://www.pna.gov.ph/articles/1276504 (PNA - House passes anti-political dynasty bill on final reading)
+  - https://www.philstar.com/headlines/2026/06/04/2532766/house-oks-anti-political-dynasty-bill-opposition-slams-it-fake-watered-down (Philstar - opposition slams as fake, watered-down)
+  - https://newsinfo.inquirer.net/2239590/house-approves-anti-dynasty-bill-on-final-reading (Inquirer - House approves anti-dynasty bill)
+  - https://www.rappler.com/?p=3185081 (Rappler - first time in history, passes House but hollow)

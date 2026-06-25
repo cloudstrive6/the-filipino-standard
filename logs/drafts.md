@@ -2836,3 +2836,15 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
   - https://cebudailynews.inquirer.net/740454/vp-saras-impeach-trial-to-show-evidence-of-plot-to-assassinate-first (Inquirer - assassination plot evidence)
   - https://www.rappler.com/philippines/sara-duterte-impeachment-pre-trial-day-2-swamped-voluminous-documents/ (Rappler - pre-trial)
 **Skip reason:** Attempt 1 blocked on content (contested salary/timeline claims). Attempt 2 blocked by fact-check service HTTP 503 (Gemini unavailable). Both attempts exhausted; clean exit per protocol.
+
+---
+**2026-06-25 09:02 PHT | threads | PUBLISHED**
+
+**Topic:** White Ribbon March set for June 28, 2026 - anti-corruption, anti-dynasty, electoral reform demands
+**Hook:** "Three days before the White Ribbon March, the demands are clear: end corruption, pass the anti-dynasty bill, reform elections."
+**Tagalog beat:** "Alam ng sistema kung ano ang solusyon. Ayaw lang."
+**Sources:**
+  - https://www.rappler.com/philippines/religious-civil-society-leaders-anti-corruption-protest-edsa-june-2026/ (Rappler)
+  - https://newsinfo.inquirer.net/2249194/groups-to-hold-anticorruption-rally-on-june-28 (Inquirer)
+  - https://www.manilatimes.net/2026/06/25/regions/cebu-catholics-urged-to-join-white-ribbon-movement-against-corruption/2372208 (Manila Times - June 25)
+  - https://www.philstar.com/headlines/2026/06/20/2536517/another-trillion-peso-march-set-june-28 (Philstar)

@@ -2848,3 +2848,13 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
   - https://newsinfo.inquirer.net/2249194/groups-to-hold-anticorruption-rally-on-june-28 (Inquirer)
   - https://www.manilatimes.net/2026/06/25/regions/cebu-catholics-urged-to-join-white-ribbon-movement-against-corruption/2372208 (Manila Times - June 25)
   - https://www.philstar.com/headlines/2026/06/20/2536517/another-trillion-peso-march-set-june-28 (Philstar)
+
+---
+**2026-06-25 10:03 PHT | threads | PUBLISHED**
+
+**Topic:** OECD 2026 survey confirms "endo" (contractualization) is still holding back formal employment and the Philippine economy
+**Hook:** "The OECD just confirmed what Filipino workers have lived for decades: 'endo' isn't just exploitative. It's holding the entire economy back."
+**Tagalog beat:** "Kailan pa ba magbabago?"
+**Sources:**
+  - https://www.oecd.org/en/publications/oecd-economic-surveys-philippines-2026_f0e0c581-en.html (OECD Economic Survey Philippines 2026 - explicitly cites "endo" hiring as a formal employment barrier)
+  - https://www.oecd.org/en/about/news/press-releases/2026/02/ambitious-reforms-to-strengthen-competition-and-increase-formal-employment-would-further-boost-the-philippines-growth-trajectory.html (OECD press release - formal employment reforms needed)

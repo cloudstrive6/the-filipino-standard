@@ -3158,3 +3158,14 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
 **Sources:**
   - https://www.rappler.com/business/meralco-power-rates-june-2026/
   - Entrust NZD $364 dividend (pre-verified brand-context.md §10)
+
+**2026-06-26 20:03 PHT | threads | PUBLISHED LIVE**
+
+**Topic:** Tacloban high school shooting - Senate response is to lower minimum age of criminal responsibility to 10 years old
+**Hook:** "3 students killed at a Tacloban high school. The Senate's response: push to lower the minimum age of criminal responsibility to 10 years old."
+**Angle:** Systemic failure - government punishes children younger instead of fixing school safety infrastructure, mental health programs, and gun accountability. Attack the system, not the individuals.
+**Tagalog beat:** "Saan ba talaga nila gustong dalhin ito?" (specific to the legislative direction: where do they really want to take this?)
+**Sources:**
+  - https://newsinfo.inquirer.net/2250793/school-shooting-kills-3-students-in-tacloban
+  - https://www.rappler.com/people/crimes/things-to-know-tacloban-school-shooting-june-2026/
+  - https://en.wikipedia.org/wiki/2026_Tacloban_school_shooting

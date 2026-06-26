@@ -3169,3 +3169,13 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
   - https://newsinfo.inquirer.net/2250793/school-shooting-kills-3-students-in-tacloban
   - https://www.rappler.com/people/crimes/things-to-know-tacloban-school-shooting-june-2026/
   - https://en.wikipedia.org/wiki/2026_Tacloban_school_shooting
+
+**2026-06-26 21:02 PHT | threads | PUBLISHED LIVE**
+
+**Topic:** US MCC approves $60 million grant to modernize Philippines energy sector governance
+**Hook:** "The US just approved a $60 million grant to help fix the Philippines' electricity sector."
+**Angle:** Regulatory institutional failure - the ERC has existed for 25 years specifically to regulate power prices and protect consumers, yet PH needs foreign aid to fix what its own agency was built to do. Attacks the system, not individuals.
+**Tagalog beat:** "Dalawang dekada na. Walang nagbago." (specific to the ERC's 25-year existence with no meaningful reform)
+**Sources:**
+  - https://mb.com.ph/2026/06/26/us-aid-agency-mcc-clears-philippine-energy-grant-amid-national-emergency
+  - https://mb.com.ph/2026/06/26/philippines-eyes-larger-us-aid-as-60-million-mcc-grant-nears-approval

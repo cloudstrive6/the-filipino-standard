@@ -3079,3 +3079,15 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
   - https://www.rappler.com/voices/thought-leaders/pinoy-criminology-tacloban-school-shooting-challenge-juvenile-justice/
   - https://newsinfo.inquirer.net/2251405/juvenile-justice-law-what-many-filipinos-often-misunderstand
   - https://www.sunstar.com.ph/cebu/pnp-backs-lower-age-of-criminal-responsibility
+
+---
+**2026-06-26 13:04 PHT | threads | PUBLISHED LIVE**
+
+**Topic:** Meralco June 2026 rate hike
+**Hook:** "Your June Meralco bill is going up. P0.1488/kWh more, because WESM prices spiked during Red Alert days."
+**Angle:** Utility reform - private ownership means consumers absorb market risk (WESM spikes) but never share in profits or dividends. Structural critique of privatized electricity distribution.
+**Tagalog beat:** "Ang pananalo, sa kanila. Ang talo, sa 'yo." (specific to the profit/risk asymmetry of private utility ownership)
+**Sources:**
+  - https://www.rappler.com/business/meralco-power-rates-june-2026/
+  - https://www.gmanetwork.com/news/money/companies/991066/meralco-electricity-bills-household-rate/story/
+  - https://company.meralco.com.ph/news-and-advisories/higher-residential-rates-june-2026

@@ -3103,3 +3103,14 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
   - https://www.rappler.com/philippines/sara-duterte-impeachment-moves-trial-pre-trial-conference-conclusion/
   - https://www.aljazeera.com/news/2026/5/18/philippines-launches-vp-duterte-impeachment-trial-amid-political-division
   - https://thediplomat.com/2026/05/philippine-senate-kicks-off-impeachment-trial-of-vice-president-sara-duterte/
+
+---
+**2026-06-26 15:03 PHT | threads | PUBLISHED LIVE**
+
+**Topic:** Philippines record budget deficit driven by flood control corruption
+**Hook:** "Flood control corruption cost the Philippine economy up to P118.5 billion - the Department of Finance's own estimate."
+**Angle:** Structural accountability failure - corruption creates debt that taxpayers repay for decades while contractors face no consequences; the system that enables this is the story.
+**Tagalog beat:** "Utang ng katiwalian, ikaw ang nagbabayad." (specific to the debt/corruption irony: the victims of corruption pay the resulting deficit)
+**Sources:**
+  - https://www.rappler.com/business/dof-ghost-flood-control-projects-economic-losses/
+  - https://www.scmp.com/week-asia/economics/article/3346029/philippines-budget-deficit-hits-record-us265-billion-corruption-probe-bites

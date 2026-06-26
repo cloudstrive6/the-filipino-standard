@@ -3202,3 +3202,13 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
   - https://business.inquirer.net/573530/philippine-recovery-clouded-by-graft-probe-weak-infrastructure-investment-anz
   - https://asia.nikkei.com/economy/philippines-lifts-2026-spending-cuts-growth-target-amid-graft-concerns
   - https://newsinfo.inquirer.net/2252873/govt-ramps-up-infrastructure-spending-to-revive-economy-palace-says
+
+**Topic:** SSS advances 2026 pension hike to June; but 2 in 3 Filipino workers are informal with no SSS coverage
+**Hook:** "SSS just moved up the 2026 pension hike to June."
+**Angle:** Systemic exclusion - the pension advance is good news for the 1 in 3 workers with formal jobs, but the 2 in 3 in informal work have no SSS coverage and receive nothing. The system celebrates helping the few while structurally excluding the majority.
+**Tagalog beat:** "Dalawa sa tatlo, wala." (specific to the 2-in-3 informal workers who get no benefit)
+**Sources:**
+  - https://pia.gov.ph/news/sss-advances-release-of-2026-pension-hike/
+  - https://www.oecd.org/en/publications/oecd-economic-surveys-philippines-2026_f0e0c581-en/full-report/strengthening-formal-employment-and-social-protection_9c646caa.html
+
+**2026-06-27 06:03 PHT | threads | PUBLISHED LIVE**

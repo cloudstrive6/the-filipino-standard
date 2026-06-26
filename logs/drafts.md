@@ -3191,3 +3191,14 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
   - https://newsinfo.inquirer.net/2249194/groups-to-hold-anticorruption-rally-on-june-28
   - https://www.pna.gov.ph/articles/1278135
   - https://www.gmanetwork.com/news/topstories/nation/992040/religious-civil-society-groups-march-vs-corruption-political-dynasties/story/
+
+**2026-06-26 23:04 PHT | threads | PUBLISHED LIVE**
+
+**Topic:** PH infrastructure spending collapsed 45% in Jan-Apr 2026 due to flood-control graft scandal; growth target slashed; Malacañang now plans to ramp up spending in H2
+**Hook:** "PH infrastructure spending collapsed 45% in the first four months of 2026."
+**Angle:** Systemic graft cycle - the pressure to spend fast enabled the corruption, the crackdown crushed economic output, and the government's fix is to spend fast again. The cycle never breaks.
+**Tagalog beat:** "Ikot-ikot lang." (specific to the cyclical graft-crackdown-spend-repeat pattern)
+**Sources:**
+  - https://business.inquirer.net/573530/philippine-recovery-clouded-by-graft-probe-weak-infrastructure-investment-anz
+  - https://asia.nikkei.com/economy/philippines-lifts-2026-spending-cuts-growth-target-amid-graft-concerns
+  - https://newsinfo.inquirer.net/2252873/govt-ramps-up-infrastructure-spending-to-revive-economy-palace-says

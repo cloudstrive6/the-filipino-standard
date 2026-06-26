@@ -3054,3 +3054,15 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
   - https://psa.gov.ph/content/gdp-grows-28-percent-first-quarter-2026 (PSA official - 2.8% Q1 2026)
   - https://www.philstar.com/headlines/2026/05/07/2526251/philippine-economy-slows-28-q1-weakest-5-years (Philstar - weakest in 5 years)
   - https://businessmirror.com.ph/2026/05/07/gdp-q1-growth-a-mere-2-8-2026-goal-at-risk/ (BusinessMirror - flood-control corruption cause)
+
+---
+**2026-06-26 11:04 PHT | threads | PUBLISHED LIVE**
+
+**Topic:** White Ribbon Movement / June 28 anti-corruption march at EDSA
+**Hook:** "This Sunday at EDSA, interfaith and civil society groups march for three demands that keep coming back: accountability, an anti-dynasty law, and real electoral reform."
+**Angle:** Filipino empowerment / constitutional awareness - citizens exercising Article III Sec 4 rights, systemic critique of recurring unfulfilled demands (accountability, anti-dynasty law, electoral reform). Attacks systems not individuals.
+**Tagalog beat:** "Mga taon na. Iisang listahan pa rin." (specific to the recurring/unchanged demand list of the White Ribbon Movement)
+**Sources:**
+  - https://www.rappler.com/philippines/religious-civil-society-leaders-anti-corruption-protest-edsa-june-2026/
+  - https://www.gmanetwork.com/news/topstories/nation/992040/religious-civil-society-groups-march-vs-corruption-political-dynasties/story/
+  - https://newsinfo.inquirer.net/2249194/groups-to-hold-anticorruption-rally-on-june-28

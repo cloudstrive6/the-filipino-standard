@@ -3015,3 +3015,17 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
   - https://asean2026.gov.ph/post/view/?title=ph-to-endorse-priority-economic-initiatives-during-asean-economic-ministers-retreat (ASEAN 2026 PH - economic ministers retreat, priority initiatives)
   - https://www.oecd.org/en/about/news/press-releases/2026/02/ambitious-reforms-to-strengthen-competition-and-increase-formal-employment-would-further-boost-the-philippines-growth-trajectory.html (OECD 2026 - domestic reform gaps context)
 **Fact-check:** PASSED - ASEAN 2026 chairmanship verified (Philippines assumed chairmanship Jan 1 2026, hosted 48th ASEAN Summit in Cebu under Marcos)
+
+---
+**2026-06-26 08:09 PHT | facebook,instagram | PUBLISHED sp_seBdoGrfRRRbR8ivuFX0R**
+
+**Topic:** Philippines anti-political dynasty bill passed by House, critics call it "fake" and "pro-dynasty"
+**Hook:** "Congress just passed the Philippines' first anti-dynasty law. Critics are already calling it 'fake' and 'pro-dynasty.'"
+**Angle:** Constitutional mandate (Art. II, Sec. 26, 1987) unfulfilled for 39 years; the bill passed but lacks succession ban and cross-jurisdiction loopholes; dynasties co-authored the bill meant to constrain them. System attack, no individuals named.
+**Tagalog beat:** "Sila ang sumulat ng batas laban sa kanila." (They wrote the law against themselves.) - specific to the irony of dynasties as principal authors of the anti-dynasty bill; fresh, not recycled.
+**Scheduled:** 2026-06-26 19:00 PHT (peak slot)
+**Sources:**
+  - https://www.rappler.com/philippines/house-passes-weak-anti-dynasty-bill-june-3-2026/ (Rappler - "fake," loopholes analysis)
+  - https://www.philstar.com/headlines/2026/06/04/2532766/house-oks-anti-political-dynasty-bill-opposition-slams-it-fake-watered-down (Philstar - "fake," "watered-down")
+  - https://www.pna.gov.ph/articles/1276504 (PNA - vote count 267-20)
+  - https://newsinfo.inquirer.net/2239590/house-approves-anti-dynasty-bill-on-final-reading (Inquirer - third and final reading)

@@ -3042,3 +3042,15 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
   - https://en.wikipedia.org/wiki/2026_Philippine_energy_crisis
   - https://www.gmanetwork.com/news/money/economy/982514/philippine-government-efforts-power-costs-oil-prices/story/
   - https://icsc.ngo/philippine-power-supply-for-q2-2026-remains-sufficient-but-thin-reserves-leave-grid-at-risk-amid-demand-surge-and-plant-outages/
+
+---
+**2026-06-26 10:04 PHT | threads | PUBLISHED LIVE**
+
+**Topic:** Philippine GDP Q1 2026 - weakest economic growth in 5 years driven by flood-control corruption scandal
+**Hook:** "The Philippines posted its weakest economic growth in 5 years last quarter: 2.8%."
+**Angle:** Corruption as economic sabotage - flood-control scandal froze infrastructure spending, causing industry and agriculture to both contract. Attacks the system, not individuals.
+**Tagalog beat:** "Ninakaw ang pondo. Natigil ang paglago. Sino ang magbabayad? Tayo." (fresh, specific to stolen infrastructure funds killing GDP growth)
+**Sources:**
+  - https://psa.gov.ph/content/gdp-grows-28-percent-first-quarter-2026 (PSA official - 2.8% Q1 2026)
+  - https://www.philstar.com/headlines/2026/05/07/2526251/philippine-economy-slows-28-q1-weakest-5-years (Philstar - weakest in 5 years)
+  - https://businessmirror.com.ph/2026/05/07/gdp-q1-growth-a-mere-2-8-2026-goal-at-risk/ (BusinessMirror - flood-control corruption cause)

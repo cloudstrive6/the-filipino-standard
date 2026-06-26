@@ -3066,3 +3066,16 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
   - https://www.rappler.com/philippines/religious-civil-society-leaders-anti-corruption-protest-edsa-june-2026/
   - https://www.gmanetwork.com/news/topstories/nation/992040/religious-civil-society-groups-march-vs-corruption-political-dynasties/story/
   - https://newsinfo.inquirer.net/2249194/groups-to-hold-anticorruption-rally-on-june-28
+
+---
+**2026-06-26 12:04 PHT | threads | PUBLISHED LIVE**
+
+**Topic:** Tacloban school shooting / juvenile justice reform debate
+**Hook:** "Three students are dead after a school shooting in Tacloban. The PNP's response: lower the age of criminal liability to 12."
+**Angle:** Systemic critique - the reflexive push to criminalize minors vs. unaddressed gaps in gun owner accountability, school mental health services. Attacks the punishment-first instinct instead of prevention failures.
+**Tagalog beat:** "Ang sistema ang unang nagpalya. Sila pa ang sisisihin." (specific to system-first failure, child blamed after)
+**Sources:**
+  - https://www.sunstar.com.ph/cebu/gun-law-reforms-pushed-after-fatal-tacloban-school-shooting
+  - https://www.rappler.com/voices/thought-leaders/pinoy-criminology-tacloban-school-shooting-challenge-juvenile-justice/
+  - https://newsinfo.inquirer.net/2251405/juvenile-justice-law-what-many-filipinos-often-misunderstand
+  - https://www.sunstar.com.ph/cebu/pnp-backs-lower-age-of-criminal-responsibility

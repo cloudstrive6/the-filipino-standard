@@ -3179,3 +3179,15 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
 **Sources:**
   - https://mb.com.ph/2026/06/26/us-aid-agency-mcc-clears-philippine-energy-grant-amid-national-emergency
   - https://mb.com.ph/2026/06/26/philippines-eyes-larger-us-aid-as-60-million-mcc-grant-nears-approval
+
+**2026-06-26 22:04 PHT | threads | PUBLISHED LIVE**
+
+**Topic:** Anti-dynasty law: House passed HB 8389 on June 3 after 39 years; Senate version (SB 1901) still pending; White Ribbon Movement rally at EDSA on Sunday June 28
+**Hook:** "The 1987 Constitution mandated a law against political dynasties."
+**Angle:** Constitutional mandate vs. systemic delay - the House finally moved after 39 years but the Senate is still deliberating, while Filipinos march this Sunday to demand what the Constitution already promised.
+**Tagalog beat:** "Hintay pa rin. Lagi na lang hintay." (specific to the decades-long wait for the Senate to act on what the Constitution already mandated)
+**Sources:**
+  - https://www.rappler.com/philippines/religious-civil-society-leaders-anti-corruption-protest-edsa-june-2026/
+  - https://newsinfo.inquirer.net/2249194/groups-to-hold-anticorruption-rally-on-june-28
+  - https://www.pna.gov.ph/articles/1278135
+  - https://www.gmanetwork.com/news/topstories/nation/992040/religious-civil-society-groups-march-vs-corruption-political-dynasties/story/

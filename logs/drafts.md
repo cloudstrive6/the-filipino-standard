@@ -3125,3 +3125,14 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
 **Sources:**
   - https://newsinfo.inquirer.net/2248388/senate-row-ends-gatchalian-takes-helm-cayetano-yields
   - https://www.rappler.com/philippines/senate-coups-gunshots-standoff-2026-mess/
+
+---
+**2026-06-26 17:03 PHT | threads | PUBLISHED LIVE**
+
+**Topic:** Philippine impeachment trial - constitutional accountability mechanism being tested
+**Hook:** "The Philippine Constitution gives Filipinos the power of impeachment, a check on officials who abuse their position."
+**Angle:** Constitutional systems framing - the mechanism exists; July 6 tests whether the institution delivers. Focuses on process and institutional strength, not any individual.
+**Tagalog beat:** "Nasa sistema ang sagot. Kaya lang, kailan pa natin makikita?" (specific to the constitutional/institutional test: the answer is in the system - but when will we actually see it work?)
+**Sources:**
+  - https://www.rappler.com/philippines/vice-president-sara-duterte-trial-schedule-2026/
+  - https://www.aljazeera.com/news/2026/5/18/philippines-launches-vp-duterte-impeachment-trial-amid-political-division

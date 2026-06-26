@@ -3148,3 +3148,13 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
   - https://www.gmanetwork.com/news/topstories/nation/981581/marcos-ph-has-enough-crude-oil-until-june-30-2026/story/
   - https://www.rappler.com/philippines/marcos-enough-crude-oil-supply-until-june-30/
   - https://newsinfo.inquirer.net/2202216/marcos-on-crude-oil
+
+**2026-06-26 19:04 PHT | threads | PUBLISHED LIVE**
+
+**Topic:** Meralco June 2026 rate hike vs. Auckland community trust dividend
+**Hook:** "Meralco raised its June 2026 rates by P0.1488 per kWh. Another billing cycle, another hike."
+**Angle:** Consumer extraction vs. community ownership - while Meralco hiked rates in June 2026 citing WESM price spikes, Auckland's community-owned power trust paid NZD $364 back to each household in 2025. The contrast frames it as a policy choice, not a natural law.
+**Tagalog beat:** "Tumaas na naman. Walang ibabalik." (specific to the rate hike: it went up again, and nothing is ever given back)
+**Sources:**
+  - https://www.rappler.com/business/meralco-power-rates-june-2026/
+  - Entrust NZD $364 dividend (pre-verified brand-context.md §10)

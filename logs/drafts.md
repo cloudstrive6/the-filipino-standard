@@ -3114,3 +3114,14 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
 **Sources:**
   - https://www.rappler.com/business/dof-ghost-flood-control-projects-economic-losses/
   - https://www.scmp.com/week-asia/economics/article/3346029/philippines-budget-deficit-hits-record-us265-billion-corruption-probe-bites
+
+---
+**2026-06-26 16:03 PHT | threads | PUBLISHED LIVE**
+
+**Topic:** Philippine Senate ends weeks-long leadership battle, Gatchalian elected Senate President
+**Hook:** "The Philippine Senate just ended a weeks-long internal leadership battle - walk-outs, legal petitions, and a constitutional standoff."
+**Angle:** Systemic critique - the institution meant to be the country's strongest check on executive power was consumed by an internal power struggle; accountability deferred while the leadership fought over who holds the gavel.
+**Tagalog beat:** "Nagtatalo sila kung sino ang mauupo. Tayo ang naghihintay pa rin." (specific to Senate leadership contest: they argue over who gets to sit, we keep waiting)
+**Sources:**
+  - https://newsinfo.inquirer.net/2248388/senate-row-ends-gatchalian-takes-helm-cayetano-yields
+  - https://www.rappler.com/philippines/senate-coups-gunshots-standoff-2026-mess/

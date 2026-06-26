@@ -3212,3 +3212,15 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
   - https://www.oecd.org/en/publications/oecd-economic-surveys-philippines-2026_f0e0c581-en/full-report/strengthening-formal-employment-and-social-protection_9c646caa.html
 
 **2026-06-27 06:03 PHT | threads | PUBLISHED LIVE**
+
+**2026-06-27 07:04 PHT | threads | PUBLISHED LIVE**
+
+**Topic:** Philippines' first anti-dynasty bill (HB 8389) passed by House in June 2026, authored by members of political dynasties; White Ribbon Movement marches June 28 to demand a real one
+**Hook:** "The Philippines just passed its first-ever anti-dynasty bill."
+**Angle:** Systemic self-preservation - the dynasty wrote the dynasty law. The first-ever House passage of an anti-dynasty bill was authored by a Marcos and a Dy; critics say it institutionalizes dynasties. Citizens march June 28 at EDSA to demand a genuine law.
+**Tagalog beat:** "Sino ang nag-draft ng batas? Yung mga dynastiya mismo." (specific to the irony of dynasties authoring the anti-dynasty bill)
+**Sources:**
+  - https://newsinfo.inquirer.net/2239590/house-approves-anti-dynasty-bill-on-final-reading
+  - https://www.rappler.com/philippines/house-passes-weak-anti-dynasty-bill-june-3-2026/
+  - https://newsinfo.inquirer.net/2249194/groups-to-hold-anticorruption-rally-on-june-28
+  - https://www.gmanetwork.com/news/topstories/nation/992040/religious-civil-society-groups-march-vs-corruption-political-dynasties/story/

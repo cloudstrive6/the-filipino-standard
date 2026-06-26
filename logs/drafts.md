@@ -3136,3 +3136,15 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
 **Sources:**
   - https://www.rappler.com/philippines/vice-president-sara-duterte-trial-schedule-2026/
   - https://www.aljazeera.com/news/2026/5/18/philippines-launches-vp-duterte-impeachment-trial-amid-political-division
+
+---
+**2026-06-26 18:03 PHT | threads | PUBLISHED LIVE**
+
+**Topic:** Philippines crude oil supply runs out June 30 amid state of national energy emergency
+**Hook:** "The Philippines has crude oil supply until June 30. That's 4 days from now."
+**Angle:** Systemic vulnerability - a 118-million-person nation dependent on 98% Middle East crude imports; one conflict in the Strait of Hormuz triggers a national emergency, exposing a critical failure in long-term energy diversification policy.
+**Tagalog beat:** "Importado ang langis. Importado rin ang krisis." (specific to oil-import dependence: the oil is imported, and so is the crisis)
+**Sources:**
+  - https://www.gmanetwork.com/news/topstories/nation/981581/marcos-ph-has-enough-crude-oil-until-june-30-2026/story/
+  - https://www.rappler.com/philippines/marcos-enough-crude-oil-supply-until-june-30/
+  - https://newsinfo.inquirer.net/2202216/marcos-on-crude-oil

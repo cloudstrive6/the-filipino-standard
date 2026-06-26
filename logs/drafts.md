@@ -3029,3 +3029,16 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
   - https://www.philstar.com/headlines/2026/06/04/2532766/house-oks-anti-political-dynasty-bill-opposition-slams-it-fake-watered-down (Philstar - "fake," "watered-down")
   - https://www.pna.gov.ph/articles/1276504 (PNA - vote count 267-20)
   - https://newsinfo.inquirer.net/2239590/house-approves-anti-dynasty-bill-on-final-reading (Inquirer - third and final reading)
+
+---
+**2026-06-26 09:03 PHT | threads | NOT PUBLISHED (fact-check blocked)**
+
+**Topic:** Philippines 2026 energy crisis - June 30 oil reserve deadline
+**Hook:** "The Philippines declared a state of national energy emergency in March."
+**Angle:** System failure - decades of fossil fuel dependence, no renewable buildout, crisis exposed by global supply shock. Attacks inaction, not individuals.
+**Tagalog beat:** "Mahal ang kuryente. Madilim pa rin." (specific to electricity crisis: high prices + brownouts)
+**Reason stopped:** First draft failed fact-check (diesel ₱130+ claim was a historical peak not current; WESM had resumed). Revised draft failed on "nearly 2 million people" figure (verifiable figure is 540k+ Meralco customers, not 2M). One retry used - clean stop per protocol.
+**Sources:**
+  - https://en.wikipedia.org/wiki/2026_Philippine_energy_crisis
+  - https://www.gmanetwork.com/news/money/economy/982514/philippine-government-efforts-power-costs-oil-prices/story/
+  - https://icsc.ngo/philippine-power-supply-for-q2-2026-remains-sufficient-but-thin-reserves-leave-grid-at-risk-amid-demand-surge-and-plant-outages/

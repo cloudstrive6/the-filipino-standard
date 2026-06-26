@@ -3091,3 +3091,15 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
   - https://www.rappler.com/business/meralco-power-rates-june-2026/
   - https://www.gmanetwork.com/news/money/companies/991066/meralco-electricity-bills-household-rate/story/
   - https://company.meralco.com.ph/news-and-advisories/higher-residential-rates-june-2026
+
+---
+**2026-06-26 14:03 PHT | threads | PUBLISHED LIVE**
+
+**Topic:** Sara Duterte impeachment - trial proper begins July 6
+**Hook:** "Impeachment pre-trial wrapped June 25. Trial proper begins July 6."
+**Angle:** Constitutional accountability mechanism - whether the Senate as an institution can actually exercise the conviction power when embedded in the political ecosystem it would have to disrupt.
+**Tagalog beat:** "Ang tanong ngayon: gagana ba ang Konstitusyon?" (specific to this constitutional test moment)
+**Sources:**
+  - https://www.rappler.com/philippines/sara-duterte-impeachment-moves-trial-pre-trial-conference-conclusion/
+  - https://www.aljazeera.com/news/2026/5/18/philippines-launches-vp-duterte-impeachment-trial-amid-political-division
+  - https://thediplomat.com/2026/05/philippine-senate-kicks-off-impeachment-trial-of-vice-president-sara-duterte/

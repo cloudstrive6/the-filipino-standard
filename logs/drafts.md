@@ -3259,3 +3259,13 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
   - https://www.gmanetwork.com/news/topstories/nation/992040/religious-civil-society-groups-march-vs-corruption-political-dynasties/story/
   - https://www.philstar.com/headlines/2026/06/27/2538049/all-set-june-28-white-ribbon-march
   - https://www.pna.gov.ph/articles/1276504
+
+**2026-06-27 11:04 PHT | threads | PUBLISHED LIVE**
+
+**Topic:** Sara Duterte impeachment - VP's tax records sealed in a box; systemic opacity of Philippine public official financial disclosure
+**Hook:** "House prosecutors are fighting for court access to the VP's tax records. They're literally sealed in a box."
+**Angle:** Systemic transparency failure - in countries with real accountability, public officials' financial disclosures are open by default; here, it requires a constitutional impeachment trial just to access them
+**Tagalog beat:** "Dapat handa silang siyasatin kung gusto nilang mamuno." (specific to officials who seek power but resist scrutiny)
+**Sources:**
+  - https://newsinfo.inquirer.net/ (June 27 2026 coverage of impeachment proceedings)
+  - https://www.rappler.com/ (June 27 2026 coverage of BIR sealed box / House prosecutors)

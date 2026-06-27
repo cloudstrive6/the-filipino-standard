@@ -3367,3 +3367,13 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
   - https://psa.gov.ph/content/gdp-grows-28-percent-first-quarter-2026
   - https://www.philstar.com/headlines/2026/05/07/2526251/philippine-economy-slows-28-q1-weakest-5-years
   - https://business.inquirer.net/589015/philippine-gdp-growth-slows-to-2-8-in-first-quarter
+
+**2026-06-27 22:02 PHT | threads | PUBLISHED LIVE**
+**Topic:** White Ribbon Movement - 10,000 Filipinos marching to EDSA June 28, 2026 demanding anti-corruption, anti-dynasty law, electoral reform
+**Hook:** "10,000 Filipinos march to EDSA tomorrow."
+**Angle:** These three demands are not new - decades of asking, system keeps blocking. Sharp question closer.
+**Tagalog beat:** "Sino ang hadlang?" (fresh: specific to blocked structural reforms - who is the obstacle?)
+**Sources:**
+  - https://www.rappler.com/philippines/religious-civil-society-leaders-anti-corruption-protest-edsa-june-2026/
+  - https://www.gmanetwork.com/news/topstories/nation/992040/religious-civil-society-groups-march-vs-corruption-political-dynasties/story/
+  - https://newsinfo.inquirer.net/2249194/groups-to-hold-anticorruption-rally-on-june-28

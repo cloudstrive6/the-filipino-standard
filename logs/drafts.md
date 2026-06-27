@@ -3291,3 +3291,13 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
   - https://www.pna.gov.ph/articles/1278135
   - https://www.gmanetwork.com/news/topstories/nation/992040/religious-civil-society-groups-march-vs-corruption-political-dynasties/story/
   - https://www.manilatimes.net/2026/06/27/news/national/anti-corruption-rally-to-affect-sunday-traffic/2373862
+
+**2026-06-27 15:03 PHT | threads | PUBLISHED LIVE**
+
+**Topic:** Meralco June 2026 rate hike - P14.4833/kWh, Red Alert on Luzon grid in May
+**Hook:** "Meralco rates went up again. P14.4833 per kWh this June."
+**Angle:** Ownership structure means profits flow to shareholders (MPIC, JG Summit), not back to customers - contrast with NZ community energy trusts returning dividends to households
+**Tagalog beat:** "Bayad ka lang, walang kapalit." (specific to the billing situation: you just pay, nothing in return)
+**Sources:**
+  - https://www.rappler.com/business/meralco-power-rates-june-2026/
+  - https://www.gmanetwork.com/news/money/companies/991066/meralco-electricity-bills-household-rate/story/

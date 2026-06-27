@@ -3279,3 +3279,15 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
   - https://www.iseas.edu.sg/articles-commentaries/iseas-perspective/2026-38-the-philippine-economy-in-2026-growth-under-siege-by-jc-punongbayan/
 
 **2026-06-27 12:02 PHT | threads | PUBLISHED LIVE**
+
+**2026-06-27 14:03 PHT | threads | PUBLISHED LIVE**
+
+**Topic:** White Ribbon Movement - 4th interfaith anti-corruption rally at EDSA, June 28 2026
+**Hook:** "Tomorrow, Filipinos march at EDSA again."
+**Angle:** Systemic non-responsiveness - the fact that this is already the 4th interfaith rally proves the system hasn't been listening; over 9,000 cops deployed to "secure" the people demanding accountability
+**Tagalog beat:** "Martsa na naman. Dahil wala pang nagbago." (specific to recurring anti-corruption marches that haven't moved the system)
+**Sources:**
+  - https://www.rappler.com/philippines/religious-civil-society-leaders-anti-corruption-protest-edsa-june-2026/
+  - https://www.pna.gov.ph/articles/1278135
+  - https://www.gmanetwork.com/news/topstories/nation/992040/religious-civil-society-groups-march-vs-corruption-political-dynasties/story/
+  - https://www.manilatimes.net/2026/06/27/news/national/anti-corruption-rally-to-affect-sunday-traffic/2373862

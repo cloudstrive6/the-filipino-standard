@@ -3346,3 +3346,14 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
   - https://www.philstar.com/headlines/2026/06/27/2538049/all-set-june-28-white-ribbon-march
   - https://newsinfo.inquirer.net/2249194/groups-to-hold-anticorruption-rally-on-june-28
   - https://en.wikipedia.org/wiki/2025%E2%80%932026_Philippine_anti-corruption_protests
+
+**Topic:** Meralco June 2026 rate hike - P14.4833/kWh amid tight Luzon grid supply
+**Hook:** "Meralco raised rates again. June 2026: P14.4833/kWh."
+**Angle:** Utility monopoly with no refund mechanism vs. Auckland community-owned power trust that paid NZD $364 per household in 2025. Rate hike driven by WESM tight supply conditions - systemic underinvestment, no community ownership, no accountability.
+**Tagalog beat:** "Bayad nang bayad, sila lang ang nakikinabang." (fresh beat: specific to utility monopoly extraction - we keep paying, only they benefit)
+**Sources:**
+  - https://www.rappler.com/business/meralco-power-rates-june-2026/
+  - https://www.gmanetwork.com/news/money/companies/991066/meralco-electricity-bills-household-rate/story/
+  - https://company.meralco.com.ph/news-and-advisories/higher-residential-rates-june-2026
+
+**2026-06-27 20:03 PHT | threads | PUBLISHED LIVE**

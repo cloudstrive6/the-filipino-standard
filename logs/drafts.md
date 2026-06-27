@@ -3357,3 +3357,13 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
   - https://company.meralco.com.ph/news-and-advisories/higher-residential-rates-june-2026
 
 **2026-06-27 20:03 PHT | threads | PUBLISHED LIVE**
+
+**2026-06-27 21:04 PHT | threads | PUBLISHED LIVE**
+**Topic:** Philippines GDP 2.8% in Q1 2026 - weakest since 2021, linked to flood-control graft scandal freezing infrastructure spending
+**Hook:** "Philippines GDP: 2.8% in Q1 2026. Weakest since 2021."
+**Angle:** Corruption's economic cost is measurable - DEPDev Secretary Balisacan directly blamed flood-control graft for slowing infrastructure disbursements and crushing business confidence (-24.3% BCI in March 2026)
+**Tagalog beat:** "Sino ang magbabayad sa huli?" (fresh - specific to economic cost of corruption falling on ordinary Filipinos, not the corrupt officials)
+**Sources:**
+  - https://psa.gov.ph/content/gdp-grows-28-percent-first-quarter-2026
+  - https://www.philstar.com/headlines/2026/05/07/2526251/philippine-economy-slows-28-q1-weakest-5-years
+  - https://business.inquirer.net/589015/philippine-gdp-growth-slows-to-2-8-in-first-quarter

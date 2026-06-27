@@ -3323,3 +3323,13 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
   - https://tribune.net.ph/2026/02/12/philippines-falls-to-120th-in-2025-corruption-index
   - https://www.gmanetwork.com/news/topstories/nation/976073/ph-ranks-120th-out-of-182-countries-in-corruption-perceptions-index/story/
   - https://www.transparency.org/en/cpi/2025/index/phl
+
+**2026-06-27 18:02 PHT | threads | PUBLISHED LIVE**
+
+**Topic:** Philippines 2027 national budget PHP 7.2 trillion amid slashed GDP growth target
+**Hook:** "The current administration just proposed a PHP 7.2 trillion budget for 2027."
+**Angle:** Budget growing 6% while 2026 GDP target was slashed from 5-6% to 3.5-4.5% due to flood control corruption scandals - bigger spending, slower growth, same accountability gap
+**Tagalog beat:** "Walang nakulong. Lalaki pa rin ang badyet." (fresh beat: nobody went to jail, yet the budget keeps growing - specific to corruption + budget expansion story)
+**Sources:**
+  - https://www.philstar.com/headlines/2026/06/27/2538083/government-proposes-p72-trillion-national-budget-2027
+  - https://www.pna.gov.ph/articles/1278181

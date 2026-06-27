@@ -3333,3 +3333,16 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
 **Sources:**
   - https://www.philstar.com/headlines/2026/06/27/2538083/government-proposes-p72-trillion-national-budget-2027
   - https://www.pna.gov.ph/articles/1278181
+
+**2026-06-27 20:00 PHT | facebook,instagram | PUBLISHED LIVE**
+
+**Topic:** White Ribbon March - June 28 EDSA anti-corruption rally
+**Hook:** "Tomorrow, Filipinos march at EDSA. Not for a party. Not for a candidate. For accountability."
+**Angle:** Constitutional rights framing (Art. III Sec. 4 + Art. II Sec. 4) around the interfaith White Ribbon March - three demands: end corruption, anti-dynasty law, electoral reform. Backdrop of flood control ghost projects. Non-partisan civic pressure angle.
+**Tagalog beat:** "Nakasulat sa Konstitusyon. Gamitin natin." (fresh - specific to Constitutional rights being exercised, not recycled)
+**Image:** output/images/2026-06-27-white-ribbon-march.png
+**Sources:**
+  - https://www.rappler.com/philippines/religious-civil-society-leaders-anti-corruption-protest-edsa-june-2026/
+  - https://www.philstar.com/headlines/2026/06/27/2538049/all-set-june-28-white-ribbon-march
+  - https://newsinfo.inquirer.net/2249194/groups-to-hold-anticorruption-rally-on-june-28
+  - https://en.wikipedia.org/wiki/2025%E2%80%932026_Philippine_anti-corruption_protests

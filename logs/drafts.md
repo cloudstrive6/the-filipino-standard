@@ -3387,3 +3387,12 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
   - https://www.pna.gov.ph/articles/1276504
   - https://www.rappler.com/philippines/house-passes-weak-anti-dynasty-bill-june-3-2026/
   - https://www.philstar.com/headlines/2026/06/04/2532766/house-oks-anti-political-dynasty-bill-opposition-slams-it-fake-watered-down
+
+**2026-06-28 06:02 PHT | threads | PUBLISHED LIVE**
+**Topic:** Meralco June 2026 rate hike to P14.48/kWh after Luzon grid Red Alert (May 13-15, 2026) - private utility extraction vs NZ community trust model
+**Hook:** "Meralco hiked rates in June - P14.48/kWh - because the Luzon grid hit Red Alert three days straight in May."
+**Angle:** Every supply squeeze translates into a higher bill for consumers - private monopoly extracts; community-owned trusts pay households back instead (NZ Entrust NZD $364).
+**Tagalog beat:** "Ang kuryente mo, pera nila." (fresh: electricity ownership dynamic - specific to this post's private-extraction theme)
+**Sources:**
+  - https://www.rappler.com/business/meralco-power-rates-june-2026/
+  - https://www.gmanetwork.com/news/money/companies/991066/meralco-electricity-bills-household-rate/story/

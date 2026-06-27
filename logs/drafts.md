@@ -3301,3 +3301,13 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
 **Sources:**
   - https://www.rappler.com/business/meralco-power-rates-june-2026/
   - https://www.gmanetwork.com/news/money/companies/991066/meralco-electricity-bills-household-rate/story/
+
+**Topic:** OECD Economic Survey Philippines 2026 - high electricity costs constraining growth, capital investment below pre-pandemic levels
+**Hook:** "The OECD just told the Philippines that high electricity costs are weighing on its growth."
+**Angle:** International credibility angle - not a local activist but the OECD citing electricity prices (USD 0.15/kWh, 50% above Indonesia and Vietnam) and logistics costs (27% of sales) as key constraints; capital investment still recovering
+**Tagalog beat:** "Sabi na ng OECD. Ano pa ang hinihintay?" (specific to international body already naming the problem - what else are we waiting for)
+**Sources:**
+  - https://www.oecd.org/en/publications/oecd-economic-surveys-philippines-2026_f0e0c581-en.html
+  - https://www.oecd.org/en/about/news/press-releases/2026/02/ambitious-reforms-to-strengthen-competition-and-increase-formal-employment-would-further-boost-the-philippines-growth-trajectory.html
+
+**2026-06-27 16:04 PHT | threads | PUBLISHED LIVE**

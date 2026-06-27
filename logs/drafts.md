@@ -3377,3 +3377,13 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
   - https://www.rappler.com/philippines/religious-civil-society-leaders-anti-corruption-protest-edsa-june-2026/
   - https://www.gmanetwork.com/news/topstories/nation/992040/religious-civil-society-groups-march-vs-corruption-political-dynasties/story/
   - https://newsinfo.inquirer.net/2249194/groups-to-hold-anticorruption-rally-on-june-28
+
+**2026-06-27 23:03 PHT | threads | PUBLISHED LIVE**
+**Topic:** House passes Anti-Dynasty Bill (HB 8389) on final reading June 3, 2026 - first time in 38 years, but critics call it hollow for only covering second-degree relatives
+**Hook:** "First time in 38 years, the House passed an anti-dynasty bill."
+**Angle:** Dynasties wrote the law that's supposed to limit themselves - and they built in the loopholes (only 2nd-degree ban, cousins/nephews/aunts still free to run)
+**Tagalog beat:** "Sila ang nagsulat ng batas laban sa sarili nila." (fresh - specific to dynasties authoring their own toothless reform)
+**Sources:**
+  - https://www.pna.gov.ph/articles/1276504
+  - https://www.rappler.com/philippines/house-passes-weak-anti-dynasty-bill-june-3-2026/
+  - https://www.philstar.com/headlines/2026/06/04/2532766/house-oks-anti-political-dynasty-bill-opposition-slams-it-fake-watered-down

@@ -3396,3 +3396,13 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
 **Sources:**
   - https://www.rappler.com/business/meralco-power-rates-june-2026/
   - https://www.gmanetwork.com/news/money/companies/991066/meralco-electricity-bills-household-rate/story/
+
+**2026-06-28 07:03 PHT | threads | PUBLISHED LIVE**
+**Topic:** Philippines proposes record P7.2 trillion national budget for 2027 (6% increase) even as GDP growth target slashed to 3.5% and flood control corruption scrutiny continues
+**Hook:** "The budget grows. The economy doesn't."
+**Angle:** Contrast between rising government spending and declining growth projections; corruption context (flood control funds) undermines the spending narrative
+**Tagalog beat:** "Sino ang tunay na nakikinabang dito?" (fresh - specific to budget beneficiaries, rhetorical question targeting who truly profits from the growing spend)
+**Sources:**
+  - https://www.philstar.com/headlines/2026/06/27/2538083/government-proposes-p72-trillion-national-budget-2027
+  - https://mb.com.ph/2026/06/26/marcos-admin-proposes-72-trillion-budget-for-2027-to-revive-growth
+  - https://www.pna.gov.ph/articles/1278181

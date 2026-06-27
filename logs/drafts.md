@@ -3235,3 +3235,15 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
   - https://newsinfo.inquirer.net/2252320/house-prosecutors-open-box-of-vps-tax-records
   - https://www.pna.gov.ph/articles/1273945
   - https://newsinfo.inquirer.net/2251796/house-wants-dutertes-tax-records-unveiled-in-impeachment-pretrial
+
+**2026-06-27 09:04 PHT | threads | PUBLISHED LIVE**
+
+**Topic:** Philippines flood control ghost projects - P100B to 15 contractors, DPWH budget cut 40% shifted to ayuda
+**Hook:** "P100 billion in flood control contracts went to just 15 companies."
+**Angle:** Systemic corruption + perverse response - instead of accountability or reform, the government cut infrastructure funding and redirected billions to cash handouts (ayuda), entrenching clientelism while floods remain a threat
+**Tagalog beat:** "Alam na nating lahat kung saan napunta ang pera." (specific to the known-but-unprosecuted beneficiaries of the ghost project billions)
+**Sources:**
+  - https://www.gmanetwork.com/news/topstories/specialreports/967723/the-corruption-of-philippine-flood-control-projects/story/
+  - https://en.wikipedia.org/wiki/Flood_control_projects_scandal_in_the_Philippines
+  - https://www.gmanetwork.com/news/topstories/nation/963239/from-infra-to-ayuda-where-did-2026-flood-control-budget-go/story/
+  - https://newsinfo.inquirer.net/2156240/coa-flags-4-flood-control-projects-worth-p330m-in-bulacan

@@ -3224,3 +3224,14 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
   - https://www.rappler.com/philippines/house-passes-weak-anti-dynasty-bill-june-3-2026/
   - https://newsinfo.inquirer.net/2249194/groups-to-hold-anticorruption-rally-on-june-28
   - https://www.gmanetwork.com/news/topstories/nation/992040/religious-civil-society-groups-march-vs-corruption-political-dynasties/story/
+
+**2026-06-27 08:03 PHT | threads | PUBLISHED LIVE**
+
+**Topic:** House voted 38-6 to keep VP Sara Duterte's tax records sealed during impeachment pretrial; trial proper starts July 6, 2026
+**Hook:** "VP Sara Duterte's impeachment trial starts July 6."
+**Angle:** Systemic protection of officials - even during impeachment (the highest accountability mechanism), the default is to shield the powerful. House committee voted 38-6 to keep her tax records sealed.
+**Tagalog beat:** "Kailan pa ba nila bubuksan ang kahon?" (specific to the literal sealed box of VP's BIR tax records)
+**Sources:**
+  - https://newsinfo.inquirer.net/2252320/house-prosecutors-open-box-of-vps-tax-records
+  - https://www.pna.gov.ph/articles/1273945
+  - https://newsinfo.inquirer.net/2251796/house-wants-dutertes-tax-records-unveiled-in-impeachment-pretrial

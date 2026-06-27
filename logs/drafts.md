@@ -3247,3 +3247,15 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
   - https://en.wikipedia.org/wiki/Flood_control_projects_scandal_in_the_Philippines
   - https://www.gmanetwork.com/news/topstories/nation/963239/from-infra-to-ayuda-where-did-2026-flood-control-budget-go/story/
   - https://newsinfo.inquirer.net/2156240/coa-flags-4-flood-control-projects-worth-p330m-in-bulacan
+
+**2026-06-27 10:03 PHT | threads | PUBLISHED LIVE**
+
+**Topic:** White Ribbon Movement anti-corruption rally at EDSA on June 28, 2026; anti-dynasty law demand backed by 1987 Constitution Article II Section 26 - 39 years of unenforced mandate
+**Hook:** "Filipinos are marching at EDSA tomorrow demanding an anti-dynasty law."
+**Angle:** Structural trap - the politicians who must vote to pass the anti-dynasty law are the dynasty members the law would unseat; 39 years since the Constitution mandated it, still no real law
+**Tagalog beat:** "Sila mismo ang nagtatago ng susi." (specific to the self-interested obstruction of the anti-dynasty mandate)
+**Sources:**
+  - https://www.rappler.com/philippines/religious-civil-society-leaders-anti-corruption-protest-edsa-june-2026/
+  - https://www.gmanetwork.com/news/topstories/nation/992040/religious-civil-society-groups-march-vs-corruption-political-dynasties/story/
+  - https://www.philstar.com/headlines/2026/06/27/2538049/all-set-june-28-white-ribbon-march
+  - https://www.pna.gov.ph/articles/1276504

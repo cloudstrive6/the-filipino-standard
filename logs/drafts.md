@@ -3311,3 +3311,15 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
   - https://www.oecd.org/en/about/news/press-releases/2026/02/ambitious-reforms-to-strengthen-competition-and-increase-formal-employment-would-further-boost-the-philippines-growth-trajectory.html
 
 **2026-06-27 16:04 PHT | threads | PUBLISHED LIVE**
+
+**2026-06-27 17:06 PHT | threads | PUBLISHED LIVE**
+
+**Topic:** Philippines 2025 Corruption Perceptions Index - 120th/182, score 32/100, flood control scandal
+**Hook:** "120th out of 182 countries in the 2025 Corruption Perceptions Index. Score: 32 out of 100."
+**Angle:** CPI ranking (below regional avg 45 and global avg 42) connected to billions lost in flood control fake projects - corruption has real human cost (typhoon vulnerability)
+**Tagalog beat:** "120th. At tumatagos pa rin ang tubig bawat bagyo." (fresh beat connecting the ranking to flood infrastructure failure - "120th. And floodwater still comes through every typhoon.")
+**Sources:**
+  - https://bworldonline.com/top-stories/2026/02/11/729700/philippines-sinks-to-new-low-in-corruption-perceptions-index/
+  - https://tribune.net.ph/2026/02/12/philippines-falls-to-120th-in-2025-corruption-index
+  - https://www.gmanetwork.com/news/topstories/nation/976073/ph-ranks-120th-out-of-182-countries-in-corruption-perceptions-index/story/
+  - https://www.transparency.org/en/cpi/2025/index/phl

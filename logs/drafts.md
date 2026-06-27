@@ -3269,3 +3269,13 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
 **Sources:**
   - https://newsinfo.inquirer.net/ (June 27 2026 coverage of impeachment proceedings)
   - https://www.rappler.com/ (June 27 2026 coverage of BIR sealed box / House prosecutors)
+
+**Topic:** Philippines Q1 2026 GDP at 2.8% - flood control corruption scandal pulled public construction, compounded by oil shock
+**Hook:** "The flood control corruption scandal didn't just steal billions. It took Philippine GDP growth down to 2.8% in Q1 2026."
+**Angle:** Corruption has a measurable economic cost - it doesn't just steal money, it steals growth, jobs, and momentum
+**Tagalog beat:** "Ninakaw pa ang paglago." (specific to the GDP/economic growth stolen by systemic corruption)
+**Sources:**
+  - https://www.rappler.com/business/gross-domestic-product-philippines-q1-2026/
+  - https://www.iseas.edu.sg/articles-commentaries/iseas-perspective/2026-38-the-philippine-economy-in-2026-growth-under-siege-by-jc-punongbayan/
+
+**2026-06-27 12:02 PHT | threads | PUBLISHED LIVE**

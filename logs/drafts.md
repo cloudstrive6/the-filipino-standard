@@ -3514,3 +3514,14 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
   - https://www.rappler.com/voices/thought-leaders/in-this-economy-philippines-gross-domestic-product-q1-2026-asean-laggard/
   - https://www.philstar.com/headlines/2026/05/07/2526251/philippine-economy-slows-28-q1-weakest-5-years
   - https://business.inquirer.net/589015/philippine-gdp-growth-slows-to-2-8-in-first-quarter
+
+**2026-06-28 18:03 PHT | threads | PUBLISHED**
+**Topic:** White Ribbon March at EDSA - thousands demand anti-dynasty law and electoral reform (June 28, 2026)
+**Hook:** "Congress has had decades to pass an anti-dynasty law. Today, thousands showed up at EDSA to remind them."
+**Angle:** People showing up while Congress has stalled on anti-dynasty legislation since 1987 - systemic failure, not partisan politics
+**Tagalog beat:** "Lumabas ang bayan. Ang Kongreso?" (fresh - specific to the march demanding Congress act)
+**Sources:**
+  - https://www.rappler.com/philippines/religious-civil-society-leaders-anti-corruption-protest-edsa-june-2026/
+  - https://www.gmanetwork.com/news/topstories/nation/992948/live-updates-white-ribbon-march-june-28-2026/story/
+  - https://tempo.mb.com.ph/2026/06/28/edsa-white-ribbon-march-draws-thousands-in-call-for-reform/
+  - https://www.philstar.com/headlines/2026/06/27/2538049/all-set-june-28-white-ribbon-march

@@ -3459,3 +3459,14 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
 **Sources:**
   - https://www.rappler.com/philippines/religious-civil-society-leaders-anti-corruption-protest-edsa-june-2026/
   - https://newsinfo.inquirer.net/2249194/groups-to-hold-anticorruption-rally-on-june-28
+
+**2026-06-28 13:03 PHT | threads | PUBLISHED**
+**Topic:** Meralco June 2026 rate hike - P14.4833/kWh, WESM spike during Luzon power alerts
+**Hook:** "Your June electricity bill is higher. Again."
+**Angle:** Meralco serves 8.2 million customers who have zero votes on rate-setting; community energy trusts in NZ give households representation by design - the gap is structural
+**Tagalog beat:** "Tayo ang nagbabayad. Hindi tayo ang may kapangyarihan." (fresh - specific to rate-setting power imbalance between payers and decision-makers)
+**Sources:**
+  - https://company.meralco.com.ph/news-and-advisories/higher-residential-rates-june-2026
+  - https://www.gmanetwork.com/news/money/companies/991066/meralco-electricity-bills-household-rate/story/
+  - https://www.rappler.com/business/meralco-power-rates-june-2026/
+  - https://www.pna.gov.ph/articles/1277062

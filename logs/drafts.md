@@ -3549,3 +3549,13 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
   - https://www.philstar.com/headlines/2026/05/07/2526251/philippine-economy-slows-28-q1-weakest-5-years
   - https://business.inquirer.net/593475/oecd-cuts-2026-ph-gdp-growth-forecast-to-3-2
   - https://www.oecd.org/en/publications/oecd-economic-surveys-philippines-2026_f0e0c581-en.html
+
+**2026-06-28 21:02 PHT | threads | PUBLISHED**
+**Topic:** White Ribbon March at EDSA - Filipinos marching against corruption, political dynasties, demanding accountability
+**Hook:** "Filipinos are marching at EDSA today. Not for a candidate. Not for a political party."
+**Angle:** Citizens invoking constitutional sovereignty to demand systemic accountability - the people reminding the system who holds power
+**Tagalog beat:** "Narito pa tayo." (fresh - specific to EDSA People Power resonance, protest as continuity of civic action)
+**Sources:**
+  - https://www.rappler.com/philippines/religious-civil-society-leaders-anti-corruption-protest-edsa-june-2026/
+  - https://www.gmanetwork.com/news/topstories/nation/992948/live-updates-white-ribbon-march-june-28-2026/story/
+  - https://newsinfo.inquirer.net/2249194/groups-to-hold-anticorruption-rally-on-june-28

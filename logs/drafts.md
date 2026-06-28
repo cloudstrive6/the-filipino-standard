@@ -3588,3 +3588,13 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
 **Tagalog beat:** "Kasalanan ng ilan, bayad ng lahat." (fresh - specific to collective billing fallout from a few units' commercial reclassification)
 **Sources:**
   - https://newsinfo.inquirer.net/2254073/qc-condo-residents-alarmed-over-maynilad-disconnection-notice
+
+**2026-06-29 07:03 PHT | threads | PUBLISHED**
+**Topic:** Philippines cuts its own 2026 GDP growth target to 3.5%-4.5%, down from 5%-6%, citing underspending; OECD independently cut to 3.2%
+**Hook:** "The Philippine government just cut its own GDP growth target. Again."
+**Angle:** Government underspending (linked to graft fallout from flood-control scandal) showing up as a hard GDP downgrade; the procurement system's dysfunction has a macro cost ordinary Filipinos absorb
+**Tagalog beat:** "Nagsalita na ang numero." (fresh - specific to a post where global/government numbers directly contradict official promises; the data has rendered its verdict)
+**Sources:**
+  - https://bworldonline.com/top-stories/2026/06/23/758426/philippines-cuts-gdp-growth-outlook-for-this-year/
+  - https://www.bloomberg.com/news/articles/2026-01-05/philippines-cuts-2026-gdp-growth-target-as-graft-pain-persists
+  - https://business.inquirer.net/593475/oecd-cuts-2026-ph-gdp-growth-forecast-to-3-2

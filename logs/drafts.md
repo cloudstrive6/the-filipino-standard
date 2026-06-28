@@ -3430,3 +3430,13 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
   - https://www.philstar.com/opinion/2026/06/24/2537362/fake-anti-dynasty-bill
   - https://www.rappler.com/philippines/religious-civil-society-leaders-anti-corruption-protest-edsa-june-2026/
   - https://www.gmanetwork.com/news/topstories/nation/992040/religious-civil-society-groups-march-vs-corruption-political-dynasties/story/
+
+**2026-06-28 10:03 PHT | threads | PUBLISHED**
+**Topic:** Philippines Q1 2026 GDP slows to 2.8% - flood control corruption scandal
+**Hook:** "Philippine GDP grew just 2.8% in Q1 2026, the country's weakest growth since the pandemic. The government target was 5-6%."
+**Angle:** Corruption has a direct economic cost - flood control ghost projects and inflated contracts dragged down growth; ordinary Filipinos absorb the cost while no one is jailed
+**Tagalog beat:** "Walang nakulong. Pero bumagal ang ekonomiya natin." (fresh - specific to corruption-driven GDP slowdown)
+**Sources:**
+  - https://psa.gov.ph/content/gdp-grows-28-percent-first-quarter-2026
+  - https://www.rappler.com/business/gross-domestic-product-philippines-q1-2026/
+  - https://business.inquirer.net/589015/philippine-gdp-growth-slows-to-2-8-in-first-quarter

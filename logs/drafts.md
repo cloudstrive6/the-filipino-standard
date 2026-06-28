@@ -3492,3 +3492,14 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
   - https://www.gmanetwork.com/news/topstories/nation/992040/religious-civil-society-groups-march-vs-corruption-political-dynasties/story/
   - https://newsinfo.inquirer.net/2249194/groups-to-hold-anticorruption-rally-on-june-28
   - https://www.pna.gov.ph/articles/1278135
+
+**2026-06-28 16:03 PHT | threads | PUBLISHED**
+**Topic:** Philippines on track to miss GDP growth target for the 4th straight year - DBCC cut forecast to 3.5-4.5%, OECD cut to 3.2%, vs original 5-6% target
+**Hook:** "4th straight year. That's how long the Philippines has been missing its economic growth target."
+**Angle:** Pattern of governance failure - not external bad luck, but a systemic inability to hit the targets the government itself sets. Four years of promises, four years of misses.
+**Tagalog beat:** "Apat na taon. Apat na target na hindi natamaan." (fresh - specific to four consecutive years of missed targets)
+**Sources:**
+  - https://www.gmanetwork.com/news/money/economy/983883/philippines-economic-growth-target/story/
+  - https://business.inquirer.net/596658/dbcc-cuts-ph-2026-growth-target-to-3-5-4-5
+  - https://business.inquirer.net/593475/oecd-cuts-2026-ph-gdp-growth-forecast-to-3-2
+  - https://www.rappler.com/business/dbcc-revised-economic-targets-philippines-january-2026/

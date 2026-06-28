@@ -3470,3 +3470,14 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
   - https://www.gmanetwork.com/news/money/companies/991066/meralco-electricity-bills-household-rate/story/
   - https://www.rappler.com/business/meralco-power-rates-june-2026/
   - https://www.pna.gov.ph/articles/1277062
+
+**2026-06-28 14:03 PHT | threads | PUBLISHED**
+**Topic:** Angat Dam nearing critical water level by end of June 2026
+**Hook:** "Angat Dam may hit critical levels by end of this week. Metro Manila gets 98% of its water from this single dam."
+**Angle:** Single-point-of-failure infrastructure - megacity relying on one dam for 98% of its water, while bills have risen and supply is now under threat. System design failure, not just weather.
+**Tagalog beat:** "Isang dam. Wala nang plano B." (fresh - specific to the single-dam dependency and absence of backup water infrastructure)
+**Sources:**
+  - https://www.gmanetwork.com/news/topstories/metro/992225/pagasa-angat-dam-water-level-drops-amid-low-rainfall/story/
+  - https://www.pna.gov.ph/articles/1277998
+  - https://www.philstar.com/nation/2026/06/25/2537676/angat-dam-nearing-critical-level
+  - https://www.sunstar.com.ph/manila/pagasa-angat-dam-level-may-reach-critical-low-by-end-june

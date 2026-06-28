@@ -3580,3 +3580,11 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
   - https://www.rappler.com/philippines/marcos-enough-crude-oil-supply-until-june-30/
   - https://www.philstar.com/headlines/2026/03/28/2517350/president-marcos-philippines-crude-oil-enough-until-june-30
   - https://www.gmanetwork.com/news/topstories/nation/981581/marcos-ph-has-enough-crude-oil-until-june-30-2026/story/
+
+**2026-06-29 06:02 PHT | threads | PUBLISHED**
+**Topic:** Maynilad reclassifies entire QC condo as 'semi-business' over small in-unit shops, triggering P1.3M bill spike and disconnection threat
+**Hook:** "Maynilad reclassified a whole Quezon City condo as 'semi-business' because some units had small shops."
+**Angle:** Utility rate reclassification as collective punishment - one water company's unilateral decision hits every resident regardless of their own billing status; system design that extracts from the many for the activities of a few
+**Tagalog beat:** "Kasalanan ng ilan, bayad ng lahat." (fresh - specific to collective billing fallout from a few units' commercial reclassification)
+**Sources:**
+  - https://newsinfo.inquirer.net/2254073/qc-condo-residents-alarmed-over-maynilad-disconnection-notice

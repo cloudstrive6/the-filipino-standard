@@ -3525,3 +3525,17 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
   - https://www.gmanetwork.com/news/topstories/nation/992948/live-updates-white-ribbon-march-june-28-2026/story/
   - https://tempo.mb.com.ph/2026/06/28/edsa-white-ribbon-march-draws-thousands-in-call-for-reform/
   - https://www.philstar.com/headlines/2026/06/27/2538049/all-set-june-28-white-ribbon-march
+
+**2026-06-28 19:05 PHT | facebook,instagram | PUBLISHED**
+**Topic:** 2026 Philippine energy crisis - 3 consecutive Luzon Red Alert days in May, rotational brownouts for millions, June Meralco rate rises to P14.48/kWh despite outages
+**Hook:** "3 consecutive Red Alert days on the Luzon grid. Millions lost power for hours at a time."
+**Angle:** Governance failure in grid regulation - consumers bear cost of grid operator's failures (higher bills, no rebates, no automatic compensation) while DOE probe may gather dust; constitutional duty unmet
+**Tagalog beat:** "Nagbrownout ka. Tumaas pa rin ang bayad mo." (fresh - specific to brownout victims paying higher rates)
+**Image:** output/images/2026-06-28-grid-red-alert-brownout.png
+**Scheduled:** 2026-06-28 20:00 PHT
+**Sources:**
+  - https://www.rappler.com/business/meralco-power-rates-june-2026/
+  - https://company.meralco.com.ph/news-and-advisories/higher-residential-rates-june-2026
+  - https://pia.gov.ph/news/doe-probes-ngcp-over-massive-outages-insists-baseline-power-remains-stable/
+  - https://en.wikipedia.org/wiki/2026_Philippine_energy_crisis
+  - https://icsc.ngo/philippine-power-supply-for-q2-2026-remains-sufficient-but-thin-reserves-leave-grid-at-risk-amid-demand-surge-and-plant-outages/

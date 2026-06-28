@@ -3481,3 +3481,14 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
   - https://www.pna.gov.ph/articles/1277998
   - https://www.philstar.com/nation/2026/06/25/2537676/angat-dam-nearing-critical-level
   - https://www.sunstar.com.ph/manila/pagasa-angat-dam-level-may-reach-critical-low-by-end-june
+
+**2026-06-28 15:03 PHT | threads | PUBLISHED**
+**Topic:** White Ribbon Movement anti-corruption march at EDSA, June 28 2026 - against ghost flood projects, DPWH corruption, and political dynasties
+**Hook:** "Filipinos marched at EDSA today. Not for a candidate. Not for a party."
+**Angle:** The constitutional mandate (sovereignty resides in the people) vs. the reality of ghost infrastructure projects and dynasty governance - the streets as a reminder to the system
+**Tagalog beat:** "Ang gobyerno ng pamilya, hindi ng bayan." (fresh - specific to the dynasty/corruption theme of today's march)
+**Sources:**
+  - https://www.rappler.com/philippines/religious-civil-society-leaders-anti-corruption-protest-edsa-june-2026/
+  - https://www.gmanetwork.com/news/topstories/nation/992040/religious-civil-society-groups-march-vs-corruption-political-dynasties/story/
+  - https://newsinfo.inquirer.net/2249194/groups-to-hold-anticorruption-rally-on-june-28
+  - https://www.pna.gov.ph/articles/1278135

@@ -3539,3 +3539,13 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
   - https://pia.gov.ph/news/doe-probes-ngcp-over-massive-outages-insists-baseline-power-remains-stable/
   - https://en.wikipedia.org/wiki/2026_Philippine_energy_crisis
   - https://icsc.ngo/philippine-power-supply-for-q2-2026-remains-sufficient-but-thin-reserves-leave-grid-at-risk-amid-demand-surge-and-plant-outages/
+
+**2026-06-28 20:04 PHT | threads | PUBLISHED**
+**Topic:** Philippines GDP growth slowdown and OECD forecast cut - Q1 2026 GDP at 2.8% (weakest in 5 years), inflation at 7.2%, OECD slashes 2026 forecast from 5.1% to 3.2%
+**Hook:** "The PH economy grew just 2.8% in Q1 2026. Weakest in five years. The government's target was 5-6%."
+**Angle:** Structural reform failure - OECD blueprint exists (competition, telecom costs, formal jobs) but political will absent; Filipinos pay the price
+**Tagalog beat:** "Tayo ang nagbabayad ng presyo ng walang reporma." (fresh - specific to structural reform failure)
+**Sources:**
+  - https://www.philstar.com/headlines/2026/05/07/2526251/philippine-economy-slows-28-q1-weakest-5-years
+  - https://business.inquirer.net/593475/oecd-cuts-2026-ph-gdp-growth-forecast-to-3-2
+  - https://www.oecd.org/en/publications/oecd-economic-surveys-philippines-2026_f0e0c581-en.html

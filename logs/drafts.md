@@ -3503,3 +3503,14 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
   - https://business.inquirer.net/596658/dbcc-cuts-ph-2026-growth-target-to-3-5-4-5
   - https://business.inquirer.net/593475/oecd-cuts-2026-ph-gdp-growth-forecast-to-3-2
   - https://www.rappler.com/business/dbcc-revised-economic-targets-philippines-january-2026/
+
+**2026-06-28 17:04 PHT | threads | PUBLISHED**
+**Topic:** Philippines is ASEAN Chair 2026 but the slowest-growing major economy in Southeast Asia - Q1 GDP 2.8% vs Vietnam 7.8%, Indonesia 5.6%, Singapore 6.0%
+**Hook:** "The Philippines is ASEAN Chair for 2026. It is also the slowest-growing major economy in Southeast Asia."
+**Angle:** The irony of chairing ASEAN while sitting at the bottom of the regional growth table - governance failure as a systemic outcome, not bad luck
+**Tagalog beat:** "Chair ng rehiyon, huli sa lahat." (fresh - specific to the ASEAN Chair vs worst performer irony)
+**Sources:**
+  - https://www.rappler.com/business/gross-domestic-product-philippines-q1-2026/
+  - https://www.rappler.com/voices/thought-leaders/in-this-economy-philippines-gross-domestic-product-q1-2026-asean-laggard/
+  - https://www.philstar.com/headlines/2026/05/07/2526251/philippine-economy-slows-28-q1-weakest-5-years
+  - https://business.inquirer.net/589015/philippine-gdp-growth-slows-to-2-8-in-first-quarter

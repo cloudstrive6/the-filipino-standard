@@ -3450,3 +3450,12 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
   - https://www.philstar.com/headlines/2026/06/27/2538083/government-proposes-p72-trillion-national-budget-2027
   - https://mb.com.ph/2026/06/26/marcos-admin-proposes-72-trillion-budget-for-2027-to-revive-growth
   - https://www.pna.gov.ph/articles/1278181
+
+**2026-06-28 12:04 PHT | threads | PUBLISHED**
+**Topic:** EDSA anti-corruption rally June 28 demands real anti-political dynasty law
+**Hook:** "Thousands are at EDSA today demanding one thing: a real anti-political dynasty law."
+**Angle:** Constitution mandates an anti-dynasty law since 1987; nearly four decades later the House passed a weak, loophole-ridden bill while civil society marches for a genuine one
+**Tagalog beat:** "Nasa Konstitusyon ang pangako. Nasa Kongreso ang pagpapaliban." (fresh - specific to the constitutional mandate vs Congress's delay on anti-dynasty law)
+**Sources:**
+  - https://www.rappler.com/philippines/religious-civil-society-leaders-anti-corruption-protest-edsa-june-2026/
+  - https://newsinfo.inquirer.net/2249194/groups-to-hold-anticorruption-rally-on-june-28

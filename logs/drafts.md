@@ -3569,3 +3569,14 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
   - https://newsinfo.inquirer.net/2247753/fwd-gatchalian-now-senate-president
   - https://www.rappler.com/philippines/win-gatchalian-elected-senate-president/
   - https://www.pna.gov.ph/articles/1276491
+
+**2026-06-28 23:02 PHT | threads | PUBLISHED**
+**Topic:** Philippines crude oil supply deadline - government said secure until June 30, that's this Sunday
+**Hook:** "In March, the government said: crude oil supplies secure until June 30. That's this Sunday."
+**Angle:** Ticking clock accountability - holding the government to its own stated deadline, 2 days before it expires
+**Tagalog beat:** "Sana may sagot na." (fresh - specific to a pending unanswered question with a hard deadline)
+**Sources:**
+  - https://www.pna.gov.ph/articles/1271909
+  - https://www.rappler.com/philippines/marcos-enough-crude-oil-supply-until-june-30/
+  - https://www.philstar.com/headlines/2026/03/28/2517350/president-marcos-philippines-crude-oil-enough-until-june-30
+  - https://www.gmanetwork.com/news/topstories/nation/981581/marcos-ph-has-enough-crude-oil-until-june-30-2026/story/

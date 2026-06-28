@@ -3440,3 +3440,13 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
   - https://psa.gov.ph/content/gdp-grows-28-percent-first-quarter-2026
   - https://www.rappler.com/business/gross-domestic-product-philippines-q1-2026/
   - https://business.inquirer.net/589015/philippine-gdp-growth-slows-to-2-8-in-first-quarter
+
+**2026-06-28 11:03 PHT | threads | PUBLISHED**
+**Topic:** Philippines proposes record P7.2 trillion budget for 2027 while slashing GDP growth target
+**Hook:** "The Philippines is proposing its biggest-ever national budget: P7.2 trillion for 2027."
+**Angle:** Record spending + lower growth targets = no accountability for the gap; government spends more, expects less, answers to no one
+**Tagalog beat:** "Pinakamalaking budget sa kasaysayan. Pinakamaliit na target. Sino ang may pananagutan?" (fresh - specific to record budget vs reduced growth target irony)
+**Sources:**
+  - https://www.philstar.com/headlines/2026/06/27/2538083/government-proposes-p72-trillion-national-budget-2027
+  - https://mb.com.ph/2026/06/26/marcos-admin-proposes-72-trillion-budget-for-2027-to-revive-growth
+  - https://www.pna.gov.ph/articles/1278181

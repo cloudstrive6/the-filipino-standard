@@ -3559,3 +3559,13 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
   - https://www.rappler.com/philippines/religious-civil-society-leaders-anti-corruption-protest-edsa-june-2026/
   - https://www.gmanetwork.com/news/topstories/nation/992948/live-updates-white-ribbon-march-june-28-2026/story/
   - https://newsinfo.inquirer.net/2249194/groups-to-hold-anticorruption-rally-on-june-28
+
+**2026-06-28 22:03 PHT | threads | PUBLISHED**
+**Topic:** Philippines' 4th Senate President in one Congress term - leadership instability as systemic failure
+**Hook:** "The Philippines just got its 4th Senate President in a single Congress term."
+**Angle:** Senate leadership chaos as evidence that power is more negotiable than policy; senators governing each other instead of the people
+**Tagalog beat:** "Puro palitan ng lider. Walang palitan ng sistema." (fresh - specific to revolving Senate presidency, contrast between leadership change and zero systemic change)
+**Sources:**
+  - https://newsinfo.inquirer.net/2247753/fwd-gatchalian-now-senate-president
+  - https://www.rappler.com/philippines/win-gatchalian-elected-senate-president/
+  - https://www.pna.gov.ph/articles/1276491

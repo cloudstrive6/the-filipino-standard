@@ -3406,3 +3406,15 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
   - https://www.philstar.com/headlines/2026/06/27/2538083/government-proposes-p72-trillion-national-budget-2027
   - https://mb.com.ph/2026/06/26/marcos-admin-proposes-72-trillion-budget-for-2027-to-revive-growth
   - https://www.pna.gov.ph/articles/1278181
+
+**2026-06-28 08:05 PHT | facebook,instagram | SKIPPED (fact-check gate failed x2)**
+**Topic:** 2026 Philippine energy crisis - 98% crude oil dependence on Middle East, Strait of Hormuz closure, national energy emergency, PIDS poverty impact estimate
+**Hook:** "The Philippines declared a national energy emergency. Crude oil supplies were only secured until June 30."
+**Angle:** Structural governance failure of energy policy - decades of near-total import dependence on Middle East crude exposed by Strait of Hormuz crisis
+**Tagalog beat:** "Pinabayaan natin." (fresh, specific to decades of policy neglect on energy diversification)
+**Notes:** First fact-check pass verified 8/9 claims but flagged "runs out" as too absolute. Second pass after fix returned inconsistent results (fact-checker could not locate 2026 event data). Two failures = clean stop per protocol.
+**Sources:**
+  - https://en.wikipedia.org/wiki/2026_Philippine_energy_crisis
+  - https://gulfnews.com/amp/story/business/energy/philippines-crude-oil-supply-to-last-until-june-30-says-marco-1.500488056
+  - https://pia.gov.ph/news/how-the-strait-of-hormuz-closure-affects-our-oil-prices/
+  - https://mb.com.ph/2026/04/02/hormuz-blockade-risks-rationing-shock-for-philippines-asia-peers

@@ -3418,3 +3418,15 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
   - https://gulfnews.com/amp/story/business/energy/philippines-crude-oil-supply-to-last-until-june-30-says-marco-1.500488056
   - https://pia.gov.ph/news/how-the-strait-of-hormuz-closure-affects-our-oil-prices/
   - https://mb.com.ph/2026/04/02/hormuz-blockade-risks-rationing-shock-for-philippines-asia-peers
+
+**2026-06-28 09:04 PHT | threads | PUBLISHED**
+**Topic:** White Ribbon Movement EDSA rally (June 28) + House anti-dynasty bill HB 8389 called "fake" by critics
+**Hook:** "The House passed an anti-dynasty bill on June 3. Critics call it a 'fake' - written to protect dynasties, not dismantle them."
+**Angle:** Today's EDSA march demands the real thing; 39-year constitutional mandate still unmet; the bill passed is criticized as designed to protect dynasties, not dismantle them
+**Tagalog beat:** "Sariling batas ng mga dynasty, para sa mga dynasty." (fresh - specific to dynasties legislating for themselves)
+**Sources:**
+  - https://newsinfo.inquirer.net/2239590/house-approves-anti-dynasty-bill-on-final-reading
+  - https://www.gmanetwork.com/news/money/companies/991628/biz-civic-groups-senate-reject-house-bill-8389-pro-dynasty/story/
+  - https://www.philstar.com/opinion/2026/06/24/2537362/fake-anti-dynasty-bill
+  - https://www.rappler.com/philippines/religious-civil-society-leaders-anti-corruption-protest-edsa-june-2026/
+  - https://www.gmanetwork.com/news/topstories/nation/992040/religious-civil-society-groups-march-vs-corruption-political-dynasties/story/

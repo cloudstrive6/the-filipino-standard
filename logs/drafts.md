@@ -3608,3 +3608,13 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
 **Sources:**
   - https://www.rappler.com/philippines/religious-civil-society-leaders-anti-corruption-protest-edsa-june-2026/
   - https://newsinfo.inquirer.net/2249194/groups-to-hold-anticorruption-rally-on-june-28
+
+**2026-06-29 09:03 PHT | threads | PUBLISHED (LIVE)**
+**Topic:** Philippines energy crisis - crude oil supply declared to last until June 30; 98% import dependence and no strategic reserves law exposed PH to maximum vulnerability
+**Hook:** "The Philippines declared a national energy emergency in March. The government said crude oil supply would last until June 30. That's tomorrow."
+**Angle:** Systemic failure of oil deregulation model - designed to buy fuel not secure it; no strategic reserves law, no enforceable renewables mandate; PIDS warns 1.3-3.1M Filipinos could fall into poverty
+**Tagalog beat:** "Ito ang gastos ng walang estratehiya." (fresh - specific to the structural cost of having no long-term energy security strategy; the bill came due)
+**Sources:**
+  - https://www.philstar.com/headlines/2026/03/24/2516571/marcos-declares-national-energy-emergency-over-fuel-crisis
+  - https://www.rappler.com/philippines/marcos-enough-crude-oil-supply-until-june-30/
+  - https://eastasiaforum.org/2026/06/09/energy-crisis-gives-philippine-oil-deregulation-a-reality-check/

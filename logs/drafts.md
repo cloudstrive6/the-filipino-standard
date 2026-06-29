@@ -3665,3 +3665,13 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
   - https://newsinfo.inquirer.net/2253996/govt-proposes-p7-2-t-spending-bill-for-2027
   - https://www.pna.gov.ph/articles/1278181
   - https://mb.com.ph/2026/06/26/marcos-admin-proposes-72-trillion-budget-for-2027-to-revive-growth
+
+**2026-06-29 19:03 PHT | threads | PUBLISHED (LIVE)**
+**Topic:** White Ribbon March at EDSA - thousands demanded end to corruption, anti-dynasty law, and electoral reform on June 28, 2026
+**Hook:** "Thousands marched at EDSA yesterday to demand things that should already exist."
+**Angle:** Civic empowerment / systemic failure - Filipinos having to march for basics that governance should already guarantee; the irony of demanding the minimum
+**Tagalog beat:** "Kaya may martsa pa rin. Kasi wala pa rin." (fresh - irony of still needing a march specific to this event; could not be lifted to any other post)
+**Sources:**
+  - https://tempo.mb.com.ph/2026/06/28/edsa-white-ribbon-march-draws-thousands-in-call-for-reform/
+  - https://www.gmanetwork.com/news/topstories/nation/992948/live-updates-white-ribbon-march-june-28-2026/story/
+  - https://www.rappler.com/philippines/religious-civil-society-leaders-anti-corruption-protest-edsa-june-2026/

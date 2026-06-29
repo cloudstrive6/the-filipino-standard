@@ -3654,3 +3654,14 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
 **Sources:**
   - https://www.scmp.com/news/asia/southeast-asia/article/3333274/philippine-flood-corruption-scandal-deepens-first-charges-over-ghost-projects
   - https://mb.com.ph/2026/01/28/corruption-scandal-clouds-2026-philippine-growth-outlookworld-bank
+
+**2026-06-29 14:02 PHT | threads | PUBLISHED (LIVE)**
+**Topic:** Philippines 2027 national budget proposal - P7.2 trillion submitted as economy grew just 2.8% in Q1; growth target already cut from 5-6% to 3.5-4.5%
+**Hook:** "P7.2 trillion. That's the budget the Philippine government just submitted for 2027."
+**Angle:** Systemic fiscal contrast - government demanding a bigger budget while the economy slows and growth targets get slashed; taxpayers absorb the gap
+**Tagalog beat:** "Lumaki ang badyet. Humina ang ekonomiya. Ikaw ang nagbabayad." (fresh - budget-growth contrast specific to this post; could not be lifted to any other)
+**Sources:**
+  - https://www.philstar.com/headlines/2026/06/27/2538083/government-proposes-p72-trillion-national-budget-2027/amp/
+  - https://newsinfo.inquirer.net/2253996/govt-proposes-p7-2-t-spending-bill-for-2027
+  - https://www.pna.gov.ph/articles/1278181
+  - https://mb.com.ph/2026/06/26/marcos-admin-proposes-72-trillion-budget-for-2027-to-revive-growth

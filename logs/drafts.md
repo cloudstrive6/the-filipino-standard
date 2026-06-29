@@ -3618,3 +3618,12 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
   - https://www.philstar.com/headlines/2026/03/24/2516571/marcos-declares-national-energy-emergency-over-fuel-crisis
   - https://www.rappler.com/philippines/marcos-enough-crude-oil-supply-until-june-30/
   - https://eastasiaforum.org/2026/06/09/energy-crisis-gives-philippine-oil-deregulation-a-reality-check/
+
+**2026-06-29 10:03 PHT | threads | PUBLISHED (LIVE)**
+**Topic:** Philippines Q1 2026 GDP growth 2.8% vs 5-6% target; flood control corruption scandal stalled public construction, dragging down economic growth
+**Hook:** "The Philippines grew 2.8% in Q1 2026. The target was 5-6%."
+**Angle:** Systemic cost of corruption: flood control graft didn't just waste budget money - it froze public construction, halted projects, and shrank the broader economy
+**Tagalog beat:** "Saan napunta ang kinabukasan natin?" (fresh - specific to lost economic growth/future, not recycled; distinct from "Saan napunta ang pera natin?")
+**Sources:**
+  - https://www.rappler.com/business/gross-domestic-product-philippines-q1-2026/
+  - https://bworldonline.com/top-stories/2026/06/23/758426/philippines-cuts-gdp-growth-outlook-for-this-year/

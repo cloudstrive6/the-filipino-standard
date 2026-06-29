@@ -3627,3 +3627,12 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
 **Sources:**
   - https://www.rappler.com/business/gross-domestic-product-philippines-q1-2026/
   - https://bworldonline.com/top-stories/2026/06/23/758426/philippines-cuts-gdp-growth-outlook-for-this-year/
+
+**2026-06-29 11:03 PHT | threads | PUBLISHED (LIVE)**
+**Topic:** SSS minimum pension rises from P2,000 to P2,200 after June 2026 10% hike; framed by government as "relief" while food, electricity, and transport costs keep climbing
+**Hook:** "P2,200."
+**Angle:** Pension math expose - lifetime of contributions, P200 monthly increase; systemic inadequacy of pension floor vs cost-of-living reality
+**Tagalog beat:** "Ganito na lang pala ang sukli." (fresh - "sukli" double meaning: monetary change returned + metaphorical return on a lifetime of work; specific to pension payback, would not fit any other post)
+**Sources:**
+  - https://www.sss.gov.ph/news-and-updates/sss-begins-early-june-rollout-of-2026-pension-hike-citing-need-for-early-relief-for-pensioners/
+  - https://www.gmanetwork.com/news/money/economy/985782/sss-moves-up-2nd-round-of-10-monthly-pension-hikes-to-june/story/

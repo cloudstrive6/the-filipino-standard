@@ -3598,3 +3598,13 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
   - https://bworldonline.com/top-stories/2026/06/23/758426/philippines-cuts-gdp-growth-outlook-for-this-year/
   - https://www.bloomberg.com/news/articles/2026-01-05/philippines-cuts-2026-gdp-growth-target-as-graft-pain-persists
   - https://business.inquirer.net/593475/oecd-cuts-2026-ph-gdp-growth-forecast-to-3-2
+
+**2026-06-29 08:03 PHT | facebook,instagram | PUBLISHED (LIVE)**
+**Topic:** Anti-corruption White Ribbon March at EDSA Shrine, June 28, 2026 - faith and civil society groups demanding accountability for the flood control corruption scandal, anti-dynasty law, and electoral reform
+**Hook:** "Filipinos marched on EDSA yesterday. Not in 1986. Yesterday."
+**Angle:** Constitutional sovereignty reminder - citizens exercising Article II Sec. 1 rights; flood control scandal as systemic failure of procurement designed to reward loyalty over results
+**Tagalog beat:** "Hindi monumento ang EDSA. Babala ito." (fresh - specific to EDSA as a living warning about accountability, not a historical monument)
+**Scheduled:** 2026-06-29 19:00 PHT
+**Sources:**
+  - https://www.rappler.com/philippines/religious-civil-society-leaders-anti-corruption-protest-edsa-june-2026/
+  - https://newsinfo.inquirer.net/2249194/groups-to-hold-anticorruption-rally-on-june-28

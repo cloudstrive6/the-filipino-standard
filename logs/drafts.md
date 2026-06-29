@@ -3645,3 +3645,12 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
 **Sources:**
   - https://mb.com.ph/2026/03/19/denr-p200b-needed-to-address-ph-water-scarcity-40-m-pinoys-still-rely-on-unsafe-sources
   - https://www.pna.gov.ph/articles/1271436
+
+**2026-06-29 13:03 PHT | threads | PUBLISHED (LIVE)**
+**Topic:** Philippines ghost flood control projects - up to P118.5 billion lost from 2023 to 2025; projects billed, approved, and pocketed while Filipinos flood every typhoon season
+**Hook:** "Up to P118.5 billion. Lost to ghost flood control projects from 2023 to 2025."
+**Angle:** Systemic corruption expose - ghost infrastructure; the cruel irony that flood protection money was pocketed while floods kill Filipinos
+**Tagalog beat:** "Ubos na ang pera. Puno pa rin ng baha." (fresh - "ubos/puno" contrast specific to flood control theft; could not be lifted to any other post)
+**Sources:**
+  - https://www.scmp.com/news/asia/southeast-asia/article/3333274/philippine-flood-corruption-scandal-deepens-first-charges-over-ghost-projects
+  - https://mb.com.ph/2026/01/28/corruption-scandal-clouds-2026-philippine-growth-outlookworld-bank

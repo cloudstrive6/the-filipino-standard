@@ -3636,3 +3636,12 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
 **Sources:**
   - https://www.sss.gov.ph/news-and-updates/sss-begins-early-june-rollout-of-2026-pension-hike-citing-need-for-early-relief-for-pensioners/
   - https://www.gmanetwork.com/news/money/economy/985782/sss-moves-up-2nd-round-of-10-monthly-pension-hikes-to-june/story/
+
+**2026-06-29 12:05 PHT | facebook,instagram | PUBLISHED (LIVE)**
+**Topic:** Philippines water crisis - DENR confirms 40 million Filipinos lack safe water; P200 billion needed to fix infrastructure shortfall
+**Hook:** "In 2026, 40 million Filipinos still can't trust their tap water."
+**Angle:** Systemic governance failure across administrations - not a resources problem but a priorities problem; constitutional duty to serve the people unmet at the most basic level
+**Tagalog beat:** "Malinis na tubig ang pinakamababa. Hindi pa rin nakukuha ng 40 milyong Pilipino." (fresh - specific to water access failure, refers to 40M figure in the post, could not be lifted to any other post)
+**Sources:**
+  - https://mb.com.ph/2026/03/19/denr-p200b-needed-to-address-ph-water-scarcity-40-m-pinoys-still-rely-on-unsafe-sources
+  - https://www.pna.gov.ph/articles/1271436

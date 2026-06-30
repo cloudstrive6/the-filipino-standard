@@ -3675,3 +3675,14 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
   - https://tempo.mb.com.ph/2026/06/28/edsa-white-ribbon-march-draws-thousands-in-call-for-reform/
   - https://www.gmanetwork.com/news/topstories/nation/992948/live-updates-white-ribbon-march-june-28-2026/story/
   - https://www.rappler.com/philippines/religious-civil-society-leaders-anti-corruption-protest-edsa-june-2026/
+
+**2026-06-30 12:04 PHT | threads | PUBLISHED (LIVE)**
+**Topic:** GCash parent Mynt files for P92.3 billion IPO - potentially the biggest in Philippine history (filed June 27-29, 2026)
+**Hook:** "GCash's parent Mynt just filed for the biggest IPO in Philippine history: P92.3 billion."
+**Angle:** Financial inclusion vs. wealth concentration - GCash built on everyday Filipino financial need (40M+ monthly active users); IPO raises the question of whether ordinary Filipinos will own any of the value they created
+**Tagalog beat:** "Sino ang kikita dito?" (fresh - IPO-specific question about who profits; could not be lifted to any other post)
+**Sources:**
+  - https://www.philstar.com/business/2026/06/29/2538387/gcash-parent-mynt-bound-stock-market-p923-b-ipo
+  - https://business.inquirer.net/597475/gcash-targets-record-p92-3-b-philippine-ipo
+  - https://mb.com.ph/2026/06/25/gcash-ipo-poised-to-revive-philippine-stock-market
+  - https://insiderph.com/pses-spacex-moment-gcash-to-file-biggest-ipo-in-philippine-history

@@ -3686,3 +3686,14 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
   - https://business.inquirer.net/597475/gcash-targets-record-p92-3-b-philippine-ipo
   - https://mb.com.ph/2026/06/25/gcash-ipo-poised-to-revive-philippine-stock-market
   - https://insiderph.com/pses-spacex-moment-gcash-to-file-biggest-ipo-in-philippine-history
+
+**2026-06-30 19:03 PHT | threads | PUBLISHED (LIVE)**
+**Topic:** Philippine energy crisis D-Day - Marcos said crude oil supply would last until June 30, 2026; the Philippines imports 98% of oil from the Middle East
+**Hook:** "Today is June 30 - the date the government said PH crude oil would last until."
+**Angle:** Systemic energy vulnerability - 98% import dependence on Middle Eastern oil as a structural failure, not just bad luck; zero energy independence planning across decades
+**Tagalog beat:** "Wala palang plano B para sa gasolina natin." (fresh - fuel-crisis-specific verdict; could not be lifted to any other post)
+**Sources:**
+  - https://www.pna.gov.ph/articles/1271909
+  - https://www.rappler.com/philippines/marcos-enough-crude-oil-supply-until-june-30/
+  - https://en.wikipedia.org/wiki/2026_Philippine_energy_crisis
+  - https://www.philstar.com/headlines/2026/03/28/2517350/president-marcos-philippines-crude-oil-enough-until-june-30

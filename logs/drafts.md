@@ -3697,3 +3697,14 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
   - https://www.rappler.com/philippines/marcos-enough-crude-oil-supply-until-june-30/
   - https://en.wikipedia.org/wiki/2026_Philippine_energy_crisis
   - https://www.philstar.com/headlines/2026/03/28/2517350/president-marcos-philippines-crude-oil-enough-until-june-30
+
+**2026-07-01 12:02 PHT | threads | PUBLISHED (LIVE)**
+**Topic:** DOLE's P85 NCR minimum wage hike (over 1.1 million workers) is being rolled out in two staggered tranches, P60 on July 19 2026 and P25 not until January 20 2027
+**Hook:** "DOLE calls the new NCR minimum wage hike historic: P85 a day for over 1.1 million workers."
+**Angle:** The "historic" wage hike headline hides that only 70% lands now; the rest is delayed six months, while cost of living doesn't wait - a systemic gap between announcement and delivery
+**Tagalog beat:** "Malaki sa papel, pero paunti-unti sa bulsa." (fresh - paper-vs-pocket contrast specific to the staggered wage tranche; could not be lifted to any other post)
+**Sources:**
+  - https://www.rappler.com/philippines/metro-manila-workers-historic-minimum-wage-hike-june-2026/
+  - https://pia.gov.ph/news/over-1-1-m-minimum-wage-workers-in-ncr-to-benefit-from-p85-increase-in-daily-minimum-wages/
+  - https://www.philstar.com/headlines/2026/07/01/2539011/historic-p85-wage-hike-ncr-workers-announced
+  - https://newsinfo.inquirer.net/2255703/dole-approves-historic-p85-wage-hike-for-ncr-workers

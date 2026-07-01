@@ -3708,3 +3708,14 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
   - https://pia.gov.ph/news/over-1-1-m-minimum-wage-workers-in-ncr-to-benefit-from-p85-increase-in-daily-minimum-wages/
   - https://www.philstar.com/headlines/2026/07/01/2539011/historic-p85-wage-hike-ncr-workers-announced
   - https://newsinfo.inquirer.net/2255703/dole-approves-historic-p85-wage-hike-for-ncr-workers
+
+**2026-07-01 19:03 PHT | threads | PUBLISHED (LIVE)**
+**Topic:** Marcos' state visit to Vancouver, Canada (July 1-4, 2026), the first PH head-of-state visit to Canada in 11 years, headlined by a labor and immigration agreement to ease sending Filipino workers abroad
+**Hook:** "Marcos just landed in Vancouver for the first Philippine state visit to Canada in over a decade."
+**Angle:** After 11 years without a single state visit, the flagship deliverable is still an easier pipeline to send Filipinos abroad, not a plan to create jobs at home - the government's default answer to a weak domestic job market is to formalize the exit route
+**Tagalog beat:** "Iyon pa rin pala ang plano: hayaan silang umalis." (fresh - ironic verdict specific to the labor-export deal; could not be lifted to any other post)
+**Sources:**
+  - https://www.manilatimes.net/2026/07/01/news/ph-to-sign-deals-on-energy-trade-with-canada-during-marcos-visit/2376465
+  - https://www.pna.gov.ph/articles/1278186
+  - https://globalnation.inquirer.net/328852/marcos-first-lady-to-embark-on-official-visit-to-canada-from-july-1-4
+  - https://pia.gov.ph/news/president-marcos-to-visit-canada-to-advance-strategic-and-economic-cooperation/

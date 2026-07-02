@@ -3719,3 +3719,14 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
   - https://www.pna.gov.ph/articles/1278186
   - https://globalnation.inquirer.net/328852/marcos-first-lady-to-embark-on-official-visit-to-canada-from-july-1-4
   - https://pia.gov.ph/news/president-marcos-to-visit-canada-to-advance-strategic-and-economic-cooperation/
+
+**2026-07-02 12:03 PHT | threads | PUBLISHED (LIVE)**
+**Topic:** Senate impeachment court approved a 92-trial-day pre-trial order (starting July 6, 2026) for VP Sara Duterte, far shorter than the Senate's own earlier 7-8 month estimate
+**Hook:** "Kaya pala nilang bumilis, kung gusto lang nila." (Tagalog opening hook)
+**Angle:** Institutional-capacity critique - the same Senate that estimated 7-8 months for this trial just compressed it to 92 days, proving speed was always a choice, not a structural limit; implication for every other stalled corruption probe
+**Tagalog beat:** "Kaya pala nilang bumilis, kung gusto lang nila." (fresh - opening_hook placement per planner; specific to the trial-speed reveal, not reused)
+**Sources:**
+  - https://www.philstar.com/headlines/2026/07/01/2538998/senate-impeachment-court-approves-92-trial-days
+  - https://www.gmanetwork.com/news/topstories/nation/992558/impeachment-trial-july-2026/story/
+  - https://www.rappler.com/philippines/vice-president-sara-duterte-trial-schedule-2026/
+  - https://newsinfo.inquirer.net/2254929/senate-impeachment-court-oks-92-trial-days-17-shared-witnesses

@@ -3730,3 +3730,14 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
   - https://www.gmanetwork.com/news/topstories/nation/992558/impeachment-trial-july-2026/story/
   - https://www.rappler.com/philippines/vice-president-sara-duterte-trial-schedule-2026/
   - https://newsinfo.inquirer.net/2254929/senate-impeachment-court-oks-92-trial-days-17-shared-witnesses
+
+**2026-07-02 19:03 PHT | threads | PUBLISHED (LIVE)**
+**Topic:** Iglesia ni Cristo's two-day EDSA rally (June 30-July 1, 2026) protesting "selective justice" over Ombudsman plunder charges against Sen. Rodante Marcoleta (P75M undeclared campaign donations); QC revoked the permit for a third rally day
+**Hook:** "Tama lang ang accountability, kapag hindi sila ang panagutan." (Tagalog opening hook)
+**Angle:** Institutional-incentive critique - a bloc chanting "transparency and accountability" is doing so to shield its own senator from plunder charges, showing how accountability language gets weaponized to protect allies rather than demand it universally
+**Tagalog beat:** "Tama lang ang accountability, kapag hindi sila ang panagutan." (fresh - opening_hook placement per planner; specific to this rally's irony, not reused)
+**Sources:**
+  - https://newsinfo.inquirer.net/2255100/watch-inc-holds-edsa-protest-over-alleged-selective-justice
+  - https://newsinfo.inquirer.net/2255008/inc-airs-support-for-marcoleta-hits-selective-justice
+  - https://tribune.net.ph/2026/06/30/inc-floods-edsa-hits-selective-justice
+  - https://newsinfo.inquirer.net/2256193/qc-revokes-inc-rally-permit-for-thursday-july-2

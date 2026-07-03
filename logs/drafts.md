@@ -3741,3 +3741,13 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
   - https://newsinfo.inquirer.net/2255008/inc-airs-support-for-marcoleta-hits-selective-justice
   - https://tribune.net.ph/2026/06/30/inc-floods-edsa-hits-selective-justice
   - https://newsinfo.inquirer.net/2256193/qc-revokes-inc-rally-permit-for-thursday-july-2
+
+**2026-07-03 12:03 PHT | threads | PUBLISHED (LIVE)**
+**Topic:** AFP reported Chinese vessel presence in the West Philippine Sea jumped from 17 (June 16-22) to 44 (June 23-29) across Ayungin Shoal, Bajo de Masinloc, Escoda Shoal, and Pag-asa Islands, while domestic attention stayed on the Senate impeachment trial calendar and Marcos' Canada visit
+**Hook:** "Chinese vessels in the West Philippine Sea jumped from 17 to 44 in a single week, June 23 to 29, per the AFP." (stat-punch opening)
+**Angle:** Attention-allocation critique - national bandwidth consumed by Senate impeachment drama and a state visit abroad while a WPS incursion nearly tripled in the same stretch, largely unremarked
+**Tagalog beat:** "Ilang beses pa tayo papasukin bago tayo magsalita?" (fresh - closing_line placement, rotated out of opening_hook used in the last two posts; plays on "papasukin" (let in/entered) doubling as both the WPS incursion and Filipino passivity, not reused)
+**Sources:**
+  - https://www.sunstar.com.ph/pampanga/local-news/44-chinese-vessels-spotted-in-wps-from-june-23-29
+  - https://maharlika.tv/44-chinese-ships-monitored-in-west-philippine-sea-during-june-23-29-afp/
+  - https://www.gmanetwork.com/news/topstories/nation/990928/afp-chinese-vessel-presence-wps-41-from-44/story/

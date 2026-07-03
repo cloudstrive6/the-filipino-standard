@@ -3751,3 +3751,13 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
   - https://www.sunstar.com.ph/pampanga/local-news/44-chinese-vessels-spotted-in-wps-from-june-23-29
   - https://maharlika.tv/44-chinese-ships-monitored-in-west-philippine-sea-during-june-23-29-afp/
   - https://www.gmanetwork.com/news/topstories/nation/990928/afp-chinese-vessel-presence-wps-41-from-44/story/
+
+**2026-07-03 19:02 PHT | threads | PUBLISHED (LIVE)**
+**Topic:** PhilHealth expands leptospirosis benefit package to up to P411,000 (dialysis, ventilator, pulmonary rehab) starting July 15, 2026, as DOH reports a 6% rise in cases (2,177 nationwide, Jan 4-June 6) during rainy season
+**Hook:** "Starting July 15, PhilHealth will cover up to P411,000 for severe leptospirosis, including dialysis and ventilator care, as rainy season cases climb nationwide."
+**Angle:** Treatment-vs-cause critique - the government is willing to fund the expensive downstream treatment (dialysis, ventilators) for a disease bred by clogged esteros, poor drainage, and uncollected trash, but not the upstream infrastructure fixes that would prevent it
+**Tagalog beat:** "Ginagamot ang sintomas, kinakalimutan ang sanhi." (fresh - "treating the symptom, forgetting the cause" - names this post's specific treatment-vs-prevention gap, not reused from prior posts)
+**Sources:**
+  - https://pia.gov.ph/news/up-to-p400000-leptospirosis-coverage-starts-july-15/
+  - https://newsinfo.inquirer.net/2255554/philhealth-expands-leptospirosis-coverage-to-p411000-starting-july-15
+  - https://cebudailynews.inquirer.net/742919/up-to-%E2%82%B1411k-leptospirosis-coverage-available-via-philhealth-as-rains-arrive

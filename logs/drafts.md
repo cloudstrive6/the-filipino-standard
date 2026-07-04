@@ -3761,3 +3761,13 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
   - https://pia.gov.ph/news/up-to-p400000-leptospirosis-coverage-starts-july-15/
   - https://newsinfo.inquirer.net/2255554/philhealth-expands-leptospirosis-coverage-to-p411000-starting-july-15
   - https://cebudailynews.inquirer.net/742919/up-to-%E2%82%B1411k-leptospirosis-coverage-available-via-philhealth-as-rains-arrive
+
+**2026-07-04 12:02 PHT | threads | PUBLISHED (LIVE)**
+**Topic:** World Bank reclassified the Philippines from lower-middle to upper-middle income on July 1, 2026, with 2025 GNI per capita reaching $4,850, up from $4,470 the prior year
+**Hook:** "The Philippines just moved into the World Bank's upper middle income bracket. GNI per capita: $4,850, up from $4,470."
+**Angle:** Statistic-vs-lived-experience critique - an average income figure rising says nothing about who actually captured the gain or whether it reached ordinary households versus contractors/oligarchs; a classification change is not the same as Filipinos feeling richer at the meter, market, or clinic
+**Tagalog beat:** "Tumaas ang numero. Hindi pa alam kung tumaas din ang buhay." (fresh - "the number went up, not yet known if life did too" - names this post's specific number-vs-life gap, not reused from prior posts)
+**Sources:**
+  - https://business.inquirer.net/598349/ph-attains-upper-middle-income-rank-world-bank
+  - https://bworldonline.com/top-stories/2026/07/02/760634/philippines-now-an-upper-middle-income-country-world-bank-says/
+  - https://www.abs-cbn.com/news/business/2026/7/1/philippines-now-an-upper-middle-income-country-2222

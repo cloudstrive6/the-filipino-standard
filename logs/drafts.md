@@ -3771,3 +3771,13 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
   - https://business.inquirer.net/598349/ph-attains-upper-middle-income-rank-world-bank
   - https://bworldonline.com/top-stories/2026/07/02/760634/philippines-now-an-upper-middle-income-country-world-bank-says/
   - https://www.abs-cbn.com/news/business/2026/7/1/philippines-now-an-upper-middle-income-country-2222
+
+**2026-07-04 19:03 PHT | threads | PUBLISHED (LIVE)**
+**Topic:** Ombudsman filed plunder charges vs Sen. Rodante Marcoleta over P75 million in undeclared campaign contributions received in three tranches within four days in January 2025, months before the campaign period opened; Comelec had cleared him of election offenses in March 2026 on the ground that the donations fell outside the campaign period
+**Hook:** "P75 million. Three tranches. Four days. That's what the Ombudsman says a senator took in undeclared campaign money in January 2025, months before campaign season even opened."
+**Angle:** System-loophole critique - the campaign finance disclosure law (SOCE) only starts counting once the official campaign period begins, so the largest, most decisive money can arrive just before the clock starts and stay invisible to the law that exists to catch it; only a separate plunder case reached what disclosure rules were built to catch
+**Tagalog beat:** "Malinaw ang batas. Malabo lang pala kapag maaga ang bigay." (fresh - "the law is clear, it just gets blurry when the money comes early" - names this post's specific timing-loophole gap, not reused from prior posts)
+**Sources:**
+  - https://www.philstar.com/headlines/2026/07/03/2539557/ombudsman-files-plunder-charges-vs-rodante-marcoleta
+  - https://www.manilatimes.net/2026/07/04/news/ombudsman-files-plunder-charges-against-marcoleta/2377911
+  - https://newsinfo.inquirer.net/2256105/despite-rallies-ombudsman-filing-plunder-charges-vs-marcoleta-this-week

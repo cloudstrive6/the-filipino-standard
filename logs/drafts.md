@@ -3790,3 +3790,12 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
 **Sources:**
   - https://www.manilatimes.net/2026/07/04/news/malacaang-to-sara-show-up-in-impeachment-trial-to-clear-name/2378315
   - https://www.rappler.com/philippines/vice-president-sara-duterte-trial-schedule-2026/
+
+**2026-07-05 19:02 PHT | threads | PUBLISHED (LIVE)**
+**Topic:** DOF estimates ghost flood control projects cost the PH economy P42.3B-P118.5B (2023-2025), equal to up to 266,000 lost jobs; Marcos says the corruption probe is "not done yet"
+**Hook:** "P118.5 billion. That is the Department of Finance's own estimate of what 'ghost' flood control projects cost the economy from 2023 to 2025, equal to up to 266,000 lost jobs."
+**Angle:** Constitutional-duty framing - flood control exists because the country floods every year, so money diverted from it is a direct breach of government's prime constitutional duty to serve and protect the people; contrasts the scale of admitted loss against Marcos's "still not done" admission
+**Tagalog beat:** "Lumubog ang pera, hindi ang baha." (fresh - "the money sank, not the flood" - wordplay specific to flood-control funds disappearing while the flooding itself continues; not reused from prior posts)
+**Sources:**
+  - https://www.manilatimes.net/2026/07/05/news/national/marcos-on-flood-control-mess-were-not-done-yet/2378507
+  - https://www.gmanetwork.com/news/money/economy/957738/ghost-flood-projects-economic-loss-dof/story/

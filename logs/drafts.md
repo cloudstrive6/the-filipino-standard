@@ -3781,3 +3781,12 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
   - https://www.philstar.com/headlines/2026/07/03/2539557/ombudsman-files-plunder-charges-vs-rodante-marcoleta
   - https://www.manilatimes.net/2026/07/04/news/ombudsman-files-plunder-charges-against-marcoleta/2377911
   - https://newsinfo.inquirer.net/2256105/despite-rallies-ombudsman-filing-plunder-charges-vs-marcoleta-this-week
+
+**2026-07-05 12:03 PHT | threads | PUBLISHED (LIVE)**
+**Topic:** VP Sara Duterte's Senate impeachment trial begins July 6, 2026, covering four articles (confidential funds, unexplained wealth, DepEd bribery, grave threats against President Marcos, the First Lady, and Martin Romualdez); Malacanang said she should show up in person to clear her name
+**Hook:** "Four articles of impeachment. Unexplained wealth. Bribery of DepEd officials. Grave threats against a sitting President's family. Tomorrow the Vice President finally faces an actual trial for it."
+**Angle:** Constitutional-mechanism framing - the impeachment trial is the accountability process the Constitution built for exactly this, so the test is whether it produces a real verdict or just more spectacle; frames Malacanang's "show up and clear your name" line back at the process itself
+**Tagalog beat:** "Kung malinis siya, hindi siya matatakot humarap." (fresh - "if she's clean, she won't be afraid to face it" - names this post's specific in-person-trial stakes, not reused from prior posts; mid-post placement, varying from the last two posts' closing-line placement)
+**Sources:**
+  - https://www.manilatimes.net/2026/07/04/news/malacaang-to-sara-show-up-in-impeachment-trial-to-clear-name/2378315
+  - https://www.rappler.com/philippines/vice-president-sara-duterte-trial-schedule-2026/

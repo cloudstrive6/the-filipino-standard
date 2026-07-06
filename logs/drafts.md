@@ -3808,3 +3808,12 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
 **Sources:**
   - https://www.gmanetwork.com/news/topstories/nation/993815/pnp-over-6-000-cops-to-secure-senate-for-sara-duterte-impeachment-trial/story/
   - https://newsinfo.inquirer.net/2257811/ncrpo-over-6000-cops-to-secure-senate-for-duterte-impeachment-trial
+
+**2026-07-06 19:02 PHT | threads | PUBLISHED (LIVE)**
+**Topic:** World Bank reclassified the Philippines as an upper-middle-income country (July 1, 2026), GNI per capita hit $4,850, above the $4,636 threshold, after averaging 5.8% annual GDP growth since 2021
+**Hook:** "The Philippines just got reclassified 'upper middle income' by the World Bank. GNI per capita: $4,850, officially above the $4,636 threshold, after averaging 5.8% annual growth since 2021."
+**Angle:** Systems framing, distinct from the impeachment-trial and flood-control posts of the last two days - a rising national average is not the same as prosperity reaching the household, and the milestone doesn't fix the monopolized utilities, gatekept customs lines, or insider-protecting permit systems that keep ordinary Filipinos from feeling it
+**Tagalog beat:** "Tumaas ang ranggo ng bansa. Hindi pa ito naramdaman ng mga nasa laylayan." (fresh - "the country's rank went up, those on the margins haven't felt it yet" - specific to this income-reclassification story, not reused)
+**Sources:**
+  - https://www.rappler.com/business/philippines-reaches-upper-middle-income-status-world-bank/
+  - https://bworldonline.com/top-stories/2026/07/02/760634/philippines-now-an-upper-middle-income-country-world-bank-says/

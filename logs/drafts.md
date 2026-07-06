@@ -3799,3 +3799,12 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
 **Sources:**
   - https://www.manilatimes.net/2026/07/05/news/national/marcos-on-flood-control-mess-were-not-done-yet/2378507
   - https://www.gmanetwork.com/news/money/economy/957738/ghost-flood-projects-economic-loss-dof/story/
+
+**2026-07-06 12:03 PHT | threads | PUBLISHED (LIVE)**
+**Topic:** Sara Duterte Senate impeachment trial formally opens July 6, 2026; PNP/NCRPO deployed 6,000+ police officers and steel barriers around the Senate building, blocking protesters from the Senate gate itself
+**Hook:** "Today the Senate impeachment trial of Vice President Sara Duterte formally opens with more than 6,000 police officers deployed around the building and steel barriers blocking protesters from even reaching the Senate gate."
+**Angle:** State-response framing (new, distinct from prior trial post) - the scale of the security operation shows the government bracing harder against its own citizens demanding accountability than it ever did against the officials accused of taking it from them; contrasts security-state posture with a genuine accountability process
+**Tagalog beat:** "Bakit kailangan ng ganito karaming bakod kung tama lang ang ginagawa?" (fresh - "why does it need this many barricades if what's being done is right?" - names this post's specific police/barrier detail, not reused; closing rhetorical question, distinct beat and placement from the last two posts)
+**Sources:**
+  - https://www.gmanetwork.com/news/topstories/nation/993815/pnp-over-6-000-cops-to-secure-senate-for-sara-duterte-impeachment-trial/story/
+  - https://newsinfo.inquirer.net/2257811/ncrpo-over-6000-cops-to-secure-senate-for-duterte-impeachment-trial

@@ -3826,3 +3826,14 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
 **Sources:**
   - https://www.gmanetwork.com/news/money/economy/993884/list-pump-price-adjustments-on-tuesday-july-7-2026/story/
   - https://www.rappler.com/business/fuel-prices-adjustments-july-7-2026/
+
+**2026-07-07 19:03 PHT | threads | PUBLISHED (LIVE)**
+**Topic:** Super Typhoon Bavi entering PAR (sustained winds 185 km/h, gusts 230 kph) tied to the 416 confirmed ghost flood-control projects nationwide, up to P118.5B in estimated economic loss (2023-2025)
+**Hook:** "Super Typhoon Bavi is set to enter Philippine waters today, packing sustained winds of 185 km/h and gusts up to 230 kph. Landfall or not, the country still needs flood defenses that actually work."
+**Angle:** Systems framing, distinct from the impeachment-trial, World Bank-reclassification, and fuel-price posts of the last few days - a fresh super typhoon entering PAR is the hook, pivoting to the same flood-control system where 416 projects were confirmed ghosts, funded and signed off but never built, an incentive failure that leaves communities exposed regardless of where the storm lands
+**Tagalog beat:** "Paano tayo mabubuhay sa bagyo kung peke pala ang proteksyon?" (fresh - "how will we survive the storm if the protection turns out to be fake?" - specific to this typhoon/ghost-flood-control story, not reused)
+**Sources:**
+  - https://www.philstar.com/headlines/2026/07/07/2540380/super-typhoon-set-enter-par
+  - https://www.rappler.com/philippines/weather/super-typhoon-bavi-potential-inday-update-pagasa-forecast-july-6-2026-11am/
+  - https://newsinfo.inquirer.net/2175314/ici-cuts-ghost-flood-control-projects-list-to-416-after-review
+  - https://www.gmanetwork.com/news/money/economy/957738/ghost-flood-projects-economic-loss-dof/story/

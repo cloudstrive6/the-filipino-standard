@@ -3817,3 +3817,12 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
 **Sources:**
   - https://www.rappler.com/business/philippines-reaches-upper-middle-income-status-world-bank/
   - https://bworldonline.com/top-stories/2026/07/02/760634/philippines-now-an-upper-middle-income-country-world-bank-says/
+
+**2026-07-07 12:02 PHT | threads | PUBLISHED (LIVE)**
+**Topic:** Fuel price hikes effective July 7, 2026 - diesel +P3.30/L, kerosene +P1.75/L, gasoline +P0.25/L; year-to-date net increases of P45.02/L gasoline and P31.56/L diesel as of June 30, 2026
+**Hook:** "Diesel rose again by P3.30 a liter this morning, kerosene by P1.75, gasoline by P0.25, no debate, no warning, no vote."
+**Angle:** Systems framing, distinct from impeachment-trial and World Bank-reclassification posts of the last two days - the deregulated pump-price mechanism lets oil firms adjust weekly while jeepney and tricycle drivers absorb every hike instantly, no reserve, no buffer, no say
+**Tagalog beat:** "Umaakyat ang presyo, hindi umaakyat ang sahod ng driver." (fresh - "the price goes up, the driver's wage doesn't" - specific to this fuel-hike story, not reused)
+**Sources:**
+  - https://www.gmanetwork.com/news/money/economy/993884/list-pump-price-adjustments-on-tuesday-july-7-2026/story/
+  - https://www.rappler.com/business/fuel-prices-adjustments-july-7-2026/

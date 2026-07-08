@@ -3837,3 +3837,13 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
   - https://www.rappler.com/philippines/weather/super-typhoon-bavi-potential-inday-update-pagasa-forecast-july-6-2026-11am/
   - https://newsinfo.inquirer.net/2175314/ici-cuts-ghost-flood-control-projects-list-to-416-after-review
   - https://www.gmanetwork.com/news/money/economy/957738/ghost-flood-projects-economic-loss-dof/story/
+
+**2026-07-08 12:03 PHT | threads | PUBLISHED (LIVE)**
+**Topic:** Meralco hiked its June 2026 residential rate by P0.1488/kWh (to P14.4833 from P14.3345) after May's three-day Luzon grid red alerts pushed wholesale spot market prices up
+**Hook:** "Meralco hiked its June 2026 rate by P0.1488 per kWh, now P14.4833, after May's red alerts on the Luzon grid pushed wholesale power prices up. Households pay more. Reliability did not improve."
+**Angle:** Utility-ownership systems framing, distinct from the fuel-pump-price post (transport fuel) and the ghost-flood-control posts of the last few days - this one is about the electricity bill itself and Meralco's ownership history (never community owned, Lopez to Marcos cronies to today's private owners) versus NZ's community energy trusts that return profits to households
+**Tagalog beat:** "Tumaas na naman ang bill, wala namang ibinabalik sa atin." (fresh - "the bill went up again, yet nothing is given back to us" - specific to the rate hike/no-refund contrast, not reused)
+**Sources:**
+  - https://www.rappler.com/business/meralco-power-rates-june-2026/
+  - https://www.gmanetwork.com/news/money/companies/991066/meralco-electricity-bills-household-rate/story/
+  - https://company.meralco.com.ph/news-and-advisories/higher-residential-rates-june-2026

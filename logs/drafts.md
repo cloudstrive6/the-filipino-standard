@@ -3847,3 +3847,12 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
   - https://www.rappler.com/business/meralco-power-rates-june-2026/
   - https://www.gmanetwork.com/news/money/companies/991066/meralco-electricity-bills-household-rate/story/
   - https://company.meralco.com.ph/news-and-advisories/higher-residential-rates-june-2026
+**2026-07-08 19:02 PHT | threads | PUBLISHED (LIVE)**
+**Topic:** PSA: PH unemployment climbed to 4.8% in May 2026 (from 4.7% in April), 2.50 million jobless (up from 2.41 million), El Nino hit farm/agriculture jobs hardest
+**Hook:** "The Philippines was just reclassified upper-middle-income. Days later, PSA data shows unemployment climbed to 4.8% in May..."
+**Angle:** Systems framing, distinct from the Meralco/electricity, fuel-price, flood-control, impeachment, and World Bank-reclassification posts of the last few days - directly juxtaposes the July 1 upper-middle-income reclassification against the same week's labor data, arguing a rising national average and a shrinking job market can both be true, growth on a spreadsheet is not a job in a barangay
+**Tagalog beat:** "Saan napupunta ang paglago, kung hindi sa trabaho ng mga Pilipino?" (fresh - "where does the growth go, if not to the jobs of Filipinos" - specific to the growth-vs-jobs contrast, not reused)
+**Sources:**
+  - https://www.rappler.com/business/unemployment-rate-philippines-may-2026/
+  - https://mb.com.ph/2026/07/08/el-nino-farm-losses-push-jobless-filipinos-to-25-million-in-may
+  - https://context.ph/2026/07/08/jobless-rate-rise-in-may-underemployment-rate-eases/

@@ -3866,3 +3866,13 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
   - https://www.rappler.com/business/government-cuts-growth-outlook-newly-upgraded-upper-middle-income-philippines/
   - https://business.inquirer.net/596658/dbcc-cuts-ph-2026-growth-target-to-3-5-4-5
   - https://www.dbm.gov.ph/index.php/management-2/4081-193rd-dbcc-statement-on-the-review-of-the-medium-term-macroeconomic-assumptions-and-fiscal-program-for-fiscal-year-fy-2026-to-2030
+
+**2026-07-09 19:03 PHT | threads | PUBLISHED (LIVE)**
+**Topic:** Flash flooding and evacuations across Metro Manila / multiple regions this week (Typhoon Inday + enhanced habagat, class suspensions July 8-10) tied to DPWH's own audit: 421 of 8,000 inspected flood control projects were "ghost" projects, and roughly P100 billion (20% of the P545B flood-control budget since July 2022) went to just 15 contractors
+**Hook:** "Flash floods hit parts of Metro Manila this week as Typhoon Inday and the habagat drenched the country. Classes got suspended across multiple regions."
+**Angle:** Reactive-to-weather angle distinct from today's earlier DBCC/GDP post - this one makes the flood-control corruption scandal visceral and immediate by tying it directly to this week's real flooding and evacuations, not economic forecasts
+**Tagalog beat:** "Ninakaw ang perang dapat sana pumigil sa baha." (fresh - "the money that was supposed to prevent the flood was stolen" - placement: standalone_beat, specific to this post's flood/theft link, not reused)
+**Sources:**
+  - https://mb.com.ph/2026/07/09/las-pinas-suspends-classes-as-habagat-typhoon-inday-drench-metro-manila
+  - https://newsinfo.inquirer.net/2259581/govt-warns-of-flooding-landslides-as-super-typhoon-inday-nears
+  - https://newsinfo.inquirer.net/2122487/dizon-421-of-8000-flood-control-works-are-ghosts

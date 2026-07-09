@@ -3856,3 +3856,13 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
   - https://www.rappler.com/business/unemployment-rate-philippines-may-2026/
   - https://mb.com.ph/2026/07/08/el-nino-farm-losses-push-jobless-filipinos-to-25-million-in-may
   - https://context.ph/2026/07/08/jobless-rate-rise-in-may-underemployment-rate-eases/
+
+**2026-07-09 12:03 PHT | threads | PUBLISHED (LIVE)**
+**Topic:** DBCC (government's own budget planners) cut the 2026 GDP growth forecast from 5-6% to 3.5-4.5%, citing "governance-related issues" (corruption fallout from flood-control scandal) alongside geopolitical tensions and inflation; comes a week after the July 1, 2026 World Bank upper-middle-income upgrade
+**Hook:** "Sila mismo ang umamin nito. The government's own budget planners just cut the 2026 growth forecast from 5-6% to as low as 3.5-4.5%. The reason, printed in their own document: governance-related issues."
+**Angle:** Systems/institutional framing, distinct from the prior day's growth-vs-jobs (unemployment) post and the World Bank reclassification post - this one is "the state's own fiscal document names governance/corruption as a growth drag," an institutional self-indictment rather than an external contrast
+**Tagalog beat:** "Sila mismo ang umamin nito." (fresh - "they themselves admitted it" - placement: opening_hook per planner, specific to the self-admission angle, not reused)
+**Sources:**
+  - https://www.rappler.com/business/government-cuts-growth-outlook-newly-upgraded-upper-middle-income-philippines/
+  - https://business.inquirer.net/596658/dbcc-cuts-ph-2026-growth-target-to-3-5-4-5
+  - https://www.dbm.gov.ph/index.php/management-2/4081-193rd-dbcc-statement-on-the-review-of-the-medium-term-macroeconomic-assumptions-and-fiscal-program-for-fiscal-year-fy-2026-to-2030

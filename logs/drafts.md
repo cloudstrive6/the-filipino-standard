@@ -3876,3 +3876,14 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
   - https://mb.com.ph/2026/07/09/las-pinas-suspends-classes-as-habagat-typhoon-inday-drench-metro-manila
   - https://newsinfo.inquirer.net/2259581/govt-warns-of-flooding-landslides-as-super-typhoon-inday-nears
   - https://newsinfo.inquirer.net/2122487/dizon-421-of-8000-flood-control-works-are-ghosts
+
+**2026-07-10 12:03 PHT | threads | PUBLISHED (LIVE)**
+**Topic:** Senator Rodante Marcoleta arrested July 6 on a non-bailable P75-million plunder charge (undeclared campaign donations); as of July 9-10 he remains in PNP General Hospital custody rather than being transferred to Quezon City Jail (Payatas), pending medical clearance
+**Hook:** "A senator was arrested this week on a 75 million peso plunder charge, non-bailable, over campaign donations he never declared."
+**Angle:** Two-tier justice system angle - a sitting senator facing a non-bailable plunder charge gets a guarded hospital bed instead of a jail cell, contrasted with the ordinary Filipino who would not get that option. Distinct from the last two posts (DBCC growth downgrade, flood-control ghost projects/flash floods) - this is Political Commentary / accountability, not economic or disaster-relief.
+**Tagalog beat:** "Dalawang batas talaga sa Pilipinas: isa para sa mayaman, isa para sa karaniwang Pilipino." (fresh - "there really are two laws in the Philippines: one for the rich, one for the ordinary Filipino" - placement: closing_line, specific to this post's two-tier-justice angle, not reused)
+**Sources:**
+  - https://www.gmanetwork.com/news/topstories/nation/993635/sandiganbayan-arrest-warrant-rodante-marcoleta-plunder-case/story/
+  - https://www.philstar.com/headlines/2026/07/07/2540382/marcoleta-arrested-plunder
+  - https://mb.com.ph/2026/07/09/marcoleta-to-remain-under-pnp-custody-until-further-notice-from-sandiganbayan
+  - https://www.manilatimes.net/2026/07/10/news/national/pnp-no-jail-time-yet-for-marcoleta/2381872

@@ -3887,3 +3887,17 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
   - https://www.philstar.com/headlines/2026/07/07/2540382/marcoleta-arrested-plunder
   - https://mb.com.ph/2026/07/09/marcoleta-to-remain-under-pnp-custody-until-further-notice-from-sandiganbayan
   - https://www.manilatimes.net/2026/07/10/news/national/pnp-no-jail-time-yet-for-marcoleta/2381872
+
+## 2026-07-10 19:03 PHT | threads | BLOCKED (fact-check failed x2, clean exit)
+
+**Topic:** VP Sara Duterte impeachment trial (day 3 of trial as of July 8-10, 2026): allegations include unexplained wealth, bribery, and an alleged threat to assassinate the president; Senate needs 16 of 24 votes (two-thirds) to convict, but only needed a majority to elect Escudero as presiding officer (12-8 vote)
+**Hook attempted:** "Mahirap ibagsak ang nasa kapangyarihan, kahit gaano karami ang ebidensya."
+**Tagalog beat attempted:** "Mahirap ibagsak ang nasa kapangyarihan, kahit gaano karami ang ebidensya." (fresh - "it's hard to bring down someone in power, no matter how much evidence" - placement: opening_hook, per threads_tagalog_planner.py; specific to the high conviction bar vs. easy procedural wins angle, not reused)
+**Char count:** 497 (final attempt)
+**Block reason:** Attempt 1 - "Nine banks were just subpoenaed for 19 years of her financial records" contradicted (verifier found the subpoenas were only *requested* by prosecutors, not yet issued/granted by the court). Attempt 2 - reworded to "Prosecutors asked the court to subpoena nine banks..." but the verifier's second pass could not independently corroborate that specific claim at all (all other claims in the post passed both times: trial day count, allegations, 16/24 vote threshold, majority-vote presiding-officer election). Two attempts exhausted; clean exit per hard rules. Nothing published this run.
+**Sources consulted:**
+- https://www.aljazeera.com/news/2026/7/6/philippine-vice-president-dutertes-impeachment-trial-begins-what-we-know
+- https://www.rappler.com/philippines/vice-president-sara-duterte-impeachment-trial-updates-videos/
+- https://newsinfo.inquirer.net/2261123/icymi-sara-duterte-impeachment-trial-week-1-highlights
+- https://www.sunstar.com.ph/cebu/senate-opens-historic-impeachment-trial-of-vice-president-sara-duterte-amid-fierce-rules-debate
+- https://www.gmanetwork.com/news/topstories/nation/993991/sara-duterte-impeachment-trial-live-updates-july-7-2026/story/

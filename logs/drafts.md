@@ -3901,3 +3901,15 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
 - https://newsinfo.inquirer.net/2261123/icymi-sara-duterte-impeachment-trial-week-1-highlights
 - https://www.sunstar.com.ph/cebu/senate-opens-historic-impeachment-trial-of-vice-president-sara-duterte-amid-fierce-rules-debate
 - https://www.gmanetwork.com/news/topstories/nation/993991/sara-duterte-impeachment-trial-live-updates-july-7-2026/story/
+
+## 2026-07-11 12:02 PHT | threads | PUBLISHED (LIVE)
+
+**Topic:** Philippines reclassified to upper-middle income status by the World Bank (announced July 1, 2026) with GDP averaging 5.8% growth since 2021, contrasted with DOST-FNRI's 2025 Updating Survey Results showing child stunting (under-5) rose to 25.3%, the first increase since 2015
+**Hook:** "Lumalaki raw ang ekonomiya. Bakit humihina ang mga bata?"
+**Angle:** Economic growth narrative vs. child welfare outcome - distinct from the last several posts (DBCC growth downgrade, flood-control ghost projects/flash floods, Marcoleta arrest, blocked Duterte impeachment draft). Constitutional accountability angle (Art II Sec 4), not utility/corruption/impeachment.
+**Tagalog beat:** "Lumalaki raw ang ekonomiya. Bakit humihina ang mga bata?" (fresh - "the economy is supposedly growing, why are the children getting weaker" - placement: opening_hook per threads_tagalog_planner.py; specific to this post's GDP-vs-stunting contrast, not reused)
+**Char count:** 476
+**Sources:**
+- https://www.philstar.com/headlines/2026/06/19/2536252/philippines-stunting-rate-rises-253-report
+- https://edcom2.gov.ph/stunting-rate-rises-to-25-3-first-increase-in-10-years/
+- https://business.inquirer.net/598875/sec-vows-more-reforms-amid-ph-economic-devt

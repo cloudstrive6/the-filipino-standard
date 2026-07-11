@@ -3913,3 +3913,16 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
 - https://www.philstar.com/headlines/2026/06/19/2536252/philippines-stunting-rate-rises-253-report
 - https://edcom2.gov.ph/stunting-rate-rises-to-25-3-first-increase-in-10-years/
 - https://business.inquirer.net/598875/sec-vows-more-reforms-amid-ph-economic-devt
+
+## 2026-07-11 19:03 PHT | threads | PUBLISHED (LIVE)
+
+**Topic:** BSP data (released July 11, 2026): net FDI inflows into the Philippines fell to $250 million in April 2026, the lowest monthly level in almost 10 years (since $244M in June 2016), down 58.8% from $607 million in April 2025
+**Hook:** "BSP's own numbers: foreign investment into the Philippines fell to $250 million in April, the lowest in almost 10 years. Down 58.8% from a year ago."
+**Angle:** Investor-confidence angle, distinct from today's earlier post (World Bank upgrade vs. child stunting) and from the prior DBCC growth-forecast-cut post - this one uses fresh BSP data on capital flight/investor caution, not GDP forecasts or welfare stats. Economic & Utility Reform pillar, systems framing (the people financially betting on the country are pulling back while officials tout the growth narrative).
+**Tagalog beat:** "Umaatras ang mga mamumuhunan, at malinaw ang dahilan." (fresh - "investors are retreating, and the reason is clear" - placement: mid_pivot; avoided the last 2 placements used, opening_hook and closing_line; specific to this post's investor-retreat angle, not reused)
+**Char count:** 319
+**Note:** First draft included "the 15th straight month of year-on-year decline" which the fact-check gate correctly flagged as misstated (that stat applies to the cumulative YTD figure, not each individual month) - claim removed, second attempt passed clean.
+**Sources:**
+- https://www.philstar.com/business/2026/07/11/2541254/fdi-inflows-plunge-250-million-april
+- https://bworldonline.com/top-stories/2026/07/10/762619/philippines-net-fdi-inflows-plunge-to-near-10-year-low-in-april/
+- https://www.manilatimes.net/2026/07/11/business/net-fdi-falls-to-near-10-year-low-in-april/2382535

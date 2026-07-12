@@ -3939,3 +3939,17 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
 - https://bworldonline.com/corporate/2026/07/10/762580/meralco-july-power-rate-rises-p0-3428-kwh-on-higher-generation-charge/
 - https://www.rappler.com/business/why-your-meralco-bill-higher-july-2026-rise-again-soon/
 - https://company.meralco.com.ph/news-and-advisories/higher-residential-rates-july-2026
+
+## 2026-07-12 19:03 PHT | threads | PUBLISHED (LIVE)
+
+**Topic:** 10th anniversary (July 12, 2026) of the 2016 South China Sea Arbitral Tribunal Award; 14 nations (Australia, Canada, Estonia, Germany, Italy, Japan, Latvia, Lithuania, New Zealand, Philippines, Romania, Slovenia, UK, US) issued a joint statement reaffirming the ruling as final and legally binding under UNCLOS
+**Hook:** "Ten years ago today, an international tribunal ruled the Philippines' maritime rights in the West Philippine Sea were valid under UNCLOS. Fourteen nations just reaffirmed that ruling as final and legally binding."
+**Angle:** Governance-comparison/accountability pillar - distinct from prior WPS posts (China floating structure protest, Teodoro sanctions, vessel-count stat) which centered on the ruling-vs-enforcement gap at sea. This post instead contrasts the decade of sustained international pressure it took to make the 2016 ruling "stick" diplomatically with how domestic corruption cases, which also drag on for years, usually end in dismissal rather than vindication. Also distinct from the day's other big story (Typhoon Inday relief), not used.
+**Tagalog beat:** "Parang mas madaling pagkatiwalaan ang ibang bansa kaysa sa sariling sistema." (fresh - "it's like it's easier to trust other countries than one's own system" - placement: closing_line; specific to this post's international-vindication-vs-domestic-dismissal contrast, not reused)
+**Char count:** 470
+**Fact-check:** PASS (both claims independently verified by publish_direct's Gemini + Google Search gate)
+**Sources:**
+- https://www.state.gov/releases/office-of-the-spokesperson/2026/07/joint-statement-on-the-tenth-anniversary-of-the-philippines-china-south-china-sea-arbitral-tribunal-award/
+- https://www.philstar.com/headlines/2026/07/12/2541635/10-years-after-philippines-arbitral-win-14-nations-back-award-final-binding
+- https://mb.com.ph/2026/07/12/10-years-after-landmark-victory-ph-stands-united-in-defense-of-west-philippine-sea
+- https://www.rfa.org/english/southchinasea/2026/07/11/philippines-china-disputed-sea-west/

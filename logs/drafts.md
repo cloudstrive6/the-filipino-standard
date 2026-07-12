@@ -3926,3 +3926,16 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
 - https://www.philstar.com/business/2026/07/11/2541254/fdi-inflows-plunge-250-million-april
 - https://bworldonline.com/top-stories/2026/07/10/762619/philippines-net-fdi-inflows-plunge-to-near-10-year-low-in-april/
 - https://www.manilatimes.net/2026/07/11/business/net-fdi-falls-to-near-10-year-low-in-april/2382535
+
+## 2026-07-12 12:03 PHT | threads | PUBLISHED (LIVE)
+
+**Topic:** Meralco's July 2026 residential rate rose to P14.8261/kWh (from P14.4833), up P0.3428/kWh, driven by the Malampaya gas field's scheduled month-long maintenance shutdown (June 15-July 15, 2026) forcing Sta. Rita and San Lorenzo plants onto pricier imported LNG, plus Middle East conflict pushing PSA charges up
+**Hook:** "Malampaya, the country's own gas field, went offline for maintenance in mid-June. Plants switched to pricier imported LNG, and Meralco's July rate hit P14.8261/kWh, up P0.3428 from June."
+**Angle:** Energy self-sufficiency/import-dependence framing, distinct from the June 2026 Meralco post (which used the grid red-alert angle) and from the earlier energy-crisis/crude-oil-supply post (transport fuel, not electricity) - this one centers on the country's own domestic gas source going offline and households absorbing the cost with no community dividend, versus NZ's community energy trusts. Economic & Utility Reform pillar.
+**Tagalog beat:** "Ilaw lang naman, bakit ang hirap asahan?" (fresh - "it's just electricity, why is it so hard to rely on?" - placement: closing_line; specific to this post's reliability/dependence theme, not reused)
+**Char count:** 488
+**Sources:**
+- https://www.manilatimes.net/2026/07/11/news/national/meralco-electricity-rates-increase-in-july/2382508
+- https://bworldonline.com/corporate/2026/07/10/762580/meralco-july-power-rate-rises-p0-3428-kwh-on-higher-generation-charge/
+- https://www.rappler.com/business/why-your-meralco-bill-higher-july-2026-rise-again-soon/
+- https://company.meralco.com.ph/news-and-advisories/higher-residential-rates-july-2026

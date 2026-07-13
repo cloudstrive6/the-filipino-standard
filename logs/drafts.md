@@ -3967,3 +3967,16 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
 - https://www.rappler.com/business/inflation-rate-philippines-june-2026/
 - https://psa.gov.ph/content/summary-inflation-report-consumer-price-index-2018100-june-2026
 - https://www.manilatimes.net/2026/07/13/business/worst-of-inflation-may-be-over-for-ph/2382975
+
+## 2026-07-13 19:04 PHT | threads | PUBLISH FAILED (HTTP 401 token expired)
+
+**Topic:** Sara Duterte impeachment trial (day 6, July 13, 2026): legal experts split on whether prosecutors established "criminal intent" (mens rea) on the grave-threats article - retired SC Associate Justice Adolfo Azcuna says it was proven, international law expert Melissa Loja says no impeachable offense has emerged yet
+**Hook:** "A retired Supreme Court justice says prosecutors proved criminal intent in the impeachment trial. An international law expert reviewed the same testimony and says no impeachable offense emerged."
+**Angle:** Constitutional awareness / political commentary pillar - distinct from prior impeachment posts (police deployment at the Senate, unexplained-wealth allegations, vote-count math to convict). This one is about the legal standard of proof itself: the country's own legal minds can't agree the evidentiary bar was cleared, which should matter more than a headcount of senator-votes. Avoided reusing flood-control, FDI, CPI, Meralco, GDP, and WPS-anniversary angles already covered in the last several posts.
+**Tagalog beat:** "Sino ba talaga ang humahatol dito: ang batas, o ang bilang ng boto?" (fresh - "who is really the judge here, the law or the vote count" - closing rhetorical question, specific to the expert-disagreement-on-legal-standard angle of this post)
+**Char count:** 500
+**Fact-check:** NOT RUN - publish blocked before the fact-check gate (see publish note below)
+**Sources:**
+- https://www.manilatimes.net/2026/07/13/news/national/legal-experts-split-on-criminal-intent/2382976
+- https://www.philstar.com/headlines/2026/07/13/2541683/prosecutors-proved-criminal-intent-vp-kill-threat
+**Publish note:** TFS_LIVE=true but publisher returned HTTP 401 (Invalid or expired token on get_social_accounts) on two consecutive attempts - same recurring PostForMe API-key expiry seen in many prior runs in this log. Not a content problem; caption passed all brand/style checks (500 chars, no em dash, third-person, fresh Tagalog beat) but was never sent to the fact-check gate because the run halted at auth. Caption saved at output/posts/2026-07-13-impeachment-criminal-intent-threads.txt for the next run or operator retry.

@@ -3953,3 +3953,17 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
 - https://www.philstar.com/headlines/2026/07/12/2541635/10-years-after-philippines-arbitral-win-14-nations-back-award-final-binding
 - https://mb.com.ph/2026/07/12/10-years-after-landmark-victory-ph-stands-united-in-defense-of-west-philippine-sea
 - https://www.rfa.org/english/southchinasea/2026/07/11/philippines-china-disputed-sea-west/
+
+## 2026-07-13 12:03 PHT | threads | PUBLISHED (LIVE)
+
+**Topic:** PSA June 2026 CPI report: headline inflation eased to 6.4% (from 6.8% in May), officially framed as a turning point, while core inflation (excludes volatile food/fuel) rose to 4.4% (from 4.1%), the fastest pace in 31 months
+**Hook:** "Headline inflation eased to 6.4% in June. Officials are calling it a turning point."
+**Angle:** Economic & Utility Reform pillar - the gap between the celebrated headline number (down, oil/rice-driven) and core inflation (up, tracks what households actually keep buying repeatedly), which is quietly at a 31-month high underneath the good-news framing. Distinct from recent economic posts (FDI plunge, Meralco rate hike, GDP-vs-stunting) - this one is about the two inflation numbers diverging, not utility costs or investment flows. Also avoided the overused Duterte impeachment and WPS-anniversary threads (both covered heavily in the last several posts).
+**Tagalog beat:** "Bakit parang bumababa ang presyo, pero hindi naman bumababa ang hirap?" (fresh - "why does it seem like prices are going down, but the hardship isn't going down" - placement: mid_pivot, right after the hook; varies from the last two posts' closing_line placement; specific to this post's headline-vs-core-inflation contrast)
+**Char count:** 490
+**Fact-check:** PASS (both claims independently verified by publish_direct's Gemini + Google Search gate)
+**Sources:**
+- https://bworldonline.com/top-stories/2026/07/08/761818/philippines-core-inflation-hits-31-month-high-as-headline-cpi-eases-in-june/
+- https://www.rappler.com/business/inflation-rate-philippines-june-2026/
+- https://psa.gov.ph/content/summary-inflation-report-consumer-price-index-2018100-june-2026
+- https://www.manilatimes.net/2026/07/13/business/worst-of-inflation-may-be-over-for-ph/2382975

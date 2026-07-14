@@ -3994,3 +3994,17 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
 - https://newsinfo.inquirer.net/2262921/herbosa-says-recovery-prompted-exit-cites-doh-gains
 - https://www.rappler.com/philippines/department-health-expired-undelivered-medicines-vaccines-graft-complaint-march-2026/
 - https://www.rappler.com/philippines/health-department-secretary-herbosa-baggao-mobile-clinics-graft-complaint/
+
+## 2026-07-14 19:02 PHT | threads | PUBLISHED (post_id=sp_HB08ZTtFoYm01Db1uoQJW)
+
+**Topic:** Diesel prices rose by as much as P4.62/L on July 14, 2026, the second weekly hike in a row (after July 7), driven by Middle East tensions. Systemic angle: the Philippines has no state-owned strategic fuel reserve under the 28-year-old Oil Deregulation Law (RA 8479); oil companies alone are required to hold 15-30 days of private stock. The DOE is only now (2026) proposing a 60-day national fuel reserve.
+**Hook:** "Diesel jumped as much as P4.62 a liter on July 14, the second hike in one week. Tension abroad reached every jeepney driver within days."
+**Angle:** Economic & utility reform pillar - every global oil shock passes straight to Filipino consumers within days because the state itself holds no buffer, only private companies do, by law. Distinct from recent posts on the Duterte impeachment trial and DOH Secretary Herbosa's resignation/graft complaints - fresh subject (fuel/energy policy) and fresh mechanism (absence of a state strategic reserve) not covered in recent entries.
+**Tagalog beat:** "Wala palang reserbang pambansa, tayo pa rin laging unang bumabayad." (fresh - "there's no national reserve yet, we're still always the first to pay" - closing line specific to the reserve-gap mechanism of this post)
+**Char count:** 495
+**Fact-check:** PASS (all three load-bearing claims - the P4.62/L hike and second-week pattern, the 15-30 day private inventory requirement, and the DOE's proposed 60-day national reserve 28 years after RA 8479 - independently verified by the Gemini+Search fact-check gate)
+**Sources:**
+- https://www.rappler.com/business/fuel-prices-adjustments-july-14-2026/
+- https://www.rappler.com/business/fuel-prices-adjustments-july-7-2026/
+- https://www.topgear.com.ph/news/industry-news/doe-oil-deregulation-law-amendments-2026-a6941-20260706
+- https://lawphil.net/statutes/repacts/ra1998/ra_8479_1998.html

@@ -3980,3 +3980,17 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
 - https://www.manilatimes.net/2026/07/13/news/national/legal-experts-split-on-criminal-intent/2382976
 - https://www.philstar.com/headlines/2026/07/13/2541683/prosecutors-proved-criminal-intent-vp-kill-threat
 **Publish note:** TFS_LIVE=true but publisher returned HTTP 401 (Invalid or expired token on get_social_accounts) on two consecutive attempts - same recurring PostForMe API-key expiry seen in many prior runs in this log. Not a content problem; caption passed all brand/style checks (500 chars, no em dash, third-person, fresh Tagalog beat) but was never sent to the fact-check gate because the run halted at auth. Caption saved at output/posts/2026-07-13-impeachment-criminal-intent-threads.txt for the next run or operator retry.
+
+## 2026-07-14 12:04 PHT | threads | PUBLISHED (post_id=sp_qsNM0y5mgyoGjzrdcuU2)
+
+**Topic:** DOH Secretary Teodoro Herbosa's resignation (accepted July 13-14, 2026) coincides with multiple still-pending graft complaints before the Ombudsman (alleged P1.4-1.5B in wasted/undelivered medicines and vaccines; alleged bid-rigging in a P1.8B mobile clinic procurement). Malacanang states health, not the graft cases, was the primary consideration behind accepting the resignation. Successor Dr. Jose "Brix" Pujalte Jr. already named.
+**Hook:** "Graft complaints over alleged wastage of medicines and a P1.8 billion mobile clinic procurement scheme are still pending before the Ombudsman, naming the outgoing Health Secretary."
+**Angle:** Governance/accountability pillar - a cabinet official facing multiple unresolved graft complaints exits via a health-reasons resignation that closes the political story before any Ombudsman verdict. Distinct from recent posts on the Duterte impeachment (police deployment, unexplained wealth, vote-count math, criminal-intent standard) and from flood-control/FDI/CPI/Meralco/GDP/WPS-anniversary angles - this is a fresh subject (DOH) and a fresh mechanism (resignation-as-exit-before-accountability) not covered in recent entries.
+**Tagalog beat:** "Laging may paraan para makalusot nang tahimik sa bansang ito." (fresh - "there's always a way to slip away quietly in this country" - closing verdict line specific to the quiet-exit-before-verdict pattern of this post)
+**Char count:** 452
+**Fact-check:** PASS (first draft with the P1.5B figure and "closed-loop procurement scheme" wording FAILED the independent Gemini+Search fact-check gate as under-corroborated; revised to drop those specifics and kept only fully-verified claims, which then PASSED)
+**Sources:**
+- https://www.manilatimes.net/2026/07/13/news/marcos-accepts-resignation-of-health-secretary-ted-herbosa/2383032
+- https://newsinfo.inquirer.net/2262921/herbosa-says-recovery-prompted-exit-cites-doh-gains
+- https://www.rappler.com/philippines/department-health-expired-undelivered-medicines-vaccines-graft-complaint-march-2026/
+- https://www.rappler.com/philippines/health-department-secretary-herbosa-baggao-mobile-clinics-graft-complaint/

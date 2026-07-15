@@ -4021,3 +4021,17 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
 - https://www.manilatimes.net/2026/07/15/news/afp-to-china-do-you-uphold-reject-batanes-claim/2384492
 - https://globalnation.inquirer.net/330890/afp-to-china-reject-batanes-claim-warns-silence-could-make-it-official
 - https://www.gmanetwork.com/news/topstories/nation/994425/afp-nsc-reject-claims-that-batanes-part-of-china/story/
+
+## 2026-07-15 19:04 PHT | threads | PUBLISHED (post_id=sp_0erM7KzqW2C1srDUt0ekn)
+
+**Topic:** GOCCs remitted a record P147.15 billion in dividends in 2026 (P140B already collected as of July), part of a cumulative P501.43 billion under the Marcos administration (2022-2026), 31 percent more than the P382.33 billion the entire six-year Duterte administration collected.
+**Hook:** "GOCCs remitted a record P147.15 billion in dividends this year, part of a four-year haul that already tops P500 billion, 31 percent more than the entire six-year Duterte administration collected."
+**Angle:** Governance/economic-reform pillar - the government is framing the record dividend haul as a governance win, but a total remitted to the treasury is not a public accounting of where the money went; no line-item breakdown ties the figure to a specific hospital bed, classroom, or finished road. Deliberately skipped the overused Meralco-vs-Entrust dividend framing (appears repeatedly in recent drafts) and avoided the oversaturated Duterte impeachment trial thread, the fuel-price/DOE-reserve post from this morning, and the Batanes/China territorial-claim post from midday. Fresh subject (GOCC dividend remittance transparency) not covered in recent entries.
+**Tagalog beat:** "Ang gobyerno ang may hawak ng resibo, hindi tayo." (fresh - "the government is the one holding the receipt, not us" - closing line specific to this post's receipt/accounting mechanism, not reused from any prior post)
+**Char count:** 467
+**Fact-check:** PASS (all three load-bearing claims - the P147.15B 2026 GOCC dividend record, the P501.43B four-year cumulative Marcos-era total, and the 31% excess over the P382.33B Duterte-era six-year total - independently verified by the Gemini+Search fact-check gate)
+**Sources:**
+- https://mb.com.ph/2026/07/08/gocc-dividends-under-marcos-top-500-billion-exceed-duterte-era-haul-by-31
+- https://newsinfo.inquirer.net/2260323/marcos-4-yr-goccs-dividend-collections-outpaces-dutertes-entire-admin
+- https://www.philstar.com/business/2026/07/11/2541251/pcso-ranks-among-top-performing-goccs
+- https://tribune.net.ph/2026/07/10/pcso-ranks-among-top-gocc-dividend-contributors

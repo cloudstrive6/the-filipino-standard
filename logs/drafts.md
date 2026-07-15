@@ -4008,3 +4008,16 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
 - https://www.rappler.com/business/fuel-prices-adjustments-july-7-2026/
 - https://www.topgear.com.ph/news/industry-news/doe-oil-deregulation-law-amendments-2026-a6941-20260706
 - https://lawphil.net/statutes/repacts/ra1998/ra_8479_1998.html
+
+## 2026-07-15 12:04 PHT | threads | PUBLISHED (post_id=sp_mKA79uCUqlW31ilL6Decj)
+
+**Topic:** Chinese scholars asserted at a June 30, 2026 Jinan University symposium that Batanes is a "natural geographical extension" of Taiwan and by extension falls under China's sovereignty; the AFP (spokesperson Rear Adm. Roy Vincent Trinidad) publicly called on the Chinese Embassy in Manila and China's MFA to unequivocally reject the claim, warning that continued silence could let it harden into an official Chinese government position.
+**Hook:** "Chinese scholars are now claiming Batanes is part of Taiwan, and by extension China. The AFP publicly called on Beijing to say plainly whether it upholds or rejects that claim, warning that silence itself could harden into an official position."
+**Angle:** Political commentary / constitutional-awareness pillar - the "salami-slicing" playbook of floating a territorial claim through proxies and then staying silent so ambiguity does the annexing, contrasted with the fact that a public demand for clarification is a statement, not a mechanism, since there is no automatic cost if Beijing simply never answers. Distinct from all recent posts (DOH Secretary Herbosa resignation/graft, diesel prices and the missing state fuel reserve, and the several prior Duterte-impeachment-trial posts) - fresh subject (territorial sovereignty / information warfare) and fresh mechanism (silence-as-tacit-claim) not covered in recent entries. Deliberately avoided the oversaturated Duterte impeachment thread.
+**Tagalog beat:** "Maaari nang ituring na pag-amin ang katahimikan." (fresh - "silence can already be considered an admission" - closing line specific to this post's silence-as-claim mechanism, not reused from any prior post)
+**Char count:** 492
+**Fact-check:** PASS (both load-bearing claims - the June 30 Jinan University scholars' claim on Batanes, and the AFP's public call for Beijing to reject it with the silence-hardens-into-position warning - independently verified by the Gemini+Search fact-check gate)
+**Sources:**
+- https://www.manilatimes.net/2026/07/15/news/afp-to-china-do-you-uphold-reject-batanes-claim/2384492
+- https://globalnation.inquirer.net/330890/afp-to-china-reject-batanes-claim-warns-silence-could-make-it-official
+- https://www.gmanetwork.com/news/topstories/nation/994425/afp-nsc-reject-claims-that-batanes-part-of-china/story/

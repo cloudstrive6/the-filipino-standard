@@ -4035,3 +4035,15 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
 - https://newsinfo.inquirer.net/2260323/marcos-4-yr-goccs-dividend-collections-outpaces-dutertes-entire-admin
 - https://www.philstar.com/business/2026/07/11/2541251/pcso-ranks-among-top-performing-goccs
 - https://tribune.net.ph/2026/07/10/pcso-ranks-among-top-gocc-dividend-contributors
+
+## 2026-07-16 12:03 PHT | threads | PUBLISHED (post_id=sp_hYXUD2tNnbj5KgLCw6SXd)
+
+**Topic:** PSA says (2026-07-16) there is "low likelihood" the Philippines hits its 6-7% GDP growth target by 2028 under the Philippine Development Plan; 2025 growth already slowed to 4.4%, a five-year low (down from 5.7% in 2024); the 2026 DBCC target was already cut once, from 5-6% to 3.5-4.5%; PSA/officials cite the flood control corruption scandal as still dragging down state spending and investment.
+**Hook:** "The government's own statisticians admit it: 'low likelihood' of hitting the 6-7% growth target set for 2028."
+**Angle:** Economic reform pillar - the goalposts keep moving down (PDP target, then DBCC 2026 target cut once already, now even that is unlikely) while the government's own agency names the flood control corruption scandal as the drag. Ties graft directly to lost growth without naming any individual. Fresh subject (GDP growth-target downgrade / PSA "low likelihood" report), distinct from the Batanes/China claim and the GOCC-dividends posts from 2026-07-15, and distinct from the Duterte impeachment trial thread (deliberately skipped, oversaturated).
+**Tagalog beat:** "Bawat pisong ninakaw, puwang na hindi mapupunan ng ano mang plano." (fresh - "every peso stolen is a gap no plan can fill" - specific to the growth-target/corruption-drag mechanism, not reused from any prior post)
+**Char count:** 487
+**Fact-check:** PASS (all five load-bearing claims - PSA's 2028 target "low likelihood," the 4.4% 2025 five-year-low growth rate, the prior 2026 DBCC target cut from 5-6% to 3.5-4.5%, and the flood-control-scandal attribution - independently verified by the Gemini+Search fact-check gate)
+**Sources:**
+- https://www.manilatimes.net/2026/07/16/business/top-business/psa-low-likelihood-of-hitting-growth-goal/2385300
+- https://bworldonline.com/top-stories/2026/07/16/763739/psa-sees-low-likelihood-of-hitting-growth-goal-by-2028/

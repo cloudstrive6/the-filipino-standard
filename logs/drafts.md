@@ -4047,3 +4047,15 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
 **Sources:**
 - https://www.manilatimes.net/2026/07/16/business/top-business/psa-low-likelihood-of-hitting-growth-goal/2385300
 - https://bworldonline.com/top-stories/2026/07/16/763739/psa-sees-low-likelihood-of-hitting-growth-goal-by-2028/
+
+## 2026-07-16 19:03 PHT | threads | PUBLISHED (post_id=sp_hpvBwZIAm14WEk52KZd2b)
+
+**Topic:** Marcos's 5th SONA (July 27, 2026) will be "simple/austere" for the second year running: no red carpet, no long gowns, guests urged toward plain Filipiniana (per House SecGen Cheloy Garafil), continuing the toned-down 2025 format. Meanwhile the flood control ghost-project scandal (up to P118.5B siphoned since 2023) remains without a single conviction as of July 16, 2026.
+**Hook:** "No red carpet. No gowns. The Palace says President Marcos's fifth SONA on July 27 will be 'simple'..."
+**Angle:** Governance/political commentary pillar - contrasts the optics of institutional austerity (dress code, red carpet) with the substance still missing (zero convictions in the flood control scandal). Distinct from today's earlier PSA growth-target post and from all recent topics (Meralco, GOCC dividends, Batanes/China, FDI, CPI, DOH resignation, diesel/fuel reserve, Marcoleta arrest, Duterte impeachment, WPS anniversary) - fresh subject (SONA 2026 format/prep) not covered in recent entries.
+**Tagalog beat:** "Simple ang seremonya. Wala pa ring managot." (fresh - "the ceremony is simple, still no one has answered for it" - names this post's specific irony, not reused)
+**Char count:** 405
+**Fact-check:** PASS (all five load-bearing claims - the July 27 5th SONA date, the second consecutive austere/simple edition, the no-red-carpet/plain-Filiipiniana dress code, the unaccounted flood-control billions, and zero convictions to date - independently verified by the Gemini+Search fact-check gate)
+**Sources:**
+- https://www.gmanetwork.com/news/topstories/nation/990818/no-red-carpet-long-gowns-for-marcos-sona-2026-house-secgen/story/
+- https://mb.com.ph/2026/07/16/house-on-same-page-with-pbbm-on-making-2026-sona-simple

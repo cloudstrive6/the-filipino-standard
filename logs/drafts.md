@@ -4059,3 +4059,16 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
 **Sources:**
 - https://www.gmanetwork.com/news/topstories/nation/990818/no-red-carpet-long-gowns-for-marcos-sona-2026-house-secgen/story/
 - https://mb.com.ph/2026/07/16/house-on-same-page-with-pbbm-on-making-2026-sona-simple
+
+## 2026-07-17 12:02 PHT | threads | PUBLISHED (post_id=sp_UeA0pZMVL235Mne7ini3)
+
+**Topic:** PSA 2025 Survey on Children: 513,650 Filipino child laborers counted in 2025, up from 509,160 in 2024 (though still below 678,360 in 2023). Four in five are aged 15-17; 65.5% work in agriculture/fisheries doing hazardous work. Economists attribute the rise to persistent poverty and rising living costs, not parental neglect.
+**Hook:** "513,650 Filipino children were counted as child laborers in 2025, up from 509,160 in 2024."
+**Angle:** Economic reform / Filipino empowerment pillar - poverty and cost-of-living forcing families to send kids into hazardous farm and fishery work instead of school. Attacks the systemic failure (a state that lets poverty push children onto the payroll) without naming individuals. Fresh subject not covered in recent entries (distinct from PSA growth-target downgrade and SONA/flood-control posts from 2026-07-16, and from GOCC dividends, Batanes/China, FDI, CPI, DOH resignation, diesel/fuel reserve, Marcoleta arrest, Duterte impeachment, WPS anniversary).
+**Tagalog beat:** "Walang batang dapat pumipili sa pagitan ng klase at pasanin ng pamilya." (fresh - "no child should have to choose between class and the burden of family" - specific to this post's poverty/child-labor tradeoff, not reused)
+**Char count:** 458
+**Fact-check:** PASS (all five load-bearing claims - the 513,650 2025 count, the rise from 509,160 in 2024, the 15-17 age skew at four-in-five, the two-thirds/65.5% agriculture-sector hazardous work share, and the poverty/rising-living-costs attribution - independently verified by the Gemini+Search fact-check gate)
+**Sources:**
+- https://www.manilatimes.net/2026/07/17/business/top-business/child-laborers-increase/2386154
+- https://bworldonline.com/top-stories/2026/07/16/763881/working-children-make-up-3-1-of-philippines-child-population-in-2025/
+- https://mb.com.ph/2026/07/16/working-children-child-labor-edge-higher-in-2025

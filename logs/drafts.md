@@ -4072,3 +4072,16 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
 - https://www.manilatimes.net/2026/07/17/business/top-business/child-laborers-increase/2386154
 - https://bworldonline.com/top-stories/2026/07/16/763881/working-children-make-up-3-1-of-philippines-child-population-in-2025/
 - https://mb.com.ph/2026/07/16/working-children-child-labor-edge-higher-in-2025
+
+## 2026-07-17 19:03 PHT | threads | PUBLISHED (post_id=sp_obMviLdU2aer9LJmaz)
+
+**Topic:** World Bank reclassified the Philippines as an upper-middle income country (GNI per capita rose from $4,470 to $4,850, just past the $4,636 cutoff); Marcos administration framed it as a "vote of confidence" validating its economic policies.
+**Hook:** "The Philippines just moved up to upper-middle income status. The Palace calls it a vote of confidence, proof the economic policies are working."
+**Angle:** Economic reform / governance comparison pillar - separates the statistical milestone (a national GNI average) from lived reality (whether ordinary wages moved at all). Attacks the incentive to claim credit for an average that can rise from income concentrating at the top, not the officials themselves. Fresh subject, distinct from the last several entries (SONA austerity/flood-control, child labor PSA count, PSA growth-target downgrade, GOCC dividends, Batanes/China, FDI, CPI, DOH resignation, diesel/fuel reserve, Marcoleta arrest, Duterte impeachment, WPS anniversary).
+**Tagalog beat:** "Ang ranggo ay umakyat. Hindi pa alam kung umakyat din ang sahod ng karaniwang manggagawa." (fresh - "the rank went up, still unclear if the ordinary worker's wage went up too" - ties directly to this post's GNI-vs-wage gap, not reused)
+**Char count:** 478
+**Fact-check:** PASS (all three load-bearing claims - the UMIC reclassification, the $4,470-to-$4,850 GNI per capita rise, and the $4,636 World Bank cutoff - independently verified by the Gemini+Search fact-check gate)
+**Sources:**
+- https://newsinfo.inquirer.net/2256780/marcos-hails-raised-ph-income-status-as-a-vote-of-confidence
+- https://bworldonline.com/top-stories/2026/07/02/760634/philippines-now-an-upper-middle-income-country-world-bank-says/
+- https://www.philstar.com/business/2026/07/02/2539313/philippines-lifted-upper-middle-income-status

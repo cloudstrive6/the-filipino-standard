@@ -4085,3 +4085,16 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
 - https://newsinfo.inquirer.net/2256780/marcos-hails-raised-ph-income-status-as-a-vote-of-confidence
 - https://bworldonline.com/top-stories/2026/07/02/760634/philippines-now-an-upper-middle-income-country-world-bank-says/
 - https://www.philstar.com/business/2026/07/02/2539313/philippines-lifted-upper-middle-income-status
+
+## 2026-07-18 12:02 PHT | threads | PUBLISHED (post_id=sp_udQ8XmMVampqU65Tw3Tj)
+
+**Topic:** DOTr received its first "unmodified" COA audit opinion in more than 30 years for FY2025, under Transportation Secretary Giovanni Lopez, and is being framed publicly as proof of clean governance.
+**Hook:** "DOTr just received its first unmodified COA opinion in more than 30 years. It is already being framed as proof of a clean administration."
+**Angle:** Governance comparison / constitutional awareness pillar - separates the narrow technical meaning of an "unmodified opinion" (financial statements fairly presented) from the political spin that stretches it into a corruption clearance. Draws on COA's own clarifications (an unmodified opinion does not certify no misstatements, no fraud, or efficient fund use) to attack the incentive to conflate a paperwork pass with genuine accountability. Fresh subject, distinct from recent entries (World Bank UMIC reclassification, child labor PSA count, SONA austerity/flood-control, PSA growth-target downgrade, GOCC dividends, Batanes/China, FDI, CPI, DOH resignation, diesel/fuel reserve, Marcoleta arrest, Duterte impeachment, WPS anniversary). No individual named or targeted; argument stays on the audit-opinion system and how its findings get spun.
+**Tagalog beat:** "Malinis sa papel, hindi pa malinis sa katotohanan." (fresh - "clean on paper, not yet clean in reality" - specific to this post's paperwork-vs-substance gap, not reused)
+**Char count:** 472
+**Fact-check:** PASS (all four load-bearing claims - the first-in-30-years unmodified COA opinion for DOTr FY2025, the narrow financial-statements-fairly-presented definition, COA's own clarification that an unmodified opinion does not certify freedom from misstatements/fraud/inefficiency, and COA's caution against treating it as a rating or grade - independently verified by the Gemini+Search fact-check gate)
+**Sources:**
+- https://www.manilatimes.net/2026/07/16/news/dotr-receives-clean-audit-opinion-from-coa-after-more-than-30-years/2385588
+- https://newsinfo.inquirer.net/2264764/dotr-receives-unmodified-opinion-from-coa-for-fiscal-year-2025
+- https://www.coa.gov.ph/FAQS/what-is-an-unmodified-opinion/

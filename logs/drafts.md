@@ -4098,3 +4098,12 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
 - https://www.manilatimes.net/2026/07/16/news/dotr-receives-clean-audit-opinion-from-coa-after-more-than-30-years/2385588
 - https://newsinfo.inquirer.net/2264764/dotr-receives-unmodified-opinion-from-coa-for-fiscal-year-2025
 - https://www.coa.gov.ph/FAQS/what-is-an-unmodified-opinion/
+
+## 2026-07-18 19:03 PHT | threads | NO PUBLISH - fact-check stopped run
+
+**Topic attempted:** Ombudsman's timeline for filing plunder charges against Martin Romualdez and Chiz Escudero has slipped for months (April 2026 announcement of prep work, expected filing "within the month of May," still only "very close to filing" as of July 17-18), contrasted with Sen. Rodante Marcoleta's non-bailable plunder arrest on July 6.
+**Reason stopped:** First draft said the "coming soon" statement itself was made "in May 2026" - fact-check flagged this as contradicted (statement was made in April, expected filing was May). Revised to "In April 2026, the Ombudsman said... expected within the month" - fact-check flagged this too, since the announced expected-filing month was May, not April (the wording implied April was the expected month). The underlying timeline-slippage story is real and well-sourced, but the one-sentence compression kept mangling the April-announcement vs May-expected-filing distinction. Two attempts exhausted; stopped per protocol rather than risk a third loop.
+**Sources (topic remains valid for a future attempt with clearer phrasing):**
+- https://www.philstar.com/headlines/2026/07/18/2542879/plunder-raps-vs-romualdez-very-close-being-filed
+- https://www.manilatimes.net/2026/07/17/news/ombudsman-moves-closer-to-filing-plunder-raps-vs-romualdez/2386538
+- https://newsinfo.inquirer.net/2207570/ombudsman-prepares-plunder-raps-vs-escudero-romualdez

@@ -4121,3 +4121,17 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
 - https://www.manilatimes.net/2026/07/18/news/rubio-to-deepen-partnership-with-ph-asean-in-5-day-manila-trip/2386879
 - https://www.state.gov/releases/office-of-the-spokesperson/2026/07/secretary-rubios-travel-to-manila-for-asean-foreign-ministerial-meetings
 - https://www.pna.gov.ph/articles/1256868
+
+## 2026-07-19 19:02 PHT | threads | PUBLISHED (live)
+
+**Topic:** The Anti-Money Laundering Council has frozen 24.7 billion pesos tied to the flood control ghost-projects scandal, but every freeze order carries a legal expiration (20 days, extendable to a 6-month max) after which it lifts automatically if no case is filed. AMLC is now asking Congress for power to freeze assets before going to court, ahead of the FATF's 2027 global compliance review.
+**Hook:** "24.7 billion pesos in flood control assets sit frozen right now. But every freeze order has an expiration date."
+**Angle:** Economic reform / governance-systems pillar - attacks the legal mechanism (AMLA freeze-order sunset clause) that lets recovered dirty money potentially flow back if prosecution is slow, not any named official. Distinct from prior entries (DOTr COA audit, World Bank UMIC, child labor PSA, SONA austerity, PSA growth downgrade, GOCC dividends, Batanes/China, FDI, CPI, DOH resignation, diesel/fuel reserve, Marcoleta arrest, Duterte impeachment, WPS anniversary, Ombudsman plunder-timeline attempt, ASEAN FM meeting/flood-control host contrast).
+**Tagalog beat:** "May takdang panahon lang pala ang katarungan." (fresh - "Justice, it turns out, only has a set time" - ties directly to the freeze-order expiration mechanic, not reused from bank or recent posts)
+**Char count:** 492
+**Fact-check:** PASS on first attempt. All four claims (frozen amount, 20-day/6-month freeze mechanic, automatic lift if no case filed, AMLC's request for pre-court freeze power ahead of FATF 2027) independently verified.
+**Sources:**
+- https://www.philstar.com/headlines/2026/07/17/2542716/amlc-seeks-expanded-powers-vs-criminal-assets
+- https://www.philstar.com/opinion/2026/07/19/2543040/editorial-give-amlc-more-teeth
+- https://mb.com.ph/2026/01/31/amlc-freezes-25-billion-linked-to-ghost-flood-control-projects
+- https://hemosph.com/amlc-freeze-order-expiry

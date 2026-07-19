@@ -4107,3 +4107,17 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
 - https://www.philstar.com/headlines/2026/07/18/2542879/plunder-raps-vs-romualdez-very-close-being-filed
 - https://www.manilatimes.net/2026/07/17/news/ombudsman-moves-closer-to-filing-plunder-raps-vs-romualdez/2386538
 - https://newsinfo.inquirer.net/2207570/ombudsman-prepares-plunder-raps-vs-escudero-romualdez
+
+## 2026-07-19 12:03 PHT | threads | PUBLISHED (live)
+
+**Topic:** Manila is hosting the ASEAN Foreign Ministers' Meeting (July 18-24, 2026), with the Philippines chairing the bloc since January 2026, while the country's own flood-control ghost-projects corruption scandal, called the biggest in Philippine history, remains under investigation.
+**Hook:** "Manila is hosting foreign ministers from the US, China, and other ASEAN partners this week. The Philippines chairs the regional bloc, a role it took over in January."
+**Angle:** Governance comparison / political commentary pillar - contrasts the Philippines' international standing as ASEAN chair hosting world diplomats with its unresolved domestic accountability problem (the flood-control corruption scandal). No individual named; targets the gap between international image and domestic governance, an angle distinct from recent entries (DOTr COA audit opinion, World Bank UMIC, child labor PSA, SONA austerity/flood-control, PSA growth downgrade, GOCC dividends, Batanes/China, FDI, CPI, DOH resignation, diesel/fuel reserve, Marcoleta arrest, Duterte impeachment, WPS anniversary, Ombudsman plunder timeline attempt).
+**Tagalog beat:** "Nasa entablado ng mundo ang Pilipinas, pero hindi pa malinis ang sariling bahay." (fresh - "The Philippines is on the world's stage, but its own house isn't clean yet" - specific to this post's host-vs-housekeeping contrast, not reused)
+**Char count:** 472
+**Fact-check:** PASS on second attempt. First draft failed because it additionally claimed "Congress is on recess until July 27" and "thousands of flagged flood control projects" - neither could be independently corroborated by the fact-check gate's search. Revised draft dropped both unverifiable specifics and kept only the three claims the gate could verify (ASEAN meeting dates/attendees, PH chairmanship since January, ongoing flood-control scandal described as the country's biggest).
+**Sources:**
+- https://www.philstar.com/headlines/2026/07/19/2543092/rubio-philippines-boost-asean-ties
+- https://www.manilatimes.net/2026/07/18/news/rubio-to-deepen-partnership-with-ph-asean-in-5-day-manila-trip/2386879
+- https://www.state.gov/releases/office-of-the-spokesperson/2026/07/secretary-rubios-travel-to-manila-for-asean-foreign-ministerial-meetings
+- https://www.pna.gov.ph/articles/1256868

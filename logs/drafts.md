@@ -4135,3 +4135,15 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
 - https://www.philstar.com/opinion/2026/07/19/2543040/editorial-give-amlc-more-teeth
 - https://mb.com.ph/2026/01/31/amlc-freezes-25-billion-linked-to-ghost-flood-control-projects
 - https://hemosph.com/amlc-freeze-order-expiry
+
+## 2026-07-20 12:03 PHT | threads | PUBLISHED (live, post_id=sp_L9xURm9zvhTXdIHogUTs3)
+
+**Topic:** DTI unveiled a P12.9 billion SB Corp MSME loan fund plus export push at MSME Summit 2026, pointing entrepreneurs to 1,344 Negosyo Centers and the decade-old Kapatid Mentor ME program (16,000+ trained) as the support scaffolding small businesses now need.
+**Hook:** "P12.9 billion in fresh loans. 1,344 Negosyo Centers. A decade-long mentorship program. That is what a small Philippine business now needs just to survive."
+**Angle:** Business & SME advocacy / governance comparison pillar - contrasts the scale of state life-support infrastructure PH now needs to keep small businesses alive against NZ's under-an-hour, ~NZD $130 company registration with no mentorship pipeline required. Attacks the systemic friction that makes such a large safety net necessary in the first place, not any individual or agency head. Fresh subject, distinct from recent entries (AMLC freeze-order expiration, ASEAN/flood-control host contrast, DOTr COA audit, World Bank UMIC, child labor PSA, SONA austerity, PSA growth downgrade, GOCC dividends, Batanes/China, FDI, CPI, DOH resignation, diesel/fuel reserve, Marcoleta arrest, Duterte impeachment, WPS anniversary, Ombudsman plunder-timeline attempt).
+**Tagalog beat:** "Malaking tulong ang pondo, pero bakit kailangan pa ng ganito karaming saklolo para lang mabuhay ang isang negosyo?" (fresh - "The fund is a big help, but why does a business need this much rescue just to survive?" - specific to this post's scale-of-safety-net argument, not reused)
+**Char count:** 491
+**Fact-check:** PASS on first attempt. All five claims (P12.9B loan fund, 1,344 Negosyo Centers, decade-old KMME program with 16,000+ trained, NZ sub-hour online registration, ~NZD $130 cost) independently verified.
+**Sources:**
+- https://context.ph/2026/07/19/dti-touts-p12-9b-msme-loan-fund-export-push/
+- https://www.sunstar.com.ph/amp/story/cebu/dti-targets-p12b-msme-loans-launches-p3b-exporter-fund

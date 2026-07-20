@@ -4147,3 +4147,16 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
 **Sources:**
 - https://context.ph/2026/07/19/dti-touts-p12-9b-msme-loan-fund-export-push/
 - https://www.sunstar.com.ph/amp/story/cebu/dti-targets-p12b-msme-loans-launches-p3b-exporter-fund
+
+## 2026-07-20 19:02 PHT | threads | PUBLISHED (live, post_id=sp_QbucN3xNbAV83VOj80RrR)
+
+**Topic:** The Senate impeachment court voted on July 20, 2026 to subpoena VP Sara Duterte's tax and bank records, with prosecutors citing the 2012 Corona impeachment (which ended in conviction and removal for failing to disclose SALN) as precedent.
+**Hook:** "It took an impeachment trial to get a vice president's bank records into the open."
+**Angle:** Constitutional awareness / governance-systems pillar - attacks the enforcement gap in the SALN disclosure system: officials already file a Statement of Assets and Liabilities annually by law (RA 6713), yet it still took a courtroom subpoena vote inside an impeachment trial to actually surface real financial records, echoing the same failure that convicted Corona in 2012. No individual identity attacked; argument stays on the transparency mechanism and its weak enforcement. Fresh subject, distinct from recent entries (DTI MSME loan fund, AMLC freeze-order expiration, ASEAN/flood-control host contrast, DOTr COA audit, World Bank UMIC, child labor PSA, SONA austerity, PSA growth downgrade, GOCC dividends, Batanes/China, FDI, CPI, DOH resignation, diesel/fuel reserve, Marcoleta arrest, WPS anniversary, Ombudsman plunder-timeline attempt).
+**Tagalog beat:** "Bakit kailangan pa ng paglilitis bago makita ang totoong bangko account?" (fresh - "why does it take a trial before the real bank account is seen" - closing rhetorical question, specific to this post's disclosure-only-under-subpoena mechanism, not reused)
+**Char count:** 477
+**Fact-check:** PASS on first attempt. All five claims (ongoing impeachment trial as of day 7, July 20 subpoena vote for tax/bank/AMLC records, Corona 2012 precedent citation, Corona's conviction/removal for SALN non-disclosure, RA 6713 annual SALN filing requirement) independently verified.
+**Sources:**
+- https://www.manilatimes.net/2026/07/20/news/senate-impeachment-court-approves-issuance-of-subpoenas-on-dutertes-financial-records/2387390
+- https://newsinfo.inquirer.net/2266410/senate-court-to-vote-on-sara-dutertes-financial-docs
+- https://www.philstar.com/headlines/2026/07/16/2542478/prosecution-wants-saras-tax-bank-records-opened

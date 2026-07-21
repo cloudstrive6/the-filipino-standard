@@ -4173,3 +4173,17 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
 - https://www.gmanetwork.com/news/topstories/nation/995491/china-coast-guard-hit-ph-navy-member-with-baton-at-ayungin-shoal-says-afp/story/
 - https://www.philstar.com/headlines/2026/07/20/2543443/struck-baton-navy-sailor-injured-china-coast-guard-encounter-near-ayungin
 - https://businessmirror.com.ph/2026/07/20/ntf-wps-slams-china-assault-vs-phl-servicemen-at-ayungin/
+
+## 2026-07-21 19:03 PHT | threads | SKIPPED (fact-check service HTTP 403 - infra/billing, not content)
+
+**Topic:** Ombudsman says Martin Romualdez has kept trying to leave the Philippines through informal channels despite the Sandiganbayan travel ban (precautionary hold departure order) issued in April 2026, tied to the alleged 56 billion peso flood control kickback plunder case; Malacanang separately says it will not meddle in the Ombudsman probe of Marcos's cousin.
+**Hook:** "A hold departure order is supposed to mean someone cannot leave the country."
+**Angle:** Governance/accountability pillar - contrasts the Palace's "we will not meddle, evidence will lead regardless of relatives" rhetoric with an enforcement system seemingly unable to stop a flight-risk defendant from attempting to slip out via informal channels. Attacks the accountability/enforcement system, not Romualdez's identity. Fresh subject, distinct from the Ayungin baton post (2026-07-21 12:02) and the earlier "Ombudsman plunder-timeline attempt" entry - this is the travel-ban-evasion angle plus the Marcos non-interference statement, both new facts from today.
+**Tagalog beat (unused):** "Kung kaya palang malusutan ang travel ban, sino pa ba talaga ang may kapangyarihan dito?" (fresh, not reused)
+**Char count:** 500
+**Fact-check:** BLOCKED - not a content failure. `publish_direct.py` returned `FACT-CHECK ERROR HTTP 403 (fail-closed): "Lightning dunning decision is deny for project: projects/193512754933"` on two consecutive attempts (same draft, no caption change) - this is a Gemini API project billing/permission denial, not a claim-corroboration failure. Fail-closed gate correctly refused to publish. Per protocol, stopped after 2 attempts; publishing nothing this run. TFS_LIVE=true this run, so live publish was intended but blocked by the infra error.
+**Sources (verified manually via WebSearch, 2+ reputable sources each):**
+- https://www.philstar.com/headlines/2026/07/21/2543527/ombudsman-romualdez-trying-leave-philippines
+- https://www.philstar.com/headlines/2026/07/20/2543445/martin-romualdez-still-trying-leave-despite-travel-ban-ombudsman
+- https://www.manilatimes.net/2026/07/21/news/national/marcos-will-not-meddle-in-case-vs-romualdez/2387810
+- https://mb.com.ph/2026/07/20/palace-marcos-wont-meddle-in-any-probe-over-ex-speaker-romualdez

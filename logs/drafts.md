@@ -4160,3 +4160,16 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
 - https://www.manilatimes.net/2026/07/20/news/senate-impeachment-court-approves-issuance-of-subpoenas-on-dutertes-financial-records/2387390
 - https://newsinfo.inquirer.net/2266410/senate-court-to-vote-on-sara-dutertes-financial-docs
 - https://www.philstar.com/headlines/2026/07/16/2542478/prosecution-wants-saras-tax-bank-records-opened
+
+## 2026-07-21 12:02 PHT | threads | PUBLISHED (live, post_id=sp_aUuB9LHaYCjSP9SMvnZY)
+
+**Topic:** China Coast Guard personnel struck a Philippine Navy sailor in the head with a wooden baton during a confrontation at Ayungin Shoal on July 20, 2026, injuring him; AFP released video and the NTF-WPS condemned the incident as part of a pattern of provocation.
+**Hook:** "A Philippine Navy sailor took a wooden baton to the head at Ayungin Shoal this week."
+**Angle:** Political commentary / national sovereignty-enforcement pillar - attacks the systemic gap between the government's repeated diplomatic condemnations and any actual shift in deterrent posture or capability. Argues that protest notes cost Beijing nothing, so the incursion-video-condemnation cycle repeats with no consequence. No individual named or blamed; the target is the enforcement/deterrence system itself. Fresh subject, distinct from recent entries (DTI MSME loan fund, Duterte impeachment subpoena, AMLC freeze-order expiration, ASEAN/flood-control host contrast, DOTr COA audit, World Bank UMIC, child labor PSA, SONA austerity, PSA growth downgrade, GOCC dividends, Batanes/China, FDI, CPI, DOH resignation, diesel/fuel reserve, Marcoleta arrest, WPS anniversary, Ombudsman plunder-timeline attempt) - this is a new incident, not the earlier WPS-anniversary piece.
+**Tagalog beat:** "Bakit paulit-ulit na lang ang pagkondena kahit sugatan na ang sundalo?" (fresh - "why is it just repeated condemnation even when the soldier is already wounded" - closing question specific to this post's condemnation-without-consequence argument, not reused)
+**Char count:** 494
+**Fact-check:** PASS on first attempt. All three checked claims (baton strike/injury at Ayungin on July 20, AFP video of the confrontation, BRP Sierra Madre as the outpost) independently verified.
+**Sources:**
+- https://www.gmanetwork.com/news/topstories/nation/995491/china-coast-guard-hit-ph-navy-member-with-baton-at-ayungin-shoal-says-afp/story/
+- https://www.philstar.com/headlines/2026/07/20/2543443/struck-baton-navy-sailor-injured-china-coast-guard-encounter-near-ayungin
+- https://businessmirror.com.ph/2026/07/20/ntf-wps-slams-china-assault-vs-phl-servicemen-at-ayungin/

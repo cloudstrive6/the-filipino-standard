@@ -4187,3 +4187,17 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
 - https://www.philstar.com/headlines/2026/07/20/2543445/martin-romualdez-still-trying-leave-despite-travel-ban-ombudsman
 - https://www.manilatimes.net/2026/07/21/news/national/marcos-will-not-meddle-in-case-vs-romualdez/2387810
 - https://mb.com.ph/2026/07/20/palace-marcos-wont-meddle-in-any-probe-over-ex-speaker-romualdez
+
+## 2026-07-22 12:02 PHT | threads | SKIPPED (fact-check service HTTP 403 - infra/billing, not content)
+
+**Topic:** Senate impeachment court granted the prosecution's request to subpoena VP Sara Duterte's bank, tax, and AMLC records covering 2007-2021, spanning her, husband Manases Carpio, their law firm, and 19 linked companies, over the alleged unexplained wealth charge (Article II). Banks must submit records by July 30, 2026.
+**Hook:** "A subpoena that reaches back to 2007 to check one official's bank account is not accountability working. It's accountability arriving over a decade late."
+**Angle:** Governance/accountability pillar - attacks the weakness of the SALN (Statement of Assets, Liabilities and Net Worth) disclosure system, which exists precisely to catch unexplained wealth in real time, yet it took a full impeachment trial and a subpoena reaching back nearly two decades to actually check the numbers. Attacks the enforcement/disclosure system, not Duterte's personal identity. Distinct subject/angle from the Ayungin baton post (2026-07-21 12:02) and the Romualdez travel-ban post (2026-07-21 19:03, also skipped for the same infra reason).
+**Tagalog beat (unused):** "Bakit kailangan pang umabot dito bago tingnan ang pera?" (fresh, not reused)
+**Char count:** 468
+**Fact-check:** BLOCKED - not a content failure. `publish_direct.py` returned the same `FACT-CHECK ERROR HTTP 403 (fail-closed): "Lightning dunning decision is deny for project: projects/193512754933"` on two consecutive attempts (same draft, no caption change) as the prior run - this is a persistent Gemini API project billing/permission denial, not a claim-corroboration failure. Fail-closed gate correctly refused to publish. Per protocol, stopped after 2 attempts; publishing nothing this run. TFS_LIVE=true this run, so live publish was intended but blocked by the infra error. This is the second consecutive run blocked by this same infra fault; the operator should check the Gemini/Google Cloud billing status for project 193512754933.
+**Sources (verified manually via WebSearch, 2+ reputable sources each):**
+- https://www.rappler.com/philippines/senate-impeachment-court-subpoenas-sara-duterte-bank-tax-records/
+- https://www.manilatimes.net/2026/07/21/news/impeachment-court-okays-subpoenas-for-vps-tax-bank-records/2387814
+- https://bworldonline.com/the-nation/2026/07/20/764727/senate-subpoenas-saras-tax-records-bank-accounts/
+- https://newsinfo.inquirer.net/2266745/impeachment-court-grants-subpoena-for-dutertes-financial-records

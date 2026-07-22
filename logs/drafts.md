@@ -4201,3 +4201,18 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
 - https://www.manilatimes.net/2026/07/21/news/impeachment-court-okays-subpoenas-for-vps-tax-bank-records/2387814
 - https://bworldonline.com/the-nation/2026/07/20/764727/senate-subpoenas-saras-tax-records-bank-accounts/
 - https://newsinfo.inquirer.net/2266745/impeachment-court-grants-subpoena-for-dutertes-financial-records
+
+## 2026-07-22 19:03 PHT | threads | SKIPPED (fact-check service HTTP 403 - infra/billing, not content)
+
+**Topic:** BARMM's first-ever parliamentary elections, originally due in 2022, have been postponed multiple times (to 2025, then further after courts struck down BTA districting laws BAA 58/77 as unconstitutional). RA 12317, signed by Marcos on March 25, 2026, reset the polls to September 14, 2026. On July 22, 2026, at the launch of the National Government-Bangsamoro Convergence Program in Camp Siongco, Maguindanao del Norte, Marcos personally vowed the September polls will push through.
+**Hook:** "BARMM's first-ever parliament was due in 2022. Postponed to 2025. Postponed again after courts struck down the district lines."
+**Angle:** Constitutional awareness / governance pillar - attacks the repeated institutional failure (COVID, contested redistricting laws, Congress/court delay) to deliver an election the Bangsamoro Organic Law already promised, now four-plus years overdue, framed against Art. II Sec. 1 (sovereignty resides in the people). No individual blamed; targets the process/system of repeated postponement. Fresh subject, distinct from recent entries (Duterte impeachment subpoena x2, Romualdez travel-ban evasion, Ayungin baton strike, DTI MSME loan fund, prior BARMM education-fund COA audit post from June).
+**Tagalog beat (unused):** "Ilang beses pa dapat mangako bago talaga tuparin?" (fresh, not reused)
+**Char count:** 496
+**Fact-check:** BLOCKED - not a content failure. `publish_direct.py` returned the same `FACT-CHECK ERROR HTTP 403 (fail-closed): "Lightning dunning decision is deny for project: projects/193512754933"` on two consecutive attempts (same draft, no caption change) - this is the same persistent Gemini API project billing/permission denial seen in the prior two runs (2026-07-21 19:03 and 2026-07-22 12:02). Fail-closed gate correctly refused to publish. Per protocol, stopped after 2 attempts; publishing nothing this run. TFS_LIVE=true this run, so live publish was intended but blocked by the infra error. This is the THIRD consecutive run blocked by this same infra fault - the operator should urgently check the Gemini/Google Cloud billing status for project 193512754933, as this is now blocking all live Threads publishing.
+**Sources (verified manually via WebSearch, 2+ reputable sources each):**
+- https://mb.com.ph/2026/07/22/marcos-assures-barmm-first-polls-to-push-through
+- https://mb.com.ph/2026/03/25/marcos-signs-law-resetting-barmm-polls-to-september-2026
+- https://www.rappler.com/philippines/mindanao/marcos-signs-law-barmm-elections-september-2026/
+- https://www.gmanetwork.com/news/topstories/nation/981384/marcos-law-barmm-elections/story/
+- https://www.pna.gov.ph/articles/1271808

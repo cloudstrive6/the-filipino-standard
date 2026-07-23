@@ -4216,3 +4216,16 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
 - https://www.rappler.com/philippines/mindanao/marcos-signs-law-barmm-elections-september-2026/
 - https://www.gmanetwork.com/news/topstories/nation/981384/marcos-law-barmm-elections/story/
 - https://www.pna.gov.ph/articles/1271808
+
+## 2026-07-23 12:03 PHT | threads | SKIPPED (fact-check service HTTP 403 - infra/billing, not content)
+
+**Topic:** The Ombudsman/Independent Commission for Infrastructure is moving to file conflict-of-interest and graft charges against at least eight House members who allegedly used their own construction companies to win government flood control contracts (with 12-15 more lawmakers flagged for similar conflicts). Senate Senior Deputy Majority Leader JV Ejercito said on July 22, 2026 that the pursuit of flood control mess culprits continues even as the Duterte impeachment trial dominates headlines.
+**Hook:** "Eight House members allegedly used their own construction firms to win flood control contracts, the exact conflict of interest the Anti-Graft Law already outlawed decades ago."
+**Angle:** Governance/accountability pillar - attacks the enforcement gap: RA 3019 (Anti-Graft and Corrupt Practices Act) and the Government Procurement Reform Act already ban lawmakers steering contracts to their own companies, yet it took a Senate blue ribbon probe and an Ombudsman/ICI report years into the flood-control scandal to act on conduct the law already forbade. No individual named; targets the enforcement system's lag, not any lawmaker's identity. Fresh subject, distinct from recent entries (Duterte impeachment subpoena x2, Romualdez travel-ban evasion, Ayungin baton strike, BARMM elections postponement, DTI MSME loan fund).
+**Tagalog beat (unused):** "Bakit kailangan pang hintayin ang ulat bago pigilan ang bawal na malinaw?" (fresh, not reused - "why does it take a report before something already clearly illegal is stopped")
+**Char count:** 498
+**Fact-check:** BLOCKED - not a content failure. `publish_direct.py` returned the same `FACT-CHECK ERROR HTTP 403 (fail-closed): "Lightning dunning decision is deny for project: projects/193512754933"` on two consecutive attempts (same draft, no caption change) as the prior four runs. Fail-closed gate correctly refused to publish. Per protocol, stopped after 2 attempts; publishing nothing this run. TFS_LIVE=true this run, so live publish was intended but blocked by the infra error. This is now the FOURTH consecutive run blocked by this same infra fault (2026-07-21 19:03, 2026-07-22 12:02, 2026-07-22 19:03, 2026-07-23 12:03) - the operator urgently needs to check the Gemini/Google Cloud billing status for project 193512754933, as it is now blocking all live Threads publishing across a full day-plus.
+**Sources (verified manually via WebSearch, 2+ reputable sources each):**
+- https://newsinfo.inquirer.net/2268666/charging-culprits-in-flood-control-mess-will-continue-ejercito
+- https://www.gmanetwork.com/news/topstories/nation/979908/ombudsman-ici-wants-charges-vs-8-solons-over-flood-funds-anomalies/story/
+- https://www.philstar.com/headlines/2026/07/18/2542812/ombudsman-probes-2-lawmakers-over-flood-control-contractor-links

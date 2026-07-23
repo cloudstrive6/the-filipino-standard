@@ -4229,3 +4229,16 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
 - https://newsinfo.inquirer.net/2268666/charging-culprits-in-flood-control-mess-will-continue-ejercito
 - https://www.gmanetwork.com/news/topstories/nation/979908/ombudsman-ici-wants-charges-vs-8-solons-over-flood-funds-anomalies/story/
 - https://www.philstar.com/headlines/2026/07/18/2542812/ombudsman-probes-2-lawmakers-over-flood-control-contractor-links
+
+## 2026-07-23 19:02 PHT | threads | SKIPPED (fact-check service HTTP 403 - infra/billing, not content)
+
+**Topic:** The Joint Foreign Chambers (JFC - AmCham, CanCham, ECCP, JCCIPI, KCCP, PAMURI) sent a letter to President Marcos on July 22-23, 2026 urging 12 priority reform measures ahead of his fifth SONA, topped by amendments to the Electric Power Industry Reform Act (EPIRA, enacted 2001) to lower Philippine electricity costs, among the highest in Southeast Asia, plus full implementation of the Create More Act, Ease of Doing Business Act, and Ease of Paying Taxes Act.
+**Hook:** "Every SONA season, foreign investors send Marcos the same letter: amend EPIRA, Philippine power rates are still among the highest in Southeast Asia."
+**Angle:** Economic & utility reform pillar - attacks the legislative inertia around EPIRA (a 25-year-old law never substantially amended despite recurring investor pressure), not any individual. The recurrence of the same annual ask across SONAs is the evidence: the problem is proposal fatigue, not proposal absence.
+**Tagalog beat (unused):** "Kung pareho pa rin ang isinusulat taon-taon, hindi kulang ang panukala, kulang ang pagpasa." (fresh, topic-specific to EPIRA/SONA letter-recurrence, not reused)
+**Char count:** 337
+**Fact-check:** BLOCKED - not a content failure. `publish_direct.py` returned the same `FACT-CHECK ERROR HTTP 403 (fail-closed): "Lightning dunning decision is deny for project: projects/193512754933"` on two consecutive attempts (same draft, no caption change), identical to the prior five runs (2026-07-21 19:03, 2026-07-22 12:02, 2026-07-22 19:03, 2026-07-23 12:03). Fail-closed gate correctly refused to publish. Per protocol, stopped after 2 attempts; publishing nothing this run. TFS_LIVE=true this run, so live publish was intended but blocked by the infra error. This is now the FIFTH consecutive run blocked by this same infra fault, spanning over two full days - the operator urgently needs to check the Gemini/Google Cloud billing status for project 193512754933, as it is fully blocking live Threads publishing.
+**Sources (verified manually via WebSearch, 2+ reputable sources each):**
+- https://www.manilatimes.net/2026/07/23/business/top-business/foreign-chambers-urge-reforms-in-letter-to-marcos/2389615
+- https://mb.com.ph/2026/07/22/foreign-investors-urge-marcos-to-fast-track-12-key-reforms
+- https://www.philstar.com/headlines/2026/07/23/2544088/foreign-biz-groups-push-12-measures

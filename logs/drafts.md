@@ -4242,3 +4242,17 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
 - https://www.manilatimes.net/2026/07/23/business/top-business/foreign-chambers-urge-reforms-in-letter-to-marcos/2389615
 - https://mb.com.ph/2026/07/22/foreign-investors-urge-marcos-to-fast-track-12-key-reforms
 - https://www.philstar.com/headlines/2026/07/23/2544088/foreign-biz-groups-push-12-measures
+
+## 2026-07-24 12:02 PHT | threads | SKIPPED (fact-check service HTTP 403 - infra/billing, not content)
+
+**Topic:** A China Coast Guard cutter (CCG 3302) fired water cannons for over two minutes at Philippine government vessel BRP Datu Dumangsil near Bajo de Masinloc (Scarborough Shoal) on the morning of July 23, 2026, while it and BRP Datu Paiburong were on a PCG/BFAR mission delivering fuel and food to Filipino fishermen. CCG 21579 also attempted to block Datu Paiburong. Nine China Coast Guard vessels plus one Chinese Maritime Militia ship remained in the area; the mission was completed with no injuries. The incident came the same week Malacanang signaled it was seeking a "reset" of ties with China.
+**Hook:** "Days after Malacanang floated a 'reset' with Beijing, China's coast guard blasted a Philippine ship with water cannons for two minutes near Bajo de Masinloc, for delivering fuel and food to Filipino fishermen."
+**Angle:** Political commentary / constitutional-awareness pillar (Art. II Sec. 4, prime duty to serve and protect the people) - attacks the incoherence of pursuing a diplomatic "reset" with Beijing in the same week its coast guard escalates against a lawful PCG/BFAR fishermen-support mission; targets the foreign-policy pattern and China Coast Guard's institutional conduct, not any named individual. Fresh subject, distinct from all recent entries (Duterte impeachment subpoena x2, Romualdez travel-ban evasion, BARMM elections postponement, flood-control graft charges, JFC/EPIRA letter).
+**Tagalog beat (unused):** "Paulit-ulit ang pananakot, pero hindi dapat nating kalimutan kaninong dagat talaga ito." (fresh, topic-specific to WPS/Bajo de Masinloc sovereignty, not reused)
+**Char count:** 494
+**Fact-check:** BLOCKED - not a content failure. `publish_direct.py` returned the same `FACT-CHECK ERROR HTTP 403 (fail-closed): "Lightning dunning decision is deny for project: projects/193512754933"` on two consecutive attempts (same draft, no caption change), identical to the prior six runs (2026-07-21 19:03 through 2026-07-23 19:02). Fail-closed gate correctly refused to publish. Per protocol, stopped after 2 attempts; publishing nothing this run. TFS_LIVE=true this run, so live publish was intended but blocked by the infra error. This is now the SEVENTH consecutive run blocked by this same infra fault, spanning three full days - the operator urgently needs to check the Gemini/Google Cloud billing status for project 193512754933, as it continues to fully block live Threads publishing.
+**Sources (verified manually via WebSearch, 2+ reputable sources each):**
+- https://www.rappler.com/philippines/china-scarborough-shoal-encounter-july-23-2026/
+- https://www.philstar.com/headlines/2026/07/24/2544252/china-fires-water-cannon-pcg-bfar-ships
+- https://www.manilatimes.net/2026/07/24/news/national/china-coast-guard-fires-water-cannon-at-philippine-vessel-in-bajo-de-masinloc/2390548
+- https://bworldonline.com/the-nation/2026/07/23/765637/china-water-cannons-phl-vessel-as-marcos-seeks-reset-of-china-ties/

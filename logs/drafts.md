@@ -4256,3 +4256,15 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
 - https://www.philstar.com/headlines/2026/07/24/2544252/china-fires-water-cannon-pcg-bfar-ships
 - https://www.manilatimes.net/2026/07/24/news/national/china-coast-guard-fires-water-cannon-at-philippine-vessel-in-bajo-de-masinloc/2390548
 - https://bworldonline.com/the-nation/2026/07/23/765637/china-water-cannons-phl-vessel-as-marcos-seeks-reset-of-china-ties/
+
+## 2026-07-24 19:03 PHT | threads | SKIPPED (fact-check service HTTP 403 - infra/billing, not content)
+
+**Topic:** DBM consolidated P22.79 billion in unused/surplus agency budgets (per National Budget Circulars 602 and 603, issued April-May 2026) to fund emergency relief for the fuel/energy crisis driven by the Middle East conflict and Super El Niino. P12.37 billion goes to DSWD's Uplift program for about 7.5 million households: a one-time P2,000 for 3.5 million 4Ps/Walang Gutom beneficiaries, and P2,000/month (July-December) for 2.5 million poor/near-poor/low-income-worker households.
+**Hook:** "The government just found P22.79 billion in unused agency budgets and is handing it out as emergency P2,000 relief to about 7.5 million households hit by the fuel and energy crisis."
+**Angle:** Economic & utility reform pillar - argues the "savings" being celebrated as relief are really proof the state has no structural buffer against oil/energy price shocks, only budget scraps assembled after the crisis hits; targets the pattern of ad hoc dole-outs replacing real energy reform, not any named official. Fresh subject, distinct from all recent entries (Duterte impeachment subpoena x2, Romualdez travel-ban evasion, BARMM elections postponement, flood-control graft charges, JFC/EPIRA letter, China Coast Guard water-cannon incident).
+**Tagalog beat (unused):** "Kailan pa ba tayo titigil sa pagtitipid sa krisis sa halip na pag-iwas dito?" (fresh, topic-specific to the savings-as-relief story, not reused)
+**Char count:** 494
+**Fact-check:** BLOCKED - not a content failure. `publish_direct.py` returned the identical `FACT-CHECK ERROR HTTP 403 (fail-closed): "Lightning dunning decision is deny for project: projects/193512754933"` seen on the prior seven consecutive runs (2026-07-21 19:03 through 2026-07-24 12:02). This is now the EIGHTH consecutive run blocked by this same infra fault, spanning four days. Per protocol, an alternative angle would not help since the block is infra-side (billing denial), not content-related - stopped after one attempt and publishing nothing this run. TFS_LIVE=true this run, so live publish was intended but blocked by the fail-closed gate. Operator should urgently check Gemini/Google Cloud billing status for project 193512754933.
+**Sources (verified manually via WebSearch, 2+ reputable sources each):**
+- https://www.manilatimes.net/2026/07/24/news/national/p2279b-in-govt-savings-to-fund-crisis-relief-programs/2390545
+- https://newsinfo.inquirer.net/2269310/govt-earmarks-p22-79-b-savings-for-middle-east-crisis-assistance

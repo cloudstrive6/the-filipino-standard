@@ -4310,3 +4310,17 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
 - https://dole.gov.ph/news/ncr-minimum-wage-hike-officially-set-for-july-25/
 - https://www.dzrh.com.ph/post/peso60-ncr-minimum-wage-increase-takes-effect-daily-pay-now-at-peso755
 - https://thebusinessmanual.ph/news/ncr-minimum-wage-increase-2026-dole/
+
+## 2026-07-26 19:02 PHT | threads | SKIPPED (fact-check service HTTP 403 - infra/billing, not content)
+
+**Topic:** The Philippine peso closed at an all-time low of 61.847 to the US dollar on Friday, July 24, 2026, breaking the record set just one day earlier (61.75 on Thursday, July 23). The slide is driven by rising global oil prices and escalating Middle East geopolitical tensions, with the peso now one of Asia's worst-performing currencies this year (down roughly 5%). This lands two days before Marcos' fifth SONA (Monday, July 27, 2026).
+**Hook:** "The peso just closed at an all-time low: 61.847 to the US dollar, a record broken one day after the previous record fell. That was Friday, July 24. The SONA is Monday."
+**Angle:** Economic & utility reform pillar - takes the currency-record-low fact and points at the structural reality that a weaker peso raises the cost of fuel, medicine, rice, and electronics instantly for ordinary households, regardless of what growth figures get presented on stage at SONA. Attacks the systemic exposure (import dependency, currency mismanagement), not any named official. Fresh subject, distinct from all recent entries (NCR wage order, DPWH flood-control "ginagamit lang para magnakaw" admission, Pulse Asia SONA corruption survey, DBM P22.79B relief) - first currency/peso-devaluation angle in recent run history.
+**Tagalog beat (unused):** "Sasabihin man na malakas ang ekonomiya, hindi iyon ang nararamdaman sa presyo ng bilihin." (fresh, topic-specific: "even if they say the economy is strong, that is not what is felt in the price of goods" - ties directly to this post's SONA-vs-peso-reality tension, distinct formula from prior beats used in recent posts)
+**Char count:** 463
+**Fact-check:** BLOCKED - not a content failure. `publish_direct.py` returned the identical `FACT-CHECK ERROR HTTP 403 (fail-closed): "Lightning dunning decision is deny for project: projects/193512754933"` seen on every run since 2026-07-21 19:03. This is now at least the TWELFTH consecutive run blocked by this same infra fault, spanning five-plus days. Per protocol, an alternative angle would not help since the block is infra-side (billing/permission denial on the Gemini fact-check project), not content-related - stopped after one attempt and publishing nothing this run. TFS_LIVE=true this run, so live publish was intended but blocked by the fail-closed gate. Operator should urgently check Gemini/Google Cloud billing status for project 193512754933 - this has now blocked live Threads publishing for over five consecutive days across twelve-plus scheduled runs.
+**Sources (verified manually via WebSearch, 2+ reputable sources each):**
+- https://www.manilatimes.net/2026/07/25/business/top-business/peso-sinks-to-fresh-record-low/2391226
+- https://www.gmanetwork.com/news/money/economy/996009/peso-sinks-to-new-all-time-low-at-p61-847-1/story/
+- https://bworldonline.com/bloomberg/2026/07/24/765719/philippine-peso-falls-to-fresh-record-low-vs-us-dollar/
+- https://www.bloomberg.com/news/articles/2026-07-24/php-usd-philippine-peso-falls-to-fresh-record-low-as-oil-advances

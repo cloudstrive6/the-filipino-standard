@@ -4296,3 +4296,17 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
 - https://www.philstar.com/headlines/2026/07/21/2543529/dizon-hints-more-big-fish-flood-control-probe
 - https://pco.gov.ph/news_releases/pbbms-sona-week-focuses-on-corruption-crackdown-social-services-swift-disaster-response/
 - https://newsinfo.inquirer.net/2122028/dizon-421-of-8000-flood-control-works-are-ghost-projects
+
+## 2026-07-26 12:03 PHT | threads | SKIPPED (fact-check service HTTP 403 - infra/billing, not content)
+
+**Topic:** Wage Order No. NCR-27's first tranche took effect Saturday, July 25, 2026: the NCR daily minimum wage rose 60 pesos, from 695 to 755, benefiting an estimated 1.1 million private-sector minimum-wage workers. The order's second tranche, an additional 25 pesos (bringing the total hike to the promised 85 pesos and the wage to 780/day), is not scheduled until January 20, 2027.
+**Hook:** "NCR's minimum wage just jumped 60 pesos, to 755 a day, official as of July 25. That is real money for about 1.1 million private-sector workers."
+**Angle:** Economic & utility reform pillar - takes the "historic" wage-hike framing at face value, then points at the structural detail buried in the wage order itself: the remaining 25 pesos of the promised 85 is deferred to January 2027, a scheduled delay, while cost of living is not on a schedule. Attacks the two-tranche design/system, not any official or agency. Fresh subject and structure, distinct from all recent entries (Pulse Asia SONA corruption survey x2, DPWH flood-control "ginagamit lang para magnakaw" admission, DBM P22.79B relief, Romualdez travel-ban evasion, BARMM elections postponement, flood-control graft charges vs lawmakers, JFC/EPIRA letter, China Coast Guard water-cannon incident, Duterte impeachment subpoena x2) - first wage/labor-economics angle in the recent run history, no flood-control/corruption overlap.
+**Tagalog beat (unused):** "Tumaas ang sahod, pero mas mabilis tumaas ang presyo." (fresh, topic-specific: "wages went up, but prices went up faster" - directly ties to this post's wage-vs-cost-of-living tension, distinct formula from "hindi sinusunod," the question-formula, and the "alam na" formula used in recent posts)
+**Char count:** 365
+**Fact-check:** BLOCKED - not a content failure. `publish_direct.py` returned the identical `FACT-CHECK ERROR HTTP 403 (fail-closed): "Lightning dunning decision is deny for project: projects/193512754933"` seen on every run since 2026-07-21 19:03. This is now the ELEVENTH consecutive run blocked by this same infra fault, spanning five-plus days. Per protocol, an alternative angle would not help since the block is infra-side (billing/permission denial on the Gemini fact-check project), not content-related - stopped after one attempt and publishing nothing this run. TFS_LIVE=true this run, so live publish was intended but blocked by the fail-closed gate. Operator should urgently check Gemini/Google Cloud billing status for project 193512754933 - this has now blocked live Threads publishing for over five consecutive days across eleven scheduled runs.
+**Sources (verified manually via WebSearch, 2+ reputable sources each):**
+- https://www.gmanetwork.com/news/money/economy/994450/ncr-wage-hike-tranche/story/
+- https://dole.gov.ph/news/ncr-minimum-wage-hike-officially-set-for-july-25/
+- https://www.dzrh.com.ph/post/peso60-ncr-minimum-wage-increase-takes-effect-daily-pay-now-at-peso755
+- https://thebusinessmanual.ph/news/ncr-minimum-wage-increase-2026-dole/

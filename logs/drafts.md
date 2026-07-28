@@ -4352,3 +4352,17 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
 - https://mb.com.ph/2026/07/27/marcos-wants-systems-loss-charges-removed-from-electric-bills-demands-immediate-epira-amendment
 - https://www.sunstar.com.ph/manila/marcos-calls-for-end-to-systems-loss-charges-urges-epira-amendment
 - https://newsinfo.inquirer.net/2271668/marcos-wants-system-loss-charges-scrapped
+
+## 2026-07-28 12:03 PHT | threads | SKIPPED (fact-check service HTTP 403 - infra/billing, not content)
+
+**Topic:** Pump price hike effective July 28, 2026: diesel +P7.30/L, gasoline +P6.80/L, kerosene +P4.20/L, driven by the continued closure of the Strait of Hormuz disrupting global oil supply. Year-to-date net increases already at P50.43/L diesel, P49.92/L gasoline, P48.39/L kerosene.
+**Hook:** "Diesel is up P7.30 a liter this week, gasoline P6.80. The trigger: a Strait of Hormuz shutdown thousands of kilometers away that no Filipino commuter had a hand in causing."
+**Angle:** Economic & Utility Reform pillar - attacks the system/incentive structure (the 1998 oil deregulation law, RA 8479, that lets oil firms set pump prices unilaterally with no government price buffer or reserve), not any individual; frames the pass-through as instant and total onto commuters, tricycle drivers, and sari-sari store owners. Distinct topic (fuel/oil pricing) and pillar emphasis from the two most recent drafts (2026-07-27 12:02 flood-control-corruption-anniversary and 2026-07-27 19:03 EPIRA systems-loss-charge SONA demand, both electricity-focused).
+**Tagalog beat (unused):** "Tayo pa rin ang nagbabayad, kahit hindi tayo ang may kagagawan." (fresh - "We're still the ones who pay, even though we're not the ones responsible" - closing verdict line, topic-specific to bearing the cost of a foreign supply shock with zero causal role; not reused from any recent post)
+**Char count:** 480
+**Fact-check:** BLOCKED - not a content failure. `publish_direct.py` returned the identical `FACT-CHECK ERROR HTTP 403 (fail-closed): "Lightning dunning decision is deny for project: projects/193512754933"` seen on every run since 2026-07-21 19:03. This is now an EIGHTEENTH+ consecutive run blocked by this same infra fault, spanning eight-plus days. Per protocol, an alternative angle would not help since the block is infra-side (billing/permission denial on the Gemini fact-check project), not content-related - stopped after one attempt and publishing nothing this run. TFS_LIVE=true this run, so live publish was intended but blocked by the fail-closed gate. Operator should urgently check Gemini/Google Cloud billing status for project 193512754933 - this has now blocked live Threads publishing for over eight consecutive days across eighteen-plus scheduled runs.
+**Sources (verified manually via WebSearch, 2+ reputable sources each):**
+- https://www.gmanetwork.com/news/money/economy/996276/big-time-pump-price-hike-set-tuesday-july-28-2026/story/
+- https://philnews.ph/2026/07/27/doe-announces-another-oil-price-hike-july-28-2026-tuesday
+- https://cebudailynews.inquirer.net/751089/diesel-gasoline-prices-set-to-jump-by-up-to-p7-30-on-july-28
+- https://www.topgear.com.ph/news/industry-news/ph-fuel-price-update-july-28-aug-3-2026-a6941-20260727

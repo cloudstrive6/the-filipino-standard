@@ -4366,3 +4366,17 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
 - https://philnews.ph/2026/07/27/doe-announces-another-oil-price-hike-july-28-2026-tuesday
 - https://cebudailynews.inquirer.net/751089/diesel-gasoline-prices-set-to-jump-by-up-to-p7-30-on-july-28
 - https://www.topgear.com.ph/news/industry-news/ph-fuel-price-update-july-28-aug-3-2026-a6941-20260727
+
+## 2026-07-28 19:02 PHT | threads | SKIPPED (fact-check service HTTP 403 - infra/billing, not content)
+
+**Topic:** 51 people arrested during the SONA (July 27, 2026) protest along Commonwealth Avenue, Quezon City, on local-ordinance grounds (face-covering, littering/vandalism), not for violence. Twelve of the arrested were minors, released only after social workers confirmed their age; separate reporting noted additional minors held for alleged vandalism the same day.
+**Hook:** "51 arrested at Monday's SONA protest on Commonwealth Avenue. Not for violence, for ordinance violations: face coverings, littering."
+**Angle:** Constitutional Awareness pillar - attacks the system/incentive structure (using minor local ordinances as the legal hook to break up and detain a political protest, including minors) rather than any individual officer or official; cites Article III, Section 4 verbatim on the right to peaceably assemble and petition for redress. Distinct topic and pillar from the three most recent drafts (2026-07-27 12:02 flood-control-corruption-anniversary, 2026-07-27 19:03 EPIRA systems-loss-charge, 2026-07-28 12:03 fuel/oil pump-price hike) - none touched civil liberties / freedom of assembly.
+**Tagalog beat (unused):** "Ang magprotesta ay karapatan, hindi krimen." (fresh - "Protesting is a right, not a crime" - closing verdict line, topic-specific to using ordinance violations to punish the act of protesting itself; not reused from any recent post)
+**Char count:** 484
+**Fact-check:** BLOCKED - not a content failure. `publish_direct.py` returned the identical `FACT-CHECK ERROR HTTP 403 (fail-closed): "Lightning dunning decision is deny for project: projects/193512754933"` seen on every run since 2026-07-21 19:03. This is now the FIFTEENTH consecutive run blocked by this same infra fault, spanning eight-plus days. Per protocol, an alternative angle would not help since the block is infra-side (billing/permission denial on the Gemini fact-check project), not content-related - stopped after one attempt and published nothing this run. TFS_LIVE=true this run, so live publish was intended but blocked by the fail-closed gate. Operator should urgently check Gemini/Google Cloud billing status for project 193512754933 - this has now blocked live Threads publishing for over eight consecutive days across fifteen-plus scheduled runs.
+**Sources (verified manually via WebSearch, 2+ reputable sources each):**
+- https://newsinfo.inquirer.net/2272242/pnp-12-minors-held-at-sona-rally-released
+- https://www.philstar.com/headlines/2026/07/27/2545112/51-arrested-sona-protest-over-alleged-face-covering-vandalism-violations
+- https://newsinfo.inquirer.net/2271439/pnp-51-nabbed-for-alleged-violations-at-sona-rally
+- https://mb.com.ph/2026/07/27/6-minors-nabbed-for-alleged-vandalism-during-sona-rally

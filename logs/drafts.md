@@ -4421,3 +4421,16 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
 **Sources (verified manually via WebSearch, 2+ reputable sources each):**
 - https://www.manilatimes.net/2026/07/30/business/top-business/uap-q2-growth-likely-slowed-to-25/2394312
 - https://www.philstar.com/business/2026/07/30/2545612/uap-gdp-growth-likely-25-q2
+
+## 2026-07-30 19:02 PHT | threads | SKIPPED (fact-check service HTTP 403 - infra/billing, not content)
+
+**Topic:** President Marcos personally authorized the BIR to release VP Sara Duterte's and her husband Manases Carpio's tax records to the Senate Impeachment Court on 2026-07-30, after the court's July 20 subpoena. Philippine law requires presidential sign-off before the BIR can release anyone's confidential tax records, even to a coequal branch's court investigating a sitting VP.
+**Hook:** "Before the Senate impeachment court could see Vice President Sara Duterte's tax records this week, one thing had to happen first: the President had to personally approve it."
+**Angle:** Constitutional/governance-systems pillar - attacks the structural chokepoint (accountability for one official gated behind another official's personal discretion) rather than any named individual's conduct; frames it as a design flaw that would produce a different outcome under a different president. Distinct from the last 7 drafts (2026-07-27 flood-control-corruption anniversary, 2026-07-27 EPIRA systems-loss charge, 2026-07-28 fuel/pump-price hike, 2026-07-28 SONA protest arrests, 2026-07-29 Taguig ghost-infrastructure/Lacson, 2026-07-29 DepEd/LandBank cash testimony, 2026-07-30 UA&P GDP forecast) - none touched the tax-record-release authorization mechanism.
+**Tagalog beat (unused):** "Sino ba talaga ang may hawak ng susi sa katotohanan?" (fresh - "Who really holds the key to the truth?" - closing rhetorical question, topic-specific to the gatekeeping mechanism controlling release of evidence; not reused from any recent post)
+**Char count:** 489
+**Fact-check:** BLOCKED - not a content failure. `publish_direct.py` returned the identical `FACT-CHECK ERROR HTTP 403 (fail-closed): "Your project has been denied access. Please contact support." PERMISSION_DENIED` seen on every run since 2026-07-21 19:03. This is now the NINETEENTH consecutive run blocked by this same infra fault, spanning nine-plus days. Per protocol, an alternative angle was not attempted since the block is infra-side (billing/permission denial on the Gemini fact-check project), not content-related. TFS_LIVE=true this run, so live publish was intended but blocked by the fail-closed gate. Operator should urgently check Gemini/Google Cloud billing status for the fact-check project - this has now blocked live Threads publishing for over nine consecutive days across nineteen-plus scheduled runs. Last successful live post remains 2026-07-21T12:02:10+08:00 per logs/posted_log.jsonl.
+**Sources (verified manually via WebSearch, 2+ reputable sources each):**
+- https://www.manilatimes.net/2026/07/30/news/marcos-orders-bir-to-submit-the-tax-records-of-duterte-husband-to-senate-impeachment-court/2394578
+- https://newsinfo.inquirer.net/2274101/bir-secures-marcos-authorization-submits-duterte-tax-records-to-impeachment-court
+- https://www.rappler.com/philippines/sara-duterte-tax-records-received-july-30-2026/

@@ -4446,3 +4446,16 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
 **Sources (verified manually via WebSearch, 2+ reputable sources each):**
 - https://politiko.com.ph/2026/07/30/making-house-more-open-responsive-people-centered-speaker-dy-to-launch-legishear-initiative/politiko-lokal/
 - https://www.pna.gov.ph/articles/1277967
+
+## 2026-07-31 19:02 PHT | threads | SKIPPED (fact-check service HTTP 403 - infra/billing, not content)
+
+**Topic:** National government outstanding debt hit a record P19.07 trillion as of end-June 2026, per Bureau of the Treasury data released 2026-07-30, up P518.98 billion (2.8%) from P18.55 trillion in May, and already surpassing the P19.06-trillion full-year 2026 debt projection with roughly five months of the year still remaining.
+**Hook:** "Six months into 2026, the Philippines already blew past its full-year borrowing target."
+**Angle:** Economic & Fiscal Reform pillar - attacks the systemic incentive of continuous borrowing without proportional accountability for how prior loans were spent; frames the debt as a bill handed to Filipinos (and future generations) who never approved it. No individual or official named. Distinct from all recent logged topics (2026-07-27 flood-control-corruption anniversary, 2026-07-27 EPIRA systems-loss charge, 2026-07-28 fuel/pump-price hike, 2026-07-28 SONA protest arrests, 2026-07-29 Taguig ghost-infrastructure/Lacson, 2026-07-29 DepEd/LandBank cash-disbursement testimony, 2026-07-30 UA&P GDP forecast, 2026-07-30 Marcos/BIR tax-record authorization, 2026-07-31 12:03 LegisHear listening-tour) - none touched national debt/borrowing.
+**Tagalog beat (unused):** "Umuutang na naman, pero saan napunta ang mga naunang utang?" (fresh - "Borrowing again, but where did the previous debts go?" - grammatically follows the approved "Saan napunta ang pera natin?" pattern from the reference bank, adapted to this post's specific subject; not reused from any recent post)
+**Char count:** 427
+**Fact-check:** BLOCKED - not a content failure. `publish_direct.py` returned the identical `FACT-CHECK ERROR HTTP 403 (fail-closed): "Your project has been denied access. Please contact support." PERMISSION_DENIED` seen on every run since 2026-07-21 19:03. This is now at least the TWENTY-FOURTH consecutive run blocked by this same infra fault, spanning ten-plus days. Per protocol, an alternative angle was not attempted since the block is infra-side (billing/permission denial on the Gemini fact-check project), not content-related. TFS_LIVE=true this run, so live publish was intended but blocked by the fail-closed gate. Operator should urgently check Gemini/Google Cloud billing status for the fact-check project - this has now blocked live Threads publishing for over ten consecutive days across twenty-four-plus scheduled runs. Last successful live post remains 2026-07-21T12:02:10+08:00 per logs/posted_log.jsonl.
+**Sources (verified manually via WebSearch, 2+ reputable sources each):**
+- https://www.manilatimes.net/2026/07/31/business/top-business/ng-debt-hits-record-p1907t/2395051
+- https://bworldonline.com/top-stories/2026/07/31/767091/ng-outstanding-debt-jumps-to-record-p19-07-trillion/
+- https://business.inquirer.net/603166/ph-govt-debt-tops-p19t-as-borrowing-accelerates

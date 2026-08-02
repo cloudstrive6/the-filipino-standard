@@ -4499,3 +4499,27 @@ Published live | post_id: sp_AVv1AzzxZWO4FmVCfKIeJ | fact-check: PASS
 - https://www.manilatimes.net/2026/08/01/news/ph-deposits-map-of-bajo-de-masinloc-with-un-boosts-maritime-claim/2396235
 - https://www.gmanetwork.com/news/topstories/nation/996977/china-says-it-rejects-philippine-baselines-around-scarborough-shoal/story/
 - https://www.rappler.com/philippines/deposit-scarborough-shoal-bajo-de-masinloc-char-united-nations/
+
+## 2026-08-02 19:04 PHT | threads | SKIPPED (no fresh distinct on-brand item found)
+
+**Decision:** No post produced this run. Per `agent/post_agent.md` step 2, when a fresh, on-brand,
+fact-verifiable item can't be found, the run stops and publishes nothing.
+
+**Search summary (WebSearch, PH news):** Reviewed Meralco/energy-crisis rate history (stale, dated
+March-June 2026, no new development), the Sara Duterte impeachment trial (ongoing since July 6, no
+new ruling or session reported since the last logged mention), Sen. Jinggoy Estrada's third plunder
+case (charges/arrest dated May-June 2026, not new), DPWH/Ombudsman flood-control filings (same
+storyline as the 2026-08-01 Romualdez/Co Ombudsman entry already logged), COA's FY2026 budget/report
+timeliness (no dated news event, background only), and a West Philippine Sea China Coast Guard
+clash (most recent confirmed incident July 20, not within the ~24h freshness window).
+
+The one genuinely fresh, well-verified story found (Philippines' July 29 UNCLOS Article 16 nautical
+chart deposit for Bajo de Masinloc / Scarborough Shoal, still being reported through 2026-08-02) is
+the same topic, angle, and hook already used in today's earlier 12:03 PHT entry above. Per the
+anti-repetition rule (brand-context.md section 4), that topic cannot be reused in this run even
+though the earlier attempt never actually posted (it was blocked by the same ongoing fact-check
+service HTTP 403 infra fault, not a content issue).
+
+No alternative fresh item cleared both the recency bar and the anti-repeat bar within the run's
+search budget, so per protocol this slot is skipped cleanly. TFS_LIVE=true this run; nothing was
+queued or sent to `publish_direct.py` since no caption was produced. No fact-check gate was invoked.

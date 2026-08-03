@@ -4523,3 +4523,17 @@ service HTTP 403 infra fault, not a content issue).
 No alternative fresh item cleared both the recency bar and the anti-repeat bar within the run's
 search budget, so per protocol this slot is skipped cleanly. TFS_LIVE=true this run; nothing was
 queued or sent to `publish_direct.py` since no caption was produced. No fact-check gate was invoked.
+
+## 2026-08-03 12:02 PHT | threads | SKIPPED (fact-check service HTTP 403 - infra/billing, not content)
+
+**Topic:** On the impeachment trial's Day 11 (2026-08-03), a former COA Intelligence and Confidential Funds Office (ICFAO) state auditor (Roderick Wamil) took the stand as a House prosecution witness to walk through how COA is supposed to review liquidation reports for confidential funds under Article 1 of the impeachment case, and whether the Office of the Vice President's supporting documents met COA rules. Distinct from the prior LandBank-checks testimony (2026-07-29) and BIR tax-records release (2026-07-30) already logged - this is the audit-compliance-process angle, not the cash-withdrawal or tax-record angle.
+**Hook:** "A retired COA auditor spent today's impeachment hearing explaining something that should never need public explaining: how liquidation reports for confidential funds are supposed to be checked."
+**Angle:** Governance-accountability pillar - attacks the system, not any named official: the liquidation-review process COA already had on paper only got exercised because a nationally televised impeachment trial forced the question, not because routine oversight caught it. No individual named in the post copy (auditor and VP referenced only in sourcing below).
+**Tagalog beat (unused):** "Dapat gumagana ito kahit walang camera." (fresh - "This should work even without a camera." - ties directly to the routine-oversight-only-under-spotlight point; not reused from any recent post)
+**Char count:** 366
+**Fact-check:** BLOCKED - not a content failure. `publish_direct.py` returned the identical `FACT-CHECK ERROR HTTP 403 (fail-closed): "Your project has been denied access. Please contact support." PERMISSION_DENIED` seen on every run since 2026-07-21 19:03. This is now at least the TWENTY-EIGHTH consecutive run blocked by this same infra fault, spanning thirteen-plus days. TFS_LIVE=true this run, so live publish was intended but blocked by the fail-closed gate before any post was sent. Operator should urgently check Gemini/Google Cloud billing/permissions for the fact-check project - this has now blocked live Threads publishing for over thirteen consecutive days across twenty-eight-plus scheduled runs. Last successful live post remains 2026-07-21T12:02:10+08:00 per logs/posted_log.jsonl.
+**Sources (verified manually via WebSearch, 2+ reputable sources each):**
+- https://www.gmanetwork.com/news/topstories/nation/997121/live-updates-sara-duterte-impeachment-trial-august-3-2026/story/
+- https://www.inquirer.net/483126/live-updates-impeachment-trial-of-vice-president-sara-duterte-aug-3-2026/
+- https://www.dzrh.com.ph/post/day-11-of-vp-sara-duterte-impeachment-trial-or-august-3-2026
+- https://www.philstar.com/headlines/2026/08/03/2546686/live-coverage-sara-dutertes-impeachment-trial-aug-3

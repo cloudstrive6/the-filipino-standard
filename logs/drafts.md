@@ -4537,3 +4537,18 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 - https://www.inquirer.net/483126/live-updates-impeachment-trial-of-vice-president-sara-duterte-aug-3-2026/
 - https://www.dzrh.com.ph/post/day-11-of-vp-sara-duterte-impeachment-trial-or-august-3-2026
 - https://www.philstar.com/headlines/2026/08/03/2546686/live-coverage-sara-dutertes-impeachment-trial-aug-3
+
+## 2026-08-03 19:03 PHT | threads | SKIPPED (fact-check service HTTP 403 - infra/billing, not content)
+
+**Topic:** Tropical Depression Luis brought heavy rain to Pangasinan on 2026-08-03, flooding Dagupan City again in the same low-lying barangays that flood every year. A P106-million riverbank protection project completed in 2023 was meant to fix this stretch; residents report cracked dikes and floodgates that reportedly never shut. DPWH separately states the region still needs P21 billion more for flood mitigation infrastructure. Distinct from all recent logged topics (impeachment/COA testimony, Ombudsman/Romualdez-Co counter-affidavit, WPS/UNCLOS chart deposit) - this is the first post grounded in a live, real-time flood event testing whether prior flood-control spending actually worked, not a corruption-case or court-testimony angle.
+**Hook:** "Dagupan City is flooding again as Tropical Depression Luis dumps rain on Pangasinan. Same barangays, same overflowing rivers, same story as past years."
+**Angle:** Economic & utility reform / governance-accountability pillar - attacks the system (flood-control project execution and fund allocation), not any named official or contractor; no individual named in the post copy.
+**Tagalog beat (unused):** "Hindi ito bagyo lang. Sistema itong palpak." (fresh - "This isn't just a storm. This is a broken system." - topic-specific to the real-time flood recurrence despite completed infrastructure spending; not reused from any recent post; distinct from the retired "Ganun kalala." / "Hindi tayo dapat sanay sa mediocre." lines and from all Tagalog beats logged in prior entries)
+**Char count:** 487
+**Fact-check:** BLOCKED - not a content failure. `publish_direct.py` returned the identical `FACT-CHECK ERROR HTTP 403 (fail-closed): "Your project has been denied access. Please contact support." PERMISSION_DENIED` seen on every run since 2026-07-21 19:03. This is now at least the TWENTY-NINTH consecutive run blocked by this same infra fault, spanning thirteen-plus days. TFS_LIVE=true this run, so live publish was intended but blocked by the fail-closed gate before any post was sent. No alternative angle was attempted since the block is infra-side (billing/permission denial on the Gemini fact-check project), not content-related - a second draft would hit the identical wall. Operator should urgently check Gemini/Google Cloud billing/permissions for the fact-check project - this has now blocked live Threads publishing for over thirteen consecutive days across twenty-nine-plus scheduled runs. Last successful live post remains 2026-07-21T12:02:10+08:00 per logs/posted_log.jsonl.
+**Sources (verified manually via WebSearch, 2+ reputable sources each):**
+- https://newsinfo.inquirer.net/2276051/dagupan-sinks-again-due-to-bad-weather-brought-by-luis
+- https://www.rappler.com/philippines/weather/tropical-depression-luis-southwest-monsoon-update-pagasa-forecast-august-3-2026-5am/
+- https://bworldonline.com/the-nation/2026/08/03/767665/signal-no-1-up-in-six-areas-as-tropical-depression-luis-threatens-luzon/
+- https://www.sunstar.com.ph/pangasinan/p21-b-still-needed-for-pangasinans-flood-control-infra-dpwh
+- https://www.pna.gov.ph/articles/1257427

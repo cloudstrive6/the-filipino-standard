@@ -4552,3 +4552,17 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 - https://bworldonline.com/the-nation/2026/08/03/767665/signal-no-1-up-in-six-areas-as-tropical-depression-luis-threatens-luzon/
 - https://www.sunstar.com.ph/pangasinan/p21-b-still-needed-for-pangasinans-flood-control-infra-dpwh
 - https://www.pna.gov.ph/articles/1257427
+
+## 2026-08-04 12:02 PHT | threads | SKIPPED (fact-check service HTTP 403 - infra/billing, not content)
+
+**Topic:** The World Bank's August 2026 Philippine Economic Update (released 2026-08-03) held its 2026 GDP growth forecast at 3.7%, which it describes as near the bottom of the government's own downwardly-revised 3.5-4.5% target range. The update also notes 2025 growth already slumped below the government's 5.5-6.5% target because the flood control project corruption scandal froze government spending and hit investor confidence. Distinct from all recent logged topics (impeachment/COA testimony, Ombudsman/Romualdez-Co counter-affidavit, WPS/UNCLOS chart deposit, Dagupan/Tropical Depression Luis flooding) - this is the first post grounded in the World Bank's own macroeconomic figures putting a GDP-level price tag on the flood-control corruption scandal, not a court, weather, or maritime angle.
+**Hook:** "The World Bank just confirmed what Filipinos already knew: corruption has a GDP price tag."
+**Angle:** Economic & utility reform / governance-accountability pillar - attacks the system (corruption's macroeconomic drag on public spending and investment), not any named official; no individual named in the post copy.
+**Tagalog beat (unused):** "Ito na mismo ang presyo ng katiwalian." (fresh - "This right here is the price of corruption." - ties directly to the GDP-price-tag framing of this post; not reused from any recent post or from the brand-context reference bank)
+**Char count:** 466
+**Fact-check:** BLOCKED - not a content failure. `publish_direct.py` returned the identical `FACT-CHECK ERROR HTTP 403 (fail-closed): "Your project has been denied access. Please contact support." PERMISSION_DENIED` seen on every run since 2026-07-21 19:03. This is now at least the THIRTIETH consecutive run blocked by this same infra fault, spanning fourteen-plus days. TFS_LIVE=true this run, so live publish was intended but blocked by the fail-closed gate before any post was sent. No alternative angle was attempted since the block is infra-side (billing/permission denial on the Gemini fact-check project), not content-related - a second draft would hit the identical wall. Operator should urgently check Gemini/Google Cloud billing/permissions for the fact-check project - this has now blocked live Threads publishing for over fourteen consecutive days across thirty-plus scheduled runs. Last successful live post remains 2026-07-21T12:02:10+08:00 per logs/posted_log.jsonl.
+**Sources (verified manually via WebSearch/WebFetch, 2+ reputable sources each):**
+- https://www.rappler.com/business/world-bank-philippines-economic-update-midyear-2026-edition/
+- https://www.manilatimes.net/2026/08/04/business/top-business/wb-sees-slower-ph-growth/2397332
+- https://wtvbam.com/2026/08/03/world-bank-maintains-2026-philippine-growth-forecast-at-3-7/
+- https://www.philstar.com/business/2026/08/04/2546748/world-bank-lowers-philippines-growth-outlook

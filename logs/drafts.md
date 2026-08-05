@@ -4593,3 +4593,17 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 - https://www.manilatimes.net/2026/08/04/news/national/court-junks-bid-to-drop-bonoan-from-graft-case/2397293
 - https://www.philstar.com/headlines/2026/08/04/2546802/sandigan-rejects-bonoan-state-witness-graft
 - https://tribune.net.ph/2026/08/03/court-blocks-bonoan-bid-to-be-state-witness
+
+## 2026-08-05 19:02 PHT | threads | PUBLISHED (live)
+**Topic:** PSA reported July 2026 headline inflation eased to 6.2% (from 6.4% in June), but year-to-date average inflation for January-July 2026 sits at 5%, still above the government's own 2-4% target band (BSP's 2026-2028 target: 3.0% +/-1.0pp). Distinct from all recently logged topics (impeachment/COA confidential-funds testimony, Tropical Depression Luis/Dagupan flooding, World Bank GDP forecast, Bonoan/Sandiganbayan flood-control graft case) - first economic/utility-reform pillar post in this run, framed around the gap between the "easing" headline and the still-above-target reality.
+**Hook:** "The government just called 6.2% inflation in July \"easing.\" Technically true."
+**Angle:** Economic reform pillar - attacks the framing/spin of official inflation messaging (the system of how numbers are communicated), not any individual official; no names used.
+**Tagalog beat (used):** "Bumaba nga, pero hindi pa rin sapat na bumaba." ("It did go down, but the drop still isn't enough." - actor-focus construction, topic-specific to the inflation figures; not reused from any recent post or the brand-context reference bank.)
+**Char count:** 407
+**Fact-check:** PASSED. `publish_direct.py`'s independent Gemini + Google Search fact-check verified all three load-bearing claims (6.2% July inflation, 5% Jan-Jul 2026 average, 2-4% government target band).
+**Publish result:** LIVE. TFS_LIVE=true. `post_id=sp_AwcGF5lfm7DUmw98Xo5`, external_id=direct-d39a16b080954af6, platform=threads, account=spc_bY5j4uV6gywp5pg2JXZE (thefilipinostandard).
+**Sources (verified manually via WebSearch, corroborated by publish_direct's independent fact-check):**
+- https://www.rappler.com/business/inflation-rate-philippines-july-2026/
+- https://www.philstar.com/business/2026/08/05/2547181/philippine-inflation-eases-62-july-2026
+- https://www.manilatimes.net/2026/08/05/business/inflation-slows-further-to-62-in-july/2398580
+- https://www.sunstar.com.ph/manila/philippine-inflation-slows-to-62-in-july

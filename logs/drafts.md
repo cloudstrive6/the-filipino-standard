@@ -4579,3 +4579,17 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 - https://tribune.net.ph/2026/08/03/only-under-saras-watch-ovp-deped-first-time-to-incur-confidential-funds-says-coa-auditor
 - https://www.gmanetwork.com/news/topstories/nation/997250/sara-duterte-impeachment-trial-day-12-what-to-expect/story/
 - https://newsinfo.inquirer.net/2275675/sara-duterte-impeach-trial-turns-to-coa-findings-on-confidential-funds
+
+## 2026-08-05 12:03 PHT | threads | PUBLISHED (live)
+**Topic:** In a resolution promulgated 2026-08-03 (reported 2026-08-03/04), the Sandiganbayan Second Division denied the Office of the Ombudsman's motion to drop former DPWH Secretary Manuel Bonoan as an accused in the flood control fund graft/plunder cases so he could be discharged as a state witness. Bonoan is a co-accused of Senator Jinggoy Estrada; the court ruled the motion lacked merit and that excluding him would prejudice Estrada's defense. Distinct from all recently logged topics (impeachment/COA confidential-funds testimony, Tropical Depression Luis/Dagupan flooding, World Bank GDP forecast) - this is the first post on the flood-control graft prosecution itself and the state-witness-discharge mechanism, not the impeachment trial or weather/economic angles already covered.
+**Hook:** "A former DPWH secretary facing graft charges over the flood control scam almost swapped seats: from accused to prosecution witness."
+**Angle:** Governance/accountability pillar - attacks the systemic pattern of using state-witness discharge motions as a potential exit ramp from accountability, not any individual's identity; Bonoan and Estrada named only in their official case-record capacity as reported by multiple outlets.
+**Tagalog beat (used):** "Hindi dapat ganito kadali umiwas sa akusasyon." ("It shouldn't be this easy to avoid an accusation." - actor-focus construction, topic-specific to the state-witness-discharge motion being denied; not reused from any recent post or the brand-context reference bank; distinct from retired "Ganun kalala." / "Hindi tayo dapat sanay sa mediocre." lines.)
+**Char count:** 491
+**Fact-check:** PASSED. `publish_direct.py`'s independent Gemini + Google Search fact-check verified all four load-bearing claims (Bonoan's charges, co-accused status with Sen. Jinggoy Estrada, the Ombudsman's discharge motion, and the Sandiganbayan's denial for lack of merit). This is the first PASS since the HTTP 403 fail-closed infra block that ran from 2026-07-21 19:03 through at least 2026-08-04 19:02 (31+ consecutive blocked runs) - the fact-check service appears restored.
+**Publish result:** LIVE. TFS_LIVE=true. `post_id=sp_BEXWMCXvPDuOLnGBd8O`, external_id=direct-c3a9fef18b4a6154, platform=threads, account=spc_bY5j4uV6gywp5pg2JXZE (thefilipinostandard).
+**Sources (verified manually via WebSearch, corroborated by publish_direct's independent fact-check):**
+- https://www.rappler.com/philippines/sandiganbayan-junks-ombudsman-bid-exclude-manuel-bonoan-flood-control-graft-case/
+- https://www.manilatimes.net/2026/08/04/news/national/court-junks-bid-to-drop-bonoan-from-graft-case/2397293
+- https://www.philstar.com/headlines/2026/08/04/2546802/sandigan-rejects-bonoan-state-witness-graft
+- https://tribune.net.ph/2026/08/03/court-blocks-bonoan-bid-to-be-state-witness

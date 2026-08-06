@@ -4607,3 +4607,17 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 - https://www.philstar.com/business/2026/08/05/2547181/philippine-inflation-eases-62-july-2026
 - https://www.manilatimes.net/2026/08/05/business/inflation-slows-further-to-62-in-july/2398580
 - https://www.sunstar.com.ph/manila/philippine-inflation-slows-to-62-in-july
+
+## 2026-08-06 12:03 PHT | threads | PUBLISHED (live)
+**Topic:** Day 13 (2026-08-05) of VP Sara Duterte's impeachment trial: COA state auditor Roderick Wamil testified that under Item 8.3 of COA-DND-DBM Joint Circular 2015-01, failure to liquidate confidential/intelligence funds on demand is itself "prima facie evidence" that the funds went to personal use, no separate verdict needed. The same audit found P129 million of OVP confidential funds (Q1-Q2 2023) with zero supporting documents, and a separate P73.28 million Notice of Disallowance (late-2022 OVP confidential expenses) that is final unless appealed to the Supreme Court. Distinct from all recently logged confidential-funds entries (2026-08-04 19:02 covered the "softer audit query" request; 2026-08-03 covered the general liquidation-review/compliance angle) - this is the first post on the actual legal presumption clause baked into the audit rulebook itself, a new angle not previously used.
+**Hook:** "A COA auditor testified this week: the government's own audit rules do not wait for a verdict to draw a conclusion."
+**Angle:** Governance / constitutional-accountability pillar - attacks the audit/liquidation system and its built-in presumption rule, not any individual's identity; OVP named only as an office in its official audited capacity, no personal names in the post copy.
+**Tagalog beat (used):** "Kulang sa resibo, hinatulan na ng sarili nilang patakaran." ("Short on receipts, already condemned by their own policy." - ties directly to the prima-facie-evidence presumption framing of this post; not reused from any recent post or the brand-context reference bank; distinct from retired "Ganun kalala." / "Hindi tayo dapat sanay sa mediocre." lines and from the two most recent beats used ("Hindi dapat ganito kadali umiwas sa akusasyon.", "Bumaba nga, pero hindi pa rin sapat na bumaba.").)
+**Char count:** 480
+**Fact-check:** PASSED. `publish_direct.py`'s independent Gemini + Google Search fact-check verified all three load-bearing claims (the Wamil testimony and the Joint Circular 2015-01 presumption clause, the exact Item 8.3 text, and the P129M/P73.28M figures).
+**Publish result:** LIVE. TFS_LIVE=true. `post_id=sp_ocmiV9SE6kyhfgBQpf90M`, external_id=direct-89ac77ecc4acc9b3, platform=threads, account=spc_bY5j4uV6gywp5pg2JXZE (thefilipinostandard).
+**Sources (verified manually via WebSearch, corroborated by publish_direct's independent fact-check):**
+- https://www.gmanetwork.com/news/topstories/nation/997283/coa-sara-duterte-confidential-fund-evidence-wamil/story/
+- https://newsinfo.inquirer.net/2277611/coa-auditor-no-record-presumes-funds-went-to-vps-personal-use
+- https://mb.com.ph/2026/08/05/coa-auditor-notice-of-suspension-presumes-confidential-intel-funds-were-used-for-personal-benefit
+- https://www.philstar.com/headlines/2026/08/06/2547295/auditor-ovp-confidential-funds-personally-used

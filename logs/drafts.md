@@ -4644,3 +4644,15 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 - https://www.philstar.com/headlines/2026/08/07/2547575/4-dead-landslides-hit-benguet-rizal
 - https://tribune.net.ph/2026/08/06/death-toll-rises-as-rockslide-kills-2-siblings-in-rizal
 - https://mgb.gov.ph/en/2015-05-13-02-02-11/mgb-news/303-mgb-s-geohazard-maps-now-viewable-and-downloadable-online
+
+## 2026-08-07 19:04 PHT | threads | PUBLISHED LIVE (post_id sp_U3cH8ji6kWyJWUReYN)
+**Topic:** Manibela's Aug 10-12 transport strike threat over weeks of fuel price hikes tied to Middle East tensions; government raised the fuel discount subsidy (P10 to P12/liter, effective Aug 15) only after the strike was set, prompting several transport groups (Pasang Masda, FEJODAP, ALTODAP, BUSINA, ACTO, Stop and Go) to pull out. Distinct from all recently logged topics (COA confidential funds, US forced-labor tariff, Sandiganbayan, GDP, inflation, Benguet/Rizal landslides) - first economic/utility-reform angle on fuel subsidy and transport livelihood.
+**Angle:** Systems/incentives critique - government moved on the fuel subsidy only once a strike was on the calendar, not during the weeks drivers absorbed the price hikes alone. Reactive-to-threat governance, not any individual named.
+**Tagalog beat (opening_hook placement per threads_tagalog_planner.py):** "Banta lang pala ang kailangan para kumilos sila." (Turns out all it took was a threat.) Fresh, topic-specific, not from the retired/overused bank.
+**Attempt 1 (FAILED fact-check):** Claimed the strike was a certain, ongoing 3-day action and that "the Philippines still has no strategic fuel buffer, no hedging mechanism" - independent verifier found several transport groups had already pulled out after an Aug 6 subsidy increase (strike status uncertain) and that PH has an active DOE strategic fuel reserve program (P20B, targeting a 60-day stockpile), contradicting the "no buffer" claim.
+**Attempt 2 (PASSED, published):** Reframed around the verified sequence - strike set Aug 10-12, subsidy hike came only after, groups pulling out, Manibela still consulting members - and dropped the unverifiable "no buffer" claim entirely.
+**Sources (verified manually via WebSearch, 2+ reputable sources each):**
+- https://www.philstar.com/headlines/2026/08/04/2546797/transport-groups-set-strike-anew
+- https://www.gmanetwork.com/news/topstories/nation/997254/manibela-to-hold-transport-strike-from-august-10-to-12-2026-to-call-for-fare-hike/story/
+- https://www.philstar.com/business/2026/08/03/2546730/fuel-prices-roll-back-after-2-weeks-increases
+- https://newsinfo.inquirer.net/?p=1607124

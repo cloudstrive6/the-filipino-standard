@@ -4633,3 +4633,14 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 - https://www.gmanetwork.com/news/money/economy/995984/us-slaps-fresh-12-5-tariff-on-ph-goods-over-failure-to-curb-forced-labor-imports/story/
 - https://www.manilatimes.net/2026/07/27/business/top-business/new-us-tariff-to-affect-625b-in-exports-dti/2391684
 - https://www.philstar.com/business/2026/07/24/2544367/us-hits-philippine-exports-125-tariff
+
+## 2026-08-07 12:03 PHT | threads | PUBLISHED LIVE (post_id sp_1TIhA5ROKnQumqRF4HtZ0)
+**Topic:** Benguet and Rizal landslides (Aug 6-7, 2026) killed four people amid Tropical Cyclones Luis/Maymay and the southwest monsoon. Government/geohazard mapping (MGB, NOAH) has flagged Benguet as high-risk for landslides for over a decade. Distinct from all recently logged topics (COA confidential funds, US forced-labor tariff, Sandiganbayan, GDP, inflation) - first governance/disaster-preparedness angle (Art II Sec 4, prime duty to serve and protect).
+**Angle:** Systems/incentives critique - decade-old landslide hazard maps exist, but enforcement of no-build zones and community relocation never followed; funding flows to post-disaster cleanup, not pre-disaster prevention. No individual named.
+**Attempt 1 (FAILED fact-check):** Included a specific "254 barangays flagged landslide-prone" figure (uncorroborated) and framed the P1.6B standby disaster fund as announced "after the bodies were counted, not before" - independent verifier found the fund announcement was concurrent with/proactive to the monsoon response, not strictly reactive to the death toll ruled "Contradicted."
+**Attempt 2 (PASSED, published):** Dropped the uncorroborated barangay count and the fund-timing claim; kept only the two verifiable facts (decade-old hazard maps + this week's four deaths) and the general systemic point about relocation/enforcement never following the maps. Tagalog beat: "Alam na ang panganib. Bakit parang bigla itong sumapit?" (fresh, topic-specific, not from the retired/overused bank).
+**Sources (verified manually via WebSearch, 2+ reputable sources each):**
+- https://www.manilatimes.net/2026/08/07/news/national/4-killed-in-benguet-rizal-landslides-amid-heavy-rain/2400373
+- https://www.philstar.com/headlines/2026/08/07/2547575/4-dead-landslides-hit-benguet-rizal
+- https://tribune.net.ph/2026/08/06/death-toll-rises-as-rockslide-kills-2-siblings-in-rizal
+- https://mgb.gov.ph/en/2015-05-13-02-02-11/mgb-news/303-mgb-s-geohazard-maps-now-viewable-and-downloadable-online

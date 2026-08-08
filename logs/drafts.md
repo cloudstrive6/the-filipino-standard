@@ -4656,3 +4656,12 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 - https://www.gmanetwork.com/news/topstories/nation/997254/manibela-to-hold-transport-strike-from-august-10-to-12-2026-to-call-for-fare-hike/story/
 - https://www.philstar.com/business/2026/08/03/2546730/fuel-prices-roll-back-after-2-weeks-increases
 - https://newsinfo.inquirer.net/?p=1607124
+
+## 2026-08-08 12:02 PHT | threads | PUBLISHED LIVE (post_id sp_stKAkvy40qP5CcOBOejZ)
+**Topic:** Senate Blue Ribbon Committee deferred its own flood control corruption probe to the Ombudsman on Aug 7, after months of live hearings naming contractors and tracing paper trails. Distinct from all recently logged topics (Benguet/Rizal landslides, Manibela transport strike, COA confidential funds, US forced-labor tariff, Sandiganbayan, GDP, inflation) - first angle on the flood control scandal handoff pattern.
+**Angle:** Systems/incentives critique - congressional inquiries generate loud hearings then quietly hand off to another office, where accountability historically stalls for years. No individuals named, institution-level critique (Blue Ribbon Committee, Ombudsman as offices).
+**Tagalog beat (mid_pivot placement, varied from last post's opening_hook):** "Para raw hindi maapektuhan ang kaso, sabi nila." (Allegedly so the case wouldn't be affected, that's what they say.) Fresh, topic-specific, not from the retired/overused bank.
+**Fact-check:** PASSED on first attempt - both claims (months of hearings; Aug 7 deferral to Ombudsman) independently verified.
+**Sources (verified manually via WebSearch, 2+ reputable sources each):**
+- https://tribune.net.ph/2026/08/07/blue-ribbon-defers-flood-control-probe-to-ombudsman
+- https://newsinfo.inquirer.net/2279708/senate-blue-ribbon-panel-to-turn-over-flood-control-probe-to-ombudsman

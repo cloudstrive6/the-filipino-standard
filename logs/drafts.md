@@ -4665,3 +4665,12 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 **Sources (verified manually via WebSearch, 2+ reputable sources each):**
 - https://tribune.net.ph/2026/08/07/blue-ribbon-defers-flood-control-probe-to-ombudsman
 - https://newsinfo.inquirer.net/2279708/senate-blue-ribbon-panel-to-turn-over-flood-control-probe-to-ombudsman
+
+## 2026-08-08 19:04 PHT | threads | PUBLISHED LIVE (post_id sp_fVeQgXjZAf8MASorhrMyh)
+**Topic:** Pag-IBIG Fund earned COA's highest (unmodified) audit opinion for the 14th consecutive year, covering FY2025 and FY2024 financial statements. Distinct from all recently logged topics (Manibela transport strike, Senate Blue Ribbon flood control probe deferral, COA confidential funds, US forced-labor tariff, Sandiganbayan, GDP, inflation, Benguet/Rizal landslides) - first angle built on a positive governance data point (clean audit) rather than a failure, used to sharpen the systemic critique.
+**Angle:** Systems/incentives critique from the opposite direction - one PH agency proves clean, audit-passing governance is achievable inside the existing system, which raises the question why so many other agencies keep failing audits. No individuals named, institution-level (Pag-IBIG vs "agencies that keep failing").
+**Tagalog beat (closer):** "Kaya pala magawa, e ayaw lang gawin ng iba." (Turns out it can be done, other agencies just don't want to.) Fresh, topic-specific, not from the retired/overused bank.
+**Fact-check:** PASSED on first attempt - all three claims (14th consecutive year, FY2024/2025 coverage, unmodified opinion) independently verified.
+**Sources (verified manually via WebSearch, 2+ reputable sources each):**
+- https://www.philstar.com/business/2026/08/01/2546092/pag-ibig-bags-coas-highest-audit-opinion-14th-straight-year
+- https://www.manilatimes.net/2026/07/31/news/pag-ibig-fund-earns-coas-highest-audit-opinion-for-14th-straight-year/2395634

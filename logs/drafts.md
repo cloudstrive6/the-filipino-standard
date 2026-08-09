@@ -4674,3 +4674,13 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 **Sources (verified manually via WebSearch, 2+ reputable sources each):**
 - https://www.philstar.com/business/2026/08/01/2546092/pag-ibig-bags-coas-highest-audit-opinion-14th-straight-year
 - https://www.manilatimes.net/2026/07/31/news/pag-ibig-fund-earns-coas-highest-audit-opinion-for-14th-straight-year/2395634
+
+## 2026-08-09 12:03 PHT | threads | SKIPPED (fact-check failed x2)
+
+**Topic:** SEC digital registration reforms (eSPARC / SEC ZERO) and extended 50% MSME fee discount through Dec 2026, framed against NZ's 30-45 minute online company registration. Distinct from all recently logged topics (Pag-IBIG audit, Blue Ribbon flood control probe deferral, Manibela transport strike, Benguet/Rizal landslides, COA confidential funds) - business/SME red-tape reform angle, not covered in recent posts.
+**Angle:** Systems/incentives critique from the positive-proof-point angle (same structural move as the Pag-IBIG post) - SEC shows digitized, low-friction registration is achievable inside PH government, contrasted with NZ's under-an-hour benchmark. No individuals named.
+**Attempt 1 (FAILED fact-check):** Cited specific growth figures ("domestic business registrations up 22.8%, foreign registrations up 30.7%, in just five months") pulled from a single secondary source (fintechnews.ph) - independent verifier could not corroborate these percentages and found a conflicting figure ("4% growth in SEC registrations of foreign offices") elsewhere.
+**Attempt 2 (FAILED fact-check):** Dropped the uncorroborated growth percentages, kept only the MSME fee-discount extension and NZ registration-time comparison (both verified), but the framing "SEC digitized company registration through eSPARC and SEC ZERO this year" was contradicted - eSPARC launched in April 2021 and SEC ZERO in July 2024 (mandatory from April 2025), not "this year" (2026). No further attempts per hard rule - stopped, nothing published this run.
+**Sources reviewed:**
+- https://thephilbiznews.com/2026/08/05/exclusive-sec-digital-reforms-simplify-doing-business-boost-investments/
+- https://fintechnews.ph/69585/financial-inclusion/sec-extends-registration-and-filing-fee-discounts-for-msme/

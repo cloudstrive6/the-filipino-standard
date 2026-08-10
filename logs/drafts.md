@@ -4694,3 +4694,14 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 - https://www.gmanetwork.com/news/topstories/nation/997578/ombudsman-sandiganbayan-ignored-evidence-vs-revilla-in-flood-control-case/story/
 - https://www.philstar.com/nation/2026/08/07/2547533/sandigan-erred-granting-revilla-bail-ombudsman
 - https://www.manilatimes.net/2026/08/01/news/national/sandiganbayan-grants-revilla-bail/2396075
+
+## 2026-08-10 12:02 PHT | threads | PUBLISHED LIVE (post_id sp_eqdMYRSqZmdFCpuJeD49)
+**Topic:** Marikina River hit its second alarm (16m, then 17.2m) on Aug 9-10, 2026 amid Habagat and tropical cyclones Luis/Maymay; nearly 2,000 residents evacuated; Malacanang suspended face-to-face classes and in-person government work across Metro Manila and 15 provinces for Aug 10. Distinct from all recently logged topics (SEC digital registration, Blue Ribbon flood control probe deferral, Pag-IBIG audit, Manibela transport strike, Sandiganbayan/Revilla bail, COA confidential funds, US forced-labor tariff, GDP, inflation, Benguet/Rizal landslides) - first angle pairing today's Marikina flood with the still-unresolved flood control corruption scandal, not disaster-preparedness or the scandal alone.
+**Angle:** Economic/governance systems critique - the same river floods to alarm levels again despite years of flood control billions that a Senate probe and the Ombudsman are still trying to trace (per the Aug 7 Blue Ribbon deferral logged previously). No individuals named; institution-level (Senate probe, Ombudsman) and systems-level (money vs infrastructure) framing.
+**Tagalog beat (closer):** "Ilang beses pa bago tayo maniwalang sinasadya na ito?" (How many more times before we believe this is deliberate?) Fresh, topic-specific, not from the retired/overused bank.
+**Fact-check:** PASSED on first attempt - all five claims (2nd alarm date, 17.2m level, ~2,000 evacuated, NCR+15 provinces suspension, Senate-to-Ombudsman flood control probe deferral) independently verified.
+**Sources (verified manually via WebSearch, 2+ reputable sources each):**
+- https://newsinfo.inquirer.net/2280562/2nd-alarm-up-in-marikina-river-as-water-level-reaches-16-meters
+- https://www.philstar.com/nation/2026/08/09/2548104/marikina-river-placed-2nd-alarm-amid-habagat-rains
+- https://www.gmanetwork.com/news/serbisyopubliko/walangpasok/997931/walang-pasok-palace-suspends-face-to-face-classes-in-person-gov-t-work-in-ncr-15-provinces/story/
+- https://tribune.net.ph/2026/08/07/blue-ribbon-defers-flood-control-probe-to-ombudsman

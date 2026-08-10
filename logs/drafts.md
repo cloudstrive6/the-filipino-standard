@@ -4705,3 +4705,13 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 - https://www.philstar.com/nation/2026/08/09/2548104/marikina-river-placed-2nd-alarm-amid-habagat-rains
 - https://www.gmanetwork.com/news/serbisyopubliko/walangpasok/997931/walang-pasok-palace-suspends-face-to-face-classes-in-person-gov-t-work-in-ncr-15-provinces/story/
 - https://tribune.net.ph/2026/08/07/blue-ribbon-defers-flood-control-probe-to-ombudsman
+
+## 2026-08-10 19:04 PHT | threads | PUBLISHED LIVE (post_id sp_L6t0m82HtQsQpCGl6y1sZ)
+**Topic:** As of 8am Aug 10, 2026, 38,672 Meralco customers (mostly Cavite, ~28,000) remained without power amid Habagat/Luis-Maymay flooding, following ~98,000 outages the day before (Sun Aug 9); Meralco's customer base is about 8.3 million. Distinct from all recently logged topics (Marikina River 2nd alarm, Blue Ribbon flood control probe deferral, SEC digital registration, Pag-IBIG audit, Manibela transport strike, Sandiganbayan/Revilla bail, COA confidential funds, US forced-labor tariff, GDP, inflation, Benguet/Rizal landslides) - first angle on the power-distribution monopoly's recurring storm-season failures, not the river/flood-control-corruption pairing used earlier today.
+**Angle:** Economic & utility reform pillar - systems/incentives critique of Meralco as sole distributor over millions of households with no real competitor, so repeated multi-day outages every storm season carry no real urgency to fix. No individuals named; company/market-structure framing only.
+**Tagalog beat (closer):** "Bawat bagyo, parehong dilim - sino pa ang aayos kung wala namang mapipili?" (Every storm, the same darkness - who's left to fix it when there's no one else to choose?) Fresh, topic-specific, not from the retired/overused bank, not reused from the two prior recent closers.
+**Fact-check:** Attempt 1 FAILED - included an unverifiable "before the rain even peaked" framing and a "167,000 the week before" figure that was actually from July 2025, not the prior week, plus an outdated 8.2M customer count. Attempt 2 dropped the peak-timing claim, removed the 167,000 figure, and corrected to the verified 8.3 million customer base - PASSED.
+**Sources (verified manually via WebSearch, 2+ reputable sources each):**
+- https://www.gmanetwork.com/news/topstories/nation/997940/live-updates-habagat-and-its-effects-on-sunday-august-10-2026/story/
+- https://www.philstar.com/business/2026/08/09/2548127/meralco-98000-customers-lose-power-amid-habagat-rains
+- https://context.ph/2026/08/10/over-38000-meralco-customers-still-without-power/

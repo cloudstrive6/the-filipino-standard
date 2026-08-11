@@ -4725,3 +4725,14 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 - https://www.manilatimes.net/2026/08/11/news/national/trolls-target-pro-impeachment-figures/2402231
 - https://newsinfo.inquirer.net/2280223/ortega-slams-p5-m-online-campaign-on-misleading-la-union-flooding
 - https://journalnews.com.ph/p5m-paid-cyber-attack-used-spliced-flood-videos-to-target-me-ortega/
+
+## 2026-08-11 19:03 PHT | threads | PUBLISHED LIVE (post_id sp_3bshMhlTf6tNWEKxkVix3)
+**Topic:** House Committee on Ways and Means approved (Aug 10, 2026) House Bill 10345, raising the annual tax-free income ceiling from P250,000 to P350,000, the first change to that threshold since the TRAIN Law fixed it at P250,000 effective Jan 1, 2018. Distinct from all recently logged topics (Marikina River 2nd alarm, Blue Ribbon flood control probe, Meralco storm outages, SEC digital registration, Pag-IBIG audit, Manibela transport strike, Sandiganbayan/Revilla bail, COA confidential funds/impeachment testimony, US forced-labor tariff, GDP, inflation, Benguet/Rizal landslides, paid disinformation campaigns) - first economic-reform pillar angle on the personal income tax exemption threshold itself.
+**Angle:** Economic & utility reform pillar - systems critique framing the "raise" as government catching up to eight years of inflation it let erode the original TRAIN-law threshold, not a generous gift. No individuals named or attacked; House panel referenced only as the institutional actor.
+**Tagalog beat (closer):** "Walong taon bago sila kumilos." (Eight years before they moved.) Fresh, topic-specific to the multi-year delay theme, not reused from recent posts.
+**Fact-check:** Attempt 1 PASSED - verifier corroborated the P250,000-to-P350,000 committee approval (Aug 10, 2026), the TRAIN Law's 2018 effective date and threshold, and the ~42.4% cumulative PSA inflation figure for 2018-2026 supporting the rising-cost-of-living claim.
+**Sources (verified manually via WebSearch, 2+ reputable sources each):**
+- https://www.philstar.com/headlines/2026/08/11/2548552/house-panel-oks-p350000-tax-free-income-threshold
+- https://www.pna.gov.ph/articles/1280580
+- https://bworldonline.com/economy/2026/08/10/769329/house-panel-passes-higher-tax-free-income-threshold-small-business-mcit-removal/
+- https://newsinfo.inquirer.net/2281400/p350000-income-tax-exemption-ceiling-bill-hurdles-house-panel

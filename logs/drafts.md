@@ -4736,3 +4736,14 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 - https://www.pna.gov.ph/articles/1280580
 - https://bworldonline.com/economy/2026/08/10/769329/house-panel-passes-higher-tax-free-income-threshold-small-business-mcit-removal/
 - https://newsinfo.inquirer.net/2281400/p350000-income-tax-exemption-ceiling-bill-hurdles-house-panel
+
+## 2026-08-12 12:03 PHT | threads | PUBLISHED LIVE (post_id sp_rJzsuwA79eIQe5zzMrWjF)
+**Topic:** Day 14 of VP Sara Duterte's Senate impeachment trial (Aug 11, 2026): the defense agreed to compare thousands of confidential-fund acknowledgment receipts only on Aug 14, more than a week after Senate Impeachment Court Presiding Officer Escudero's directive to do so; prosecution (Tolosa) called it delay, defense cited lawyer availability; Zubiri separately proposed moving sessions to 3pm afternoon slots. Distinct from all recently logged topics (Marikina River 2nd alarm, Blue Ribbon flood control probe, Meralco storm outages, SEC digital registration, Pag-IBIG audit, Manibela transport strike, Sandiganbayan/Revilla bail, COA confidential funds testimony content, US forced-labor tariff, GDP, inflation, Benguet/Rizal landslides, paid disinformation campaigns, P350k tax exemption bill) - first angle on the impeachment trial's own procedural pace/scheduling as the accountability chokepoint, not the testimony content or disinformation around it.
+**Angle:** Governance/political commentary pillar - systems critique that a constitutional accountability mechanism runs on voluntary scheduling and courtesy rather than urgency; a single lawyer-availability gap stalls a case touching the nation's confidential funds. No individuals attacked; institutional actors (Senate impeachment court, prosecution, defense) referenced only as sources/parties.
+**Tagalog beat (opening_hook placement, per planner):** "Nasa kalendaryo na lang ang katarungan." (Justice now runs on nothing but the calendar.) Fresh, topic-specific to the scheduling-delay theme, not reused from recent posts.
+**Fact-check:** Attempt 1 FAILED - verifier read the unqualified "Duterte impeachment trial" as former President Rodrigo Duterte (no impeachment trial exists for him) and rejected all claims. Attempt 2 PASSED after disambiguating to "VP Sara Duterte's Senate impeachment trial" - verifier corroborated Day 14 falling on Aug 11, 2026, the Aug 14 receipt-comparison date, and the prosecution's delay complaint.
+**Sources (verified manually via WebSearch, 2+ reputable sources each):**
+- https://newsinfo.inquirer.net/2282738/highlights-day-14-of-sara-duterte-impeachment-trial-aug-11-2026
+- https://newsinfo.inquirer.net/2281319/sara-duterte-impeachment-defense-actions-delaying-trial-prosecution
+- https://tribune.net.ph/2026/08/09/duterte-defense-cites-lawyer-availability-in-document-stipulation-delay
+- https://www.pna.gov.ph/articles/1281267

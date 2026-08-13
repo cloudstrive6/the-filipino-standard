@@ -4756,3 +4756,14 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 **Sources (verified manually via WebSearch, 2+ reputable sources):**
 - https://mb.com.ph/2026/08/11/dole-cancels-work-permit-of-6-foreign-workers-in-raided-pampanga-steel-firm
 - https://www.manilatimes.net/2026/08/12/news/national/dole-cancels-work-permits-of-6-foreigners-linked-to-steel-plant/2403356
+
+## 2026-08-13 12:02 PHT | threads | PUBLISHED LIVE (post_id sp_B89Fqo4ygQevKZcCJQAxg)
+**Topic:** DOH Secretary Dr. Jose "Brix" Pujalte Jr. resigned Aug 10, 2026 after only 28 days in office (appointed Jul 13), the shortest tenure of any DOH chief in Philippine history (surpassing the prior record of 54 days), amid gambling allegations at casinos and a temporary halt he ordered (Jul 24) on the P3.225 billion tuberculosis commodity procurement that stayed frozen for the rest of his term; PhilHealth president Dr. Edwin Mercado named as replacement. Distinct from all recently logged topics (Duterte impeachment trial, Chuangxing Steel raid/AEP cancellations, Marikina River, Blue Ribbon flood control probe, Meralco storm outages, SEC digital registration, Pag-IBIG audit, Manibela transport strike, Sandiganbayan/Revilla bail, COA confidential funds, US forced-labor tariff, GDP, inflation, Benguet/Rizal landslides, paid disinformation, P350k tax exemption bill) - first angle on cabinet-level leadership churn directly stalling a paid-for public health procurement.
+**Angle:** Governance comparison / constitutional-awareness pillar - systems critique that a cabinet post controlling life-saving medicine procurement turned over faster than a probationary job, and the procurement itself sat frozen the entire tenure. No individuals named; referenced only as "health secretary."
+**Tagalog beat (opening_hook placement, per threads_tagalog_planner - varied from prior posts' standalone_beat/mid_pivot runs):** "Palit ng palit ang kalihim, hindi gumagalaw ang gamot." (The secretary keeps changing, the medicine doesn't move.) Closer: "Tama na ang laro sa itaas. Naghihintay pa rin ang gamot sa ibaba." Fresh, topic-specific, not reused from recent posts.
+**Fact-check:** PASSED on first attempt - verifier corroborated the 28-day tenure (Jul 13-Aug 10, 2026) as the shortest-serving DOH chief in PH history (surpassing the prior 54-day record), the gambling allegations, and the Jul 24 freeze on the P3.225B TB drug procurement lasting through the rest of the tenure.
+**Sources (verified manually via WebSearch, 2+ reputable sources each):**
+- https://newsinfo.inquirer.net/2281824/another-doh-shake-up-pujalte-out-mercado-in
+- https://www.manilatimes.net/2026/08/11/news/national/health-chief-resigns-after-less-than-a-month-in-office/2402233
+- https://www.pna.gov.ph/articles/1281487
+- https://mb.com.ph/2026/08/10/marcos-appoints-philhealth-chief-as-new-doh-secretary

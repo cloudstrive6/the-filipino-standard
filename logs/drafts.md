@@ -4767,3 +4767,13 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 - https://www.manilatimes.net/2026/08/11/news/national/health-chief-resigns-after-less-than-a-month-in-office/2402233
 - https://www.pna.gov.ph/articles/1281487
 - https://mb.com.ph/2026/08/10/marcos-appoints-philhealth-chief-as-new-doh-secretary
+
+## 2026-08-14 12:02 PHT | threads | PUBLISHED LIVE (post_id sp_vyLcCqVPrwPH3g0GMsB8T)
+**Topic:** Former DPWH Secretary Manuel Bonoan testified under oath before the Sandiganbayan (Aug 12, 2026) that every senator in 2024 got at least P500 million each in "leadership fund" DPWH budget insertions (committee chairs up to P1 billion), totaling P24 billion, created after 2023 budget cuts to DPWH core programs. Malacanang (Aug 13-14, 2026) says President Marcos had no knowledge of the fund. Distinct from all recently logged topics (Duterte impeachment trial, Chuangxing Steel raid, Marikina River, Blue Ribbon flood control probe, Meralco storm outages, SEC digital registration, Pag-IBIG audit, Manibela strike, Sandiganbayan/Revilla bail, COA confidential funds, US forced-labor tariff, GDP, inflation, Benguet/Rizal landslides, paid disinformation, P350k tax exemption bill, DOH Secretary resignation) - first angle on the specific "leadership fund" per-senator price list and the President's claimed ignorance of it.
+**Angle:** Governance/accountability pillar - a budget mechanism with a fixed payout per senator, and a President who says he never knew, framed as design not accident. No individuals named (source and Palace statements referenced only by title).
+**Tagalog beat (opening_hook placement, per threads_tagalog_planner - varied from prior post's mid_pivot run):** "P24 bilyon ang pondo. Walang nakaalam daw." (P24 billion in funds. Apparently no one knew.) Fresh, topic-specific, not reused from recent posts.
+**Fact-check:** PASSED on first attempt - verifier corroborated the P500M-per-senator/P1B-per-chair leadership fund, the P24B total, the 2023 DPWH budget-cut origin, and the Aug 13-14 Malacanang statements that Marcos had no knowledge of it.
+**Sources (verified manually via WebSearch, 2+ reputable sources):**
+- https://newsinfo.inquirer.net/2283100/bonoan-all-2024-senators-had-at-least-p500-m-leadership-funds
+- https://www.philstar.com/headlines/2026/08/14/2549179/marcos-jr-unaware-leadership-fund-palace
+- https://www.gmanetwork.com/news/topstories/nation/998286/ex-dwph-chief-bonoan-claims-senators-received-leadership-fund-up-to-p1b-each/story/

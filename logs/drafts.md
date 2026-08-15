@@ -4799,3 +4799,13 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 - https://www.manilatimes.net/2026/08/15/news/marcos-launches-search-for-successor/2405921
 - https://www.philstar.com/headlines/2026/08/15/2549356/president-marcos-successor-should-continue-anti-corruption-campaign
 - https://www.freemalaysiatoday.com/category/world/2026/08/14/philippine-president-says-he-has-yet-to-decide-who-to-back-as-successor
+
+## 2026-08-15 19:04 PHT | threads | PUBLISHED LIVE (post_id sp_XVxls64tl3O45jDGfRveR)
+**Topic:** Kabataan Party-list Rep. Renee Co said (Aug 14-15, 2026) that "resilience" is not enough as Habagat flooding persists, because flood control corruption remains unresolved; she said ordinary people swim in floodwater while corrupt officials swim in stolen money and remain unaccountable. Distinct from all recently logged topics (Marcos successor endorsement, Bonoan leadership fund, Meralco system loss charge, DOH shake-up, Duterte impeachment trial, Chuangxing Steel raid, Marikina River, Blue Ribbon flood control probe, Meralco storm outages, SEC digital registration, Pag-IBIG audit, Manibela strike, Sandiganbayan/Revilla bail, COA confidential funds, US forced-labor tariff, GDP, inflation, Benguet/Rizal landslides, paid disinformation, P350k tax exemption bill) - first angle attacking the "resilience" framing itself as a cultural cover that lets an unresolved corruption failure go unaddressed.
+**Angle:** Governance/accountability pillar - reframe move: "resilience" praise is not a compliment, it is what fills the gap left by unpunished flood-control corruption. Attacks the framing/system and unnamed "officials," never a named individual.
+**Tagalog beat (mid_pivot placement - varied from prior post's opening_hook run):** "Hindi kulang sa katatagan ang bayan. Kulang sa pananagutan ang gobyerno." (The nation isn't short on resilience. The government is short on accountability.) Fresh, topic-specific, not reused from recent posts.
+**Fact-check:** PASSED - verifier corroborated Rep. Renee Co's Aug 14-15, 2026 statement rejecting "resilience" framing amid unresolved flood control corruption, and the recurring-floods/unaccountable-officials claims.
+**Sources (verified manually via WebSearch, 2+ reputable sources):**
+- https://www.manilatimes.net/2026/08/15/news/national/resilience-not-enough-as-floods-persist-amid-corruption-co/2405992
+- https://x.com/KabataanPL/status/1957300473243013246
+- https://www.gmanetwork.com/news/money/economy/997358/corruption-helped-bog-down-ph-economic-growth-in-2025-says-world-bank/story/ (World Bank corroboration of corruption's economic toll, background context)

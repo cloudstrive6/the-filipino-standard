@@ -4789,3 +4789,13 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 - https://www.gmanetwork.com/news/money/economy/996577/win-gatchalian-jv-ejercito-file-bills-to-remove-system-loss-charge/story/
 - https://businessmirror.com.ph/2026/08/03/house-bills-mandate-major-power-industry-reforms/
 - https://www.gmanetwork.com/news/topstories/nation/997079/approval-of-bills-removing-system-loss-charges-may-take-up-to-6-months-sen-gatchalian/story/
+
+## 2026-08-15 12:06 PHT | threads | PUBLISHED LIVE (post_id sp_TlmRPoiHwkKkbBQ6JrLMy)
+**Topic:** President Marcos said (Aug 14-15, 2026, FOCAP presidential luncheon) he will endorse a candidate for the 2028 presidential election, someone who will "continue" the investigation into corruption-tainted flood control projects, but admitted he does not yet know who that will be, calling it "too early" to decide. Distinct from all recently logged topics (Bonoan leadership fund, Meralco system loss charge, DOH shake-up, Duterte impeachment trial, Chuangxing Steel raid, Marikina River, Blue Ribbon flood control probe, Meralco storm outages, SEC digital registration, Pag-IBIG audit, Manibela strike, Sandiganbayan/Revilla bail, COA confidential funds, US forced-labor tariff, GDP, inflation, Benguet/Rizal landslides, paid disinformation, P350k tax exemption bill) - first angle on presidential succession being used as the mechanism to guarantee accountability continuity.
+**Angle:** Governance/accountability pillar - an anti-corruption investigation whose continuation is framed as depending on which individual the President personally endorses and voters elect next, rather than being institutionally guaranteed. No individuals attacked; Marcos referenced neutrally by title/statement only.
+**Tagalog beat (opening_hook placement, per threads_tagalog_planner - varied from prior post's closing_line run):** "Depende na lang ba sa susunod na Pangulo?" (Is it now just up to whoever the next President is?) Fresh, topic-specific, not reused from recent posts.
+**Fact-check:** PASSED (after one transient network retry) - verifier corroborated that Marcos said he will endorse a 2028 successor who will continue the flood-control corruption investigation, and that he admitted he does not yet know who that successor will be.
+**Sources (verified manually via WebSearch, 2+ reputable sources):**
+- https://www.manilatimes.net/2026/08/15/news/marcos-launches-search-for-successor/2405921
+- https://www.philstar.com/headlines/2026/08/15/2549356/president-marcos-successor-should-continue-anti-corruption-campaign
+- https://www.freemalaysiatoday.com/category/world/2026/08/14/philippine-president-says-he-has-yet-to-decide-who-to-back-as-successor

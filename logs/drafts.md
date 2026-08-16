@@ -4809,3 +4809,14 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 - https://www.manilatimes.net/2026/08/15/news/national/resilience-not-enough-as-floods-persist-amid-corruption-co/2405992
 - https://x.com/KabataanPL/status/1957300473243013246
 - https://www.gmanetwork.com/news/money/economy/997358/corruption-helped-bog-down-ph-economic-growth-in-2025-says-world-bank/story/ (World Bank corroboration of corruption's economic toll, background context)
+
+## 2026-08-16 12:02 PHT | threads | PUBLISHED LIVE (post_id sp_16VcIM46RhV03nU9rhM5)
+**Topic:** A Norwegian AI data center developer (Daniel Stefan Robertsen, Norway Green Energy) walked out of an Aug 14, 2026 Oton, Iloilo public consultation after a Sangguniang Bayan member and residents raised water-supply concerns, then cursed at reporters who followed him. Cabinet Sec. Abalos called it "deplorable." Distinct from all recently logged topics (Marcos successor endorsement, Renee Co resilience/flooding, Bonoan leadership fund, Meralco system loss charge, DOH shake-up, Duterte impeachment trial, Chuangxing Steel raid, Marikina River, Blue Ribbon flood control probe, Meralco storm outages, SEC digital registration, Pag-IBIG audit, Manibela strike, Sandiganbayan/Revilla bail, COA confidential funds, US forced-labor tariff, GDP, inflation, Benguet/Rizal landslides, paid disinformation, P350k tax exemption bill).
+**Angle:** Governance/sovereignty pillar - the individual's outburst is not the real story; the system that let an investor think contempt for a community's water rights was a viable move during a supposedly meaningful public consultation is. Attacks the weak consultation process/incentive structure, names the foreign proponent's conduct (a public-record news event, not a PH official) rather than any Filipino individual.
+**Tagalog beat (closer placement):** "Hindi dapat pera lang ang may boses dito." (Money shouldn't be the only one with a voice here.) Fresh, topic-specific to the water/investment-vs-community-voice angle, not reused from recent posts.
+**Fact-check:** PASSED - verifier corroborated the walkout, the cursing at reporters (corrected from an initial draft that misattributed the cursing to residents directly - caught by the fact-check gate on first attempt, fixed on retry), Abalos's "deplorable" quote, and the Article II Section 1 citation.
+**Sources (verified manually via WebSearch, 2+ reputable sources):**
+- https://www.pna.gov.ph/articles/1281967
+- https://www.gmanetwork.com/news/topstories/regions/998680/norwegian-ai-proponent-curses-walks-out-after-oton-residents-oppose-project/story/
+- https://www.manilatimes.net/2026/08/15/regions/norwegian-proponents-walkout-halts-iloilo-ai-data-center-plans/2406115
+- https://www.rappler.com/technology/ai-data-center-proponent-daniel-robertsen-walks-out-iloilo-oton-consultation/

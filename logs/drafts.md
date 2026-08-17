@@ -4839,3 +4839,12 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 **Sources (verified manually via WebSearch, 2+ reputable sources):**
 - https://www.manilatimes.net/2026/08/17/news/legarda-files-bill-seekingto-lower-call-text-rates/2406403
 - https://newsinfo.inquirer.net/2285106/legardas-sulit-load-act-seeks-lower-call-and-text-rates-non-expiring-load
+
+## 2026-08-17 19:03 PHT | threads | PUBLISHED LIVE (post_id sp_bziIU4barECE7j8dFVq)
+**Topic:** ERC ordered Meralco to refund P9.5 billion to customers starting August 2026, part of P71.3 billion in total consumer refunds the ERC facilitated across utilities from August 2025 to July 2026 (per ERC report, covered by SolarQuarter Aug 14 2026 and Philstar Aug 15 2026). Distinct from all recently logged topics (Legarda SULIT Load Act, Marcos successor endorsement, Renee Co resilience/flooding, Bonoan leadership fund, Meralco system loss charge, DOH shake-up, Duterte impeachment trial, Chuangxing Steel raid, Marikina River, Blue Ribbon flood control probe, Meralco storm outages, SEC digital registration, Pag-IBIG audit, Manibela strike, Sandiganbayan/Revilla bail, COA confidential funds, US forced-labor tariff, GDP, inflation, Benguet/Rizal landslides, paid disinformation, P350k tax exemption bill, Oton Iloilo AI data center walkout, RA 11032 eBOSS).
+**Angle:** Economic & utility reform pillar - the refund is framed not as generosity but as money that was never supposed to be collected, returned only because the regulator forced the fight. Contrasted with NZ's Entrust (Auckland), which returns money to households automatically every year with no fight required. Attacks the extraction system/incentive structure, not any individual.
+**Tagalog beat (mid-post placement):** "Kailangan pa nating ipaglaban ang sarili nating pera." (We still have to fight for our own money.) Fresh, topic-specific line tied to the forced-refund mechanic, not reused from bank or recent posts.
+**Fact-check:** PASSED on first draft. All three claims (P9.5B Meralco refund starting Aug 2026, P71.3B total ERC-facilitated refunds Aug 2025-Jul 2026, Entrust automatic annual dividend mechanism) independently verified.
+**Sources (verified manually via WebSearch, 2+ reputable sources):**
+- https://solarquarter.com/2026/08/14/erc-reports-major-gains-in-approvals-consumer-refunds-and-energy-sector-reforms-in-the-philippines/
+- https://www.philstar.com/business/2026/08/15/2549274/erc-steps-push-clear-regulatory-backlogs

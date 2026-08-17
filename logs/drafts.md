@@ -4830,3 +4830,12 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 - https://mb.com.ph/2026/08/10/businesses-still-face-red-tape-despite-ease-of-doing-business-reformsdepdev
 - https://pia.gov.ph/news/depdev-unveils-policy-note-to-end-ph-business-cycle-challenges/
 - https://pia.gov.ph/news/arta-sets-nov-1-deadline-for-lgus-to-shift-to-online-business-permit-processing/
+
+## 2026-08-17 12:02 PHT | threads | PUBLISHED LIVE (post_id sp_UgHwLDqDKtdJq7O64qs)
+**Topic:** Sen. Loren Legarda filed Senate Bill No. 2402 ("SULIT Load Act", news Aug 17 2026) requiring NTC, DICT, DTI, and the Philippine Competition Commission to review and cap default prepaid rates (interim: P0.50/SMS, P2/min domestic mobile call, P3/min mobile-to-landline) and make paid prepaid load non-expiring, banning forfeiture of unused paid balance. Distinct from all recently logged topics (Marcos successor endorsement, Renee Co resilience/flooding, Bonoan leadership fund, Meralco system loss charge, DOH shake-up, Duterte impeachment trial, Chuangxing Steel raid, Marikina River, Blue Ribbon flood control probe, Meralco storm outages, SEC digital registration, Pag-IBIG audit, Manibela strike, Sandiganbayan/Revilla bail, COA confidential funds, US forced-labor tariff, GDP, inflation, Benguet/Rizal landslides, paid disinformation, P350k tax exemption bill, Oton Iloilo AI data center walkout, RA 11032 eBOSS ease of doing business).
+**Angle:** Economic & utility reform / consumer protection pillar - a senator had to legislate against telcos deleting prepaid load consumers already paid for; attacks the unregulated prepaid market/incentive structure, not any individual (Legarda is the reform actor, not the target). No NZ comparison used this post (no unverified NZ telco figures on hand), so no "no country is perfect" caveat needed.
+**Tagalog beat (closer placement):** "Binayaran mo na. Bakit pa nawawala?" (You already paid for it. Why does it still disappear?) Fresh, topic-specific line tied to prepaid load forfeiture, not reused from bank or recent posts.
+**Fact-check:** PASSED on first draft. All three claims (bill filed, rate caps + non-expiring load provision, four-regulator review mandate) independently verified.
+**Sources (verified manually via WebSearch, 2+ reputable sources):**
+- https://www.manilatimes.net/2026/08/17/news/legarda-files-bill-seekingto-lower-call-text-rates/2406403
+- https://newsinfo.inquirer.net/2285106/legardas-sulit-load-act-seeks-lower-call-and-text-rates-non-expiring-load

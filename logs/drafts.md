@@ -4848,3 +4848,12 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 **Sources (verified manually via WebSearch, 2+ reputable sources):**
 - https://solarquarter.com/2026/08/14/erc-reports-major-gains-in-approvals-consumer-refunds-and-energy-sector-reforms-in-the-philippines/
 - https://www.philstar.com/business/2026/08/15/2549274/erc-steps-push-clear-regulatory-backlogs
+
+## 2026-08-18 12:03 PHT | threads | PUBLISHED LIVE (post_id sp_un1j96cuZQT628cUMApKA)
+**Topic:** Administrative Order No. 43 (signed by Marcos June 3, 2026, reported Aug 14 2026) sets up voluntary SSS/PhilHealth/Pag-IBIG payroll deduction for government Contract of Service (COS) and Job Order (JO) workers, who previously had to remit those contributions themselves, manually, with no employer-side system. Distinct from all recently logged topics (Legarda SULIT Load Act, Meralco refund/ERC, Marcos successor endorsement, Renee Co resilience/flooding, Bonoan leadership fund, Meralco system loss charge, DOH shake-up, Duterte impeachment trial, Chuangxing Steel raid, Marikina River, Blue Ribbon flood control probe, Meralco storm outages, SEC digital registration, Pag-IBIG audit, Manibela strike, Sandiganbayan/Revilla bail, COA confidential funds, US forced-labor tariff, GDP, inflation, Benguet/Rizal landslides, paid disinformation, P350k tax exemption bill, Oton Iloilo AI data center walkout, RA 11032 eBOSS).
+**Angle:** Filipino empowerment / economic reform pillar - contract government workers keep agencies running but were left without a working benefits-remittance system for years, while private employers face fines for the same failure. Attacks the system/double standard, not any individual.
+**Tagalog beat (closer placement):** "Kung kaya palang ayusin, bakit ngayon lang?" (If it could be fixed all along, why only now?) Fresh, topic-specific line tied to AO 43, not reused from recent posts.
+**Fact-check:** PASSED on first draft. All three claims (manual remittance burden pre-AO43, private-employer fines for non-remittance, AO 43 signed June 3 2026 setting up voluntary payroll deduction) independently verified.
+**Sources (verified manually via WebSearch, 2+ reputable sources):**
+- https://www.philstar.com/headlines/2026/08/14/2549157/marcos-expands-social-protection-access-govt-cos-jo-workers
+- https://newsinfo.inquirer.net/2283729/marcos-orders-voluntary-sss-philhealth-pag-ibig-for-cos-jo-workers

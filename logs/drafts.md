@@ -4877,3 +4877,13 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 - https://newsinfo.inquirer.net/2286712/lacson-p1-9-t-flood-control-budget-yet-flood-remains-uncontrolled
 - https://www.philstar.com/headlines/2026/08/19/2550303/lacson-questions-p19-trillion-flood-control-spending
 - https://www.manilatimes.net/2026/08/19/news/national/lacson-p19t-spent-for-flood-control/2407841
+
+## 2026-08-19 19:03 PHT | threads | NOT PUBLISHED (fact-check gate failed twice, run skipped clean)
+**Topic:** DEPDev policy note (published ~2026-08-10) on Philippine business registration red tape - nearly half of business owners dissatisfied with registration/closure procedures, many waited 20+ days for approval, 72% still completed registration fully in person at the BPLO despite RA 11032 (Ease of Doing Business Act, 2018) and the eBOSS mandate. Angle: NZ business registration (under an hour, ~NZD $130, per brand-context.md) vs. PH's still-manual, still-slow process years after the law promised to fix it. Distinct from all recently logged topics (see 2026-08-19 12:03 entry list; this is Business & SME / Economic Reform pillar, not flood control).
+**Tagalog beat drafted (unused):** "Ganito pa rin, kahit may batas na." (Still like this, even though there's already a law.)
+**Fact-check attempt 1:** FAILED - the "nearly 1 in 4 waited over 20 days" figure could not be independently corroborated (verifier found only "many respondents reported waiting more than 20 days," no percentage).
+**Fact-check attempt 2 (one allowed retry, softened the wait-time claim to "many waited more than 20 days"):** FAILED - this time on the NZ claim "starting a business takes under an hour." Verifier found bare online incorporation is fast (~30-45 min, matches brand-context.md's pre-loaded fact), but "full operational setup" (tax registration, bank account) takes 4-6 weeks, so the phrasing "starting a business" read as broader than the verifiable claim.
+**Outcome:** Per the two-strike rule, stopped and published nothing this run. Note for future runs: brand-context.md's stored NZ fact ("Business registration in NZ: online, under an hour, approximately NZD $130") is only safe to cite if scoped explicitly to *company registration/incorporation*, not "starting a business" more broadly - the fact-check gate treats the latter as including full operational readiness.
+**Sources referenced (not sufficient to clear the gate on attempt 2's exact framing):**
+- https://mb.com.ph/2026/08/10/businesses-still-face-red-tape-despite-ease-of-doing-business-reformsdepdev
+- https://business.inquirer.net/566286/no-change-to-business-permit-rules-until-mid-2026

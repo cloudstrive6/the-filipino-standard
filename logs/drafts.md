@@ -4867,3 +4867,13 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 - https://www.worldbank.org/en/news/press-release/2026/08/03/ph-reaches-upper-middle-income-status-bolder-reforms-critical-for-more-inclusive
 - https://mb.com.ph/2026/08/03/cheaper-power-key-to-sustaining-philippine-growth-after-upper-middle-income-shiftworld-bank
 - https://www.pna.gov.ph/articles/1278510
+
+## 2026-08-19 12:03 PHT | threads | PUBLISHED LIVE (post_id sp_ebBkM7BnozcvLa1SXJEMY)
+**Topic:** Sen. Lacson's Aug 17-19 2026 figures: DPWH's flood control program spent P1.939 trillion across three administrations (Aquino, Duterte, Marcos) from 2011-2025, roughly P350 million/day, budget rising from P11.3B (2011) to P372.8B (2025), while Metro Manila floods persist through the current monsoon season. Distinct from all recently logged topics (Legarda SULIT Load Act, Meralco refund/ERC, Marcos successor endorsement, Renee Co resilience/flooding, Bonoan leadership fund, Meralco system loss charge, DOH shake-up, Duterte impeachment trial, Chuangxing Steel raid, Marikina River, Blue Ribbon flood control probe, Meralco storm outages, SEC digital registration, Pag-IBIG audit, Manibela strike, Sandiganbayan/Revilla bail, COA confidential funds, US forced-labor tariff, GDP, inflation, Benguet/Rizal landslides, paid disinformation, P350k tax exemption bill, Oton Iloilo AI data center walkout, RA 11032 eBOSS, AO 43 COS/JO payroll deduction, World Bank UMIC power-sector reform).
+**Angle:** Governance comparison / economic reform pillar - fifteen years and near-two-trillion pesos of flood control spending across three presidents produced worse flooding, not better, because no system ties disbursement to outcome and no agency loses funding for failed projects. Attacks the accountability system across administrations, not any single official.
+**Tagalog beat (closer placement):** "Hindi kulang ang pera. Kulang ang pananagutan." (It's not the money that's lacking. Accountability is what's lacking.) Fresh, topic-specific line tied to the funding-vs-outcome gap, not reused from recent posts.
+**Fact-check:** PASSED on first draft. All three claims (P1.939T total 2011-2025 across three presidents, ~P350M/day, P11.3B-to-P372.8B funding rise) independently verified via Gemini + Google Search gate.
+**Sources (verified manually via WebSearch, 2+ reputable sources):**
+- https://newsinfo.inquirer.net/2286712/lacson-p1-9-t-flood-control-budget-yet-flood-remains-uncontrolled
+- https://www.philstar.com/headlines/2026/08/19/2550303/lacson-questions-p19-trillion-flood-control-spending
+- https://www.manilatimes.net/2026/08/19/news/national/lacson-p19t-spent-for-flood-control/2407841

@@ -4930,3 +4930,15 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 - https://www.rappler.com/philippines/marcos-underground-water-catchment-sites-identified-flood-control/
 - https://newsinfo.inquirer.net/2288214/marcos-30-sites-eyed-for-underground-floodwater-storage-facilities
 - https://english.news.cn/20260821/36f24f203aa24fee840483b14d801084/c.html
+
+## 2026-08-22 12:04 PHT | threads | PUBLISHED LIVE (post_id sp_gLtwHqcFPp0swbSKmfryi)
+**Topic:** Pump prices are projected to rise again on August 25, 2026, as oil firms price in the stalled US-Iran interim-agreement talks and the unresolved Strait of Hormuz standoff. Distinct from all recently logged topics (underground cisterns/flood calamity, 2027 budget scrutiny, Duterte impeachment trial, Meralco refund/system loss, DOH leptospirosis, Legarda SULIT Load Act, Pag-IBIG audit, DPWH flood control spending, etc.) - this is an oil-deregulation-law/energy-security angle, not a flood, budget, or impeachment story.
+**Angle:** Economic & utility reform pillar. Attacks RA 8479 (the 1998 Downstream Oil Industry Deregulation Act), which stripped government of any power over pump prices, and the fact that the Philippines still has no strategic fuel reserve to cushion global oil shocks decades later. Systemic critique of the law and the absence of a buffer, not any individual official.
+**Tagalog beat used (opening_hook placement, via threads_tagalog_planner.py):** "Taas presyo ulit, at tayo lang lagi ang sumasalo." (Prices go up again, and we're always the ones left absorbing it.)
+**Fact-check:** First draft FAILED (claimed the Strait of Hormuz was "closed to tankers" - contradicted; overstated certainty on the Aug 25 hike). Second draft FAILED (claimed "the second straight weekly hike" - contradicted, actual sequence was a rollback Aug 11 then a hike Aug 18). Third draft dropped the disputed weekly-sequence claim and PASSED. All six remaining claims independently verified via Gemini + Google Search gate.
+**Sources (verified manually via WebSearch, 2+ reputable sources):**
+- https://www.philstar.com/headlines/2026/08/22/2550934/fuel-prices-going-again-next-week
+- https://www.manilatimes.net/2026/08/22/news/national/fuel-prices-expected-to-rise-again-next-week/2410100
+- https://www.manilatimes.net/2026/08/21/news/fuel-prices-projected-to-go-up-for-2nd-consecutive-week/2409720
+- https://www.pna.gov.ph/articles/1272512 (Senate President renews call to repeal oil deregulation law / establish strategic fuel reserve)
+- https://www.officialgazette.gov.ph/1998/02/10/republic-act-no-8479/

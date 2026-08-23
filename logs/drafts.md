@@ -4942,3 +4942,15 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 - https://www.manilatimes.net/2026/08/21/news/fuel-prices-projected-to-go-up-for-2nd-consecutive-week/2409720
 - https://www.pna.gov.ph/articles/1272512 (Senate President renews call to repeal oil deregulation law / establish strategic fuel reserve)
 - https://www.officialgazette.gov.ph/1998/02/10/republic-act-no-8479/
+
+## 2026-08-23 12:05 PHT | threads | PUBLISHED LIVE (post_id sp_1gDzlk1FCncGecaiVj71)
+**Topic:** The US formally transmitted an extradition request for Kingdom of Jesus Christ leader Apollo Quiboloy (received by the DOJ via DFA endorsement on Aug 6-7, 2026) over US federal charges of child sex trafficking, fraud, and related counts, while Quiboloy remains jailed in Pasig on a separate non-bailable Philippine qualified-human-trafficking charge. Malacanang said Aug 10 that a decision is still "a couple of weeks" away. Distinct from all recently logged topics (oil deregulation/pump prices, underground cisterns/flood calamity, 2027 budget scrutiny, Duterte impeachment trial, Meralco refund/system loss, DOH leptospirosis, Legarda SULIT Load Act, Pag-IBIG audit, DPWH flood control spending, Hontiveros Child Online Protection bill) - this is a rule-of-law/extradition-delay angle (the "local case first" policy that can stall foreign accountability for years), not a flood, budget, health, or utility story.
+**Angle:** Political commentary / constitutional awareness pillar. Attacks the procedural rule and the slow Philippine judicial system that lets local proceedings indefinitely delay a formal foreign extradition request, not Quiboloy's identity personally (reported as the news subject, consistent with prior posts naming Duterte/Revilla in their legal-process context).
+**Tagalog beat used:** "Ganito kabagal, kung marami kang abogado." (This is how slow it goes, when you have plenty of lawyers.) Fresh, specific to the legal-delay-tactics angle of this post.
+**Fact-check:** First draft PASSED all six claims via independent Gemini + Google Search verification gate.
+**Sources (verified manually via WebSearch, 2+ reputable sources):**
+- https://www.philstar.com/headlines/2026/08/07/2547582/us-formally-asks-philippines-extradite-quiboloy
+- https://newsinfo.inquirer.net/2280386/doj-to-study-us-request-for-quiboloy-extradition
+- https://bworldonline.com/the-nation/2026/08/13/770229/doj-begins-review-of-us-extradition-request-for-quiboloy/
+- https://mb.com.ph/2026/08/08/us-request-for-quiboloy-extradition-needs-thorough-evaluation-palace
+- https://www.pna.gov.ph/articles/1238817 (PNP: Pasig court orders Quiboloy transfer to city jail, non-bailable qualified human trafficking charge)

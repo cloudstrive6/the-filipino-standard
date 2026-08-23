@@ -4954,3 +4954,13 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 - https://bworldonline.com/the-nation/2026/08/13/770229/doj-begins-review-of-us-extradition-request-for-quiboloy/
 - https://mb.com.ph/2026/08/08/us-request-for-quiboloy-extradition-needs-thorough-evaluation-palace
 - https://www.pna.gov.ph/articles/1238817 (PNP: Pasig court orders Quiboloy transfer to city jail, non-bailable qualified human trafficking charge)
+
+## 2026-08-23 19:02 PHT | threads | PUBLISHED LIVE (post_id sp_B8sq5A9ncivFlRsum1Uw)
+**Topic:** DepEd's draft Executive Order, now backed by Marcos, would let individual public school heads resume in-person classes locally (with LGU concurrence and a documented site-specific safety assessment) even while a broader citywide/municipal-wide suspension from weather or disaster is still in effect. Currently principals cannot make that call unilaterally; it requires a national EO to authorize granular, school-level resumption. Distinct from all recently logged topics (Quiboloy extradition, oil deregulation/pump prices, underground cisterns/flood calamity, 2027 budget scrutiny, Duterte impeachment trial, Meralco refund/system loss, DOH leptospirosis, Legarda SULIT Load Act, Pag-IBIG audit, DPWH flood control spending, Hontiveros Child Online Protection bill) - this is a governance/over-centralization angle on basic education policy, not corruption, utilities, or a legal-process story.
+**Angle:** Constitutional awareness / governance comparison pillar. Attacks the systemic over-centralization that requires a Malacanang-signed Executive Order just to let a school principal exercise local judgment about her own campus, not any named official.
+**Tagalog beat used:** "Bakit kailangan pa ng utos mula sa itaas, para lang makapasok ang mga batang ligtas naman sa sarili nilang paaralan?" Fresh, specific to this post's school-gate/local-judgment angle.
+**Fact-check:** PASSED all three claims via independent Gemini + Google Search verification gate.
+**Sources (verified manually via WebSearch, 2+ reputable sources):**
+- https://newsinfo.inquirer.net/2288140/marcos-backs-deped-plan-for-school-level-class-resumption
+- https://www.manilatimes.net/2026/08/22/tmt-newswire/deped-pushes-for-school-level-class-resumption-rules-to-stop-loss-of-learning-days/2410305
+- https://newsinfo.inquirer.net/2288541/deped-letting-school-heads-decide-if-classes-can-resume

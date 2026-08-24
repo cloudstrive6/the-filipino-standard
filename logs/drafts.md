@@ -4973,3 +4973,13 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 **Sources (verified manually via WebSearch, 2+ reputable sources):**
 - https://mb.com.ph/2026/08/10/businesses-still-face-red-tape-despite-ease-of-doing-business-reformsdepdev
 - https://pia.gov.ph/news/depdev-unveils-policy-note-to-end-ph-business-cycle-challenges/
+
+## 2026-08-24 19:03 PHT | threads | PUBLISHED LIVE (post_id sp_0NMmYdqJ7TvoswsiEVNk)
+**Topic:** Senate Committee on Local Government approved bills today (Aug 24, 2026) including Sen. Chiz Escudero's Senate Bill 2387, extending barangay/SK officials' terms from 4 to 5 years and resetting the Nov 2, 2026 Barangay and SK Elections (BSKE) to November 2028. Distinct from all recently logged topics (Quiboloy extradition, oil deregulation/pump prices, underground cisterns/flood calamity, 2027 budget scrutiny, Duterte impeachment trial, Meralco refund/system loss, DOH leptospirosis, Legarda SULIT Load Act, Pag-IBIG audit, DPWH flood control spending, Hontiveros Child Online Protection bill, DepEd school-level resumption EO, DEPDev business registration red tape) - this is a governance/constitutional-awareness pillar story about incumbents voting to postpone the election that would test their own mandate.
+**Angle:** Governance comparison / constitutional awareness pillar. The same officials who benefit from a longer term and a delayed election are the body that approved the bill enabling both. Anchored in Article II, Section 1 (sovereignty resides in the people). Attacks the incentive structure (self-interested incumbents legislating their own accountability timeline), not any individual by name.
+**Tagalog beat used:** "Sila mismo ang bumoto para sa sarili nila." (They themselves voted for themselves.) Fresh, specific to this post's self-dealing-vote angle; not reused from any prior post.
+**Fact-check:** Initial draft FAILED (wrongly stated term was "three years to five"; actual current term is four years). Corrected to "four years to five" and re-submitted. PASSED all three claims via independent Gemini + Google Search verification gate on retry.
+**Sources (verified manually via WebSearch, 2+ reputable sources):**
+- https://mb.com.ph/2026/08/24/senate-panel-oks-bills-resetting-2026-bske-polls-fixing-terms-of-barangay-officials
+- https://www.gmanetwork.com/news/topstories/nation/997587/escudero-seeks-to-extend-brgy-sk-officials-term-to-5-years-reset-polls-to-2028/story/
+- https://newsinfo.inquirer.net/2278962/escudero-files-bill-extending-barangay-sk-officials-terms-to-5-yrs

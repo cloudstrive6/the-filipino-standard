@@ -4964,3 +4964,12 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 - https://newsinfo.inquirer.net/2288140/marcos-backs-deped-plan-for-school-level-class-resumption
 - https://www.manilatimes.net/2026/08/22/tmt-newswire/deped-pushes-for-school-level-class-resumption-rules-to-stop-loss-of-learning-days/2410305
 - https://newsinfo.inquirer.net/2288541/deped-letting-school-heads-decide-if-classes-can-resume
+
+## 2026-08-24 12:04 PHT | threads | PUBLISHED LIVE (post_id sp_5HgLOVZzLsv1Lbu5TKzXC)
+**Topic:** DEPDev's new NIC Policy Note 2026-01 (reported Aug 10, 2026 by Manila Bulletin and PIA) finds that eight years after the Ease of Doing Business Act (RA 11032, 2018), 45.1% of surveyed entrepreneurs still call business registration a bad experience, and 45.2% say closing a business is worse, citing fragmented BIR/LGU processes and a tax clearance certificate that alone can take weeks. Distinct from all recently logged topics (Quiboloy extradition, oil deregulation/pump prices, underground cisterns/flood calamity, 2027 budget scrutiny, Duterte impeachment trial, Meralco refund/system loss, DOH leptospirosis, Legarda SULIT Load Act, Pag-IBIG audit, DPWH flood control spending, Hontiveros Child Online Protection bill, DepEd school-level resumption EO) - this is a Business & SME advocacy pillar story (red tape in company registration/closure), not corruption, utilities, health, or a legal-process story.
+**Angle:** Business & SME advocacy pillar. Contrasts the gap between a law that promised ease of doing business and entrepreneurs' lived experience of fragmented, slow registration/closure processes, against NZ's under-an-hour, ~NZD $130 online company registration. Attacks the system/process gap, not any individual.
+**Tagalog beat used:** "Sa papel, mabilis na raw. Sa totoo, ganon pa rin kahirap magnegosyo." (On paper, it's supposedly fast now. In reality, it's still just as hard to run a business.) Fresh, specific to this post's paper-vs-reality registration angle; avoided the "Hindi kulang ang X, kulang ang Y" formula already used 2026-08-19.
+**Fact-check:** PASSED all five claims via independent Gemini + Google Search verification gate.
+**Sources (verified manually via WebSearch, 2+ reputable sources):**
+- https://mb.com.ph/2026/08/10/businesses-still-face-red-tape-despite-ease-of-doing-business-reformsdepdev
+- https://pia.gov.ph/news/depdev-unveils-policy-note-to-end-ph-business-cycle-challenges/

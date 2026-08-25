@@ -4993,3 +4993,13 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 - https://www.manilatimes.net/2026/08/25/business/top-business/initial-system-loss-plan-to-cost-more-than-p7b/2411205
 - https://bworldonline.com/top-stories/2026/08/25/772160/philippines-allocates-p7-5-billion-to-eliminate-nontechnical-system-losses/
 - https://www.philstar.com/business/2026/08/25/2551519/system-loss-charges-stay-until-next-year
+
+## 2026-08-25 19:03 PHT | threads | PUBLISHED LIVE (post_id sp_h5QIThnD0GpIIow2yEJOU)
+**Topic:** Metro Manila's P85/day minimum wage hike (Wage Order NCR-27) became law July 25, 2026, but Pasig RTC Branch 152 froze it via preliminary injunction on August 13 after a suit from two construction firms (Readycon Trading and Construction Corp., R-II Builders Inc.). As of August 25, those same firms are asking the court to shrink the P10-billion protective bond tied to the injunction, while workers still have not received the raise. Distinct from all recently logged topics (Quiboloy extradition, oil deregulation, underground cisterns/flood calamity, 2027 budget scrutiny, Duterte impeachment trial, Meralco refund/ERC, DOH leptospirosis, SULIT Load Act, Pag-IBIG audit, DPWH flood control spending, Child Online Protection bill, DepEd school-level EO, DEPDev business registration, barangay/SK terms, DOE system loss P7.5B) - fresh labor/judicial-accountability angle not covered before.
+**Angle:** Filipino empowerment / economic reform pillar. A wage increase already decided through the legal tripartite process got frozen by one trial court branch on a private petition, and the same petitioners are now trying to shrink the financial guarantee meant to protect workers if the raise is upheld. Attacks the system (a single court branch overriding a public wage board decision) and the incentive structure, not any named individual or judge.
+**Tagalog beat used:** "Batas na ang dagdag-sahod. Hukom pa rin ang pumipigil." (It's already law, the raise. Still a judge who's blocking it.) Fresh contrast-style closer, specific to this post's law-vs-injunction tension; not reused from any prior post.
+**Fact-check:** PASSED all four claims via independent Gemini + Google Search verification gate on first draft.
+**Sources (verified manually via WebSearch, 2+ reputable sources):**
+- https://www.manilatimes.net/2026/08/25/news/national/employers-ask-court-to-cut-p10b-bond-over-ncr-pay-hike/2411328
+- https://www.gmanetwork.com/news/money/economy/998471/pasig-rtc-extends-suspension-of-85-minimum-wage-hike-in-ncr-requires-10b-bond/story/
+- https://newsinfo.inquirer.net/2287417/ncr-wage-hike-sc-urged-to-intervene-after-pasig-rtc-extends-suspension

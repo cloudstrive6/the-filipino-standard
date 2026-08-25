@@ -4983,3 +4983,13 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 - https://mb.com.ph/2026/08/24/senate-panel-oks-bills-resetting-2026-bske-polls-fixing-terms-of-barangay-officials
 - https://www.gmanetwork.com/news/topstories/nation/997587/escudero-seeks-to-extend-brgy-sk-officials-term-to-5-years-reset-polls-to-2028/story/
 - https://newsinfo.inquirer.net/2278962/escudero-files-bill-extending-barangay-sk-officials-terms-to-5-yrs
+
+## 2026-08-25 12:03 PHT | threads | PUBLISHED LIVE (post_id sp_GK6XTanJew3sSKiYA9TW)
+**Topic:** DOE allocated approximately P7.5 billion (phased across four stages, targeting 25%/50%/75% reductions) to eliminate non-technical electricity system losses (pilferage, illegal connections, billing errors), reported Aug 25, 2026. Regulators confirm the system loss charge stays on consumer bills for at least another year while the program rolls out toward the 2027 SONA. Distinct from all recently logged topics (Quiboloy extradition, oil deregulation/pump prices, underground cisterns/flood calamity, 2027 budget scrutiny, Duterte impeachment trial, Meralco refund/ERC, DOH leptospirosis, Legarda SULIT Load Act, Pag-IBIG audit, DPWH flood control spending, Hontiveros Child Online Protection bill, DepEd school-level resumption EO, DEPDev business registration red tape, barangay/SK term extension) - this is a fresh, dated (today) utility-reform story about taxpayer money now funding a loss consumers already pay for on their bills, not a refund or ERC-enforcement story.
+**Angle:** Economic & utility reform pillar. Taxpayers now fund a P7.5B fix for pilferage/billing losses utilities were supposed to prevent themselves, while the system loss charge stays on consumer bills for at least another year, effectively a double payment. Attacks the incentive structure that let utilities pass losses to consumers instead of eliminating them, not any individual.
+**Tagalog beat used:** "Bayad noon. Bayad pa rin ngayon." (Paid before. Still paying now.) Fresh, specific to this post's double-payment angle; not reused from any prior post.
+**Fact-check:** PASSED all three claims via independent Gemini + Google Search verification gate on first draft.
+**Sources (verified manually via WebSearch, 2+ reputable sources):**
+- https://www.manilatimes.net/2026/08/25/business/top-business/initial-system-loss-plan-to-cost-more-than-p7b/2411205
+- https://bworldonline.com/top-stories/2026/08/25/772160/philippines-allocates-p7-5-billion-to-eliminate-nontechnical-system-losses/
+- https://www.philstar.com/business/2026/08/25/2551519/system-loss-charges-stay-until-next-year

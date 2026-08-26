@@ -5003,3 +5003,14 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 - https://www.manilatimes.net/2026/08/25/news/national/employers-ask-court-to-cut-p10b-bond-over-ncr-pay-hike/2411328
 - https://www.gmanetwork.com/news/money/economy/998471/pasig-rtc-extends-suspension-of-85-minimum-wage-hike-in-ncr-requires-10b-bond/story/
 - https://newsinfo.inquirer.net/2287417/ncr-wage-hike-sc-urged-to-intervene-after-pasig-rtc-extends-suspension
+
+## 2026-08-26 12:04 PHT | threads | PUBLISHED LIVE (post_id sp_NbjWXojuKRWwersPsVdpV)
+**Topic:** Akbayan Rep. Perci Cendaña flagged (reported Aug 25-26, 2026) that Malacanang's proposed 2027 National Expenditure Program gives the Commission on Audit zero capital outlay, rejecting COA's P1.18-billion request to fund its Information Systems Strategic Plan (IT/digitization meant to speed up audits of public officials) plus building modernization and vehicles. This comes while the flood control fund corruption scandal is still unraveling (Ombudsman naming Davao City an "epicenter" on Aug 26). Distinct from all recently logged topics (Quiboloy extradition, oil deregulation, underground cisterns/flood calamity, 2027 budget scrutiny, Duterte impeachment trial, Meralco refund/ERC, DOH leptospirosis, SULIT Load Act, Pag-IBIG audit, DPWH flood control spending, Child Online Protection bill, DepEd school-level EO, DEPDev business registration, barangay/SK terms, DOE system loss P7.5B, NCR wage hike injunction) - fresh institutional-independence angle: defunding the constitutional audit watchdog's own tech capacity, not a funds-probe, wage, or budget-timeline story.
+**Angle:** Constitutional awareness / governance-accountability pillar. The administration publicly commits to fighting corruption while its own budget proposal denies the independent constitutional audit body the tools to do that job faster. Attacks the system (a budget decision that structurally weakens an anti-corruption institution) and the incentive, not any named individual.
+**Tagalog beat used:** "Zero budget sa tanggapang humahabol sa korapsyon." (Zero budget for the office chasing corruption.) Fresh, specific to this post's defunding-the-watchdog irony; not reused from any prior post.
+**Fact-check:** PASSED both claims via independent Gemini + Google Search verification gate (after 2 transient 503 retries, then success).
+**Sources (verified manually via WebSearch, 2+ reputable sources):**
+- https://www.manilatimes.net/2026/08/26/news/lawmaker-hits-zero-budget-for-coa-it-digitization/2412061
+- https://bworldonline.com/the-nation/2026/08/25/772409/lawmaker-flags-zero-capital-outlay-for-coa-2027-budget/
+- https://newsinfo.inquirer.net/2292424/zero-capital-outlay-for-coa-in-2027-nep-draws-solons-attention
+- https://www.manilatimes.net/2026/08/26/podcasts/headlines-davao-city-epicenter-of-corruption-omb-august-26-2026/2411727

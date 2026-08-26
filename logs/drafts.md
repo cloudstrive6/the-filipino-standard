@@ -5014,3 +5014,13 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 - https://bworldonline.com/the-nation/2026/08/25/772409/lawmaker-flags-zero-capital-outlay-for-coa-2027-budget/
 - https://newsinfo.inquirer.net/2292424/zero-capital-outlay-for-coa-in-2027-nep-draws-solons-attention
 - https://www.manilatimes.net/2026/08/26/podcasts/headlines-davao-city-epicenter-of-corruption-omb-august-26-2026/2411727
+
+## 2026-08-26 19:03 PHT | threads | PUBLISHED LIVE (post_id sp_9GQnjXgMQO3hKHHgjLlM)
+**Topic:** No national school safety law despite two separate deadly campus shootings in 2026: Ateneo de Zamboanga University (Aug 18, Zamboanga City) and San Jose National High School (Jun 22, Tacloban City). Multiple bills (Sen. Villar's Ligtas Act/SB 2321 filed Jul 16; Sen. Aquino's Comprehensive School Safety Act/SB 2390) have sat in Congress for months and only gained urgency after the deaths.
+**Angle:** Constitutional awareness / governance-accountability pillar (Article II, Sec. 4 - prime duty to serve and protect). Reactive lawmaking versus standing protection: government moved only after bodies, not before. Attacks the system (delayed, reactive legislative process), not any named lawmaker or victim.
+**Tagalog beat used:** "Kailan pa ba tayo maghihintay ng bangkay bago kumilos?" (How long more will we wait for a body before we act?) Fresh, specific to this post's reactive-lawmaking-after-deaths irony; not reused from any prior post.
+**Fact-check:** PASSED independent Gemini + Google Search verification gate on first corrected attempt (initial draft failed once - "this month" mischaracterized the June 22 Tacloban shooting date and death count; corrected to "earlier this year" and removed specific death tallies, then passed).
+**Sources (verified manually via WebSearch, 2+ reputable sources):**
+- https://www.manilatimes.net/2026/08/26/news/national/aquino-pushes-school-safety-bill/2411983
+- https://theglobalfilipinomagazine.com/aquino-leads-call-for-nationwide-school-safety-rules-after-zamboanga-tacloban-attacks/
+- https://www.brigadanews.ph/lawmaker-urges-house-action-school-safety-bill

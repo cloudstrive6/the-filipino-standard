@@ -5053,3 +5053,13 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 - https://bworldonline.com/the-nation/2026/08/27/773010/mup-pension-reform-still-under-review/
 - https://www.philstar.com/headlines/2026/08/24/2551357/p143-billion-mup-pension-nearly-triple-afps-modernization-budget
 - https://mb.com.ph/2026/08/27/palace-seeks-faster-mup-pension-reform-review-amid-delays-but-stresses-need-for-thorough-study
+
+## 2026-08-28 19:03 PHT | threads | PUBLISHED LIVE (post_id sp_Eu7ltd0n1Y6C2U7dto67)
+**Topic:** GINHAWA bill (Senate Bill 56, filed by Sen. Sherwin Gatchalian) would raise the annual tax-free income ceiling from P250,000 to P400,000, higher than the House-approved version (HB 10345, P350,000, cleared Ways and Means Aug 10, 2026). Q2 2026 GDP grew only 2.3%, slowed partly by weak household consumption, the exact ailment the bill claims to treat. Despite that urgency, SB 56 (filed July 1, 2025) still has not reached third reading in the Senate as of August 2026. Distinct from all recently logged topics (impeachment gag rule, DPWH bridge/infra maintenance lag, school safety bill, Quiboloy extradition, oil deregulation, underground cisterns/flood calamity, 2027 budget scrutiny, Meralco refund/ERC, DOH leptospirosis, SULIT Load Act, Pag-IBIG audit, DPWH flood control spending scandal, Child Online Protection bill, DepEd school-level EO, DEPDev business registration, barangay/SK terms, DOE system loss, NCR wage hike injunction, COA zero capital outlay, MUP pension vs modernization budget) - first angle on income-tax relief legislation stalled despite lawmakers' own economic-slowdown argument for urgency.
+**Angle:** Economic reform / governance-incentives pillar. A tax relief bill named "ginhawa" (relief/ease) sits over a year in the Senate without reaching third reading, even as its own author cites a slowing economy and weak household spending as the reason it's urgent. Attacks the legislative pacing and priority-setting system, not any individual lawmaker.
+**Tagalog beat used (opening_hook placement):** "Ginhawa ang pangalan, pero wala pang ginhawa." (Its name is relief, but there is no relief yet.) Wordplay on the bill's own name; fresh, specific to this post, not reused from any prior post.
+**Fact-check:** PASSED all four claims via independent Gemini + Google Search verification gate on first draft.
+**Sources (verified manually via WebSearch, 2+ reputable sources):**
+- https://www.manilatimes.net/2026/08/16/news/national/gatchalian-upbeat-on-ginhawa-bill-passage/2406257
+- https://www.philstar.com/headlines/2026/05/06/2526075/p400000-income-tax-exemption-sought-raise-take-home-pay
+- https://x.com/pnagovph/status/2051908129089036454

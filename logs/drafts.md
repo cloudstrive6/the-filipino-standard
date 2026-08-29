@@ -5073,3 +5073,14 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 - https://www.rappler.com/philippines/surigao-del-norte-francisco-bingo-matugas-malversation-graft-complaints-dpwh-contracts/
 - https://newsinfo.inquirer.net/2294354/surigao-norte-rep-matugas-son-face-ombudsman-raps-over-p80-m-project
 - https://www.rappler.com/newsbreak/in-depth/surigao-del-norte-boometrix-top-dpwh-contractor-billions-matugas-dynasty/
+
+## 2026-08-29 19:03 PHT | threads | PUBLISHED LIVE (post_id sp_fg0yb8u5PSJUEfo4c8Fom)
+**Topic:** Cavite's 4th District (Dasmarinas City) held a special election today, Aug 29 2026, to replace Rep. Kiko Barzaga, whom the House expelled on June 2, 2026 for disorderly conduct, conduct unbecoming a member, and repeated failure to perform his duties as a lawmaker. One of the candidates on today's ballot is Dasmarinas City Mayor Jennifer "Jenny" Barzaga, Kiko's own mother. Distinct from all recently logged topics (impeachment gag rule, DPWH bridge/infra maintenance lag, school safety bill, Quiboloy extradition, oil deregulation, underground cisterns/flood calamity, 2027 budget scrutiny, Meralco refund/ERC, DOH leptospirosis, SULIT Load Act, Pag-IBIG audit, DPWH flood control spending scandal, Child Online Protection bill, DepEd school-level EO, DEPDev business registration, barangay/SK terms, DOE system loss, NCR wage hike injunction, COA zero capital outlay, MUP pension vs modernization budget, GINHAWA tax relief bill, Matugas/Boometrix DPWH contract) - first angle on a special election used to keep an expelled lawmaker's seat inside the family via a parent candidate.
+**Angle:** Political dynasty / governance-incentives pillar. An expulsion meant as institutional accountability gets circumvented by fielding the expelled member's mother for the same seat in the very next election. Attacks the dynastic succession mechanism, not the individuals' personal identities.
+**Tagalog beat used (closer placement):** "Umalis man ang anak, hindi umaalis ang puwesto sa pamilya." (Even if the son leaves, the seat doesn't leave the family.) Fresh, specific to this post's parent-child seat-succession angle, not reused from any prior post.
+**Fact-check:** PASSED all three claims via independent Gemini + Google Search verification gate on first draft.
+**Sources (verified manually via WebSearch, 2+ reputable sources):**
+- https://www.philstar.com/nation/2026/08/29/2552627/special-election-held-replace-expelled-lawmaker-kiko-barzaga
+- https://www.manilatimes.net/2026/08/29/regions/cavites-4th-district-to-elect-new-congressman/2414176
+- https://asianjournal.com/philippines/house-expels-cavite-rep-kiko-barzaga-after-months-of-disciplinary-clashes/
+- https://www.rappler.com/philippines/luzon/schedule-activities-cavite-4th-district-dasmarinas-special-election-2026/

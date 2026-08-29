@@ -5063,3 +5063,13 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 - https://www.manilatimes.net/2026/08/16/news/national/gatchalian-upbeat-on-ginhawa-bill-passage/2406257
 - https://www.philstar.com/headlines/2026/05/06/2526075/p400000-income-tax-exemption-sought-raise-take-home-pay
 - https://x.com/pnagovph/status/2051908129089036454
+
+## 2026-08-29 12:02 PHT | threads | PUBLISHED LIVE (post_id sp_8NZFmiovOF5IhKV5wUcca)
+**Topic:** A P80.61-million DPWH road project (Mahayhay-Tuburan Road, Del Carmen, Surigao del Norte) was logged 100% complete and paid in full to contractor Boometrix Development Corporation. An Ombudsman site inspection in April 2026 found the project only 65-70% accomplished. Boometrix is tied to the Matugas political dynasty (Rep. Francisco "Lalo" Matugas and son, former Rep. Francisco "Bingo" Matugas II); investigators documented P457 million in loans between the Matugases and Boometrix. Distinct from all recently logged topics (impeachment gag rule, DPWH bridge/infra maintenance lag, school safety bill, Quiboloy extradition, oil deregulation, underground cisterns/flood calamity, 2027 budget scrutiny, Meralco refund/ERC, DOH leptospirosis, SULIT Load Act, Pag-IBIG audit, DPWH flood control spending scandal, Child Online Protection bill, DepEd school-level EO, DEPDev business registration, barangay/SK terms, DOE system loss, NCR wage hike injunction, COA zero capital outlay, MUP pension vs modernization budget, GINHAWA tax relief bill) - first angle on political-dynasty capture of a specific local public-works contract via a family-owned contractor.
+**Angle:** Political dynasties / governance-incentives pillar. A public road project paid in full despite being roughly a third unfinished, with the paying district's own congressman's family owning the contractor. Attacks the system of dynastic control over local public contracts, not the individuals' personal identities.
+**Tagalog beat used (closer placement):** "Sa angkan nanggaling ang kontrata, sa angkan din bumalik ang pera." (The contract came from the family, and the money went back to the family too.) Fresh, specific to this post's family-contractor loop, not reused from any prior post.
+**Fact-check:** PASSED all four claims via independent Gemini + Google Search verification gate on first draft.
+**Sources (verified manually via WebSearch, 2+ reputable sources):**
+- https://www.rappler.com/philippines/surigao-del-norte-francisco-bingo-matugas-malversation-graft-complaints-dpwh-contracts/
+- https://newsinfo.inquirer.net/2294354/surigao-norte-rep-matugas-son-face-ombudsman-raps-over-p80-m-project
+- https://www.rappler.com/newsbreak/in-depth/surigao-del-norte-boometrix-top-dpwh-contractor-billions-matugas-dynasty/

@@ -5095,3 +5095,16 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 - https://www.philstar.com/nation/2026/08/29/2552467/over-200-bfp-execs-probed-recruitment-racket
 - https://newsinfo.inquirer.net/2294526/bfp-execs-probed-over-positions-for-sale
 - https://www.philstar.com/opinion/2026/08/30/2552702/editorial-bfp-slot-sale
+
+## 2026-08-30 19:02 PHT | threads | PUBLISHED LIVE (post_id sp_4uWv6wkEcIfTgZZPxUVId)
+**Topic:** Project NOAH (government flood-forecasting/disaster-prevention program) lost its national DOST funding in 2017 and ran eight budget cycles (2018-2025) without national government support. It only got P1 billion restored in the 2026 GAA/DBM release in late August 2026, in the immediate wake of tropical cyclones Luis, Maymay, Neneng and enhanced habagat that have killed 32 people and displaced/affected 8.1 million Filipinos as of Aug 30. Distinct from all recently logged topics (impeachment gag rule, DPWH bridge/infra maintenance lag, school safety bill, Quiboloy extradition, oil deregulation, underground cisterns/flood calamity, 2027 budget scrutiny, Meralco refund/ERC, DOH leptospirosis, SULIT Load Act, Pag-IBIG audit, DPWH flood control spending scandal, Child Online Protection bill, DepEd school-level EO, DEPDev business registration, barangay/SK terms, DOE system loss, NCR wage hike injunction, COA zero capital outlay, MUP pension vs modernization budget, GINHAWA tax relief bill, Matugas/Boometrix DPWH contract, Cavite 4th District special election/Barzaga dynasty, Legarda-Leviste solar plunder case, BFP slot-for-sale recruitment racket) - first angle on proactive disaster-prevention funding neglect, not flood infrastructure/response itself.
+**Angle:** Government-duty / reactive-vs-proactive governance pillar. The state defunded its own early-warning/flood-forecasting science program in 2017 and only refunded it after eight years, timed to a disaster that had already killed 32 and displaced millions. Cites Article II, Section 4. Attacks the funding-priority system, not any named official.
+**Tagalog beat used (closer placement):** "Walong taon nilang binalewala ang Project NOAH, hanggang may namatay." (They neglected Project NOAH for eight years, until people started dying.) Fresh, names the specific program and this post's specific neglect-then-tragedy arc, not reused from any prior post.
+**Fact-check:** PASSED all four claims via independent Gemini + Google Search verification gate on first draft.
+**Sources (verified manually via WebSearch, 2+ reputable sources per claim):**
+- https://www.philstar.com/headlines/2026/08/30/2552861/32-dead-81-million-affected-recent-storms-habagat
+- https://mb.com.ph/2026/08/30/81-million-individuals-affected-by-habagat-as-massive-flooding-strikes-luzon-visayas-mindanao-ocd
+- https://www.dbm.gov.ph/index.php/management-2/4176-dbm-releases-p1-b-for-ai-powered-flood-forecasting-disaster-prevention-through-project-noah
+- https://pia.gov.ph/news/pbbm-orders-release-of-p1-billion-to-strengthen-project-noah/
+- https://www.manilatimes.net/2025/12/15/opinion/columns/correcting-a-costly-error-p1b-funding-for-project-noah/2243094
+- https://www.rappler.com/philippines/billion-fund-revitalizes-project-noah-more-help-reaching-local-governments/

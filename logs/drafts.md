@@ -5084,3 +5084,14 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 - https://www.manilatimes.net/2026/08/29/regions/cavites-4th-district-to-elect-new-congressman/2414176
 - https://asianjournal.com/philippines/house-expels-cavite-rep-kiko-barzaga-after-months-of-disciplinary-clashes/
 - https://www.rappler.com/philippines/luzon/schedule-activities-cavite-4th-district-dasmarinas-special-election-2026/
+
+## 2026-08-30 12:01 PHT | threads | PUBLISHED LIVE (post_id sp_kE4mk5pVXoKoETRIh4nq3)
+**Topic:** DILG is investigating over 200 Bureau of Fire Protection (BFP) officials, including all regional directors, over an alleged "slot-for-sale" recruitment scheme for Fire Officer 1 positions. Applicants allegedly paid between P100,000 and P800,000 per slot. DILG Secretary Jonvic Remulla described it as a P15-billion-a-year racket that has run for roughly 25 years. Distinct from all recently logged topics (impeachment gag rule, DPWH bridge/infra maintenance lag, school safety bill, Quiboloy extradition, oil deregulation, underground cisterns/flood calamity, 2027 budget scrutiny, Meralco refund/ERC, DOH leptospirosis, SULIT Load Act, Pag-IBIG audit, DPWH flood control spending scandal, Child Online Protection bill, DepEd school-level EO, DEPDev business registration, barangay/SK terms, DOE system loss, NCR wage hike injunction, COA zero capital outlay, MUP pension vs modernization budget, GINHAWA tax relief bill, Matugas/Boometrix DPWH contract, Cavite 4th District special election/Barzaga dynasty, Legarda-Leviste solar plunder case) - first angle on pay-to-enter corruption inside a frontline public-safety agency's own hiring pipeline.
+**Angle:** Governance-incentives / public-sector integrity pillar. A firefighting job meant to protect Filipino lives is allegedly sold for up to P800,000 a slot, meaning ability to pay, not competence, decides who gets hired to run into burning buildings. Attacks the recruitment system and incentive structure inside BFP, not any named individual.
+**Tagalog beat used (closer placement):** "Kapag pera na lang ang sukatan, kompetensya ang unang nasusunog." (When money is the only measure, competence is the first to burn.) Fresh, plays on the fire/BFP subject matter specifically, not reused from any prior post.
+**Fact-check:** PASSED all three claims via independent Gemini + Google Search verification gate on first draft.
+**Sources (verified manually via WebSearch, 2+ reputable sources):**
+- https://www.manilatimes.net/2026/08/29/news/national/dilg-cracks-down-on-recruitment-racket-in-fire-protection-bureau/2414289
+- https://www.philstar.com/nation/2026/08/29/2552467/over-200-bfp-execs-probed-recruitment-racket
+- https://newsinfo.inquirer.net/2294526/bfp-execs-probed-over-positions-for-sale
+- https://www.philstar.com/opinion/2026/08/30/2552702/editorial-bfp-slot-sale

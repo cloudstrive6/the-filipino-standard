@@ -5118,3 +5118,14 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 - https://www.philstar.com/headlines/2026/08/31/2553062/marcos-jr-national-heroes-day-do-more-remember
 - https://newsinfo.inquirer.net/2295498/marcos-on-national-heroes-day-embody-our-heroes-courage
 - https://www.manilatimes.net/2026/08/31/news/marcos-leads-commemoration-of-national-heroes-day/2414802
+
+## 2026-08-31 19:02 PHT | threads | PUBLISHED LIVE (post_id sp_vkFykU9McBqvJYd6j2r)
+**Topic:** Government gross borrowings hit P2.11 trillion for Jan-July 2026 (20% higher YoY vs P1.76T in the same period 2025), reported today, Aug 31. National debt hit a record P19.07 trillion as of end-June, with 77% of the full-year P2.73T borrowing plan already spent with five months left. Distinct from all recently logged topics (impeachment gag rule, DPWH bridge/infra maintenance lag, school safety bill, Quiboloy extradition, oil deregulation, underground cisterns/flood calamity, 2027 budget scrutiny, Meralco refund/ERC, DOH leptospirosis, SULIT Load Act, Pag-IBIG audit, DPWH flood control spending scandal, Child Online Protection bill, DepEd school-level EO, DEPDev business registration, barangay/SK terms, DOE system loss, NCR wage hike injunction, COA zero capital outlay, MUP pension vs modernization budget, GINHAWA tax relief bill, Matugas/Boometrix DPWH contract, Cavite 4th District special election/Barzaga dynasty, Legarda-Leviste solar plunder case, BFP slot-for-sale recruitment racket, Project NOAH defunding, National Heroes Day address) - first angle on the sheer scale/pace of national debt accumulation itself, not a budget-line or agency-specific scandal.
+**Angle:** Economic-reform pillar. Contrasts the scale of new borrowing against the absence of visible return (unfinished flood control, hospitals, classrooms), framing debt accumulation without delivered public value as the real system failure, no named individual criticized.
+**Tagalog beat used (closer placement):** "Hiram ngayon, tayo ang magbabayad bukas." (Borrowed now, we're the ones who will pay tomorrow.) Fresh, ties directly to the debt/borrowing subject of this post; distinct from the "sino ba talaga" question-form beat used in the prior post.
+**Fact-check:** PASSED all 5 claims via independent Gemini + Google Search verification gate on first draft.
+**Sources (verified manually via WebSearch, 2+ reputable sources):**
+- https://mb.com.ph/2026/08/31/marcos-admins-gross-borrowings-breach-21-trillion-mark-at-end-july
+- https://www.manilatimes.net/2026/08/31/business/top-business/govt-gross-borrowings-at-p211t-as-of-end-july/2414766
+- https://bworldonline.com/top-stories/2026/08/31/773409/ng-gross-borrowings-surge-in-july/
+- https://www.philstar.com/business/2026/08/31/2552878/government-borrowings-surge-p291-billion

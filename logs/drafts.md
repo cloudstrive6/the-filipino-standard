@@ -5139,3 +5139,12 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 - https://newsinfo.inquirer.net/2296140/poa-faces-questions-on-p112-5-m-deped-secret-funds
 - https://businessmirror.com.ph/2026/08/04/dutertes-deped-failed-to-justify-use-of-%E2%82%B1112-5-million-confidential-funds/
 - https://www.manilatimes.net/2026/08/04/news/national/coa-duterte-confidential-funds-a-first-among-vps/2397294
+
+## 2026-09-01 19:03 PHT | threads | PUBLISHED LIVE (post_id sp_DoP1sGOARDiKwNNPrslRy)
+**Topic:** Senate impeachment trial Day 20 (Sept 1, 2026) testimony from Army Col. Manaros Boransing II and Col. Magtangol Panopio, who signed the certifications DepEd used to liquidate P15.54M of its 2023 confidential funds as "informant" payments. Same underlying trial as the prior run's post but a distinct, newly-surfaced fact: the certifying officers testified their units' total operational spend across all eight Youth Leadership Summits stayed under P500,000, DepEd sent them no funds at all, and their "intelligence" was open-source school-schedule information, not surveillance. Distinct angle from the immediately prior post (which argued the structural loophole of "no receipts required by law"); this one is about a receipt that DOES exist being a mismatched, rubber-stamped fake, not about the absence of a receipt requirement.
+**Angle:** Governance-comparison / constitutional-awareness pillar. Stat-punch format: the P15.54M claimed vs under-P500K actually spent by the unit whose "work" supposedly justified it. Attacks the certification-as-accountability-theater mechanism, not Sara Duterte personally (not named in the post; DepEd referenced as the agency).
+**Tagalog beat used (mid_pivot placement):** "Kunwari, meron. Sa katunayan, wala." (Supposedly, there was something. In reality, there wasn't.) Fresh, parallel-structure beat placed mid-post as a pivot into the explanation, not the closer; varies placement from the closer-placement pattern used in the prior two logged posts.
+**Fact-check:** PASSED all 4 claims via independent Gemini + Google Search verification gate on first draft.
+**Sources (verified manually via WebSearch/WebFetch, 2+ reputable sources):**
+- https://www.philstar.com/headlines/2026/09/01/2553309/sara-duterte-trial-recap-sept-1-military-men-depeds-p155-million-confidential-funds
+- https://www.gmanetwork.com/news/topstories/nation/1000610/sara-duterte-impeachment-trial-day-20-what-to-expect/story/

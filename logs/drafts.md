@@ -5148,3 +5148,13 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 **Sources (verified manually via WebSearch/WebFetch, 2+ reputable sources):**
 - https://www.philstar.com/headlines/2026/09/01/2553309/sara-duterte-trial-recap-sept-1-military-men-depeds-p155-million-confidential-funds
 - https://www.gmanetwork.com/news/topstories/nation/1000610/sara-duterte-impeachment-trial-day-20-what-to-expect/story/
+
+## 2026-09-02 12:03 PHT | threads | PUBLISHED LIVE (post_id sp_SB0mzgttgNImfdKQPiSyD)
+**Topic:** Sen. Panfilo Lacson's Senate Bill 2394 (filed Aug 12, reported Sept 1-2, 2026), which would create an "Ombudsman Marshall Service" giving the Office of the Ombudsman its own law enforcement arm (arrest, search, seizure powers, armed peace officers led by a Special Investigator with Deputy Ombudsman rank). Distinct from all recently logged topics (impeachment trial/DepEd confidential funds saga, DPWH flood control, budget scrutiny, Meralco/ERC, Pag-IBIG audit, etc.) - first post on the Ombudsman's own structural powerlessness as an institution, not on any pending corruption case.
+**Angle:** Governance-comparison / constitutional-awareness pillar. Frames the Ombudsman, the constitutional anti-corruption watchdog, as toothless because it must borrow the PNP and NBI (both executive-branch agencies) to make an arrest or execute a search, meaning the watchdog needs permission from the very branch it is meant to police. Attacks the structural design gap, not any individual official; no named officeholder blamed.
+**Tagalog beat used (closer placement):** "Kung ang tagapagbantay mismo ay umaasa sa binabantayan, sino pa ba talaga ang may hawak ng kapangyarihan?" (If the watchdog itself depends on the ones it watches, who really holds the power?) Fresh, ties directly to the watchdog/enforcement-dependency subject of this post; distinct from the DepEd-confidential-funds beats used in the two prior posts.
+**Fact-check:** First draft FAILED (the phrase "this week it admitted it cannot even make an arrest on its own" was flagged as an unverified admission-framing, though the underlying reliance-on-PNP/NBI fact was itself confirmed). Rewrote to state the fact directly ("It still has no power to arrest anyone on its own") without the false "admitted" framing. Second draft PASSED all 4 claims via independent Gemini + Google Search verification gate.
+**Sources (verified manually via WebSearch, 2+ reputable sources):**
+- https://www.manilatimes.net/2026/09/02/news/national/lacson-bill-to-create-omb-marshal-service/2416368
+- https://mb.com.ph/2026/09/01/senate-bill-seeks-to-grant-ombudsman-power-to-arrest-search-and-seize
+- https://bworldonline.com/the-nation/2026/09/01/774016/law-enforcement-power-sought-for-ombudsman/

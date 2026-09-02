@@ -5158,3 +5158,13 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 - https://www.manilatimes.net/2026/09/02/news/national/lacson-bill-to-create-omb-marshal-service/2416368
 - https://mb.com.ph/2026/09/01/senate-bill-seeks-to-grant-ombudsman-power-to-arrest-search-and-seize
 - https://bworldonline.com/the-nation/2026/09/01/774016/law-enforcement-power-sought-for-ombudsman/
+
+## 2026-09-02 19:03 PHT | threads | PUBLISHED LIVE (post_id sp_D1sThHcKIbmdpDBu7okY)
+**Topic:** Twin Senate bills (SB 2387, Sen. Francis Escudero; SB 2067, Sen. Imee Marcos) that cleared the Senate Committee on Local Government on Aug 24, 2026: postpone the Nov 2, 2026 Barangay and SK elections (already postponed once before, from Dec 1, 2025) and fix future officials' terms at five years instead of four. Distinct from all recently logged topics (impeachment trial/DepEd confidential funds, Ombudsman marshal service bill, DPWH flood control, Meralco/ERC, Pag-IBIG) - first post on the barangay/SK election postponement and term-extension bills.
+**Angle:** Constitutional-awareness pillar. Frames the core conflict-of-interest: the sitting officials whose terms would be extended, and the senators who share the same incumbency incentive, are the ones deciding whether to grant the extension and delay the vote that could replace them. Attacks the self-dealing structure of the bill, not Escudero or Marcos personally (named only as bill authors/sponsors, factual attribution).
+**Tagalog beat used (closer placement):** "Kung sila mismo ang magpapasya kung kailan sila haharap sa botante, sino pa ba talaga ang may hawak ng kapangyarihan?" (If they themselves decide when they face the voters, who really holds the power?) Fresh, ties directly to the self-extending-mandate subject of this post; distinct from the DepEd and Ombudsman beats used in the three prior logged posts.
+**Fact-check:** PASSED all 3 claims via independent Gemini + Google Search verification gate on first draft.
+**Sources (verified manually via WebSearch, 2+ reputable sources):**
+- https://www.gmanetwork.com/news/topstories/nation/999681/senate-panel-approves-2026-bske-reset-fixing-terms-to-5-years/story/
+- https://www.inquirer.net/486085/senate-panel-oks-bske-postponement-5-yr-barangay-sk-terms/
+- https://www.manilatimes.net/2026/08/25/news/senate-panel-oks-2026-bske-postponement-fixing-officials-terms/2411366

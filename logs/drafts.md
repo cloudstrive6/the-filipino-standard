@@ -5168,3 +5168,14 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 - https://www.gmanetwork.com/news/topstories/nation/999681/senate-panel-approves-2026-bske-reset-fixing-terms-to-5-years/story/
 - https://www.inquirer.net/486085/senate-panel-oks-bske-postponement-5-yr-barangay-sk-terms/
 - https://www.manilatimes.net/2026/08/25/news/senate-panel-oks-2026-bske-postponement-fixing-officials-terms/2411366
+
+## 2026-09-03 12:02 PHT | threads | PUBLISHED LIVE (post_id sp_F4KmAMxCqSOW1uqFy7h6L)
+**Topic:** Senate Bill No. 1962, the "Government Contracting and Procurement Integrity Act" (authored by Sen. Francis Escudero), passed 15-0 on third and final reading on Sept 2, 2026. Bars relatives of public officials within the fourth civil degree of consanguinity/affinity (down to first cousins) from government procurement contracts. Distinct from all recently logged topics (impeachment trial/DepEd confidential funds, Ombudsman marshal service bill, barangay/SK election postponement, DPWH flood control, Meralco/ERC, Pag-IBIG) - first post on the anti-nepotism procurement bill.
+**Angle:** Governance/anti-corruption pillar. Reframe: the fact that this needed a new law shows how normalized family-contract self-dealing has been. Undercuts the win by contrasting the weak penalty (up to 3 years, P100,000 fine) against the scale of proven flood-control fund abuse, then pivots to the real test being enforcement, not passage. Attacks the system/incentive (self-dealing being legal until now, weak penalties), never names Escudero or any individual as the target.
+**Tagalog beat used (closer placement):** "Kailan pa sila mananagot?" (When will they ever be held accountable?) Fresh, ties to the enforcement-not-passage argument of this specific post; distinct from the barangay/SK election-postponement beat and the Ombudsman-marshal beat used in the two prior logged posts.
+**Fact-check:** PASSED both claims via independent Gemini + Google Search verification gate on first draft.
+**Sources (verified manually via WebSearch, 2+ reputable sources):**
+- https://newsinfo.inquirer.net/2297973/senate-gives-final-ok-to-bill-keeping-politicians-relatives-off-govt-contracts
+- https://bworldonline.com/the-nation/2026/09/02/774287/senate-clears-anti-nepotism-contract-bill/
+- https://www.philstar.com/headlines/2026/09/03/2553690/senate-oks-bill-barring-public-execs-kin-government-contracts
+- https://senate.gov.ph/media/news-release/co-sponsorship-speech-senate-bill-no-1962-or-the-government-contracting-and-procurement-integrity-act-2

@@ -5179,3 +5179,11 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 - https://bworldonline.com/the-nation/2026/09/02/774287/senate-clears-anti-nepotism-contract-bill/
 - https://www.philstar.com/headlines/2026/09/03/2553690/senate-oks-bill-barring-public-execs-kin-government-contracts
 - https://senate.gov.ph/media/news-release/co-sponsorship-speech-senate-bill-no-1962-or-the-government-contracting-and-procurement-integrity-act-2
+## 2026-09-03 19:04 PHT | threads | PUBLISHED LIVE (post_id sp_tsyOiXSfaiJyQztUcwSr)
+**Topic:** Palace statement (Sept 3, 2026, via Press Officer/Comms Undersecretary Claire Castro) that President Marcos has not taken a final position on the DOF's proposal to raise the Motor Vehicle User's Charge (MVUC), saying it still needs more study; MVUC rates have stood unchanged since 2014. Distinct from all recently logged topics (impeachment trial/DepEd confidential funds, Ombudsman marshal service bill, barangay/SK election postponement, DPWH flood control, Meralco/ERC, Pag-IBIG, anti-nepotism procurement bill) - first post on the MVUC hike proposal and the "still needs study" stalling pattern on a fee untouched for over a decade.
+**Angle:** Economic & utility reform pillar. Reframe: 12 years of "studying" a fee schedule is not caution, it is a system engineered to never finish deciding, while other costs motorists absorb move without any such deliberation. Attacks the system/incentive (indefinite study as a stalling mechanism), never names Marcos or Castro as personal targets - refers to "Malacañang" as the institution.
+**Tagalog beat used (opening_hook placement, per planner):** "Mahigit isang dekada nang pinag-aaralan." (It has been studied for more than a decade.) Fresh, names this post's specific subject (the 12-year-old unchanged charge); distinct from the "Kailan pa sila mananagot?" beat used in the prior logged post.
+**Fact-check:** PASSED all three claims via independent Gemini + Google Search verification gate on first draft.
+**Sources (verified manually via WebSearch, 2+ reputable sources):**
+- https://mb.com.ph/2026/09/03/proposal-to-raise-motor-vehicle-users-charge-needs-study-before-marcos-takes-position-palace
+- https://taxreform.dof.gov.ph/tax-reform-packages/motor-vehicle-users-charge/

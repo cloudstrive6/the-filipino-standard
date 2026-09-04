@@ -5197,3 +5197,15 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 - https://www.philstar.com/headlines/2026/09/02/2553534/prosecutors-weigh-skipping-bribery-article-shorten-duterte-trial
 - https://mb.com.ph/2026/09/02/dropping-article-on-alleged-bribery-of-deped-officials-could-shorten-vp-sara-duterte-impeachment-trial-defense-says
 - https://www.gmanetwork.com/news/topstories/nation/1000812/house-prosecutors-may-drop-bribery-article-in-vp-sara-impeachment-target-decision-by-year-end-rep-chua/story/
+
+## 2026-09-04 19:03 PHT | threads | NOT PUBLISHED (fact-check failed twice, stopped per two-strike rule)
+**Topic:** Quezon City RTC (Branch 98) issued an arrest warrant for VP Sara Duterte on Sept 4, 2026, three counts of grave threats, bail set at P120,000 per count (P360,000 total), stemming from a remark during an online press conference that she had contracted someone to kill President Marcos, First Lady Liza Araneta-Marcos, and then-House Speaker Martin Romualdez if she were killed. Distinct from all recently logged topics (impeachment trial charge-dropping/scheduling, MVUC hike, anti-nepotism procurement bill) - first angle on this separate criminal (grave threats) case and warrant, not the impeachment trial.
+**Angle attempted:** Governance/accountability pillar. Framed the P120,000-per-count bail as "the price the system has set" for an alleged plot against the country's three highest offices. Attacked the bail-schedule system, not Duterte's identity.
+**Fact-check attempt 1:** FAILED - the comparative line "same legal bracket as a threat shouted in traffic" was contradicted; the verifier found the P120,000 bail is elevated under RA 10175 (Cybercrime Prevention Act) because the alleged threat was made online, not a baseline grave-threats bail.
+**Fact-check attempt 2 (one allowed retry, dropped the "traffic" comparison, kept only the verified facts):** FAILED - the draft stated the alleged threat was made "in November 2025"; the verifier corrected this to November 2024.
+**Outcome:** Per the two-strike rule, stopped and published nothing this run. Note for future runs: the underlying facts (warrant, three counts, P120,000/count bail, the three officials named) are independently verified and safe to reuse, but the date of the original remark is November 2024 (not Nov 2025 as multiple initial news search snippets suggested), and any bail-amount framing must account for the RA 10175 cybercrime elevation rather than treating it as an ordinary grave-threats bail.
+**Sources (verified manually via WebSearch, 2+ reputable sources):**
+- https://www.philstar.com/headlines/2026/09/04/2554030/warrant-out-sara-duterte-facing-arrest-grave-threats-case
+- https://mb.com.ph/2026/09/04/vp-sara-duterte-issued-arrest-warrant-by-quezon-city-court-in-grave-threats-case
+- https://www.rappler.com/philippines/arrest-warrant-sara-duterte-grave-threats-quezon-city-court/
+- https://bworldonline.com/the-nation/2026/09/04/774700/qc-court-issues-arrest-warrant-for-vp-duterte/

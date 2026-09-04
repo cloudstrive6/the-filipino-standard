@@ -5187,3 +5187,13 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 **Sources (verified manually via WebSearch, 2+ reputable sources):**
 - https://mb.com.ph/2026/09/03/proposal-to-raise-motor-vehicle-users-charge-needs-study-before-marcos-takes-position-palace
 - https://taxreform.dof.gov.ph/tax-reform-packages/motor-vehicle-users-charge/
+
+## 2026-09-04 12:04 PHT | threads | PUBLISHED LIVE (post_id sp_bBgaOBb0Zpf0ojS3pGMEW)
+**Topic:** House prosecutors (reported Sept 2, 2026) are weighing whether to drop the bribery article (Article 3, DepEd confidential-funds bribery) from VP Sara Duterte's impeachment case, not for lack of evidence but to save time and give the Senate court "breathing room." The Senate is separately eyeing whole-day sessions on Oct 1-2, 5-9, and 12-15 to fit the trial around 2027 national budget deliberations, with warnings a reenacted budget could result if it doesn't finish. Distinct from all recently logged topics (impeachment trial/DepEd confidential funds testimony, gag rule, Ombudsman marshal service bill, barangay/SK election postponement, DPWH flood control, Meralco/ERC, Pag-IBIG, anti-nepotism procurement bill, MVUC hike) - first angle on the trial's own charge-selection and calendar being shaped by scheduling/budget-season pressure rather than the strength of the evidence.
+**Angle:** Political commentary / governance-accountability pillar. Attacks the system/incentive (an accountability process forced to compete with the budget calendar for floor time, charges trimmed to fit a clock) never names Duterte, prosecutors, or senators as personal targets.
+**Tagalog beat used (closer placement):** "Nasusukat na lang ba ang katarungan sa oras?" (Is justice now measured only by time?) Fresh, names this post's specific irony (trial pacing over merit); distinct from the "Mahigit isang dekada nang pinag-aaralan." beat used in the prior logged post.
+**Fact-check:** PASSED all four claims via independent Gemini + Google Search verification gate on first draft.
+**Sources (verified manually via WebSearch, 2+ reputable sources):**
+- https://www.philstar.com/headlines/2026/09/02/2553534/prosecutors-weigh-skipping-bribery-article-shorten-duterte-trial
+- https://mb.com.ph/2026/09/02/dropping-article-on-alleged-bribery-of-deped-officials-could-shorten-vp-sara-duterte-impeachment-trial-defense-says
+- https://www.gmanetwork.com/news/topstories/nation/1000812/house-prosecutors-may-drop-bribery-article-in-vp-sara-impeachment-target-decision-by-year-end-rep-chua/story/

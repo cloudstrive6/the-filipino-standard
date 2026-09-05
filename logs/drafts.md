@@ -5220,3 +5220,14 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 - https://www.pna.gov.ph/articles/1282597
 - https://www.philstar.com/headlines/2026/08/23/2551201/marcos-seeks-development-critical-minerals-industry
 - (abandoned angle, sources for reference only) https://www.philstar.com/business/2026/09/05/2554062/inflation-cools-61-percent-august ; https://www.rappler.com/business/inflation-rate-philippines-august-2026/
+
+## 2026-09-05 19:03 PHT | threads | PUBLISHED LIVE (post_id sp_cQF2Jkukd5w3XjZdKa2)
+**Topic:** The CADENA Act (Senate Bill 1506), which would put every government contract, project cost, and procurement document on a public digital ledger, passed the Senate 17-0 on Dec 15, 2025. Seven months later it remains stuck in the House, and it fell from the #3 spot on the government's LEDAC priority list to #41 as of August 2026 (flagged publicly by Sen. Bam Aquino). Distinct from all recently logged topics (impeachment trial/DepEd confidential funds, gag rule, Ombudsman marshal service bill, barangay/SK election postponement, DPWH flood control, Meralco/ERC, Pag-IBIG, anti-nepotism procurement bill, MVUC hike, Sara Duterte grave-threats warrant, EO 122 mining-permit fast lane) - first post on the CADENA Act / budget-transparency-bill deprioritization.
+**Angle:** Governance/anti-corruption pillar. Attacks the system/incentive: the one bill built to make ghost projects harder just got quietly bumped down the government's own priority list, seven months after passing the Senate unanimously. Never names Aquino, Marcos, or any official as a personal target; refers to "the House," "the government's own priority list."
+**Tagalog beat used (closer placement):** "Bakit mas gustong itago ang datos kaysa hulihin ang magnanakaw?" (Why would they rather hide the data than catch the thief?) Fresh, names this post's specific irony (transparency tool deprioritized); distinct from the "Mabilis kung dayuhang puhunan..." beat used in the prior logged post.
+**Fact-check:** First draft FAILED - the verifier could not corroborate an unnamed "Senate bill" or a separate "P100 billion for flood control" claim without the bill's name attached. Per the one-retry rule, revised to name the bill explicitly (CADENA Act / SB 1506) and dropped the unverified P100B flood-control figure. Revised draft PASSED all four claims via independent Gemini + Google Search verification gate.
+**Sources (verified manually via WebSearch, 2+ reputable sources):**
+- https://bitpinas.com/business/bam-aquino-urges-house-cadena
+- https://newsbytes.ph/2026/08/28/bam-aquino-questions-removal-of-cadena-act-from-priority-bills/
+- https://www.dailypedia.net/2026/09/sen-bam-aquino-questions-why-blockchain-the-budget-bill-dropped-on-malacanang-priority-list-amid-flood-control-controversy/
+- https://www.manilatimes.net/2026/08/23/news/national/lawmakers-urged-to-pass-budget-transparency-bill/2410411

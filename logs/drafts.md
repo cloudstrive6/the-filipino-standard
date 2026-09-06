@@ -5241,3 +5241,13 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 - https://www.philstar.com/headlines/2026/09/02/2553527/after-flood-control-freeze-senate-panel-eyes-funds-finish-abandoned-works
 - https://tribune.net.ph/2026/08/30/lack-of-flood-control-master-plan-fuels-corruption-fears-as-dpwh-gets-p1074-b-budget
 - https://tribune.net.ph/2026/08/11/dbm-earmarks-p1074b-for-flood-control
+
+## 2026-09-06 19:02 PHT | threads | PUBLISHED LIVE (post_id sp_q1Wy6gPSY9lz4C5RlMYH)
+**Topic:** Chinese armed trainer jets (JL-10s carrying live PL-5 air-to-air missiles) locked radar onto three Philippine aircraft over Bajo de Masinloc (Scarborough Shoal) on Sept 2, 2026; incident only disclosed by PLA Southern Theater Command over the weekend (reports surfaced Sept 5). Distinct from all recently logged topics (impeachment/DepEd confidential funds, gag rule, Ombudsman marshal service bill, barangay/SK election postponement, DPWH flood control corruption-scale, Meralco/ERC, Pag-IBIG, anti-nepotism procurement bill, MVUC hike, Sara Duterte grave-threats warrant, EO 122 mining fast lane, CADENA Act, flood-control freeze-thaw cycle) - first West Philippine Sea / national-security post on the page.
+**Hook:** "Weapons-locked radar. Live air-to-air missiles. Three Philippine aircraft tracked..." - leads with the concrete, verifiable detail, not commentary.
+**Angle:** Political / constitutional-awareness pillar. Cites the Constitution's Art II Sec 4 duty (government's prime duty to protect the people) without quoting it verbatim; contrasts "a statement" vs "a system" as the systemic critique - never blames a named official, refers only to "the government," "Chinese jets," "the system."
+**Tagalog beat used (closing line):** "Salita lang ang sagot, hindi sistema." (Only words are the answer, not a system.) Fresh, ties directly to this post's statement-vs-system contrast; distinct from the "Hindi inayos ang sistema, binuksan lang ulit ang gripo." beat used in the prior logged post.
+**Fact-check:** First draft PASSED both claims via independent Gemini + Google Search verification gate on first attempt (no retry needed).
+**Sources (verified manually via WebSearch, 2+ reputable sources):**
+- https://www.manilatimes.net/2026/09/06/news/national/chinese-jets-lock-radar-on-ph-aircraft/2419291
+- https://www.scmp.com/news/china/military/article/3366364/chinese-armed-trainer-jets-drive-away-philippine-aircraft-over-scarborough-shoal

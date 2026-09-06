@@ -5231,3 +5231,13 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 - https://newsbytes.ph/2026/08/28/bam-aquino-questions-removal-of-cadena-act-from-priority-bills/
 - https://www.dailypedia.net/2026/09/sen-bam-aquino-questions-why-blockchain-the-budget-bill-dropped-on-malacanang-priority-list-amid-flood-control-controversy/
 - https://www.manilatimes.net/2026/08/23/news/national/lawmakers-urged-to-pass-budget-transparency-bill/2410411
+
+## 2026-09-06 12:03 PHT | threads | PUBLISHED LIVE (post_id sp_CQL1G7MCzbtyVT83ylR)
+**Topic:** A year after the government froze flood-control spending (Sept 2025) due to the ghost-project corruption scandal, the Senate finance committee (chair Sen. JV Ejercito) now backs releasing funds again in the proposed 2027 budget, but explicitly only to finish already-underway/half-built projects, not new ones, reported Sept 2, 2026. Trigger: renewed flooding in Metro Manila and Central Luzon during the freeze exposed the gaps it left. Distinct from all recently logged topics (impeachment trial/DepEd confidential funds, gag rule, Ombudsman marshal service bill, barangay/SK election postponement, DPWH flood control [corruption-scale/spending-figure angle], Meralco/ERC, Pag-IBIG, anti-nepotism procurement bill, MVUC hike, Sara Duterte grave-threats warrant, EO 122 mining-permit fast lane, CADENA Act/budget-transparency-bill deprioritization) - first post on the freeze-then-thaw policy cycle itself: funding reopened by flood pressure, not by any fixed oversight mechanism.
+**Angle:** Economic reform / governance-incentive pillar. Attacks the system, not a person: notes the freeze ends without any new safeguard being cited, only chair-level self-restraint against new projects. Never blames a named official personally; refers to "the government," "the Senate finance committee," "its chair."
+**Tagalog beat used (closer placement):** "Hindi inayos ang sistema, binuksan lang ulit ang gripo." (The system wasn't fixed, they just reopened the tap again.) Fresh, ties the water/flood-control metaphor directly to this post's specific policy reversal; distinct from the "Bakit mas gustong itago ang datos..." beat used in the prior logged post.
+**Fact-check:** First draft PASSED all four claims via independent Gemini + Google Search verification gate on first attempt (no retry needed).
+**Sources (verified manually via WebSearch, 2+ reputable sources):**
+- https://www.philstar.com/headlines/2026/09/02/2553527/after-flood-control-freeze-senate-panel-eyes-funds-finish-abandoned-works
+- https://tribune.net.ph/2026/08/30/lack-of-flood-control-master-plan-fuels-corruption-fears-as-dpwh-gets-p1074-b-budget
+- https://tribune.net.ph/2026/08/11/dbm-earmarks-p1074b-for-flood-control

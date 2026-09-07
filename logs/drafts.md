@@ -5262,3 +5262,14 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 - https://www.philstar.com/headlines/2026/09/07/2554607/china-state-media-revives-manufactured-batanes-claim
 - https://www.manilatimes.net/2026/09/07/news/research-think-tank-slams-china-for-claiming-batanes/2419442
 - https://bworldonline.com/the-nation/2026/09/06/774925/firm-response-to-chinas-batanes-claims-sought/
+
+## 2026-09-07 19:02 PHT | threads | PUBLISHED LIVE (post_id sp_x9ehzQxVBPMTuAjy1X3wO)
+**Topic:** PSA (Philippine Statistics Authority) testimony in the Sara Duterte impeachment trial: of 2,669 alleged confidential-fund payees from the Office of the Vice President and DepEd, only 152 matched a real PSA civil-registry record. 37 of those matches were dead people, 25 were minors. One listed "recipient," Marlin Sunga, died in 1965 at two months old. New angle: confidential-fund disbursement / ghost-payee accountability, distinct from the Sept 6 Scarborough Shoal radar-lock and Sept 7 Batanes/Global Times sovereignty posts already logged.
+**Hook:** "2,669 names appear on confidential fund receipts... Only 152 matched a real record. 37 of those matches are dead." Leads with the raw, verifiable number before the reveal.
+**Angle:** Governance-comparison / constitutional-awareness pillar (public accountability, sovereignty of the people over how their money is spent). Attacks the confidential-fund disbursement system and the incentive structure that allows unverifiable payees, not any named individual; frames the fact via the sworn PSA testimony, not commentary on the trial's political outcome.
+**Tagalog beat used (closing line):** "Kung patay na ang pumirma, sino talaga ang kumuha ng pera?" (If the signer is dead, who really took the money?) Fresh, specific to the ghost-payee facts of this post; distinct from "Soberanya, hindi paksa ng debate." used in the prior logged post.
+**Fact-check:** First draft PASSED all claims (payee count, PSA registry match count, death-record count, the 1965 death detail, sworn-testimony framing) via independent Gemini + Google Search verification gate on first attempt (no retry needed).
+**Sources (verified manually via WebSearch, 2+ reputable sources):**
+- https://newsinfo.inquirer.net/2300352/25-payees-of-ovp-deped-confidential-funds-were-minors-psa
+- https://www.rappler.com/philippines/confidential-fund-receipts-office-vice-president-department-education-names-kids-dead-people/
+- https://www.manilatimes.net/2026/09/07/news/official-piattos-baon-bacon-pampano-keso-had-no-psa-records/2419690

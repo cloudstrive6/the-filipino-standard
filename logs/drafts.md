@@ -5251,3 +5251,14 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 **Sources (verified manually via WebSearch, 2+ reputable sources):**
 - https://www.manilatimes.net/2026/09/06/news/national/chinese-jets-lock-radar-on-ph-aircraft/2419291
 - https://www.scmp.com/news/china/military/article/3366364/chinese-armed-trainer-jets-drive-away-philippine-aircraft-over-scarborough-shoal
+
+## 2026-09-07 12:02 PHT | threads | PUBLISHED LIVE (post_id sp_MWx1UveuNDWrHAk6uoNA)
+**Topic:** Chinese state media (Global Times) published a Sept 3, 2026 op-ed claiming Batanes is "legally part" of Taiwan; Stratbase Institute (pres. Dindo Manhit) publicly rebutted it, calling it a "manufactured" ambiguity and citing 200+ years of continuous Philippine administration (incorporated 1783). Distinct from the Sept 6 Scarborough Shoal radar-lock incident (a military encounter) - this is a sovereignty-via-propaganda/disinformation angle, first "manufactured territorial claim" post on the page.
+**Hook:** "Chinese state media just published an editorial claiming Batanes legally belongs to Taiwan. No soldiers, no warships, just a Global Times op-ed..." - leads with the concrete claim and immediately undercuts it with the contrast (no soldiers, no warships).
+**Angle:** Constitutional-awareness / political-commentary pillar. Frames the episode as a test of repetition-as-strategy against a settled fact; cites Stratbase's own prescription (law, diplomacy, public information) as the systemic response needed, not a name-calling piece - never blames a named official, refers only to "Beijing," "Global Times," "the Philippine government."
+**Tagalog beat used (closing line):** "Soberanya, hindi paksa ng debate." (Sovereignty is not a subject for debate.) Fresh, specific to this post's settled-fact-vs-manufactured-dispute contrast; distinct from "Salita lang ang sagot, hindi sistema." used in the prior logged post.
+**Fact-check:** First draft PASSED all three claims via independent Gemini + Google Search verification gate on first attempt (no retry needed).
+**Sources (verified manually via WebSearch, 2+ reputable sources):**
+- https://www.philstar.com/headlines/2026/09/07/2554607/china-state-media-revives-manufactured-batanes-claim
+- https://www.manilatimes.net/2026/09/07/news/research-think-tank-slams-china-for-claiming-batanes/2419442
+- https://bworldonline.com/the-nation/2026/09/06/774925/firm-response-to-chinas-batanes-claims-sought/

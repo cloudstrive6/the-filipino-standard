@@ -5273,3 +5273,14 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 - https://newsinfo.inquirer.net/2300352/25-payees-of-ovp-deped-confidential-funds-were-minors-psa
 - https://www.rappler.com/philippines/confidential-fund-receipts-office-vice-president-department-education-names-kids-dead-people/
 - https://www.manilatimes.net/2026/09/07/news/official-piattos-baon-bacon-pampano-keso-had-no-psa-records/2419690
+
+## 2026-09-08 12:02 PHT | threads | PUBLISHED LIVE (post_id sp_OQVyRqESheAVYwCfKACo)
+**Topic:** Former House Speaker Martin Romualdez arrested Sept 7 2026 over the P7.44-billion flood control plunder case (with fugitive ex-Rep. Zaldy Co), served the warrant at Cardinal Santos Medical Center while confined there; lawyers now asking Sandiganbayan for continued hospital custody instead of a jail cell. New angle: two-track justice for the powerful vs. ordinary accused, distinct from the Sept 6 Scarborough radar-lock, Sept 7 Batanes/China claim, and Sept 7 PSA ghost-payee posts already logged.
+**Hook:** "A former House Speaker was arrested Monday night over a P7.44-billion flood control plunder case..." leads with the raw arrest fact before the hospital-custody twist.
+**Angle:** Governance-comparison / constitutional-awareness pillar (equal treatment under the law). Attacks the double-track system that lets the powerful negotiate hospital confinement over jail while facing plunder charges; does not personally insult the individual, frames strictly by role and the alleged conduct.
+**Tagalog beat used (closing line):** "Malaki ang kaso, pero mas malaki pa ang puwang niyang hingin ng espesyal na pagtrato." (The case is big, but the room he has to ask for special treatment is bigger.) Fresh, specific to the hospital-custody-vs-jail-cell contrast; distinct from "Kung patay na ang pumirma, sino talaga ang kumuha ng pera?" used in the prior logged post.
+**Fact-check:** PASSED all five claims (arrest date/amount, co-accused Zaldy Co, 2022-2025 kickback period, hospital-room arrest location, lawyers' hospital-custody motion) via independent Gemini + Google Search verification gate on first attempt (no retry needed).
+**Sources (verified manually via WebSearch, 2+ reputable sources):**
+- https://www.philstar.com/headlines/2026/09/08/2554831/romualdez-arrested-hospital-detention
+- https://www.rappler.com/philippines/warrant-arrest-martin-romualdez-plunder-case-september-7-2026/
+- https://www.gmanetwork.com/news/topstories/nation/1001505/martin-romualdez-arrested-over-plunder-charges-says-dilg-chief/story/

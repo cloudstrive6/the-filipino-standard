@@ -5306,3 +5306,14 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 - https://tribune.net.ph/2026/09/04/make-ici-report-public-now
 - https://www.manilatimes.net/2026/02/06/news/ici-submits-125-day-report-to-marcos/2273242
 - https://businessmirror.com.ph/2026/04/06/marcos-declines-to-order-release-of-ici-report-cites-independence-of-ombudsman-and-doj/
+
+## 2026-09-09 19:03 PHT | threads | PUBLISHED LIVE (post_id sp_nxcYZnCFrScadkKdZP2)
+**Topic:** The September 8 2026 fuel price hike (diesel +P5.18/L, gasoline +P4.69/L, Metro Manila pumps crossing P100/L again) driven by Middle East tension and peso weakness. New angle: the Oil Deregulation Law (RA 8479) leaves the Philippines without an active strategic reserve or buffer fund, so global shocks pass straight through to jeepney drivers and small businesses the same week, distinct from the Sept 6-8 Scarborough/Batanes/PSA/Romualdez/Duterte-trial posts already logged.
+**Hook:** "Diesel up 5.18 pesos a liter this week. Gasoline up 4.69. Metro Manila pumps crossed 100 pesos again." Leads with the concrete, sourced numbers before the systemic point.
+**Angle:** Economic & utility reform pillar. Attacks the deregulated pricing system's lack of a shock absorber (a policy design choice), not any named official or party; not an NZ comparison post.
+**Tagalog beat used:** "Walang reserba, walang buffer. Tayo pa rin ang may pasanin." (No reserve, no buffer. We're still the ones carrying the burden.) Fresh, specific to the fuel-price/no-buffer-fund facts of this post.
+**Fact-check:** PASSED. The three price figures verified directly. The "no strategic reserve, no buffer fund" claim was flagged as nuanced (RA 8479 had a transitional buffer-fund provision now expired/inactive, and a new Philippine Strategic Petroleum Reserve Act is only proposed, not enacted) but the verifier confirmed the practical claim holds: no active reserve or effective buffer fund exists today.
+**Sources (verified manually via WebSearch, 2+ reputable sources):**
+- https://www.rappler.com/business/fuel-prices-adjustments-september-8-2026/
+- https://www.philstar.com/business/2026/09/07/2554634/fuel-prices-surge-sept-8-middle-east-tensions-intensify
+- https://www.manilatimes.net/2026/09/07/news/big-time-fuel-price-hike-to-be-implemented-on-sept-8-doe/2419701

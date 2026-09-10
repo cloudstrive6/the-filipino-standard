@@ -5329,3 +5329,15 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 - https://www.rappler.com/philippines/class-suspensions-walang-pasok-september-10-2026/
 - https://www.pna.gov.ph/articles/1282949
 - https://astig.ph/orange-rainfall-warning-bataan-metro-manila-september-9-2026/
+
+## 2026-09-10 19:02 PHT | threads | PUBLISHED LIVE (post_id sp_kQ42g4XMz9UDbqFt0wIu)
+**Topic:** The peso closed at a record low of P62.625/$1 on September 8 2026, the fifth record low in six trading sessions (Sept 1, 3, 4, 8), driven by higher oil prices, a stronger dollar, and geopolitical risk; the peso is down roughly 6% since January 1 2026. New angle: currency devaluation as the systemic cost multiplier on imported fuel, medicine, and offshore tuition debt, distinct from the Sept 9 fuel-price/no-buffer-fund post and all earlier logged Scarborough/Batanes/PSA/Romualdez/Duterte-trial/ICI/habagat posts.
+**Hook:** "The peso closed at a record low of P62.625 to the dollar this week, the fifth record low in six trading sessions." Leads with the concrete, dated figure before the systemic point.
+**Angle:** Economic & utility reform pillar. Attacks the fact that ordinary households absorb currency risk on imported essentials while the institutions setting monetary/import policy stay quiet, not any named official; not an NZ comparison post.
+**Tagalog beat used:** "Humina ang piso ng anim na porsyento sa loob ng walong buwan, pero tahimik pa rin ang mga responsable." (The peso weakened six percent within eight months, but those responsible are still quiet.) Fresh, specific to the currency-devaluation facts of this post.
+**Fact-check:** PASSED. All three claims (record-low figure, fifth-in-six-sessions pattern, 6% year-to-date depreciation) independently verified by the automated Gemini + Google Search fact-check gate before live posting.
+**Sources (verified manually via WebSearch, 2+ reputable sources):**
+- https://www.manilatimes.net/2026/09/09/business/top-business/peso-sinks-to-new-low-of-p62625-to-the-dollar/2420664
+- https://www.philstar.com/business/2026/09/09/2554901/peso-plunges-new-record-low-vs-dollar
+- https://www.aljazeera.com/economy/2026/9/4/why-has-the-philippines-peso-plunged-to-a-record-low
+- https://tribune.net.ph/2026/09/08/peso-hits-record-low

@@ -5317,3 +5317,15 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 - https://www.rappler.com/business/fuel-prices-adjustments-september-8-2026/
 - https://www.philstar.com/business/2026/09/07/2554634/fuel-prices-surge-sept-8-middle-east-tensions-intensify
 - https://www.manilatimes.net/2026/09/07/news/big-time-fuel-price-hike-to-be-implemented-on-sept-8-doe/2419701
+
+## 2026-09-10 12:03 PHT | threads | PUBLISHED LIVE (post_id sp_V11yWukhTMkTgxsaKKFI)
+**Topic:** Two straight days of class suspensions (Sept 9 and 10, 2026) across Metro Manila and Central Luzon from ordinary habagat (southwest monsoon) rain, PAGASA orange rainfall warning over Bataan/Bulacan/Zambales, and AFP deploying rescue teams to Tarlac, Pampanga, and Bataan. New angle: routine seasonal monsoon repeatedly paralyzing entire regions, framed as a prevention-vs-patchwork-response systemic failure, distinct from the Sept 9 ICI report-suppression and fuel-price posts and all earlier logged Scarborough/Batanes/PSA/Romualdez/Duterte-trial posts.
+**Hook:** "Metro Manila and Central Luzon logged two straight days of class suspensions, September 9 and 10, over ordinary habagat rain." Leads with the concrete, dated fact before the systemic point.
+**Angle:** Economic & utility reform / governance-comparison pillar (disaster preparedness as basic governance, not a natural-disaster excuse). Attacks the system's chronic reliance on emergency response over prevention, not any named official.
+**Tagalog beat used (closing line):** "Taon-taon, ganito pa rin." (Year after year, still like this.) Fresh, not used in any prior logged post.
+**Fact-check:** PASSED on first draft. All three claims (two-day class suspensions, PAGASA orange warning over Bataan/Bulacan/Zambales, AFP deployment to Tarlac/Pampanga/Bataan) independently verified.
+**Sources (verified manually via WebSearch, 2+ reputable sources):**
+- https://www.philstar.com/headlines/2026/09/09/2555061/walang-pasok-class-suspensions-september-9-due-habagat
+- https://www.rappler.com/philippines/class-suspensions-walang-pasok-september-10-2026/
+- https://www.pna.gov.ph/articles/1282949
+- https://astig.ph/orange-rainfall-warning-bataan-metro-manila-september-9-2026/

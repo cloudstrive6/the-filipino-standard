@@ -5353,3 +5353,15 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 - https://pia.gov.ph/news/pbbm-declares-special-non-working-days-in-ilocos-norte-and-bais-town-in-negros-oriental/
 - https://newsinfo.inquirer.net/2301572/sept-11-ilocos-norte-non-working-day-for-marcos-sr-birth-anniversary
 - https://mb.com.ph/2026/09/10/marcos-declares-local-holidays
+
+## 2026-09-11 19:03 PHT | threads | PUBLISHED LIVE (post_id sp_3QA8oK6lKI4FJUdpEawDO)
+**Topic:** MV June Aster ferry fire off Coron, Palawan (Sept 9, 2026 night), en route Baseco Manila to Coron: 5 confirmed dead, 80+ (reports range 80-87) missing, 43 rescued, manifest 117 passengers + 17 crew. New angle: the recurring pattern of mass-casualty Philippine ferry fires this decade (MV Lady Mary Joy 3, 2023; M/V Mercraft 2, 2022) each producing an inquiry but never a safety regime, distinct from all recently logged topics (class suspensions, peso record low, fuel price, Scarborough, Batanes, PSA, Romualdez, Duterte trial, ICI, habagat, Marcos Ilocos Norte proclamation).
+**Hook:** "Five dead. More than 80 missing." Leads with the raw toll before naming the vessel or route.
+**Angle:** Governance / economic-and-safety-reform pillar. Attacks the absence of an enforced passenger-vessel inspection regime across repeat incidents, not any named official, operator, or crew member.
+**Tagalog beat used:** "Paulit-ulit ang trahedya, hindi umuulit ang pagbabago." (The tragedy repeats, the change does not.) Fresh, specific to this post's repeat-disaster-without-reform contrast.
+**Fact-check:** PASSED. All three claims (MV June Aster toll and route, prior-decade mass-casualty ferry fires, consistent post-incident inquiries) independently verified by the automated Gemini + Google Search fact-check gate before live posting.
+**Sources (verified manually via WebSearch, 2+ reputable sources):**
+- https://www.cnn.com/2026/09/09/asia/philippines-ferry-fire-deaths-intl-hnk
+- https://www.aljazeera.com/news/2026/9/10/five-dead-dozens-missing-in-philippines-ferry-fire
+- https://www.abc.net.au/news/2026-09-11/search-resumes-for-people-missing-after-philippines-ferry-fire/107066072
+- https://www.rappler.com/philippines/luzon/palawan-ferry-fire-deaths-missing-september-10-2026/

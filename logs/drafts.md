@@ -5341,3 +5341,15 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 - https://www.philstar.com/business/2026/09/09/2554901/peso-plunges-new-record-low-vs-dollar
 - https://www.aljazeera.com/economy/2026/9/4/why-has-the-philippines-peso-plunged-to-a-record-low
 - https://tribune.net.ph/2026/09/08/peso-hits-record-low
+
+## 2026-09-11 12:03 PHT | threads | PUBLISHED LIVE (post_id sp_jZ7PGjs3SpehtQVIpGVGd)
+**Topic:** Proclamation No. 1421 (signed Sept 8, 2026 by Executive Secretary Ralph Recto) declares September 11, 2026 a special non-working day in Ilocos Norte for the 109th birth anniversary of the late Ferdinand Marcos Sr. New angle: contrasts the executive's ready use of proclamation power for a family commemoration against the still-open-ended Senate flood control probe (est. P180B diverted to ghost projects since 2016), distinct from all recently logged topics (class suspensions, peso record low, fuel price, Scarborough, Batanes, PSA, Romualdez, Duterte trial, ICI, habagat).
+**Hook:** "A presidential signature can turn a random Tuesday into a holiday." Leads with the mechanism (proclamation power) before naming the specific event.
+**Angle:** Political commentary / constitutional awareness pillar. Attacks the system of executive proclamation priority-setting, not any individual's identity; not an NZ comparison post.
+**Tagalog beat used:** "Kung kayang gawing holiday ang kaarawan, kaya ring gawing holiday ang pananagutan." (If a birthday can be turned into a holiday, accountability can be turned into one too.) Fresh, specific to this post's proclamation-vs-accountability contrast.
+**Fact-check:** PASSED. Both claims (Proclamation No. 1421 details and the P180B flood-control estimate with no closing date) independently verified by the automated Gemini + Google Search fact-check gate before live posting (first attempt hit a transient 503 from the upstream model and was retried once).
+**Sources (verified manually via WebSearch, 2+ reputable sources):**
+- https://www.philstar.com/nation/2026/09/10/2555219/ilocos-norte-marks-late-marcos-109th-birth-anniversary
+- https://pia.gov.ph/news/pbbm-declares-special-non-working-days-in-ilocos-norte-and-bais-town-in-negros-oriental/
+- https://newsinfo.inquirer.net/2301572/sept-11-ilocos-norte-non-working-day-for-marcos-sr-birth-anniversary
+- https://mb.com.ph/2026/09/10/marcos-declares-local-holidays

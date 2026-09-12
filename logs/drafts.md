@@ -5377,3 +5377,15 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 - https://www.pna.gov.ph/articles/1280401
 - https://bangsamoro.gov.ph/news/latest-news/bangsamoro-ready-to-make-history-at-first-parliament-vote/
 - https://www.sunstar.com.ph/manila/comelec-1st-bangsamoro-parliamentary-polls-mark-new-chapter-for-region
+
+## 2026-09-12 19:03 PHT | threads | PUBLISHED LIVE (post_id sp_VvaAV3vtimsn21HEmOysg)
+**Topic:** Meralco's September 2026 residential rate fell 4.09 centavos/kWh (about P8 off a typical 200kWh bill), reported Sept 11-12, 2026, even though the generation charge itself rose 42.32 centavos/kWh on peso weakness and higher Middle East-driven fuel costs; the net decrease only happened because ancillary service and tax charges dropped more than generation rose. New angle: first Meralco/utility-ownership post in the recent window, distinct from all recently logged topics (Bangsamoro Parliament election, MV June Aster ferry fire, Marcos Ilocos Norte proclamation, ICI report suppression, fuel price hike, peso record low, habagat class suspensions, Scarborough, Batanes, PSA, Romualdez, Duterte trial).
+**Hook:** "Meralco's September rate dropped 4 centavos/kWh, about 8 pesos off a typical bill." Leads with the seemingly good news before revealing it is cost-shuffling, not structural reform.
+**Angle:** Economic & utility reform / governance-comparison pillar. Contrasts Meralco's charge-shuffling "savings" against Auckland's Entrust, a 75.1% community-owned trust that returned an actual NZD $364 dividend per household in 2025, to argue PH households get an accounting illusion while NZ households get a real return on an owned asset. Attacks the private-ownership structure (Meralco has never been community-owned in 123 years), not any named official. Includes "NZ isn't perfect either" caveat.
+**Tagalog beat used (closer):** "Walong piso, ipinagmalaki pa." (Eight pesos, and they're still proud of it.) Fresh, specific to this post's P8-savings-as-non-win argument.
+**Fact-check:** First draft FAILED (PHP conversion of NZD $364 rounded to "~P13,000" was flagged as an overestimate vs ~P12,174 at 2025 average rates, and "122 years running" for Meralco since 1903 was arithmetically wrong - should be 123 years as of 2026). Corrected to "~P12,000" and "123 years running"; resubmitted draft PASSED all six claims via independent Gemini + Google Search fact-check gate before live posting.
+**Sources (verified manually via WebSearch, 2+ reputable sources):**
+- https://www.rappler.com/business/meralco-power-rates-september-2026/
+- https://www.manilatimes.net/2026/09/12/business/top-business/meralco-rates-lower-in-september/2423604
+- https://bworldonline.com/top-stories/2026/09/11/776314/meralco-lowers-september-power-rate-by-4-centavos-kwh/
+- https://context.ph/2026/09/11/meralco-cuts-september-power-rates-as-costs-shift/

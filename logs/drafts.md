@@ -5365,3 +5365,15 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 - https://www.aljazeera.com/news/2026/9/10/five-dead-dozens-missing-in-philippines-ferry-fire
 - https://www.abc.net.au/news/2026-09-11/search-resumes-for-people-missing-after-philippines-ferry-fire/107066072
 - https://www.rappler.com/philippines/luzon/palawan-ferry-fire-deaths-missing-september-10-2026/
+
+## 2026-09-12 12:03 PHT | threads | PUBLISHED LIVE (post_id sp_0mIe2RFgekMvebwdFlxXg)
+**Topic:** First-ever direct election for the Bangsamoro Parliament, set for Monday, September 14, 2026, replacing the appointed Bangsamoro Transition Authority (BTA, in place since 2019 with members named by Malacanang). Comelec finished printing roughly 2.39 million official ballots (completed/verified by late July 2026). New angle: devolution of appointed power to an actual ballot, distinct from all recently logged topics (class suspensions, peso record low, fuel price, Scarborough, Batanes, PSA, Romualdez, Duterte trial, ICI, habagat, Marcos Ilocos Norte proclamation, MV June Aster ferry fire).
+**Hook:** "Karapatan ito, hindi kaloob ng Maynila." (This is a right, not a grant from Manila.) - opening Tagalog beat per the planner's opening_hook placement, followed by the Monday election fact.
+**Angle:** Constitutional-awareness pillar. Cites Article II, Section 1 verbatim ("Sovereignty resides in the people and all government authority emanates from them.") to frame the shift from an appointed transition body to an elected parliament as the Constitution's promise finally being tested in one region; attacks the systemic pattern of appointed-not-elected regional governance, not any named official.
+**Tagalog beat used:** "Karapatan ito, hindi kaloob ng Maynila." Fresh, specific to this post's right-vs-grant contrast; placement = opening_hook per threads_tagalog_planner.py (avoids the last-used mid_pivot and the "Bumabaha pa rin. Walang pondo." phrase).
+**Fact-check:** PASSED. All four claims (election date/first-ever status succeeding the appointed BTA, Comelec's ~2.3 million printed ballots, BTA's appointed history since 2019, and the Art II Sec 1 constitutional text) independently verified by the automated Gemini + Google Search fact-check gate before live posting.
+**Sources (verified manually via WebSearch, 2+ reputable sources):**
+- https://businessmirror.com.ph/2026/09/12/bangsamoro-faces-history-in-first-parliament-vote/
+- https://www.pna.gov.ph/articles/1280401
+- https://bangsamoro.gov.ph/news/latest-news/bangsamoro-ready-to-make-history-at-first-parliament-vote/
+- https://www.sunstar.com.ph/manila/comelec-1st-bangsamoro-parliamentary-polls-mark-new-chapter-for-region

@@ -5401,3 +5401,16 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 - https://www.pna.gov.ph/articles/1283603
 - https://newsinfo.inquirer.net/2301677/marcos-vows-to-sustain-ph-education-push-after-pisa-gains
 - https://www.beehive.govt.nz/release/results-stabilise-more-work-do
+
+## 2026-09-13 19:05 PHT | threads | PUBLISH FAILED (not posted, credential error)
+**Topic:** PNP's nationwide Unified 911 system marked its first anniversary (launched Sept 11, 2025): 86,614 incident calls, 96.38% answered within the five-minute benchmark. Contrasted with New Zealand's own 111 emergency line, still running on its original 1958-era model and now under public pressure (RNZ) to be replaced. New angle, not used in the recent window (Meralco rates, PISA, Bangsamoro Parliament election, MV June Aster ferry fire, Marcos Ilocos Norte proclamation, ICI report suppression, fuel price hike, peso record low, habagat class suspensions, Scarborough, Batanes, PSA, Romualdez, Duterte trial).
+**Hook:** "PNP's Unified 911 turned one this month: 86,614 calls, 96.38% answered within the five-minute benchmark promised." Leads with the government's own headline number before the reveal.
+**Angle:** Governance-comparison pillar, credit-where-due framing: PH stood up a working nationwide emergency system in one year, while NZ's revered 111 line is still on 1958-era infrastructure Kiwis are pushing to replace ("it's not perfect, no country is" caveat included verbatim). Verdict pivots to a demand: if this speed is possible when the government commits, it should not be the exception. Attacks pace/inconsistency of government delivery as a system issue, not any named official.
+**Tagalog beat used (closer):** "Kaya palang mabilis, kung gusto talaga." (Turns out it can be fast, if it's really wanted.) Fresh, specific to this post's response-time argument.
+**Fact-check:** Caption was validated against brand rules (no em dash, third person, under 500 chars, NZ caveat verbatim) before publish. Did not reach the independent Gemini fact-check gate.
+**Publish attempt:** `scripts/publish_direct.py --platforms threads --live` failed before fact-check with `HTTP 401 err:frontline:client:invalid_key` from the Post for Me API (`get_social_accounts`). The `POSTFORME_API_KEY` in this environment is being rejected as invalid/expired. TFS_LIVE was `true`, so a live attempt was correct per the loop rules; nothing was published. This is a credential/infra issue, not a content issue — needs the operator to check/rotate `POSTFORME_API_KEY`. Caption above is verified and ready to reuse once the key is fixed; do not treat this topic as already covered when picking the next angle.
+**Sources (verified manually via WebSearch, 2+ reputable sources):**
+- https://tribune.net.ph/2026/09/12/unified-911-marks-first-year-with-96-response-rate
+- https://pco.gov.ph/news_releases/pbbm-observes-pnps-quick-911-response-time/
+- https://www.rnz.co.nz/news/emergencies_local/585202/pressure-grows-to-fix-111-emergency-call-system-with-1958-model-still-in-use
+- https://fireandemergency.nz/news-and-media/60-years-of-111/

@@ -5389,3 +5389,15 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 - https://www.manilatimes.net/2026/09/12/business/top-business/meralco-rates-lower-in-september/2423604
 - https://bworldonline.com/top-stories/2026/09/11/776314/meralco-lowers-september-power-rate-by-4-centavos-kwh/
 - https://context.ph/2026/09/11/meralco-cuts-september-power-rates-as-costs-shift/
+
+## 2026-09-13 12:05 PHT | threads | PUBLISHED LIVE (post_id sp_Q7HCvF52VbFIkieNZxw6)
+**Topic:** Marcos hailed the Philippines' PISA 2025 results (released Sept 8, 2026) as the country's best-ever performance: reading 367 (+20 vs 2022), math 371 (+16), science 373 (+17). Despite the gain, PH still ranks 72nd-77th out of 91 participating systems. New Zealand's PISA 2025 reading score (497) is its worst in 20 years, yet NZ still outscores PH's best-ever result by 109-136 points across all three subjects. New angle: first education/PISA post in the recent window, distinct from June's DepEd calendar/classroom-shortage posts and all other recently logged topics (Meralco rates, Bangsamoro Parliament election, MV June Aster ferry fire, Marcos Ilocos Norte proclamation, ICI report suppression, fuel price hike, peso record low, habagat class suspensions, Scarborough, Batanes, PSA, Romualdez, Duterte trial).
+**Hook:** "Marcos calls PISA 2025 the country's best score ever. Gains are real: reading up 20, math up 16, science up 17 points since 2022." Leads with the government's own celebratory framing before the reveal.
+**Angle:** Governance-comparison / constitutional-awareness pillar (education). Attacks the "best ever" spin, not Marcos personally: real improvement is being used to obscure that PH remains near the bottom of 91 systems, while even a declining New Zealand still beats PH's best-ever score by triple-digit margins in every subject. Includes the "no system is flawless, not even a declining one" caveat when citing NZ.
+**Tagalog beat used (closer):** "Pinakamagaling daw. Nasa ilalim pa rin." (Supposedly the best. Still at the bottom.) Fresh, specific to this post's best-ever-but-still-last argument.
+**Fact-check:** First draft FAILED (claimed NZ beats PH by "over 130 points in every subject" - math gap is only 109 points, so the claim didn't hold for every subject). Corrected to "more than 100 points in every subject" (true for all three: 109/130/136); resubmitted draft PASSED all four claims via independent Gemini + Google Search fact-check gate before live posting.
+**Sources (verified manually via WebSearch, 2+ reputable sources):**
+- https://www.philstar.com/headlines/2026/09/08/2554872/pisa-2025-philippines-breaks-out-bottom-10-sees-best-lift-reading
+- https://www.pna.gov.ph/articles/1283603
+- https://newsinfo.inquirer.net/2301677/marcos-vows-to-sustain-ph-education-push-after-pisa-gains
+- https://www.beehive.govt.nz/release/results-stabilise-more-work-do

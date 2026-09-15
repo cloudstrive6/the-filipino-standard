@@ -5452,3 +5452,14 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 **Sources (verified manually via WebSearch, 2+ reputable sources):**
 - https://mb.com.ph/2026/09/11/maynilad-manila-water-announce-rate-hikes
 - https://www.philstar.com/headlines/2026/09/12/2555681/higher-water-bills-coming-next-month
+
+## 2026-09-15 19:03 PHT | threads | PUBLISHED LIVE (post_id sp_OqiyTlwYBy15nMRNV1k6)
+**Topic:** Metro Manila Subway groundbreaking was Feb 27, 2019, originally targeted for full operation by 2027. As of mid-September 2026, Manila Water is still relocating major water/sewer utilities in Pasig and Quezon City to clear the way for subway construction, with segments targeted for completion end of Sept/Oct 2026. DOTr now says partial operations won't happen until 2032, five years past the original full-completion target. New angle: infrastructure-delivery/governance-comparison pillar, first Metro Manila Subway post in the recent window, distinct from all recently logged topics (MWSS water rate hikes/FCDA, Meralco Sept rate cut, Bangsamoro Parliament election/results, PISA 2025, Unified 911 anniversary, Duterte trial, peso record low, flood control/ICI probe, Marcos Ilocos Norte proclamation, MV June Aster ferry fire).
+**Hook:** "Groundbreaking for the Metro Manila Subway: February 2019, promised complete by 2027." Flat factual open, payoff is how little has changed since.
+**Angle:** Governance comparison / economic infrastructure pillar. Attacks the systemic pattern of megaproject slippage (right-of-way delays, no accountability mechanism for missed deadlines), not any named official or company.
+**Tagalog beat used (closer):** "Pitong taon, tubo lang ang nailipat. Kailan pa ang tren?" (Seven years, only pipes have been moved. When will the train come?) Fresh, specific to the pipe-relocation-vs-actual-train-progress irony; not reused from any prior logged beat.
+**Fact-check:** PASSED. All five claims (Feb 2019 groundbreaking, original 2027 target, Manila Water's Sept 2026 pipe relocations, DOTr's 2032 partial-ops revision, the five-year slippage) independently verified by the automated Gemini + Google Search fact-check gate before live posting.
+**Sources (verified manually via WebSearch, 2+ reputable sources):**
+- https://businessmirror.com.ph/2026/09/14/manila-water-set-to-complete-key-utility-relocations-for-metro-manila-subway-project/
+- https://newsinfo.inquirer.net/2304965/manila-water-to-complete-key-utility-relocations-for-subway-project
+- https://newsinfo.inquirer.net/2045122/fwd-metro-manila-subways-partial-operation-possible-by-2032-dotr-chief

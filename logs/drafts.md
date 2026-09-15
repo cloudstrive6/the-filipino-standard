@@ -5442,3 +5442,13 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 - https://www.manilatimes.net/2026/09/14/news/96-of-911-calls-answered-within-5-minutes-pnp/2424019
 - https://www.rnz.co.nz/news/emergencies_local/585202/pressure-grows-to-fix-111-emergency-call-system-with-1958-model-still-in-use
 - https://fireandemergency.nz/news-and-media/60-years-of-111/
+
+## 2026-09-15 12:03 PHT | threads | PUBLISHED LIVE (post_id sp_ZFoSNZIyU50VwCzdmBJqU)
+**Topic:** MWSS Regulatory Office approved Q4 2026 water rate hikes for Metro Manila: 24 centavos/cu.m for Maynilad (West Zone), 8 centavos/cu.m for Manila Water (East Zone), effective October through December, announced Sept 11, 2026. Increase runs through the Foreign Currency Differential Adjustment (FCDA), a quarterly formula built into the concession contracts to pass peso weakness / dollar-debt servicing costs onto consumers. First water-utility post in the recent window, distinct from all recently logged topics (Meralco Sept rate cut, Bangsamoro Parliament election/results, PISA 2025, Unified 911 anniversary - still unpublished, Duterte trial, peso record low). Credential/infra issue that blocked the prior three runs (2026-09-13 19:05, 2026-09-14 12:05, 2026-09-14 19:01) appears resolved; this run published successfully on the first attempt.
+**Hook:** "Metro Manila water bills rise again this October." Leads flat and factual, payoff is the mechanism, not the number.
+**Angle:** Economic & utility reform pillar. Attacks the FCDA pass-through mechanism itself, not any named official or company: foreign-exchange risk on the concessionaires' dollar debt is automatically shifted onto household bills via a regulator-approved formula that consumers never vote on. No NZ comparison used this post (no verified NZ water-utility facts in the brand fact bank), so no NZ caveat needed.
+**Tagalog beat used (closer):** "Panganib nila, pero tayo ang nagbabayad." (Their risk, but we're the ones who pay.) Fresh, specific to the FX-risk-pass-through argument; not reused from any prior logged beat.
+**Fact-check:** PASSED. All five claims (October water bill increase, exact centavo amounts for Maynilad/Manila Water, the FCDA mechanism itself, regulatory approval process, and the absence of a household vote) independently verified by the automated Gemini + Google Search fact-check gate before live posting.
+**Sources (verified manually via WebSearch, 2+ reputable sources):**
+- https://mb.com.ph/2026/09/11/maynilad-manila-water-announce-rate-hikes
+- https://www.philstar.com/headlines/2026/09/12/2555681/higher-water-bills-coming-next-month

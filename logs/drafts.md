@@ -5475,3 +5475,14 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 - https://www.philstar.com/business/2026/09/14/2556240/pump-prices-jump-more-p4-liter-week
 - https://businessmirror.com.ph/2026/09/14/big-time-pump-price-hikes-gas-at-%E2%82%B15-68-diesel-at-%E2%82%B14-31/
 - https://pco.gov.ph/news_releases/fuel-subsidy-program-for-puv-drivers-to-continue-palace-says/
+
+## 2026-09-16 19:02 PHT | threads | PUBLISHED LIVE (post_id sp_pjw4mAd8yQ2lVdRDpruG5)
+**Topic:** DOE launched the country's first-ever mid-merit natural gas auction, over 3,800 MW (3,840 MW) of capacity across Luzon and Visayas, positioned as flexible backup power to compensate for solar/wind intermittency, contracts targeted for award by Q4 2026. Distinct from all other recently logged topics (fuel price hikes/Pantawid Pasada, MWSS water rate hikes/FCDA, Metro Manila Subway slippage, Meralco Sept rate cut, Bangsamoro Parliament election/results, PISA 2025, Unified 911 anniversary, Duterte trial, peso record low, flood control/ICI probe, Marcos Ilocos Norte proclamation, MV June Aster ferry fire).
+**Hook:** "The DOE just launched the country's first-ever mid-merit natural gas auction." Leads with the "first-ever" framing before the megawatt figure.
+**Angle:** Economic & utility reform / governance pillar. Attacks the sequencing failure in energy-system planning (building the grid-flexibility backup only after renewables are already straining the system, not before) rather than any named official or company. Closer questions who actually benefits from the new capacity.
+**Tagalog beat used (closer):** "Bagong planta man ito, lumang tanong pa rin: sino talaga ang unang makikinabang?" (Even if it's a new plant, it's the same old question: who really benefits first?) Fresh, specific to this post's new-infrastructure-old-pattern contrast; not reused from any prior logged beat.
+**Fact-check:** PASSED. All claims (first-ever mid-merit gas auction status, the 3,800+/3,840 MW capacity figure, and the flexible-backup-for-renewable-intermittency purpose) independently verified by the automated Gemini + Google Search fact-check gate before live posting.
+**Sources (verified manually via WebSearch, 2+ reputable sources):**
+- https://bworldonline.com/economy/2026/09/15/777544/gas-auction-to-offer-resources-equivalent-to-3800-mw-in-capacity/
+- https://mb.com.ph/2026/09/15/doe-may-auction-38-gw-of-gas-power-to-support-grid-stability
+- https://business.inquirer.net/577711/doe-plans-auction-for-mid-merit-natural-gas-capacity

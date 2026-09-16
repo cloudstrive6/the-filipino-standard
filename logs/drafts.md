@@ -5463,3 +5463,15 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 - https://businessmirror.com.ph/2026/09/14/manila-water-set-to-complete-key-utility-relocations-for-metro-manila-subway-project/
 - https://newsinfo.inquirer.net/2304965/manila-water-to-complete-key-utility-relocations-for-subway-project
 - https://newsinfo.inquirer.net/2045122/fwd-metro-manila-subways-partial-operation-possible-by-2032-dotr-chief
+
+## 2026-09-16 12:04 PHT | threads | PUBLISHED LIVE (post_id sp_uIotj1SaO4aBkzHiGqMu)
+**Topic:** Second fuel price hike in eight days: gasoline +P5.68/L, diesel +P4.31/L effective September 15, 2026 (following the Sept 8 hike of +P4.69/L gasoline, +P5.18/L diesel), cumulative two-week rise of P10.37/L gasoline and P9.49/L diesel, with diesel expected to cross P100/L in parts of Metro Manila this week. New angle: the Pantawid Pasada fuel-subsidy program pays a fixed, predetermined amount per PUV unit once activated, not one that scales with the speed or frequency of back-to-back weekly pump-price hikes, distinct from the Sept 8/9 fuel-price/no-buffer-fund post (which argued the absence of a strategic reserve under RA 8479) and all other recently logged topics (MWSS water rate hikes/FCDA, Metro Manila Subway slippage, Meralco Sept rate cut, Bangsamoro Parliament election/results, PISA 2025, Unified 911 anniversary, Duterte trial, peso record low, flood control/ICI probe, Marcos Ilocos Norte proclamation, MV June Aster ferry fire).
+**Hook:** "Two fuel price hikes in eight days." Leads with the back-to-back frequency before the peso figures.
+**Angle:** Economic & utility reform pillar. Attacks the mismatch between how fast pump prices move (weekly, formula-driven) and how the transport-subsidy safety net is disbursed (fixed sum, one-time activation), not any named official or company.
+**Tagalog beat used (closer):** "Presyo, tumataas linggo-linggo. Ayuda, minsan lang." (Price, rises every week. Aid, only once in a while.) Fresh, specific to this post's price-velocity-vs-subsidy-velocity contrast; not reused from any prior logged beat.
+**Fact-check:** PASSED. All claims (Sept 8 and Sept 15 hike amounts, the eight-day gap, the two-week cumulative totals, diesel crossing P100/L in parts of Metro Manila, and the Pantawid Pasada fixed-per-unit/non-dynamic subsidy structure) independently verified by the automated Gemini + Google Search fact-check gate before live posting.
+**Sources (verified manually via WebSearch, 2+ reputable sources):**
+- https://www.rappler.com/business/fuel-prices-adjustments-september-15-2026/
+- https://www.philstar.com/business/2026/09/14/2556240/pump-prices-jump-more-p4-liter-week
+- https://businessmirror.com.ph/2026/09/14/big-time-pump-price-hikes-gas-at-%E2%82%B15-68-diesel-at-%E2%82%B14-31/
+- https://pco.gov.ph/news_releases/fuel-subsidy-program-for-puv-drivers-to-continue-palace-says/

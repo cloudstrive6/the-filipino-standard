@@ -5486,3 +5486,14 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 - https://bworldonline.com/economy/2026/09/15/777544/gas-auction-to-offer-resources-equivalent-to-3800-mw-in-capacity/
 - https://mb.com.ph/2026/09/15/doe-may-auction-38-gw-of-gas-power-to-support-grid-stability
 - https://business.inquirer.net/577711/doe-plans-auction-for-mid-merit-natural-gas-capacity
+
+## 2026-09-17 12:03 PHT | threads | PUBLISHED LIVE (post_id sp_9zvYbHKH9AhzyWmfjHGzY)
+**Topic:** Harry Roque, former presidential spokesperson, has an outstanding arrest warrant for qualified human trafficking (Angeles City RTC Branch 118, issued May 8, 2025) tied to the Lucky South 99 POGO hub in Porac, Pampanga, remains abroad (reportedly sought asylum in the Netherlands), while the Philippine government (PAOCC/DILG Sec. Remulla) has requested or is pursuing an Interpol red notice to bring him back. Distinct from all other recently logged topics (fuel price hikes/Pantawid Pasada, MWSS water rate hikes/FCDA, Metro Manila Subway slippage, Meralco Sept rate cut, Bangsamoro Parliament election/results, PISA 2025, Unified 911 anniversary, Duterte trial, peso record low, flood control/ICI probe, Marcos Ilocos Norte proclamation, MV June Aster ferry fire, DOE mid-merit gas auction).
+**Hook:** "Tumatakbo, pero wala nang matakbuhan." (opening Tagalog beat, per planner's `opening_hook` placement.)
+**Angle:** Political commentary / constitutional-accountability pillar. Attacks the slow, paperwork-gated extradition/enforcement system (a live warrant means little if actual recovery hinges on waiting for an Interpol red notice) rather than Roque's personal identity; he is named only as the factual anchor of the warrant and red-notice request.
+**Tagalog beat used (opener):** "Tumatakbo, pero wala nang matakbuhan." (He's running, but there's nowhere left to run.) Fresh, not reused from any prior logged beat; placement = opening_hook per `threads_tagalog_planner.py peek`.
+**Fact-check:** First draft (claiming two European countries had rejected his asylum bids) FAILED the automated Gemini + Google Search gate because Roque disputes that claim as "fake news" with his own pending-application counter-claim; that angle was dropped per the one-retry rule. Revised draft using only the undisputed claims (warrant since May 2025, remains abroad, Interpol red notice pending) PASSED.
+**Sources (verified manually via WebSearch, 2+ reputable sources):**
+- https://mb.com.ph/2026/09/15/remulla-harry-roques-netherlands-asylum-bid-rejected
+- https://www.pna.gov.ph/articles/1252415
+- https://www.rappler.com/philippines/netherlands-denies-harry-roque-asylum-bid/

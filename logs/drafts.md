@@ -5497,3 +5497,13 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 - https://mb.com.ph/2026/09/15/remulla-harry-roques-netherlands-asylum-bid-rejected
 - https://www.pna.gov.ph/articles/1252415
 - https://www.rappler.com/philippines/netherlands-denies-harry-roque-asylum-bid/
+
+## 2026-09-17 19:03 PHT | threads | PUBLISHED LIVE (post_id sp_0QrxIybT0k5Mm6oH2rf2)
+**Topic:** PhilHealth Circular 2026-0013 ("Coverage for Inpatient Admissions of Less than 24 Hours"), effective September 18, 2026, expands reimbursement eligibility for inpatient stays under 24 hours only when the patient dies while confined or is transferred for continued medically necessary care; dispositions of "improved," "recovered," discharge/home against medical advice, or absconded remain excluded, and DOA patients are not covered under this circular at all. Distinct from all other recently logged topics (fuel price hikes/Pantawid Pasada, MWSS water rate hikes/FCDA, Metro Manila Subway slippage, Meralco Sept rate cut, Bangsamoro Parliament election/results, PISA 2025, Unified 911 anniversary, Duterte trial, peso record low, flood control/ICI probe, Marcos Ilocos Norte proclamation, MV June Aster ferry fire, DOE mid-merit gas auction, Harry Roque warrant/Interpol). First PhilHealth/health-insurance post in the recent window.
+**Hook:** "Sinusukat pa rin sa oras, hindi sa sakit." (opening Tagalog beat, per planner's `opening_hook` placement.)
+**Angle:** Economic & utility reform / governance-comparison pillar. Attacks the confinement-clock design of PhilHealth's reimbursement model (coverage keyed to how fast an admission resolves rather than whether care was medically necessary), not any individual official.
+**Tagalog beat used (opener):** "Sinusukat pa rin sa oras, hindi sa sakit." (Still measured by the clock, not by the illness.) Fresh, not reused from any prior logged beat.
+**Fact-check:** Passed the automated Gemini + Google Search gate on the first draft; all three claims (circular number/effective date, death-or-transfer reimbursement condition, non-coverage of "improved/recovered" dispositions) verified.
+**Sources (verified manually via WebSearch, 2+ reputable sources):**
+- https://www.manilatimes.net/2026/09/17/news/national/philhealth-issues-inpatient-admission-guidelines/2426757
+- https://newsinfo.inquirer.net/2306610/under-24-hour-hospital-stay-covered-philhealth

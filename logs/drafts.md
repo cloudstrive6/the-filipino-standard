@@ -5518,3 +5518,15 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 **Sources (verified manually via WebSearch, 2+ reputable sources):**
 - https://www.rappler.com/environment/deadliest-country-asia-environmental-defenders-2025/
 - https://astig.ph/philippines-deadliest-asia-environmental-defenders-13th-year-2026/
+
+## 2026-09-18 19:03 PHT | threads | PUBLISHED LIVE (post_id sp_g8MYWNjkpBG1h1EmC)
+**Topic:** DOJ subpoenaed Sen. Robin Padilla (and chief of staff) over an obstruction of justice complaint tied to Sen. Ronald "Bato" dela Rosa's evasion of an ICC arrest warrant; Padilla admits giving dela Rosa a ride but insists it was "just a lift," not help evading arrest. DOJ and the Ombudsman are investigating the complaint separately but will coordinate findings; counter-affidavits due September 25 and October 9, 2026. Distinct from all recently logged topics (PhilHealth 24-hour admission circular, Global Witness land/environmental defenders report, Harry Roque asylum/Interpol, Duterte ICC trial, peso record low, flood control/ICI probe, Marcoleta arrest, MV June Aster ferry fire, DOE gas auction, Bangsamoro Parliament election, PISA 2025, Unified 911 anniversary) - first post on the Padilla/dela Rosa obstruction-of-justice probe.
+**Note:** First draft claimed Padilla "admitted...to help him evade" the warrant and said counter-affidavits were due "in two weeks, another due in three" - FAILED the automated Gemini + Google Search fact-check (Padilla explicitly denies intent to help evade, calling it just a lift; and the interval math was off). Per the one-retry rule, corrected the claim to match Padilla's actual on-record position and dropped the interval framing in favor of the plain dates, then republished; passed on the second attempt.
+**Hook:** "A senator admits he gave a colleague a ride while that colleague was dodging an international arrest warrant, insisting it was just a lift, not help."
+**Angle:** Governance / political-commentary pillar. Attacks the accountability system's slowness and the two-track DOJ/Ombudsman process, not the senator's personal identity.
+**Tagalog beat used (closer):** "Umamin na siya. Pero wala pa ring nangyari." (He's already admitted it. But still nothing has happened.) Fresh, not reused from any prior logged beat.
+**Fact-check:** Second draft passed the automated Gemini + Google Search gate on all four claims (the ride/"just a lift" framing, DOJ+Ombudsman separate-but-coordinated probe, the September 25/October 9 counter-affidavit dates, no hearing yet on the obstruction complaint itself).
+**Sources (verified manually via WebSearch, 2+ reputable sources):**
+- https://www.manilatimes.net/2026/09/18/news/national/doj-ombudsman-probe-padilla-on-obstruction-case-will-coordinate-findings/2428147
+- https://newsinfo.inquirer.net/2303738/obstruction-complaint-vs-robin-padilla-still-under-probe-doj
+- https://www.philstar.com/headlines/2026/09/15/2556497/doj-summons-robin-padilla-6-others-over-bato-dela-rosa-escape

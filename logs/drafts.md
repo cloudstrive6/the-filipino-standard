@@ -5507,3 +5507,14 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 **Sources (verified manually via WebSearch, 2+ reputable sources):**
 - https://www.manilatimes.net/2026/09/17/news/national/philhealth-issues-inpatient-admission-guidelines/2426757
 - https://newsinfo.inquirer.net/2306610/under-24-hour-hospital-stay-covered-philhealth
+
+## 2026-09-18 12:04 PHT | threads | PUBLISHED LIVE (post_id sp_0bdx157Hp9Wz91pdLp96)
+**Topic:** Global Witness report (released Sept 16, 2026) names the Philippines Asia's deadliest country for land and environmental defenders for the 13th consecutive year, with 12 killings documented in 2025; the report links the violence to the government's own counterinsurgency programs and extractive projects, and notes 5 of the 12 killings had suspected military involvement. Distinct from all recently logged topics (PhilHealth 24-hour admission circular, Harry Roque asylum/Interpol, Duterte ICC trial, peso record low, flood control/ICI probe, Marcoleta arrest, MV June Aster ferry fire, DOE gas auction, Bangsamoro Parliament election, PISA 2025, Unified 911 anniversary) - first post on land/environmental defender killings and the counterinsurgency-extractive link.
+**Note:** First draft angle (VP Sara Duterte impeachment - three retired Chief Justices split 3-1 on whether the 16-vote conviction threshold is fixed, reported Sept 16-17, 2026 by Rappler and Manila Times) FAILED the automated Gemini + Google Search fact-check gate, which could not corroborate that an impeachment trial was underway at all (likely a verifier grounding/indexing gap on very recent news, not a factual error - manually confirmed via Rappler and Manila Times). Per the one-retry rule, switched to this fully corroborated alternative rather than attempt a third draft.
+**Hook:** "For the 13th year running, the Philippines is Asia's deadliest country for land and environmental defenders."
+**Angle:** Governance / constitutional-awareness pillar (Article II, Section 4: "The prime duty of the Government is to serve and protect the people"). Attacks the counterinsurgency-and-extraction system that produces the killings, not any named individual or unit.
+**Tagalog beat used (closer):** "Labintatlong taon na ang 'numero uno' - pero hindi ito parangal." (Thirteen years already as 'number one' - but this is not an honor.) Fresh, not reused from any prior logged beat.
+**Fact-check:** Second draft passed the automated Gemini + Google Search gate on all five claims (13th-year ranking, 12 killings in 2025, counterinsurgency/extractive-project link, 5 of 12 with suspected military involvement, Art. II Sec. 4 citation).
+**Sources (verified manually via WebSearch, 2+ reputable sources):**
+- https://www.rappler.com/environment/deadliest-country-asia-environmental-defenders-2025/
+- https://astig.ph/philippines-deadliest-asia-environmental-defenders-13th-year-2026/

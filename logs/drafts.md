@@ -5530,3 +5530,15 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 - https://www.manilatimes.net/2026/09/18/news/national/doj-ombudsman-probe-padilla-on-obstruction-case-will-coordinate-findings/2428147
 - https://newsinfo.inquirer.net/2303738/obstruction-complaint-vs-robin-padilla-still-under-probe-doj
 - https://www.philstar.com/headlines/2026/09/15/2556497/doj-summons-robin-padilla-6-others-over-bato-dela-rosa-escape
+
+## 2026-09-19 12:02 PHT | threads | PUBLISHED LIVE (post_id sp_2wICTkjXYb1mol9LJNz3q)
+**Topic:** A China Coast Guard vessel (CCG-21585) rammed the Philippine BFAR government vessel BRP Datu Magat Salamat on Sept 18, 2026, while it was delivering subsidized fuel to Filipino fishermen ~54 nautical miles off Palawan (near Abad Santos Shoal), well inside the Philippines' 200nm exclusive economic zone. The collision bent/broke railings and deformed deck structures on the BFAR vessel's starboard side; China's coast guard disputes fault, claiming the PH vessel cut across its bow. Distinct from all recently logged topics (Padilla/dela Rosa obstruction probe, PhilHealth 24-hour admission circular, Global Witness land/environmental defenders report, Harry Roque asylum/Interpol, Duterte ICC trial, peso record low, flood control/ICI probe, Marcoleta arrest, MV June Aster ferry fire, DOE gas auction, Bangsamoro Parliament election, PISA 2025, Unified 911 anniversary) - first post on this specific fuel-subsidy-mission ramming incident, and a fresh West Philippine Sea angle distinct from the earlier Scarborough radar-lock/Batanes posts (early Sept).
+**Hook:** "A Chinese Coast Guard ship rammed a Philippine government vessel on Friday, not a warship, a fuel boat delivering subsidized diesel to Filipino fishermen 54 nautical miles off Palawan, inside the country's own exclusive economic zone."
+**Angle:** Governance/constitutional-awareness pillar. Attacks the enforcement gap behind the 2016 arbitral ruling (a legal win with no enforcement mechanism), not any named individual or the Chinese state as a monolith.
+**Tagalog beat used (closer):** "Walang parusa kaya walang tigil." (No punishment, so no stopping.) Fresh, not reused from any prior logged beat.
+**Fact-check:** Passed the automated Gemini + Google Search gate on all four claims (the ramming and vessel identity, the fuel-subsidy civilian-mission framing, the 54nm/inside-EEZ location, and the 2016 arbitral ruling's substance) on the first attempt.
+**Sources (verified manually via WebSearch, 2+ reputable sources):**
+- https://www.philstar.com/headlines/2026/09/18/2557168/watch-china-coast-guard-vessel-rams-bfar-ship-palawan
+- https://www.inquirer.net/490012/pcg-china-coast-guard-ship-rams-bfar-vessel-off-palawan/
+- https://www.gmanetwork.com/news/topstories/nation/1002818/chinese-vessel-rams-ph-ship-on-fuel-subsidy-mission-near-palawan/story/
+- https://www.pna.gov.ph/articles/1284356

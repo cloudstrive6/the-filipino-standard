@@ -5542,3 +5542,15 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 - https://www.inquirer.net/490012/pcg-china-coast-guard-ship-rams-bfar-vessel-off-palawan/
 - https://www.gmanetwork.com/news/topstories/nation/1002818/chinese-vessel-rams-ph-ship-on-fuel-subsidy-mission-near-palawan/story/
 - https://www.pna.gov.ph/articles/1284356
+
+## 2026-09-19 19:03 PHT | threads | PUBLISHED LIVE (post_id sp_TLtx1hOGix36cjns69kGT)
+**Topic:** Following the Sept 18, 2026 Banga National High School shooting in South Cotabato (a Grade 9 student used his DepEd-employee father's licensed gun), DILG Secretary Jonvic Remulla is asking the Supreme Court to amend firearm IRR to let the PNP conduct warrantless inspections of every licensed gun owner's home storage, noting this is the third such incident in 2026 (after Tacloban in June and Zamboanga in August) involving a government employee's registered gun left accessible to a minor. Distinct from all recently logged topics (China Coast Guard/BFAR ramming, Padilla/dela Rosa obstruction probe, PhilHealth 24-hour admission circular, Global Witness land defenders report, Harry Roque asylum/Interpol, Duterte ICC trial, peso record low, flood control/ICI probe, Marcoleta arrest, MV June Aster ferry fire, DOE gas auction, Bangsamoro Parliament election, PISA 2025, Unified 911 anniversary) - first post on the school-shooting/gun-storage-enforcement angle.
+**Hook:** "Tatlo na ang beses. Wala pa ring pinapatupad na batas." (opening Tagalog beat, per planner's `opening_hook` placement.)
+**Angle:** Constitutional-awareness / governance pillar. Attacks the system's reflex to expand warrantless search power instead of enforcing the gun-storage rule already broken three times by government employees themselves; DILG referenced only as the department making the proposal, no individual attacked.
+**Tagalog beat used (opener):** "Tatlo na ang beses. Wala pa ring pinapatupad na batas." (Three times already. Still no enforced law.) Fresh, not reused from any prior logged beat.
+**Fact-check:** Passed the automated Gemini + Google Search gate on all three claims (the DepEd-father's-licensed-gun facts, the third-incident-this-year pattern per DILG including the Tacloban/Zamboanga precedents, and the warrantless-inspection Supreme Court proposal) on the first attempt.
+**Sources (verified manually via WebSearch, 2+ reputable sources):**
+- https://tribune.net.ph/2026/09/19/dilg-sec-remulla-seeks-warrantless-gun-storage-checks-after-banga-shooting
+- https://www.philstar.com/headlines/2026/09/19/2557398/south-cotabato-school-shooter-used-deped-employee-fathers-gun
+- https://www.manilatimes.net/2026/09/19/news/father-of-banga-school-shooting-suspect-is-deped-employee-owner-of-gun-used/2428616
+- https://tempo.mb.com.ph/2026/09/19/remulla-demands-tougher-firearms-rules-after-3rd-school-rampage/

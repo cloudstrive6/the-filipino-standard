@@ -5554,3 +5554,15 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 - https://www.philstar.com/headlines/2026/09/19/2557398/south-cotabato-school-shooter-used-deped-employee-fathers-gun
 - https://www.manilatimes.net/2026/09/19/news/father-of-banga-school-shooting-suspect-is-deped-employee-owner-of-gun-used/2428616
 - https://tempo.mb.com.ph/2026/09/19/remulla-demands-tougher-firearms-rules-after-3rd-school-rampage/
+
+## 2026-09-20 12:04 PHT | threads | PUBLISHED LIVE (post_id sp_sCabFMuNbUeidJDZE56Jm)
+**Topic:** On Aug 26, 2026 (news released Sept 16, 2026) the Supreme Court issued a unanimous writ of mandamus ordering Congress to immediately pass the anti-political dynasty law required by Article II, Section 26 of the 1987 Constitution, ruling that 39 years of non-compliance constitutes "grave abuse of discretion" and "manifest injustice." Distinct from all recently logged topics (Banga school shooting/gun storage, China Coast Guard/BFAR ramming, Padilla/dela Rosa obstruction probe, PhilHealth 24-hour admission circular, Global Witness land defenders report, Harry Roque asylum/Interpol, Duterte ICC trial, peso record low, flood control/ICI probe, Marcoleta arrest, MV June Aster ferry fire, DOE gas auction, Bangsamoro Parliament election, PISA 2025, Unified 911 anniversary) - first post on the SC anti-dynasty mandamus ruling.
+**Hook:** "The Supreme Court just ordered Congress to do what it dodged for 39 years: pass the anti-political dynasty law required by the 1987 Constitution."
+**Angle:** Constitutional-awareness pillar. Attacks Congress as an institution for 39 years of inaction on a constitutional duty, and the entrenched-dynasty system itself, not any named politician or family.
+**Tagalog beat used (closer):** "Utos na ng Korte Suprema. Kailan pa isasabatas?" (It's already an order of the Supreme Court. When will it finally be made law?) Fresh, not reused from any prior logged beat.
+**Fact-check:** Passed the automated Gemini + Google Search gate on all five claims (SC ruling date/nature, 39-year dodge characterization, writ of mandamus mechanism, Article II Sec 26 text, and Congress's non-enactment history) on the first attempt.
+**Sources (verified manually via WebSearch, 2+ reputable sources):**
+- https://www.manilatimes.net/2026/09/17/news/national/court-orders-congress-legislate-dynasty-ban/2426849
+- https://www.philstar.com/headlines/2026/09/17/2556896/sc-directs-congress-pass-anti-dynasty-law
+- https://www.rappler.com/philippines/why-supreme-court-decision-congress-pass-anti-dynasty-law/
+- https://sc.judiciary.gov.ph/press-briefer-september-16-2026/

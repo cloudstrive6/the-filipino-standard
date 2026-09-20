@@ -5566,3 +5566,15 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 - https://www.philstar.com/headlines/2026/09/17/2556896/sc-directs-congress-pass-anti-dynasty-law
 - https://www.rappler.com/philippines/why-supreme-court-decision-congress-pass-anti-dynasty-law/
 - https://sc.judiciary.gov.ph/press-briefer-september-16-2026/
+
+## 2026-09-20 19:03 PHT | threads | PUBLISHED LIVE (post_id sp_1BnwsFAKRrX8gGZr867jL)
+**Topic:** During the Sara Duterte impeachment trial (Day 25-26, Sept 15-16, 2026), an Ombudsman records official testified that VP Duterte's declared net worth rose from P7.25 million (2007) to P98.656 million (2025), and that she declared zero cash on hand or in bank in her SALNs for seven straight years, 2019 to 2025. Distinct from all recently logged topics (Banga school shooting/gun storage, SC anti-dynasty mandamus, China Coast Guard/BFAR ramming, Padilla/dela Rosa obstruction probe, PhilHealth 24-hour admission circular, Global Witness land defenders report, Harry Roque asylum/Interpol, Duterte ICC trial, peso record low, flood control/ICI probe, Marcoleta arrest, MV June Aster ferry fire, DOE gas auction, Bangsamoro Parliament election, PISA 2025, Unified 911 anniversary) - first post on the SALN/unexplained-wealth testimony in the impeachment trial.
+**Hook:** "Vice President Sara Duterte's own impeachment trial surfaced it this week: her declared net worth rose from P7.25 million in 2007 to P98.656 million in 2025..."
+**Angle:** Constitutional-awareness / accountability pillar. Attacks the SALN system itself (self-reported, annually filed, rarely independently audited) for letting a 13x net-worth jump and years of undeclared cash go unchecked until a courtroom forced it into the open, not Duterte's personal identity.
+**Tagalog beat used (closer):** "Bakit ngayon lang sinuri?" (Why was it only reviewed now?) Fresh, not reused from any prior logged beat.
+**Fact-check:** First attempt failed (miscounted 2019-2025 as six years instead of seven); corrected and passed the automated Gemini + Google Search gate on all four claims (trial timing, net worth figures, undeclared-cash span, annual SALN filing requirement) on the second attempt.
+**Sources (verified manually via WebSearch, 2+ reputable sources):**
+- https://newsinfo.inquirer.net/2304740/witness-explains-unexplained-hidden-wealth-in-sara-duterte-trial
+- https://www.manilatimes.net/2026/09/14/news/senate-impeachment-court-tackles-dutertes-unexplained-wealth-as-prosecution-presents-surprise-witness/2424144
+- https://www.rappler.com/philippines/list-prosecution-first-witnesses-unexplained-wealth-case-sara-duterte-impeachment-trial/
+- https://astig.ph/sara-duterte-impeachment-trial-unexplained-wealth-cabotaje-tang-2026/

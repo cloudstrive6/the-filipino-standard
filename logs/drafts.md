@@ -5578,3 +5578,15 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 - https://www.manilatimes.net/2026/09/14/news/senate-impeachment-court-tackles-dutertes-unexplained-wealth-as-prosecution-presents-surprise-witness/2424144
 - https://www.rappler.com/philippines/list-prosecution-first-witnesses-unexplained-wealth-case-sara-duterte-impeachment-trial/
 - https://astig.ph/sara-duterte-impeachment-trial-unexplained-wealth-cabotaje-tang-2026/
+
+## 2026-09-21 12:03 PHT | threads | PUBLISHED LIVE (post_id sp_cOwmXKmNCFOaa1HPJnTU)
+**Topic:** 54th anniversary of Marcos Sr.'s Martial Law declaration (Sept 21, 2026). Malacañang complex under lockdown; PNP deployed 15,746+ police (17,000+ nationwide) for anniversary rallies demanding accountability over the flood control corruption scam. Distinct from all recently logged topics (SALN/unexplained-wealth testimony, SC anti-dynasty mandamus, China Coast Guard/BFAR ramming, Padilla/dela Rosa obstruction probe, PhilHealth circular, Global Witness report, Harry Roque asylum, Duterte ICC trial, peso low, flood control/ICI probe, Marcoleta arrest, MV June Aster fire, DOE gas auction, Bangsamoro Parliament election, PISA 2025, Unified 911 anniversary) - first post specifically on the Martial Law anniversary protest/security-lockdown angle.
+**Hook:** "Fifty-four years after Marcos Sr. declared Martial Law, the state's answer to citizens marking that anniversary and demanding accountability for the flood control corruption scam is not a hearing or an audit..."
+**Angle:** Constitutional-awareness / civil-liberties pillar. Attacks the state's reflex of meeting an anniversary of authoritarian rule and corruption accountability demands with a security lockdown rather than answers, not any named official.
+**Tagalog beat used (closer):** "Noong Martial Law, bawal magmartsa. Ngayon, pinapayagan ka na, pero binabantayan ka pa rin parang banta." (Under Martial Law, marching was forbidden. Now you're allowed, but you're still watched like a threat.) Fresh, not reused from any prior logged beat.
+**Fact-check:** First attempt hit a transient Gemini 503 (service overload) after 3 retries, fail-closed and skipped; retried immediately with the same caption and passed the automated Gemini + Google Search gate on all four claims (54th anniversary date, flood control corruption scam context, Malacañang lockdown, 15,746+ police deployment) on the second attempt.
+**Sources (verified manually via WebSearch, 2+ reputable sources):**
+- https://newsinfo.inquirer.net/2308554/malacaang-lockdown-set-sept-21-amid-massive-martial-law-rallies
+- https://mb.com.ph/2026/09/20/15k-cops-on-alert-for-sept-21-police-vow-maximum-tolerance
+- https://www.philstar.com/headlines/2026/09/21/2557707/groups-mark-martial-law-corruption-protest
+- https://davaotoday.com/headline/groups-to-mark-martial-law-anniversary-with-protest-accountability-over-corruption/

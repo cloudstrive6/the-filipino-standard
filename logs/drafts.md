@@ -5626,3 +5626,16 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 - https://www.philstar.com/headlines/2026/09/23/2558349/vp-linked-firms-had-deals-davao-government-witness
 - https://businessmirror.com.ph/2026/09/22/gencorp-gets-%E2%82%B135-88m-in-govt-contracts-during-vp-saras-term-philgeps/
 - https://journalnews.com.ph/philgeps-gencorp-got-p35-88m-in-49-govt-contract-awards-after-sara-became-vp/
+
+## 2026-09-23 19:03 PHT | threads | PUBLISHED LIVE (post_id sp_10n6TOaEbWHrCgMpMRM28)
+**Topic:** RA 12316's $80/barrel Dubai crude trigger for fuel excise tax relief was certified breached by DOE on Sept 15, 2026 (30-day avg $99.41/bbl); Finance suspended excise tax on LPG/kerosene on Sept 22, but gasoline and diesel were excluded (DOF called full suspension "not progressive," citing ~P12B/month revenue loss, favoring targeted transport subsidies instead) while pump prices for those two fuels kept climbing (diesel +P18.31/L in three weeks). Distinct from all recently logged topics (Martial Law anniversary, ASEAN energy hub, SALN/unexplained-wealth testimony, SC anti-dynasty mandamus, China Coast Guard/BFAR, Padilla/dela Rosa obstruction, PhilHealth circular, Global Witness, Harry Roque asylum, Duterte ICC trial, peso low, flood control/ICI, Marcoleta arrest, MV June Aster fire, DOE gas auction, Bangsamoro Parliament election, PISA 2025, 911 anniversary, SEC/constitutional-divestment, GenCorp/PhilGEPS contracts) - first post on the fuel-excise-tax-relief mechanism/selective application angle.
+**Hook:** "Dubai crude broke the $80-a-barrel trigger that lets government suspend fuel excise tax, certified by DOE on September 15. A week later, Finance signed relief for LPG and kerosene. Gasoline and diesel... are still waiting..."
+**Angle:** Economic & utility reform pillar. Attacks the system's selective, discretionary application of its own price-relief valve (fast for LPG/kerosene, withheld for gasoline/diesel) while consumers absorb full price hikes in real time, not any named official's personal conduct.
+**Tagalog beat used (closer):** "Bakit mabilis sa ilan, mabagal sa nagpapatakbo ng bansa?" (Why fast for some, slow for the ones that run the country?) Fresh, not reused from any prior logged beat.
+**Fact-check:** Passed the automated Gemini + Google Search gate on first attempt, with one nuance flagged: the "waiting on a committee" framing for gasoline/diesel is slightly soft - DOF has articulated a stance against suspending those two specifically (citing ~P12B/month revenue cost and progressivity concerns) rather than it being purely pending, even though DBCC evaluation is also ongoing. Noted here for the next run to calibrate precision on this story if it continues.
+**Sources (verified manually via WebSearch, 2+ reputable sources):**
+- https://www.philstar.com/business/2026/09/15/2556460/80-oil-trigger-breached-opening-door-fuel-tax-suspension
+- https://astig.ph/doe-certifies-dubai-crude-breach-fuel-excise-tax-suspension-2026/
+- https://astig.ph/dof-suspends-lpg-kerosene-excise-tax-2026/
+- https://www.rappler.com/business/fuel-prices-adjustments-september-22-2026/
+- https://context.ph/2026/09/15/doe-clears-way-for-fuel-tax-suspension-amid-sharp-price-spikes-assures-supply-sufficiency/

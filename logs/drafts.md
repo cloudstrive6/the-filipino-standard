@@ -5614,3 +5614,15 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 - https://www.manilatimes.net/2026/09/21/news/vp-sara-violated-constitution-by-not-divesting-business-interests-lawmaker/2429177
 - https://www.philstar.com/headlines/2026/09/21/2557857/sec-witness-vp-sara-member-corporations-board-while-office
 - https://businessmirror.com.ph/2026/09/21/saras-involvement-in-private-firms-may-be-a-constitutional-violation/
+
+## 2026-09-23 12:03 PHT | threads | PUBLISHED LIVE (post_id sp_TK929mUh4E08Vr3nTOQB9)
+**Topic:** PhilGEPS Division Chief Rendell Sopeña testified at VP Sara Duterte's impeachment trial (Sept 22, 2026) that GenCorp Industries Inc., a company listed in Duterte's SALN, was awarded 49 government contracts totaling P35.878M between July 21, 2022 and June 2026 - 15 from Davao City (P34.22M), 33 from PhilHealth Region 11 (P1.33M), 1 from OWWA Region 11 (P330K). Distinct from all recently logged topics (Martial Law anniversary/lockdown, ASEAN energy hub vs domestic grid, SALN/unexplained-wealth testimony re undeclared cash, SC anti-dynasty mandamus, China Coast Guard/BFAR ramming, Padilla/dela Rosa obstruction probe, PhilHealth circular, Global Witness report, Harry Roque asylum, Duterte ICC trial, peso low, flood control/ICI probe, Marcoleta arrest, MV June Aster fire, DOE gas auction, Bangsamoro Parliament election, PISA 2025, Unified 911 anniversary, SEC/constitutional-divestment enforcement gap) - first post on the government-procurement/conflict-of-interest angle (LGU and agency contracts flowing to a VP-linked firm with no proactive cross-check against SALN filings).
+**Hook:** "A company listed in VP Sara Duterte's SALN won 49 government contracts worth P35.9M since she took office in 2022, most from Davao City and PhilHealth Region 11, PhilGEPS testimony at her impeachment trial showed."
+**Angle:** Governance/economic-reform pillar. Attacks the systemic gap that no office cross-checks contract awards against officials' own declared business interests before contracts are finalized, not any named official's personal conduct beyond the public trial record.
+**Tagalog beat used (closer):** "Kung hindi dahil sa kaso, tuluy-tuloy lang sana ang kontrata." (If not for the case, the contracts would have just kept flowing.) Fresh, not reused from any prior logged beat.
+**Fact-check:** First attempt hit a transient Gemini 503 (fail-closed, post skipped); retried once and passed the automated Gemini + Google Search gate on all four claims (contract count/value, Davao City/PhilHealth Region 11 breakdown, PhilGEPS testimony at the trial, absence of proactive SALN cross-check) on the second attempt.
+**Sources (verified manually via WebSearch, 2+ reputable sources):**
+- https://www.manilatimes.net/2026/09/23/news/duterte-linked-firm-got-49-govt-contracts/2430688
+- https://www.philstar.com/headlines/2026/09/23/2558349/vp-linked-firms-had-deals-davao-government-witness
+- https://businessmirror.com.ph/2026/09/22/gencorp-gets-%E2%82%B135-88m-in-govt-contracts-during-vp-saras-term-philgeps/
+- https://journalnews.com.ph/philgeps-gencorp-got-p35-88m-in-49-govt-contract-awards-after-sara-became-vp/

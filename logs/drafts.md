@@ -5651,3 +5651,15 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 - https://newsinfo.inquirer.net/2310048/senate-impeachment-court-reduces-conviction-threshold
 - https://www.gmanetwork.com/news/topstories/nation/1003366/impeachment-court-lowers-voting-threshold-to-convict-impeached-official/story/
 - https://interaksyon.philstar.com/politics-issues/2026/09/23/319581/senate-lowers-threshold-conviction-vp-duterte-impeachment-trial/
+
+## 2026-09-24 19:02 PHT | threads | PUBLISHED LIVE (post_id sp_qE6xUqCb89iwCRUv4jYy)
+**Topic:** ADB cut its 2026 Philippine GDP growth forecast for the second time this year, to 3.3% from 3.8% in July, below the government's own 3.5-4.5% target, citing weak public investment (government underspending) plus inflation and fuel costs. S&P Global cut even further, to 2.9% from 4.1%, the steepest Asia-Pacific downgrade. Distinct from all recently logged topics (impeachment conviction-threshold ruling, fuel excise tax relief, Martial Law anniversary, ASEAN energy hub, SALN/unexplained-wealth testimony, SC anti-dynasty mandamus, China Coast Guard/BFAR, Padilla/dela Rosa obstruction, PhilHealth circular, Global Witness, Harry Roque asylum, Duterte ICC trial, peso low, flood control/ICI, Marcoleta arrest, MV June Aster fire, DOE gas auction, Bangsamoro Parliament election, PISA 2025, 911 anniversary, SEC/constitutional-divestment, GenCorp/PhilGEPS contracts) - first post on the ADB/S&P growth-forecast downgrade tied to weak government spending.
+**Hook:** "The Asian Development Bank just cut its 2026 Philippine growth forecast for the second time this year: 3.3%, down from 3.8% in July. Below the government's own 3.5-4.5% target."
+**Angle:** Economic & utility reform pillar. Attacks the system's own underinvestment (weak public spending, not just external shocks) as the incentive-structure failure, not any named official.
+**Tagalog beat used (closer):** "Saan napupunta ang badyet kung hindi sa bayan?" (Where does the budget go if not to the nation?) Fresh, not reused from any prior logged beat.
+**Fact-check:** Passed the automated Gemini + Google Search gate on first attempt, all four claims (3.3%/3.8% second-cut figures, below government's 3.5-4.5% target, ADB citing weak public investment plus inflation/fuel costs, S&P's further cut to 2.9%) independently verified.
+**Sources (verified manually via WebSearch, 2+ reputable sources):**
+- https://bworldonline.com/top-stories/2026/09/23/780790/adb-cuts-2026-philippine-growth-forecast-anew/
+- https://www.philstar.com/business/2026/09/24/2558445/adb-sp-cut-philippines-growth-forecasts
+- https://www.manilatimes.net/2026/09/23/business/adb-cuts-philippines-growth-outlook/2430915
+- https://business.inquirer.net/612457/adb-cuts-ph-growth-outlook-on-war-climate-risks

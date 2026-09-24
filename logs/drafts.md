@@ -5639,3 +5639,15 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 - https://astig.ph/dof-suspends-lpg-kerosene-excise-tax-2026/
 - https://www.rappler.com/business/fuel-prices-adjustments-september-22-2026/
 - https://context.ph/2026/09/15/doe-clears-way-for-fuel-tax-suspension-amid-sharp-price-spikes-assures-supply-sufficiency/
+
+## 2026-09-24 12:04 PHT | threads | PUBLISHED LIVE (post_id sp_ud7xIKlnvzYt5uCA5ki)
+**Topic:** On Sept 23, 2026, the Senate impeachment court hearing VP Sara Duterte's case ruled that only senator-judges able to participate in the trial count toward the constitutional two-thirds conviction threshold. Four of 24 senator-judges cannot vote, so the votes needed to convict dropped from 16 (two-thirds of 24) to 14 (two-thirds of 20 participating). Distinct from all recently logged topics (Martial Law anniversary, ASEAN energy hub, SALN/unexplained-wealth testimony, SC anti-dynasty mandamus, China Coast Guard/BFAR, Padilla/dela Rosa obstruction, PhilHealth circular, Global Witness, Harry Roque asylum, Duterte ICC trial, peso low, flood control/ICI, Marcoleta arrest, MV June Aster fire, DOE gas auction, Bangsamoro Parliament election, PISA 2025, 911 anniversary, SEC/constitutional-divestment, GenCorp/PhilGEPS contracts, fuel excise tax relief) - first post on the impeachment-court mid-trial conviction-threshold-math ruling.
+**Hook:** "The 1987 Constitution sets a two-thirds vote to convict in an impeachment trial: 16 of the Senate's 24 senator-judges. Mid-trial, the court hearing VP Sara Duterte's case ruled only judges able to participate get counted..."
+**Angle:** Constitutional-awareness pillar. Attacks the system's ability to redefine what a constitutional supermajority means mid-proceeding based on who happens to be absent, not any named senator's personal conduct.
+**Tagalog beat used (closer):** "Hindi dapat nagbabago ang panuntunan sa gitna ng laro." (The rules shouldn't change in the middle of the game.) Fresh, not reused from any prior logged beat.
+**Fact-check:** Passed the automated Gemini + Google Search gate on first attempt, all five claims (two-thirds/16-vote baseline, ongoing Duterte trial, Sept 23 ruling on participating-judges-only count, four non-participating judges, 16-to-14 vote drop) independently verified.
+**Sources (verified manually via WebSearch, 2+ reputable sources):**
+- https://www.usnews.com/news/world/articles/2026-09-23/philippine-senate-lowers-threshold-for-conviction-in-vp-dutertes-impeachment-trial
+- https://newsinfo.inquirer.net/2310048/senate-impeachment-court-reduces-conviction-threshold
+- https://www.gmanetwork.com/news/topstories/nation/1003366/impeachment-court-lowers-voting-threshold-to-convict-impeached-official/story/
+- https://interaksyon.philstar.com/politics-issues/2026/09/23/319581/senate-lowers-threshold-conviction-vp-duterte-impeachment-trial/

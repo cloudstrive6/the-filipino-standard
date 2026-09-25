@@ -5675,3 +5675,15 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 - https://www.gmanetwork.com/news/topstories/nation/1003055/dict-welcomes-ombudsman-probe-into-alleged-ghost-internet-scheme/story/
 - https://www.philstar.com/headlines/2026/09/22/2558115/palace-tells-investors-not-abuse-govt-trust-amid-ghost-internet-probe
 - https://newsbytes.ph/2026/09/24/malacanang-backs-ombudsman-probe-into-alleged-ghost-internet-projects/
+
+## 2026-09-25 19:03 PHT | threads | PUBLISHED LIVE (post_id sp_nIiOZbYBzCOr8tEZl1QF)
+**Topic:** House of Representatives wraps up plenary floor deliberations on the P7.2-trillion proposed 2027 national budget (HB 10858). Plenary debates opened ~Sept 15, 2026; agency-by-agency scrutiny concluded ~Sept 24-25, 2026; second reading targeted Oct 5-6, third reading Oct 9. Distinct from all recently logged topics (impeachment conviction-threshold ruling, ADB/S&P GDP downgrade, DICT ghost internet probe, flood control/ICI, fuel excise relief, Martial Law anniversary, SALN testimony, SC anti-dynasty mandamus, China Coast Guard/BFAR, PhilHealth circular, Harry Roque asylum, peso low, Marcoleta arrest, DOE gas auction, Bangsamoro election, PISA 2025, SEC divestment, GenCorp/PhilGEPS) - first post on the 2027 national budget's compressed deliberation timeline.
+**Hook:** "7.2 trillion pesos. That is the entire proposed Philippine national budget for 2027."
+**Angle:** Governance / constitutional-awareness pillar. Attacks the speed-over-scrutiny incentive in Congress's budget process (the power of the purse rushed to a floor vote), not any named official.
+**Tagalog beat used (closer):** "Mabilis pumirma, sino ba talaga nagbasa?" (Quick to sign, but who really read it?) Fresh, not reused from any prior logged beat.
+**Fact-check:** Passed the automated Gemini + Google Search gate on first attempt, all four claims (P7.2T total 2027 budget, plenary debates opened mid-September, floor deliberations on every agency concluded by Sept 25, second reading targeted Oct 5-6 / third reading Oct 9) independently verified.
+**Sources (verified manually via WebSearch, 2+ reputable sources):**
+- https://bworldonline.com/the-nation/2026/09/15/777553/2027-budget-faces-scrutiny-as-house-begins-plenary-deliberations/
+- https://www.dbm.gov.ph/index.php/management-2/4234-p7-2-t-2027-budget-faces-house-scrutiny-as-dbcc-lays-out-fiscal-direction-spending-priorities
+- https://www.philstar.com/headlines/2026/09/25/2558773/house-wraps-budget-talks-more-agencies
+- https://www.philstar.com/headlines/2026/09/24/2558528/house-wraps-op-budget-talks

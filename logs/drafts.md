@@ -5663,3 +5663,15 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 - https://www.philstar.com/business/2026/09/24/2558445/adb-sp-cut-philippines-growth-forecasts
 - https://www.manilatimes.net/2026/09/23/business/adb-cuts-philippines-growth-outlook/2430915
 - https://business.inquirer.net/612457/adb-cuts-ph-growth-outlook-on-war-climate-risks
+
+## 2026-09-25 12:03 PHT | threads | PUBLISHED LIVE (post_id sp_Kg515hWUMkJhS0Jb3H6Zj)
+**Topic:** The Office of the Ombudsman opened a fact-finding probe into an alleged "ghost internet" scheme in DICT's nationwide Free Wi-Fi program (RA 10929) - investigating whether government was billed for internet connectivity that was never actually delivered at some sites (routers installed, no working service), plus whether hardware/software for the program were overpriced or substandard. Probe opened ~Sept 18-21, 2026; Malacañang publicly backed the investigation Sept 22-24. Distinct from all recently logged topics (impeachment conviction-threshold ruling, ADB/S&P GDP downgrade, flood control/ICI, fuel excise relief, Martial Law anniversary, SALN testimony, SC anti-dynasty mandamus, China Coast Guard/BFAR, PhilHealth circular, Harry Roque asylum, peso low, Marcoleta arrest, DOE gas auction, Bangsamoro election, PISA 2025, SEC divestment, GenCorp/PhilGEPS) - first post on the DICT "ghost internet" / Free Wi-Fi billing-fraud probe.
+**Hook:** ""Free WiFi" sites went up across the country. Routers installed, signal lights blinking, but for a lot of these sites, no actual internet ever came through."
+**Angle:** Economic & utility reform / governance pillar. Attacks the system's billing-without-delivery incentive structure (get paid whether or not the service exists), not any named official.
+**Tagalog beat used (closer):** "Wala pang internet, may resibo na." (No internet yet, but there's already a receipt.) Fresh, not reused from any prior logged beat.
+**Fact-check:** First attempt hit 3 consecutive transient HTTP 503s from the verifier (fail-closed, not a contradiction) and was correctly skipped. Retried the identical, unedited caption once; verifier came back up and PASSED all three claims (nationwide Free Wi-Fi program under RA 10929, Ombudsman probing undelivered-internet billing, Ombudsman probing overpriced/substandard hardware-software) on the first live attempt.
+**Sources (verified manually via WebSearch, 2+ reputable sources):**
+- https://www.philstar.com/headlines/2026/09/21/2557868/alleged-ghost-internet-scheme-dict-under-ombudsman-probe
+- https://www.gmanetwork.com/news/topstories/nation/1003055/dict-welcomes-ombudsman-probe-into-alleged-ghost-internet-scheme/story/
+- https://www.philstar.com/headlines/2026/09/22/2558115/palace-tells-investors-not-abuse-govt-trust-amid-ghost-internet-probe
+- https://newsbytes.ph/2026/09/24/malacanang-backs-ombudsman-probe-into-alleged-ghost-internet-projects/

@@ -5687,3 +5687,16 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 - https://www.dbm.gov.ph/index.php/management-2/4234-p7-2-t-2027-budget-faces-house-scrutiny-as-dbcc-lays-out-fiscal-direction-spending-priorities
 - https://www.philstar.com/headlines/2026/09/25/2558773/house-wraps-budget-talks-more-agencies
 - https://www.philstar.com/headlines/2026/09/24/2558528/house-wraps-op-budget-talks
+
+## 2026-09-26 12:04 PHT | threads | PUBLISHED LIVE (post_id sp_Vvp0QFOtCFWTTaNFRI4G)
+**Topic:** EU and Philippines reached "substantial agreement" on a Free Trade Agreement (announced September 22, 2026), closing out talks first opened in December 2015 and frozen for seven years (2017-2024) over human rights concerns; formal signing not targeted until 2027. Distinct from all recently logged topics (impeachment ruling, ADB/S&P downgrade, DICT ghost internet probe, flood control/ICI, fuel excise relief, Martial Law anniversary, SALN testimony, SC anti-dynasty mandamus, China Coast Guard/BFAR, PhilHealth circular, Harry Roque asylum, peso low, Marcoleta arrest, DOE gas auction, Bangsamoro election, PISA 2025, SEC divestment, GenCorp/PhilGEPS, 2027 national budget) - first post on the PH-EU trade deal timeline.
+**Hook:** "Eleven years and counting. Talks for a Philippines-EU trade deal opened in 2015..."
+**Angle:** Economic reform / governance-comparison pillar. Contrasts PH's decade-plus, human-rights-stalled FTA timeline against New Zealand's six-year launch-to-force EU deal; attacks the incentive structure that let governance failures cost market access, not any named official. NZ caveat ("it's not perfect, no country is") included verbatim.
+**Tagalog beat used (closer):** "Sino ba talaga ang nagbayad sa pagkaantala?" (Who really paid for the delay?) Fresh, not reused from any prior logged beat.
+**Fact-check:** First attempt failed (miscounted the freeze as six years instead of seven, 2017-2024). Corrected to seven years and retried once with a precise date instead of "this week"; passed all five claims on the Gemini + Google Search verifier.
+**Sources (verified manually via WebSearch, 2+ reputable sources):**
+- https://www.eeas.europa.eu/delegations/philippines/eu-and-philippines-reach-substantial-agreement-free-trade-agreement_en
+- https://www.pna.gov.ph/articles/1284627
+- https://www.rappler.com/business/philippines-european-union-free-trade-agreement-update-2026/
+- https://www.europarl.europa.eu/legislative-train/theme-a-global-europe-leveraging-our-power-and-partnerships/file-eu-philippines-fta
+- https://www.mfat.govt.nz/en/trade/free-trade-agreements/free-trade-agreements-in-force/new-zealand-european-union-free-trade-agreement

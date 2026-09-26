@@ -5700,3 +5700,15 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 - https://www.rappler.com/business/philippines-european-union-free-trade-agreement-update-2026/
 - https://www.europarl.europa.eu/legislative-train/theme-a-global-europe-leveraging-our-power-and-partnerships/file-eu-philippines-fta
 - https://www.mfat.govt.nz/en/trade/free-trade-agreements/free-trade-agreements-in-force/new-zealand-european-union-free-trade-agreement
+
+## 2026-09-26 19:03 PHT | threads | PUBLISHED LIVE (post_id sp_sRnOiISY5tlFkp7c0sBI)
+**Topic:** National government's August 2026 fiscal report: budget deficit widened to P161.3 billion (90.23% wider than August 2025's P84.8B), driven by a 16% jump in spending (largely a P58.6B budgetary bailout for PhilHealth) against revenue that fell 1.85% year-on-year; January-August 2026 cumulative deficit now P1.05 trillion, up from P869.2B a year prior. Distinct from all recently logged topics (impeachment ruling, ADB/S&P downgrade, DICT ghost internet probe, flood control/ICI, fuel excise relief, Martial Law anniversary, SALN testimony, SC anti-dynasty mandamus, China Coast Guard/BFAR, PhilHealth circular, Harry Roque asylum, peso low, Marcoleta arrest, DOE gas auction, Bangsamoro election, PISA 2025, SEC divestment, GenCorp/PhilGEPS, 2027 national budget, PH-EU FTA) - first post on the August fiscal deficit report specifically (distinct from the separate 2027 budget-bill deliberation story already covered).
+**Hook:** "The national government collected less money and spent much more of it in August."
+**Angle:** Economic reform pillar. Attacks the incentive structure that lets chronic mismanagement (PhilHealth's fund needing a P58.6B bailout) get patched with new borrowing instead of fixed at the root, while revenue collection stalls; no individuals named.
+**Tagalog beat used (closer):** "Bumaba ang kita ng gobyerno, tumaas ang gastos, pero tayo pa rin ang may utang." (Government's income fell, spending rose, but we're still the ones in debt.) Fresh, composed for this post, not reused from any prior logged beat.
+**Fact-check:** First attempt was a different story (Mary Jane Veloso's reported release/pardon) and FAILED the automated verifier (it could not corroborate her release and flagged the claim false, plus could not source the "127 countries" petition figure) - correctly skipped per the one-retry rule, switched to this fully independent alternative angle instead of re-arguing the same claim. This budget-deficit post PASSED the automated Gemini + Google Search gate on first attempt, all seven claims independently verified.
+**Sources (verified manually via WebSearch, 2+ reputable sources):**
+- https://www.philstar.com/business/2026/09/25/2558672/budget-deficit-bloats-p1613-billion-august
+- https://bworldonline.com/top-stories/2026/09/24/781226/ng-budget-gap-swells-in-august/
+- https://business.inquirer.net/612686/spending-ramp-up-swells-aug-budget-deficit-to-p161-3b
+- https://www.manilatimes.net/2026/09/25/business/top-business/budget-deficit-rises-as-revenues-decline/2432538

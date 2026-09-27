@@ -5712,3 +5712,14 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 - https://bworldonline.com/top-stories/2026/09/24/781226/ng-budget-gap-swells-in-august/
 - https://business.inquirer.net/612686/spending-ramp-up-swells-aug-budget-deficit-to-p161-3b
 - https://www.manilatimes.net/2026/09/25/business/top-business/budget-deficit-rises-as-revenues-decline/2432538
+
+## 2026-09-27 12:02 PHT | threads | PUBLISHED LIVE (post_id sp_z7IXpuZFn9eLQfrYKfkaB)
+**Topic:** Marcos proposed P30.44B in new NIA irrigation funding for 2027 (El Nino prep, 11,153 new hectares) while the same agency, National Irrigation Administration, is sitting on nearly P17B unspent from its 2026 budget, with senators (Imee Marcos, Kiko Pangilinan) citing a COA report flagging 146 contracts that missed deadlines and 137 more contracts (~P15B) with procurement-rule violations. Distinct from all recently logged topics (impeachment ruling, ADB/S&P downgrade, DICT ghost internet probe, flood control/ICI, fuel excise relief, Martial Law anniversary, SALN testimony, SC anti-dynasty mandamus, China Coast Guard/BFAR, PhilHealth circular, Harry Roque asylum, peso low, Marcoleta arrest, DOE gas auction, Bangsamoro election, PISA 2025, SEC divestment, GenCorp/PhilGEPS, 2027 national budget headline, PH-EU FTA, August fiscal deficit) - first post specifically on the NIA irrigation budget-vs-underspending pattern.
+**Hook:** "Marcos just proposed P30.44 billion in new irrigation funding for 2027, racing to expand farmland coverage before a strong El Nino hits."
+**Angle:** Economic/governance reform pillar. Attacks the budgeting incentive structure that lets an agency ask for (and receive) more money while it still hasn't spent billions already allocated and has documented procurement violations, no individuals named as wrongdoers (senators cited only as the oversight source, not the target).
+**Tagalog beat used (closer):** "Ang problema, hindi pa nga nagagastos ang laan, may bago nang hihingin." (The problem: what was already allocated hasn't even been spent, and yet more is being asked for.) Fresh, composed for this post, not reused from any prior logged beat.
+**Fact-check:** PASSED automated Gemini + Google Search gate on first attempt, all four claims independently verified (P30.44B proposal, ~P17B unspent, 146 missed-deadline contracts, 137 contracts/~P15B procurement violations).
+**Sources (verified manually via WebSearch, 2+ reputable sources):**
+- https://www.manilatimes.net/2026/09/27/news/national/p3044b-irrigation-fund-sought-as-el-nio-looms/2433517
+- https://tribune.net.ph/2026/09/17/senators-call-out-nia-over-massive-budget-request-flag-irrigation-projects-scam
+- https://newsinfo.inquirer.net/1828967/nia-execs-chided-for-seeking-p7-1b-for-projects-already-devolved-to-local-govts/amp

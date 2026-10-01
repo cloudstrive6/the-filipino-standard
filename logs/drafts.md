@@ -5804,3 +5804,15 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 - https://www.gmanetwork.com/news/topstories/nation/1004085/impeachment-court-sara-duterte-cannot-be-compelled-to-admit-ownership-of-bank-accounts/story/
 - https://www.manilatimes.net/2026/09/29/videos/impeachment-court-upholds-dutertes-right-vs-self-incrimination/2434791
 - https://www.philstar.com/headlines/2026/09/30/2559907/vp-cant-be-compelled-admit-bank-accounts
+
+## 2026-10-01 12:03 PHT | threads | PUBLISHED LIVE (post_id sp_avnINk0d8l9nEPMrsPXfC)
+**Topic:** National government debt hit a record P19.61 trillion at end-August 2026 (Bureau of the Treasury), up P217.62B in one month and P1.9 trillion since end-December 2025. Distinct from all recently logged topics (GenCorp/PhilGEPS contracts, impeachment self-incrimination ruling, NIA irrigation, NCR minimum wage, August fiscal deficit, ADB/S&P downgrade, DICT ghost internet, flood control/ICI, fuel excise, Martial Law anniversary, SALN testimony, SC anti-dynasty mandamus, China Coast Guard/BFAR, PhilHealth circular, Roque asylum, peso low, Marcoleta arrest, DOE gas auction, Bangsamoro election, PISA 2025, SEC divestment, 2027 budget, PH-EU FTA, PUV fare/diesel strike, World Bank report, Kota Island incident) - this is a debt-stock record, not the deficit-flow story already covered.
+**Hook:** "The Philippines' national debt hit a record P19.61 trillion at the end of August, up P217 billion in a single month and P1.9 trillion since December last year."
+**Angle:** Economic & utility reform pillar. Converts an abstract trillion-peso figure into a per-Filipino burden (~P166,000 each, newborns included) to make the debt load legible; attacks the borrowing trajectory and who ultimately carries it (the next generation), not any named official.
+**Tagalog beat used (closer):** "Hindi sila ang magbabayad nito. Tayo at ang mga susunod na Pilipino ang magbabayad. Sino ba talaga ang nananalo dito?" (They are not the ones who will pay for this. We and the next Filipinos are. Who really wins here?) Fresh, composed for this post around the debt-burden-transfer angle, not reused from any prior logged beat.
+**Fact-check:** First attempt failed (claimed "P1.9 trillion since January" when the Treasury's 1.9T figure is measured from end-December 2025, not January); corrected to "since December last year" and passed the automated Gemini + Google Search gate on retry, all five claims (record P19.61T, +P217B MoM, +P1.9T since Dec 2025, ~118M population, ~P166,000 per capita) independently verified.
+**Sources (verified manually via WebSearch, 2+ reputable sources):**
+- https://business.inquirer.net/613577/government-debt-widened-to-record-p19-6-trillion-in-august
+- https://www.philstar.com/business/2026/10/01/2560056/government-debt-piles-p196-trillion-august
+- https://bworldonline.com/economy/2026/09/30/783441/ng-debt-tops-p19-6-trillion-at-end-of-august/
+- https://www.manilatimes.net/2026/10/01/business/top-business/ng-debt-hits-new-record-of-p1961t/2436571

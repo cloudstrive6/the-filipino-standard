@@ -5827,3 +5827,14 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 - https://www.philstar.com/nation/2026/09/30/2559997/metro-manila-water-allocation-cut-super-el-nio-looms
 - https://www.gmanetwork.com/news/topstories/metro/1004354/metro-manila-water-allocation-may-be-reduced-in-october-amid-el-ni-o-nwrb/story/
 - https://mb.com.ph/2026/10/01/manila-water-maynilad-guarantee-247-supply-despite-angat-quotas
+
+## 2026-10-02 12:02 PHT | threads | PUBLISHED LIVE (post_id sp_I0cyzeFep3dPWZ9Ms4zSc)
+**Topic:** AMLC secured a Court of Appeals freeze order (issued Sept 21, reported Oct 2) on 86 bank accounts, 4 investment accounts, 1 insurance policy, and 25 crypto/virtual-asset wallets tied to a "prominent" sitting lawmaker, a corporation, and associated entities in the flood control project kickback scheme. AMLC has not named the lawmaker. Distinct from recently logged topics (NG debt record, Angat/Kaliwa water allocation) and from earlier flood-control coverage (ghost projects, Senate quorum fight, Jinggoy Estrada plunder case) - this is a new, specific development: the laundering trail now runs through crypto wallets, and the person is still unnamed.
+**Hook:** "AMLC just froze 86 bank accounts, 4 investment accounts, an insurance policy, and 25 crypto wallets tied to a sitting lawmaker in the flood control kickback scheme. The agency will not even name who it is."
+**Angle:** Governance/accountability pillar. Attacks the system's slow, piecemeal accountability (freeze orders without names, years after the scandal broke) rather than any named individual.
+**Tagalog beat used (closer):** "Pera ng bayan, pinaikot sa crypto. Hanggang kailan tayo maghihintay ng pangalan?" (The people's money, spun through crypto. How long do we wait for a name?) Composed fresh for this post's crypto-laundering/unnamed-lawmaker angle, not reused.
+**Fact-check:** Passed automated Gemini + Google Search gate on first attempt (one transient 503 retried automatically); all claims (freeze order scope, Sept 21 CA order, lawmaker unnamed, multi-layered laundering via virtual asset platform) independently verified.
+**Sources (verified manually via WebSearch, 2+ reputable sources):**
+- https://www.philstar.com/headlines/2026/10/02/2560399/amlc-freezes-assets-linked-flood-mess
+- https://www.gmanetwork.com/news/topstories/nation/985200/freeze-order-issued-vs-flood-control-scandal-linked-legislator-amlc/story/
+- https://business.inquirer.net/587049/amlc-secures-freeze-order-vs-assets-of-sitting-lawmaker-others

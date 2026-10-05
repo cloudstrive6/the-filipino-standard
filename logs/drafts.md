@@ -5838,3 +5838,16 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 - https://www.philstar.com/headlines/2026/10/02/2560399/amlc-freezes-assets-linked-flood-mess
 - https://www.gmanetwork.com/news/topstories/nation/985200/freeze-order-issued-vs-flood-control-scandal-linked-legislator-amlc/story/
 - https://business.inquirer.net/587049/amlc-secures-freeze-order-vs-assets-of-sitting-lawmaker-others
+
+## 2026-10-05 12:03 PHT | threads | PUBLISHED LIVE (post_id sp_DowarfaUu59NsUg0JMZx)
+**Topic:** Day 33 of VP Sara Duterte's impeachment trial (Oct 5). House prosecutors confirmed Oct 4 they are dropping the bribery charge (Article III) to speed up proceedings, explicitly denying it is due to insufficient evidence. The unexplained wealth charge (Article II) now carries the whole case, with AMLC Executive Director Ronel Buenaventura's P6.77 billion in flagged suspicious/covered transactions tied to Duterte and husband Manases Carpio. Seven banks (Landbank, AUB, PSBank, Metrobank, BPI, PNB, BDO) scheduled to testify this week (testimony begins Oct 6). Distinct from recently logged topics (AMLC crypto freeze/unnamed lawmaker, NG debt record, Angat/Kaliwa water, flood control procurement savings) - this is the impeachment trial's own evidentiary mechanics, not the flood-control scandal.
+**Hook:** "Day 33 of the impeachment trial. Prosecutors just dropped an entire bribery charge, not because the evidence failed, but to move the case faster."
+**Angle:** Governance/accountability pillar. Attacks the system's incentive to trade away a full charge for procedural speed while a multi-billion-peso financial trail still needs an answer, not the VP's personal identity.
+**Tagalog beat used (mid_pivot):** "Kailan pa ba malinaw ang sagot?" (When will the answer finally be clear?) Placed mid-post as a pivot clause, not the closer, to vary from the last several posts' closing-line pattern. Composed fresh for this post's dropped-charge/unexplained-wealth angle, not reused.
+**Fact-check:** First attempt FAILED (claimed "six banks take the stand today"; actual count is seven banks, with testimony starting Oct 6, not Oct 5). Corrected to "Seven banks are set to take the stand this week" and passed the automated Gemini + Google Search gate on retry; all four claims (Day 33, bribery charge dropped for speed not evidence, P6.77B AMLC flag, seven banks testifying this week) independently verified.
+**Sources (verified manually via WebSearch, 2+ reputable sources):**
+- https://www.rappler.com/philippines/prosecution-moves-up-presentation-unexplained-wealth-case-sara-duterte-impeachment/
+- https://www.philstar.com/headlines/2026/10/04/2560898/house-prosecutors-may-drop-bribery-article-vs-sara-duterte
+- https://newsinfo.inquirer.net/2312414/sara-duterte-trial-bribery-charge-may-be-dropped-over-2027-budget-talks
+- https://tribune.net.ph/2026/10/04/house-prosecution-drops-bribery-charge-vs-vp-sara-duterte
+- https://business.inquirer.net/587049/amlc-secures-freeze-order-vs-assets-of-sitting-lawmaker-others

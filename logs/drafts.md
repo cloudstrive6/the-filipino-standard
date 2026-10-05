@@ -5851,3 +5851,16 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 - https://newsinfo.inquirer.net/2312414/sara-duterte-trial-bribery-charge-may-be-dropped-over-2027-budget-talks
 - https://tribune.net.ph/2026/10/04/house-prosecution-drops-bribery-charge-vs-vp-sara-duterte
 - https://business.inquirer.net/587049/amlc-secures-freeze-order-vs-assets-of-sitting-lawmaker-others
+
+## 2026-10-05 19:02 PHT | threads | PUBLISHED LIVE (post_id sp_dvFP2RTPaQdXtMXAGUHB)
+**Topic:** NCAP (No Contact Apprehension Policy) relaunched today, Oct 5 2026, in five Metro Manila cities (Manila, QC, Paranaque, Muntinlupa, San Juan; Valenzuela deferred), with standardized fines under the Metro Manila Traffic Code of 2023 and an online protest option. Distinct from all recently logged topics (impeachment trial, AMLC crypto freeze, NG debt record, Angat/Kaliwa water, flood control procurement savings) - this is traffic enforcement / privatized law-enforcement incentives, a fresh angle.
+**Hook:** "NCAP is back today in Manila, QC, Paranaque, Muntinlupa, and San Juan. Standardized fines this time, online protests too."
+**Angle:** Governance/accountability pillar. Attacks the incentive structure of outsourcing a law-enforcement function to a private, profit-motivated vendor (not any individual or agency head) and asks whether this round's "reform" actually changed that incentive.
+**Tagalog beat used (closing question):** "Hanggang ngayon, tanong lang: sino ba talaga ang pinoprotektahan, ang motorista o ang kontrata?" (Even now, just one question: who is really being protected, the motorist or the contract?) Composed fresh for this post's privatized-enforcement angle, not reused from the bank or prior posts.
+**Fact-check:** PASSED on first attempt via the automated Gemini + Google Search gate. All claims verified: NCAP resumed Oct 5 2026 in the five named cities; standardized fines under the 2023 Metro Manila Traffic Code; SC TRO in August 2022 halted the prior scheme; private vendor QPax Traffic Systems Inc. received 60-65% of fines collected (verified via January 2023 SC oral arguments reporting).
+**Sources (verified manually via WebSearch, 2+ reputable sources):**
+- https://www.philstar.com/nation/2026/10/02/2560343/ncap-back-6-metro-manila-cities-october-5
+- https://www.gmanetwork.com/news/topstories/metro/1004520/explainer-what-motorists-need-to-know-as-ncap-returns-to-parts-of-metro-manila-on-october-5-2026/story/
+- https://www.manilatimes.net/2026/10/05/news/ncap-back-in-five-metro-manila-cities/2438775
+- https://www.philstar.com/nation/2026/08/06/2547268/mmda-probes-ncap-scams
+- https://www.rappler.com/philippines/supreme-court-decision-junks-petitions-no-contact-apprehension-policy/

@@ -5864,3 +5864,15 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 - https://www.manilatimes.net/2026/10/05/news/ncap-back-in-five-metro-manila-cities/2438775
 - https://www.philstar.com/nation/2026/08/06/2547268/mmda-probes-ncap-scams
 - https://www.rappler.com/philippines/supreme-court-decision-junks-petitions-no-contact-apprehension-policy/
+
+## 2026-10-06 12:03 PHT | threads | PUBLISHED LIVE (post_id sp_sY5Zr3fsRAhHkD0exl1Mr)
+**Topic:** PSA reported September 2026 headline inflation at 7.2%, up from 6.1% in August, driven by food and fuel prices; this is the seventh straight month inflation has breached the BSP's 2-4% target band (March 6.5%, April 6.7%, May 6.8%, June 6.4%, July 6.2%, August 6.1%, September 7.2%). Distinct from all recently logged topics (impeachment trial evidentiary mechanics, NCAP relaunch, AMLC crypto freeze, NG debt record, Angat/Kaliwa water) - this is a fresh macroeconomic/cost-of-living angle not previously covered.
+**Hook:** "Inflation jumped to 7.2% in September, up from 6.1% in August, led by food and fuel prices."
+**Angle:** Economic & utility reform pillar. Attacks the accountability gap behind a missed policy target (BSP's own 2-4% inflation band), not any individual official - frames seven straight months of breach as a grocery bill outrunning the paycheck.
+**Tagalog beat used (closer):** "Walang pumanagot sa presyong ayaw nang bumaba." (No one has answered for a price that refuses to come down.) Composed fresh for this post's inflation-accountability angle; not reused from "Walang nanagot"/"Walang nakulong" bank entries or any recent post.
+**Fact-check:** First attempt FAILED (claimed "fastest pace in five months" - contradicted, September 7.2% matched April's 7.2% rather than being the fastest; claimed "nine straight months" over target - contradicted, correct count is seven). Corrected to "seventh straight month" and dropped the unsupported "fastest pace" claim; passed the automated Gemini + Google Search gate on retry with full monthly breakdown corroborated.
+**Sources (verified manually via WebSearch, 2+ reputable sources):**
+- https://mb.com.ph/2026/10/06/inflation-soars-to-72-in-september-as-food-fuel-prices-surge
+- https://www.manilatimes.net/2026/10/06/business/food-transport-energy-push-inflation-up-to-72-in-sept/2439563
+- https://www.rappler.com/business/inflation-rate-philippines-september-2026/
+- https://business.inquirer.net/614479/ph-inflation-climbs-to-7-2-in-september

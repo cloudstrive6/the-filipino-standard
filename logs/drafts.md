@@ -5876,3 +5876,15 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 - https://www.manilatimes.net/2026/10/06/business/food-transport-energy-push-inflation-up-to-72-in-sept/2439563
 - https://www.rappler.com/business/inflation-rate-philippines-september-2026/
 - https://business.inquirer.net/614479/ph-inflation-climbs-to-7-2-in-september
+
+## 2026-10-06 19:03 PHT | threads | PUBLISHED LIVE (post_id sp_kTnn0p0YVEslq78VYML1w)
+**Topic:** AMLC Executive Director Ronel Buenaventura testified Oct 5, 2026 at the Senate impeachment trial (Day 33) that VP Sara Duterte's husband Manases Carpio withdrew 41 million pesos in cash in a single day, Aug 6 2024, across six transactions from two banks (P23M BDO, P18M PNB). The couple's 2024 joint SALN declared zero cash on hand and zero cash in bank. Distinct from all recently logged topics (impeachment trial evidentiary mechanics/bribery-charge-dropped framing, NCAP relaunch, AMLC crypto freeze, NG debt record, Angat/Kaliwa water, Sept inflation 7.2%) - this is a new, specific SALN-disclosure-gap fact disclosed today, not previously covered.
+**Hook:** "Six transactions, two banks, 41 million pesos in cash withdrawn in a single day, August 6, 2024, per AMLC testimony this week at the Senate impeachment trial."
+**Angle:** Governance/accountability + constitutional-awareness pillar. Attacks the SALN disclosure system's lack of real-time verification (a legally mandated anti-corruption tool that only gets cross-checked against bank records when forced into a courtroom), not the VP's personal identity.
+**Tagalog beat used (closer):** "Sino ba talaga ang sumusuri sa SALN?" (Who really checks the SALN?) Composed fresh for this post's SALN-verification-gap angle; not reused from any bank entry or recent post.
+**Fact-check:** First attempt FAILED (claimed "for over a year, nobody did" check the records - contradicted, AMLC had testified on related transactions before the House Committee on Justice as early as April 2026). Revised to frame the gap as "this only surfaced because a Senate trial forced the bank trail into the open, not because the filing itself got checked on time" - passed the automated Gemini + Google Search gate on retry.
+**Sources (verified manually via WebSearch, 2+ reputable sources):**
+- https://www.manilatimes.net/2026/10/06/news/carpio-withdrew-p41m-in-one-day/2439306
+- https://www.gmanetwork.com/news/topstories/nation/1004788/amlc-witness-sara-duterte-s-husband-withdrew-p41m-in-single-day/story/
+- https://www.philstar.com/headlines/2026/10/06/2561299/sara-duterte-trial-recap-oct-5-longest-trial-day-amlc-bares-records
+- https://www.sunstar.com.ph/amp/story/manila/sara-duterte-husband-had-millions-in-withdrawals-despite-2024-saln-declaration

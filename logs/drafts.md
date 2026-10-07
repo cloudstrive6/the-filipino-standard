@@ -5901,3 +5901,14 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 - https://mb.com.ph/2026/10/06/doe-warns-super-el-nino-could-drive-up-power-bills-as-supply-tightens
 - https://www.gmanetwork.com/news/topstories/nation/1004881/ndrrmc-state-of-calamity-declared-in-106-areas-due-to-el-ni-o/story/
 - https://newsinfo.inquirer.net/2317994/fwd-106-areas-under-state-of-calamity-due-to-el-nio-over-380000-individuals-affected-ndrrmc
+
+## 2026-10-07 19:02 PHT | threads | PUBLISHED LIVE (post_id sp_GAAb1ROwT7OSb32RKoBJ)
+**Topic:** A Makati court issued an arrest warrant (Oct 5, 2026, bail set at P72,000) for the officers of Solar Para sa Bayan Corp. (SPSBC), after DOJ filed criminal charges (Sept 29, 2026) for violating Section 25 of the Public Service Act. SPSBC was granted a 25-year legislative franchise in 2019 (RA 11357) to electrify remote/underserved areas but, per DOE, failed to deliver power there seven years on. Energy Secretary Sharon Garin escalated the complaint to DOJ in May 2026. Distinct from all recently logged topics (Duterte impeachment/AMLC/SALN, El Nino/DOE blackouts/WESM, NCAP relaunch, AMLC crypto freeze, NG debt, Angat/Kaliwa water, Sept inflation) - first post on legislative-franchise non-performance and the lack of an automatic accountability/revocation mechanism.
+**Hook:** "Pitong taon, walang linya ng kuryente." (Seven years, no power line.)
+**Angle:** Governance/economic & utility reform pillar. Attacks the system, not the individual: a legislative franchise has no built-in clock or automatic revocation for non-performance; it took an energy secretary's escalation and press attention, not the franchise's own terms, to trigger any accountability. No named individual called out; company/officers referenced only functionally.
+**Tagalog beat used (opening hook placement, per threads_tagalog_planner.py):** "Pitong taon, walang linya ng kuryente." Composed fresh for this post; not reused from recent posts (avoided the banned recent phrase "Bumabaha pa rin. Walang pondo.").
+**Fact-check:** PASSED on first attempt (independent Gemini + Google Search verifier corroborated all three claims: 2019 franchise grant via RA 11357, DOE's 2026 complaint over non-delivery after seven years, and DOJ's Sept 29, 2026 charges following Sec. Garin's escalation).
+**Sources (verified via WebSearch, 2+ reputable sources):**
+- https://www.manilatimes.net/2026/10/07/news/court-orders-leviste-arrest-as-doj-files-charges-over-solar-firm-franchise/2440564
+- https://mb.com.ph/2026/10/07/makati-court-issues-arrest-warrant-vs-leandro-leviste
+- https://abogado.com.ph/doe-files-raps-vs-leviste-solar-firm-officers-over-failed-power-rollout-to-underserved-areas/

@@ -5912,3 +5912,14 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 - https://www.manilatimes.net/2026/10/07/news/court-orders-leviste-arrest-as-doj-files-charges-over-solar-firm-franchise/2440564
 - https://mb.com.ph/2026/10/07/makati-court-issues-arrest-warrant-vs-leandro-leviste
 - https://abogado.com.ph/doe-files-raps-vs-leviste-solar-firm-officers-over-failed-power-rollout-to-underserved-areas/
+
+## 2026-10-08 12:04 PHT | threads | SKIPPED (fact-check gate unavailable, not published)
+**Topic (prepared, not published):** Ex-DPWH Undersecretary Roberto Bernardo (state witness) testified at the Sandiganbayan on Oct 7, 2026 in the graft case vs. ex-Ako Bicol Rep. Zaldy Co (P289.4M Sunwest flood-control project, Naujan, Oriental Mindoro): he received P130M "balato" from Co, P100M coursed through an ex-DPWH district engineering office and P30M through an ex-DPWH regional office, spanning 2023-2025, calling it a "token of gratitude" to make sure "plans go smoothly." Distinct from all recently logged topics (Solar Para sa Bayan franchise arrest, AMLC crypto freeze/unnamed lawmaker, impeachment self-incrimination ruling, NG debt record, Angat/Kaliwa water, GenCorp/PhilGEPS, El Nino/DOE blackouts) - first post specifically on the multi-year "balato" as a routine, structured cost-of-doing-business with government, exposed only via a plea deal, not any internal audit.
+**Hook drafted:** "P130 million. Not a single bribe, a three-year subscription."
+**Tagalog beat composed (fresh):** "Walang balato, walang proyekto." (No kickback, no project.)
+**Why skipped:** `publish_direct.py`'s independent fact-check verifier (Gemini) returned HTTP 503 "high demand" on every retry (3/3) across two separate attempts, so the script fail-closed and refused to publish, per the hard rule (no live post without a passing fact-check). This was an infra outage, not a content rejection, so the caption and topic above are still valid and may be reused/re-attempted in a future run rather than treated as a published repeat.
+**Sources (verified via WebSearch, 2+ reputable sources):**
+- https://newsinfo.inquirer.net/2318855/bernardo-arrives-at-sandiganbayan-to-testify-in-cos-graft-case
+- https://www.gmanetwork.com/news/topstories/nation/980294/bernardo-zaldy-co-balato/story/
+- https://mb.com.ph/2026/03/17/ex-dpwh-usec-bernardo-admits-receiving-p130-m-from-zaldy-co
+- https://www.rappler.com/philippines/roberto-bernardo-testimony-zaldy-co-millions-token-gratitude/

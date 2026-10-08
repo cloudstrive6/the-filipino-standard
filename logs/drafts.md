@@ -5923,3 +5923,15 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 - https://www.gmanetwork.com/news/topstories/nation/980294/bernardo-zaldy-co-balato/story/
 - https://mb.com.ph/2026/03/17/ex-dpwh-usec-bernardo-admits-receiving-p130-m-from-zaldy-co
 - https://www.rappler.com/philippines/roberto-bernardo-testimony-zaldy-co-millions-token-gratitude/
+
+## 2026-10-08 19:02 PHT | threads | dpwh-prepay-red-flags
+
+**Topic:** DPWH Sec. Vince Dizon told the Senate Finance Committee (Oct 7-8, 2026 budget hearing) that contractors used to get paid in full before flood control projects were even finished, a practice that let "ghost projects" exist; now that payment waits for completion, that basic check is being blamed for slower project delivery. Separately, Senate President Sherwin Gatchalian's office flagged 7,107 of the proposed 2027 DPWH projects as red flags (duplicates, missing location data, overlaps). Distinct from all recently logged topics (Solar Para sa Bayan franchise arrest, Bernardo/Zaldy Co balato testimony specifics, impeachment/AMLC/SALN, El Nino/DOE blackouts/WESM, NCAP relaunch, NG debt, Angat/Kaliwa water, Sept inflation) - first post on the pay-before-completion protocol itself as the root incentive bug, and on next year's (2027) budget already carrying thousands of red flags.
+**Hook:** "DPWH used to pay contractors in full before a flood control project was even finished."
+**Angle:** Governance/economic reform pillar. Attacks the system and the incentive (a payment protocol with no completion check), not any named individual; Dizon and Gatchalian referenced only functionally (official statements), not as targets. Frames the current "finish first" fix as revealing how bare-minimum rot allowed the scandal to happen, and shows the problem isn't fully past tense: 7,107 flagged projects are already in the 2027 pipeline.
+**Tagalog beat used (fresh, composed for this post):** "Bayad na, wala pang proyekto." (Already paid, no project yet.) Not reused from recent posts.
+**Fact-check:** PASSED (independent Gemini + Google Search verifier corroborated all three claims: Dizon's Senate testimony on pay-before-completion contributing to the scandal, the "finish first" oversight now cited as a delay factor, and Gatchalian's 7,107 red-flagged 2027 DPWH projects).
+**Published live:** post_id=sp_5AtKbBohTOQwMvyG8qcC3, 488 chars.
+**Sources (verified via WebSearch, 2+ reputable sources):**
+- https://www.manilatimes.net/2026/10/08/news/flood-control-scam-hampers-infra-works/2441058
+- https://philstar.com/opinion/2026/10/08/2561648/editorial-dpwh-red-flags

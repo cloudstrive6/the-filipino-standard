@@ -5935,3 +5935,15 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 **Sources (verified via WebSearch, 2+ reputable sources):**
 - https://www.manilatimes.net/2026/10/08/news/flood-control-scam-hampers-infra-works/2441058
 - https://philstar.com/opinion/2026/10/08/2561648/editorial-dpwh-red-flags
+
+## 2026-10-09 12:04 PHT | threads | PUBLISHED LIVE (post_id sp_cmcx8TY49eqOs3SPvpPu)
+**Topic:** COA finalized (resolution dated Oct 5, 2026, denying the OVP's motion for reconsideration, made public Oct 7-8) the disallowance of P73.287 million in confidential funds spent by the Office of the Vice President over just 11 days, Dec 21-31, 2022: P69.78M logged as "informer rewards" with no documentation proving the information-gathering/surveillance activities occurred, plus P3.5M for office furniture, computers, and printers, equipment confidential funds are not meant to cover absent proof it was for confidential ops. VP Sara Duterte, Special Disbursing Officer Gina Acosta, and Chief Accountant Julieta Villadelrey are held personally and jointly liable (not just "the office"). Distinct from all recently logged topics (AMLC cash-withdrawal/SALN gap Oct 5, DPWH pay-before-completion/2027 red flags Oct 8, Bernardo/Zaldy Co balato, Solar Para sa Bayan franchise arrest, El Nino/DOE blackouts, NCAP, NG debt, Angat/Kaliwa) - first post on the COA confidential-fund disallowance mechanism itself and the personal-liability detail, not the impeachment trial testimony track.
+**Hook:** "P73.287 million spent in 11 days, none of the receipts a normal expense needs."
+**Angle:** Governance/accountability pillar. Attacks the confidential-fund documentation system (loose receipt standards, no proof requirement enforced until COA caught it) and highlights that COA's personal-liability finding is the accountability mechanism working as designed, not a new scandal. VP referenced only functionally as the office-holder COA held liable, not as a personal identity attack.
+**Tagalog beat used (fresh, composed for this post):** "Saan ba talaga humihinto ang pananagutan?" (Where does accountability really stop?) Not reused from recent posts.
+**Fact-check:** PASSED on retry (independent Gemini + Google Search verifier corroborated all claims after an initial draft's "no itemized receipts required, by design" line was flagged as mis-stated and rewritten to "none of the receipts a normal expense needs").
+**Published live:** post_id=sp_cmcx8TY49eqOs3SPvpPu, 485 chars.
+**Sources (verified via WebSearch, 2+ reputable sources):**
+- https://mb.com.ph/2026/10/08/shukran-in-advance-vp-sara-again-told-to-return-p73-m-confidential-funds-after-final-coa-ruling
+- https://tribune.net.ph/2026/10/08/inday-to-fight-p73-m-coa-disallowance-before-sc
+- https://newsinfo.inquirer.net/2319606/coa-disallowance-final-ovp-must-return-p73m

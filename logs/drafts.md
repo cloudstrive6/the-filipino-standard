@@ -5959,3 +5959,15 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 - https://business.inquirer.net/614957/peso-sinks-to-fresh-record-low-of-62-901
 - https://www.philstar.com/business/2026/10/09/2561832/bofa-sees-below-3-growth-philippines
 - https://www.manilatimes.net/2026/10/09/business/top-business/ph-growth-to-fall-below-3-this-year-bofa/2442115
+
+## 2026-10-10 12:02 PHT | threads | PUBLISHED LIVE (post_id sp_cQoF2Xl1yuehPJKNDLcQQ)
+**Topic:** NBI filed a graft complaint (Oct 9, 2026, before the Ombudsman) against CHR Chairperson Richard Palpal-latoc and three other CHR officials (Onesimo Cuyco, Maria Teresa Dolor, Russel Mani) for alleged violation of Sec. 3(e) RA 3019. Palpal-latoc attended a month-long 2025 training in Strasbourg, France (54th International Institute of Human Rights Summer School), fully funded by the Friedrich Naumann Foundation for Freedom (airfare, hotel, meals, subsistence), but NBI alleges he still billed CHR for subsistence and representation allowances over the same days, in violation of EO 77. The probe originated from a complaint by CHR union members, not an internal CHR compliance review. Distinct from all recently logged topics (impeachment trial/AMLC/SALN-gap/COA confidential-fund disallowance, peso record low/BofA growth forecast, DPWH pay-before-completion/2027 red flags, Bernardo/Zaldy Co balato, Solar Para sa Bayan franchise arrest, El Nino/DOE blackouts, NCAP, NG debt, Angat/Kaliwa) - first post on the CHR double-billing/expense-claim story, a fresh agency and fresh mechanism (human-rights watchdog unable to police its own reimbursements).
+**Hook:** "The agency meant to safeguard human rights can't account for its own expenses."
+**Angle:** Governance/accountability pillar. Attacks the absence of an internal control that lets an official double-claim already-funded travel costs, and the irony that the human-rights watchdog needed an outside complaint to catch it, not any individual's character.
+**Tagalog beat used (fresh, composed for this post):** "Tagapagbantay ng karapatan, pero walang bantay sa sarili." (Guardian of rights, but no guard over itself.) Not reused from recent posts.
+**Fact-check:** PASSED (independent Gemini + Google Search verifier corroborated all four claims: the NBI graft complaint and named respondents, the FNF-funded France training, the alleged double-billing under EO 77, and that the probe originated from a CHR union complaint rather than an internal review).
+**Published live:** post_id=sp_cQoF2Xl1yuehPJKNDLcQQ, 496 chars.
+**Sources (verified via WebSearch, 2+ reputable sources):**
+- https://www.rappler.com/philippines/chr-chairperson-graft-complaint-richard-palpal-latoc-ombudsman/
+- https://newsinfo.inquirer.net/2320828/nbi-files-graft-complaint-vs-chr-chair-3-others
+- https://tribune.net.ph/2026/10/09/nbi-files-raps-vs-palpal-lotoc-3-chr-officials

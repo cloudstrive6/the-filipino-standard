@@ -5971,3 +5971,15 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 - https://www.rappler.com/philippines/chr-chairperson-graft-complaint-richard-palpal-latoc-ombudsman/
 - https://newsinfo.inquirer.net/2320828/nbi-files-graft-complaint-vs-chr-chair-3-others
 - https://tribune.net.ph/2026/10/09/nbi-files-raps-vs-palpal-lotoc-3-chr-officials
+
+## 2026-10-10 19:03 PHT | threads | PUBLISHED LIVE (post_id sp_XyVrZMBylER4QOtgyyBXJ)
+**Topic:** The Bureau of the Treasury raised P167.25B from its RTB-32 retail bond offering (concluded Oct 7, 2026, reported Oct 9-10), 67% less than the P507.2B raised via the same instrument in August 2025. National Treasurer Sharon Almanza said BTr deliberately chose a shorter 2.5-year tenor at 6.875% coupon to avoid locking in today's elevated borrowing costs for longer, betting rates moderate next year. Distinct from all recently logged topics (impeachment trial/AMLC/SALN-gap/COA confidential-fund disallowance, peso record low/BofA growth forecast, DPWH pay-before-completion/2027 red flags, Bernardo/Zaldy Co balato, Solar Para sa Bayan franchise arrest, El Nino/DOE blackouts, NCAP, NG debt-stock record, Angat/Kaliwa, CHR double-billing) - first post on a specific bond-issuance/borrowing-cost mechanism, not the debt-stock or currency stories already covered.
+**Hook:** "The government just raised 67% less from its own retail bonds than it did last year."
+**Angle:** Economic & governance pillar. Attacks the incentive structure where the state itself hedges against its own future borrowing costs, implicitly conceding it does not trust where its own debt is headed, rather than any named official.
+**Tagalog beat used (fresh, composed for this post):** "Pati ang Kaban ng Bayan, nag-iingat na sa sariling utang." (Even the National Treasury is being careful with its own debt.) Not reused from recent posts.
+**Fact-check:** PASSED (independent Gemini + Google Search verifier corroborated all claims: P167.25B raised, P507.2B raised in Aug 2025, the 67% decline, the 2.5-year tenor, the 6.875% coupon, and Treasurer Sharon Almanza's stated rationale).
+**Published live:** post_id=sp_XyVrZMBylER4QOtgyyBXJ, 447 chars.
+**Sources (verified via WebSearch, 2+ reputable sources):**
+- https://mb.com.ph/2026/10/09/govt-raises-167-billion-from-retail-bonds-67-below-2025
+- https://www.philstar.com/business/2026/10/10/2562076/government-raises-p1673-billion-retail-bond-sale
+- https://business.inquirer.net/615124/govt-raises-p167-25b-from-new-retail-bonds

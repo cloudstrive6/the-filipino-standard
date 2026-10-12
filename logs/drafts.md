@@ -5983,3 +5983,15 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 - https://mb.com.ph/2026/10/09/govt-raises-167-billion-from-retail-bonds-67-below-2025
 - https://www.philstar.com/business/2026/10/10/2562076/government-raises-p1673-billion-retail-bond-sale
 - https://business.inquirer.net/615124/govt-raises-p167-25b-from-new-retail-bonds
+
+## 2026-10-12 12:04 PHT | threads | PUBLISHED LIVE (post_id sp_KeraZ1CU7GU4xzNXzqz9)
+**Topic:** Bureau of the Treasury reported the National Government's debt service bill plunged 88.5% to P76.12B in August 2026 (from P664.72B in August 2025, reported Oct 11-12, 2026). Interest payments alone actually rose 3.98% to P65.62B (from P63.12B), while principal repayments collapsed 98.25% to P10.5B (from P601.62B) purely because August 2025 contained a one-off large domestic bond redemption that is not repeating. Eight-month cumulative debt payments are down only 6.36-6.37%, to P1.443T. Distinct from all recently logged topics (impeachment trial/AMLC/SALN-gap/COA confidential-fund disallowance, peso record low/BofA growth forecast, DPWH pay-before-completion/2027 red flags, Bernardo/Zaldy Co balato, Solar Para sa Bayan franchise arrest, El Nino/DOE blackouts, NCAP, NG debt-stock record, Angat/Kaliwa, CHR double-billing, RTB-32 bond issuance) - first post on the debt-service headline-vs-reality angle: a flattering month-over-month comparison driven by base effects, not an improving debt burden.
+**Hook:** "The government is bragging about an 88.5% drop in debt payments."
+**Angle:** Economic & governance pillar. Attacks the practice of citing a favorable year-over-year percentage without disclosing the one-off base effect behind it, not any named official.
+**Tagalog beat used (fresh, composed for this post):** "Hindi kaginhawaan ito. Laro lang sa oras ng bayad." (This isn't relief. Just a game of payment timing.) Not reused from recent posts.
+**Fact-check:** PASSED (independent Gemini + Google Search verifier corroborated all claims: 88.5% drop, P76.12B, P664.72B prior year, P65.62B interest up 3.98%, P601.62B prior-year principal repayment/bond redemption, 6.36-6.37% eight-month decline, P1.443T eight-month total).
+**Published live:** post_id=sp_KeraZ1CU7GU4xzNXzqz9, 469 chars.
+**Sources (verified via WebSearch, 2+ reputable sources):**
+- https://www.philstar.com/business/2026/10/12/2562500/debt-payments-slashed-p76-billion
+- https://bworldonline.com/top-stories/2026/10/11/786017/philippine-debt-service-bill-plunges-in-august/
+- https://businessmirror.com.ph/2026/10/12/8-mo-debt-payments-down-6-36-to-%E2%82%B11-443t/

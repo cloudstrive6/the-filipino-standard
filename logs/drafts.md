@@ -5995,3 +5995,16 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 - https://www.philstar.com/business/2026/10/12/2562500/debt-payments-slashed-p76-billion
 - https://bworldonline.com/top-stories/2026/10/11/786017/philippine-debt-service-bill-plunges-in-august/
 - https://businessmirror.com.ph/2026/10/12/8-mo-debt-payments-down-6-36-to-%E2%82%B11-443t/
+
+## 2026-10-12 19:02 PHT | threads | PUBLISHED LIVE (post_id sp_gFrVDGKaA64t46PARFXa)
+**Topic:** ERC approved Meralco's first distribution rate hike in 15 years (last reset 2011), reported Oct 11-12, 2026: average distribution rate rises from ~P1.35/kWh to P1.48/kWh (9.6% increase), for the regulatory period covering July 2026-June 2030. Meralco had sought P2.34/kWh; ERC approved the lower P1.48/kWh. Distinct from all recently logged topics (impeachment trial/AMLC/SALN-gap/COA, peso record low/BofA forecast, DPWH pay-before-completion, Bernardo/Zaldy Co balato, Solar Para sa Bayan arrest, El Nino/DOE blackouts, NCAP, NG debt-stock record, Angat/Kaliwa, CHR double-billing, RTB-32 bonds, NG debt-service base-effect) and distinct from the September Meralco generation-charge rate cut post - this is a structural distribution-rate (not generation/fuel pass-through) hike, first post on the 15-year distribution reset.
+**Hook:** "ERC just approved Meralco's first distribution rate hike in 15 years."
+**Angle:** Economic & utility reform / governance-comparison pillar. Contrasts the distribution-rate hike (private monopoly, no consumer ownership) against Auckland's Entrust (75.1% community-owned, real annual dividend), attacking the ownership structure/system, not any named official. Includes "no country is perfect" caveat.
+**Tagalog beat used (fresh, composed for this post):** "Laging tumataas, walang ibinabalik." (Always rising, nothing given back.) Not reused from recent posts.
+**Fact-check:** PASSED (independent Gemini + Google Search verifier corroborated all 7 claims: 15-year first reset, P1.35 to P1.48/kWh, 9.6% increase, July 2026-June 2030 period, Meralco's P2.34 ask, Entrust 75.1% of Vector, annual dividend to households).
+**Published live:** post_id=sp_gFrVDGKaA64t46PARFXa, 485 chars.
+**Sources (verified via WebSearch, 2+ reputable sources):**
+- https://www.rappler.com/business/meralco-distribution-rate-hike-october-2026/
+- https://bworldonline.com/corporate/2026/10/11/786055/meralco-rate-hike-set-for-next-billing-cycle/
+- https://newsinfo.inquirer.net/2321298/regulators-ok-meralco-rate-hike-after-15-yrs
+- https://business.inquirer.net/615344/erc-approves-meralcos-rate-hike-after-a-decade

@@ -6008,3 +6008,15 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 - https://bworldonline.com/corporate/2026/10/11/786055/meralco-rate-hike-set-for-next-billing-cycle/
 - https://newsinfo.inquirer.net/2321298/regulators-ok-meralco-rate-hike-after-15-yrs
 - https://business.inquirer.net/615344/erc-approves-meralcos-rate-hike-after-a-decade
+
+## 2026-10-13 12:04 PHT | threads | PUBLISHED LIVE (post_id sp_xS4tQiCwyeYVf9zaxlNXP)
+**Topic:** The Sandiganbayan Fifth Division placed Sen. Jinggoy Estrada under a SECOND 90-day preventive suspension (ordered Oct 12, 2026) over the flood control kickback/plunder case, after his first 90-day suspension (imposed June 2026 by the Second Division) expired and he returned to the Senate. The new order followed the court resolving challenges to the validity of the formal charges (Information) against him. Distinct from all recently logged topics (impeachment trial/AMLC/SALN-gap/COA, peso record low/BofA forecast, DPWH pay-before-completion, Bernardo/Zaldy Co balato, Solar Para sa Bayan arrest, El Nino/DOE blackouts, NCAP, NG debt-stock record, Angat/Kaliwa, CHR double-billing, RTB-32 bonds, NG debt-service base-effect, Meralco distribution rate hike, CHR graft complaint vs Palpal-latoc) - first post on the preventive-suspension-loop mechanism for a named senator in the flood control scandal, a distinct legal-accountability angle, not the DPWH contractor/balato or CHR stories already covered.
+**Hook:** "A senator just got hit with a second 90-day suspension over the flood control plunder case."
+**Angle:** Political commentary / governance pillar. Attacks the preventive-suspension mechanism itself (a procedural loop - suspend, serve, return, re-suspend - with no conviction or resolution reached), not Estrada's personal identity. No NZ comparison used this post (no sourced NZ fact fit the angle, so the caveat rule does not apply).
+**Tagalog beat used (fresh, composed for this post):** "Kailan pa ba darating ang tunay na hustisya?" (When will real justice actually arrive?) Not reused from recent posts.
+**Fact-check:** FAILED once (flagged "running since June" as implying the new suspension itself started in June, when it was actually ordered in October) - revised to "four months after the first" and re-ran. PASSED on retry (independent Gemini + Google Search verifier corroborated all 4 claims: second 90-day suspension Oct 12 2026, first suspension expired after being imposed June 2026, suspension followed resolution of charge-validity challenges, ~4-month gap between the two orders).
+**Published live:** post_id=sp_xS4tQiCwyeYVf9zaxlNXP, 488 chars.
+**Sources (verified via WebSearch, 2+ reputable sources):**
+- https://www.rappler.com/philippines/sandiganbayan-jinggoy-estrada-with-new-suspension-order/
+- https://www.manilatimes.net/2026/10/12/news/sandiganbayan-suspends-jinggoy-anew-over-floor-control-mess/2443890
+- https://newsinfo.inquirer.net/2247416/sandiganbayan-places-jinggoy-estrada-under-90-day-suspension

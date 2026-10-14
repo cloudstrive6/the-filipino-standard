@@ -6044,3 +6044,16 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 - https://dole.gov.ph/news/nwpc-affirms-wage-order-granting-p42-wage-increase-for-central-visayas-private-sector-workers/
 - https://tribune.net.ph/2026/10/14/central-visayas-wage-hike-takes-effect-dole
 - https://bworldonline.com/the-nation/2026/09/27/782222/central-visayas-workers-to-get-p42-wage-increase-in-oct/
+
+## 2026-10-14 19:03 PHT | threads | PUBLISHED LIVE (post_id sp_8SKuLAiCrThgsrz8Z3R)
+**Topic:** The Senate impeachment court approved the prosecution's withdrawal of 3 of 4 impeachment articles against VP Sara Duterte on Oct 13, 2026, to speed up the trial. Articles I (misused confidential funds) and IV (grave threats/alleged assassination plot) were withdrawn with prejudice (barred from revival this term); Article III (bribery) was withdrawn without prejudice before evidence was presented. Only Article II (alleged unexplained wealth, ~P817.87-818M) remains. Trial adjourned to resume November 9, 2026. Distinct from all recently logged topics (Estrada second suspension, SAFE KIDS/Smart Kids bicameral mismatch, Central Visayas wage order, peso record low/BofA forecast, DPWH pay-before-completion, Bernardo/Zaldy Co balato, Solar Para sa Bayan arrest, El Nino/DOE blackouts, NCAP, NG debt-stock record, Angat/Kaliwa, CHR double-billing, RTB-32 bonds, Meralco distribution rate hike, CHR graft complaint, NG debt-service base-effect) - first post on the charge-withdrawal/case-narrowing mechanism inside the impeachment trial itself, a distinct angle from the earlier AMLC/SALN-gap/COA posts about the underlying evidence.
+**Hook:** "Three of four impeachment charges against VP Sara Duterte were just dropped, not to clear her name, but to make the trial move faster."
+**Angle:** Governance / political-accountability pillar. Attacks the impeachment process's incentive to narrow itself for speed, permanently shelving two serious allegations regardless of merit, rather than any individual's personal identity. No NZ comparison used, so the caveat rule does not apply.
+**Tagalog beat used (fresh, composed for this post, mid-pivot placement):** "Biglang nawala, parang wala lang." (Suddenly gone, like it was nothing.) Not reused from recent posts.
+**Fact-check:** FAILED once (first draft claimed "all three barred from revival this term," but Article III/bribery was withdrawn without prejudice and could technically be revived) - revised to distinguish the two with-prejudice articles from the one withdrawn before evidence, and re-ran. PASSED on retry (independent Gemini + Google Search verifier corroborated all 7 claims).
+**Published live:** post_id=sp_8SKuLAiCrThgsrz8Z3R, 486 chars.
+**Sources (verified via WebSearch, 2+ reputable sources):**
+- https://asianews.network/senate-court-allows-reduced-charges-against-philippine-vice-president-sara-duterte/
+- https://gulfnews.com/world/asia/philippines/philippines-sara-duterte-impeachment-3-charges-dropped-818-million-wealth-allegation-remains-1.500709980
+- https://www.bangkokpost.com/world/3336285/prosecutors-drop-most-impeachment-charges-against-philippine-vp-duterte
+- https://businessmirror.com.ph/2026/10/13/impeach-court-oks-dropping-of-3-charges-against-duterte

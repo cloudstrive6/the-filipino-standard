@@ -6033,3 +6033,14 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 - https://thediplomat.com/2026/10/philippine-lower-house-passes-bill-restricting-social-media-access-of-minors/
 - https://www.rappler.com/technology/senate-approves-bill-2424-social-media-ban-18-smart-kids/
 - https://www.gmanetwork.com/news/topstories/nation/1005231/senate-passes-social-media-ban-for-children-below-16-on-final-reading/story/
+
+## 2026-10-14 12:02 PHT | threads | PUBLISHED
+**Topic:** NWPC affirmed Wage Order ROVII-27 for Central Visayas, effective Oct 14 2026: a P42/day minimum wage increase (to P582 Class A / P542 Class B) for an estimated 337,476 private-sector workers across Cebu, Bohol, Negros Oriental, and Siquijor, the first adjustment in the region in over a year (prior order took effect Oct 4 2025). Distinct from all recently logged topics (Estrada second suspension, SAFE KIDS/Smart Kids bicameral mismatch, impeachment trial/AMLC/SALN-gap/COA, peso record low/BofA forecast, DPWH pay-before-completion, Bernardo/Zaldy Co balato, Solar Para sa Bayan arrest, El Nino/DOE blackouts, NCAP, NG debt-stock record, Angat/Kaliwa, CHR double-billing, RTB-32 bonds, Meralco distribution rate hike, CHR graft complaint) - first post on a regional minimum-wage order, breaks a long run of impeachment/corruption-adjacent topics with an economic cost-of-living angle.
+**Hook:** "Central Visayas workers get a P42 daily wage hike starting today, the first adjustment in over a year for 337,476 workers..."
+**Angle:** Economic reform / cost-of-living pillar. Attacks the wage-setting system's lag (a year-long approval cycle producing a raise that is already behind inflation on arrival), not any named official or board member. No NZ comparison used, so the caveat rule does not apply.
+**Tagalog beat used (fresh, composed for this post):** "Tumaas ang sweldo, pero mas mabilis tumakbo ang presyo." (The wage went up, but the price ran faster.) Not reused from recent posts.
+**Status:** Published live via publish_direct.py --platforms threads --live. Fact-check PASSED (all 5 load-bearing claims independently verified). post_id=sp_7JkQNdBg5kZgEFr7tfzK7, chars=408.
+**Sources (verified via WebSearch, 2+ reputable sources):**
+- https://dole.gov.ph/news/nwpc-affirms-wage-order-granting-p42-wage-increase-for-central-visayas-private-sector-workers/
+- https://tribune.net.ph/2026/10/14/central-visayas-wage-hike-takes-effect-dole
+- https://bworldonline.com/the-nation/2026/09/27/782222/central-visayas-workers-to-get-p42-wage-increase-in-oct/

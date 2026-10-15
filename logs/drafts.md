@@ -6069,3 +6069,11 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 - https://tribune.net.ph/2026/10/13/sws-self-rated-poverty-rises-to-168-million-families-in-q3
 - https://mb.com.ph/2026/10/13/168-million-families-consider-themselves-poor-in-q3-2026-sws
 - https://bworldonline.com/the-nation/2026/10/13/786667/self-rated-poor-households-climb-to-55-in-sept-as-food-costs-bite/
+
+## 2026-10-15 19:04 PHT | threads | SKIPPED (fact-check gate failed twice, not published)
+**Topic (prepared, not published):** Metro Cebu air quality crisis, Oct 2026 - AQI hit 180-190 ("very unhealthy") across Oct 11-15, repeated class suspensions in Cebu City/Mandaue/Lapu-Lapu, and EMB-7 (government's own regional monitor) ruled out transboundary Indonesian haze, attributing the pollution to local vehicle and industrial emissions instead. Distinct from all recently logged topics (impeachment charge withdrawal, Central Visayas wage order, Estrada suspension, SAFE KIDS bicameral mismatch, peso/BofA forecast, DPWH pay-before-completion, Bernardo/Zaldy Co balato, Solar Para sa Bayan arrest, El Nino/DOE blackouts, NCAP, NG debt-stock record, Angat/Kaliwa, CHR double-billing, RTB-32 bonds, Meralco rate hike, CHR graft complaint, NG debt-service, SWS self-rated poverty) - would have been the first post on the local-pollution-vs-haze governance angle.
+**Fact-check:** FAILED twice. First draft contradicted on the sequencing claim ("officials first blamed Indonesia, then admitted...") - EMB-7's stance was consistent from the start (no transboundary pattern), not a reversal. Revised draft dropped that framing but the new claim "classes suspended three times since October 12" could not be independently corroborated (only two distinct suspension dates confirmed: Oct 12 and Oct 15, plus an Oct 14 AQI spike without a confirmed suspension that day). Per the one-retry rule, stopped here rather than attempting a third draft. Nothing published this run.
+**Sources (verified via WebSearch, 2+ reputable sources):**
+- https://newsinfo.inquirer.net/2324329/hazardous-haze-seen-in-8-philippine-areas-denr
+- https://newsinfo.inquirer.net/2321664/local-pollution-not-indonesian-haze-forces-4-cebu-cities-to-suspend-classes
+- https://www.manilatimes.net/2026/10/12/regions/face-to-face-classes-halted-in-cebu-amid-air-quality-concerns/2443433

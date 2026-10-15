@@ -6057,3 +6057,15 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 - https://gulfnews.com/world/asia/philippines/philippines-sara-duterte-impeachment-3-charges-dropped-818-million-wealth-allegation-remains-1.500709980
 - https://www.bangkokpost.com/world/3336285/prosecutors-drop-most-impeachment-charges-against-philippine-vp-duterte
 - https://businessmirror.com.ph/2026/10/13/impeach-court-oks-dropping-of-3-charges-against-duterte
+
+## 2026-10-15 12:02 PHT | threads | PUBLISHED LIVE (post_id sp_rzMsdWyhdmeFcmrllYI8S)
+**Topic:** SWS Q3 2026 survey (fielded Sept 21-27, 2026): self-rated poverty jumped from 49% to 55% of Filipino families in three months, 16.8 million households now call themselves poor, up from 13.6 million in June. Self-rated food poverty rose from 36% to 44%, now 13.3 million families short on food. Distinct from all recently logged topics (impeachment charge withdrawal, Central Visayas wage order, Estrada suspension, SAFE KIDS bicameral mismatch, peso/BofA forecast, DPWH pay-before-completion, Bernardo/Zaldy Co balato, Solar Para sa Bayan arrest, El Nino/DOE blackouts, NCAP, NG debt-stock record, Angat/Kaliwa, CHR double-billing, RTB-32 bonds, Meralco rate hike, CHR graft complaint, NG debt-service) - first post on the self-rated poverty/hunger data itself, an economic-empowerment angle distinct from governance/utility/political posts.
+**Hook:** "Self-rated poverty just jumped from 49% to 55% of Filipino families in three months, according to SWS."
+**Angle:** Economic & utility reform / Filipino empowerment pillar. Attacks the gap between official growth narratives and lived hunger, a systemic incentive/messaging failure, not any individual.
+**Tagalog beat used (fresh, composed for this post):** "Hindi naghihintay ng briefing ang gutom." (Hunger does not wait for a briefing.) Not reused from recent posts.
+**Fact-check:** PASSED on first try (independent Gemini + Google Search verifier corroborated all 4 claims).
+**Published live:** post_id=sp_rzMsdWyhdmeFcmrllYI8S, 402 chars.
+**Sources (verified via WebSearch, 2+ reputable sources):**
+- https://tribune.net.ph/2026/10/13/sws-self-rated-poverty-rises-to-168-million-families-in-q3
+- https://mb.com.ph/2026/10/13/168-million-families-consider-themselves-poor-in-q3-2026-sws
+- https://bworldonline.com/the-nation/2026/10/13/786667/self-rated-poor-households-climb-to-55-in-sept-as-food-costs-bite/

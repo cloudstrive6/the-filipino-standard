@@ -6077,3 +6077,15 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 - https://newsinfo.inquirer.net/2324329/hazardous-haze-seen-in-8-philippine-areas-denr
 - https://newsinfo.inquirer.net/2321664/local-pollution-not-indonesian-haze-forces-4-cebu-cities-to-suspend-classes
 - https://www.manilatimes.net/2026/10/12/regions/face-to-face-classes-halted-in-cebu-amid-air-quality-concerns/2443433
+
+## 2026-10-16 12:02 PHT | threads | PUBLISHED LIVE (post_id sp_pl8v8HjWiGpnYni68dg6S)
+**Topic:** Pulse Asia's September 2026 "Ulat ng Bayan" survey (released Oct 15, 2026): 81% of Filipinos disapprove of the Marcos administration's handling of inflation, only 10% approve. Concern over rising prices jumped from 57% in July to 71% in September, a 14-point spike in two months, making inflation the nation's top urgent national concern, well ahead of corruption (39%). Distinct from all recently logged topics (impeachment charge withdrawal, Central Visayas wage order, Estrada suspension, SAFE KIDS bicameral mismatch, peso/BofA forecast, DPWH pay-before-completion, Bernardo/Zaldy Co balato, Solar Para sa Bayan arrest, El Nino/DOE blackouts, NCAP, NG debt-stock record, Angat/Kaliwa, CHR double-billing, RTB-32 bonds, Meralco rate hike, CHR graft complaint, NG debt-service, SWS self-rated poverty, Metro Cebu air quality [skipped]) - first post on public approval/disapproval of inflation handling itself (a distinct metric from the SWS self-rated-poverty level post), a government-responsiveness angle.
+**Hook:** "A new Pulse Asia survey finds 81% of Filipinos disapprove of the government's handling of inflation. Only 10% approve."
+**Angle:** Economic reform / political commentary pillar. Attacks the gap between how fast public concern is rising and how slow/absent the government's response is, a systemic responsiveness failure, not any individual official.
+**Tagalog beat used (fresh, composed for this post):** "Bakit laging huli ang kilos?" (Why is action always late?) Not reused from recent posts.
+**Fact-check:** PASSED on first try (independent Gemini + Google Search verifier corroborated all 4 claims).
+**Published live:** post_id=sp_pl8v8HjWiGpnYni68dg6S, 377 chars.
+**Sources (verified via WebSearch, 2+ reputable sources):**
+- https://www.philstar.com/headlines/2026/10/15/2563429/inflation-tops-filipinos-concerns-poll
+- https://newsinfo.inquirer.net/2324157/inflation-corruption-remain-top-concerns-of-filipinos-survey-says
+- https://tribune.net.ph/2026/10/15/81-disapprove-of-govt-handling-of-inflation-pulse-asia

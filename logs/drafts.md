@@ -6089,3 +6089,15 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 - https://www.philstar.com/headlines/2026/10/15/2563429/inflation-tops-filipinos-concerns-poll
 - https://newsinfo.inquirer.net/2324157/inflation-corruption-remain-top-concerns-of-filipinos-survey-says
 - https://tribune.net.ph/2026/10/15/81-disapprove-of-govt-handling-of-inflation-pulse-asia
+
+## 2026-10-16 19:02 PHT | threads | PUBLISHED LIVE (post_id sp_XQeAJSF8RnNk2valrrfJ)
+**Topic:** Senate finance chief JV Ejercito flagged that the House-approved 2027 national budget (P7.2 trillion) realigned roughly P206 billion from the executive's original plan: the national calamity fund cut by P9.5 billion despite a forecast "super El Nino" next year, the Health Facilities Enhancement Program (hospital upgrades) cut by P4.5 billion, immunization cut by P4 billion, health promotion cut by P2 billion, and P130 billion stripped from foreign-assisted infrastructure projects (Metro Manila Subway, rail). Meanwhile the Medical Assistance to Indigent and Financially Incapacitated Patients (MAIFIP) fund, which lawmakers can personally dispense to constituents, grew by P23.9 billion. Distinct from all recently logged topics (impeachment charge withdrawal, Central Visayas wage order, Estrada suspension, SAFE KIDS bicameral mismatch, peso/BofA forecast, DPWH pay-before-completion, Bernardo/Zaldy Co balato, Solar Para sa Bayan arrest, El Nino/DOE blackouts, NCAP, NG debt-stock record, Angat/Kaliwa, CHR double-billing, RTB-32 bonds, Meralco rate hike, CHR graft complaint, NG debt-service, SWS self-rated poverty, Metro Cebu air quality, Pulse Asia inflation disapproval) - first post on the 2027 budget realignment / patronage-fund-vs-institutional-fund trade-off.
+**Hook:** "The House's 2027 budget cuts the national calamity fund by ₱9.5 billion, even with forecasters warning of a possible super El Nino next year."
+**Angle:** Governance / economic reform pillar. Contrasts two kinds of public funds: ones that protect the public long-term (disaster response, hospitals, immunization) versus a fund individual legislators can personally release to constituents for credit-claiming. Attacks the incentive structure of pork-style patronage budgeting, not any named congressman.
+**Tagalog beat used (fresh, composed for this post):** "Kailan ba titigil ang ganitong klaseng pagpili?" (When will this kind of choice stop?) Not reused from recent posts.
+**Fact-check:** PASSED on first try (independent Gemini + Google Search verifier corroborated all 5 claims).
+**Published live:** post_id=sp_XQeAJSF8RnNk2valrrfJ, 462 chars.
+**Sources (verified via WebSearch, 2+ reputable sources):**
+- https://www.philstar.com/headlines/2026/10/15/2563333/house-realigned-p206-billion-2027-national-budget
+- https://www.rappler.com/philippines/national-news/jv-ejercito-flags-major-changes-house-representatives-version-2027-budget-bill/
+- https://canadianinquirer.net/2026/10/15/senate-finance-chief-flags-p206-b-house-changes-to-2027-budget/

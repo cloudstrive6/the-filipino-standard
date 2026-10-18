@@ -6134,3 +6134,14 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 **Sources (verified via WebSearch, 2+ reputable sources):**
 - https://www.manilatimes.net/2026/10/18/news/national/2-in-3-filipinos-support-billionaires-wealth-tax/2448032
 - https://www.dailyguardian.com.ph/blog/2-in-3-filipinos-back-billionaire-wealth-tax-survey-finds
+
+## 2026-10-18 19:02 PHT | threads | PUBLISHED LIVE (post_id sp_unRw6gibacuIoIopEzNA)
+**Topic:** PUBLiCUS Asia nationwide survey (fielded Oct 1-4, 2026): 55% of registered voters say they would not vote for a lawmaker or local government official proven tied to the flood control scam, even in the 2028 elections; 38% want the probe widened beyond the names already caught to cover every contractor and agency involved.
+**Hook:** "A nationwide PUBLiCUS Asia survey found 55% of Filipino voters would not vote for a lawmaker or local official tied to the flood control scam, even in 2028."
+**Angle:** Political commentary / governance pillar. Attacks the system/incentive, not a named individual: voter rejection in a survey means nothing if prosecutions don't land before the next election cycle, so tainted names can simply outlast the news. No NZ comparison used (not a fitting contrast for this angle).
+**Tagalog beat used (fresh, composed for this post):** "Pangako sa survey, hindi parusa sa korte." (A promise in a survey is not punishment in court.) Closing-line placement (previous post used standalone mid-post placement).
+**Fact-check:** PASSED on first draft (independent Gemini + Google Search verifier corroborated the 55%/38% survey figures).
+**Published live:** post_id=sp_unRw6gibacuIoIopEzNA, 485 chars.
+**Sources (verified via WebSearch, 2+ reputable sources):**
+- https://www.manilatimes.net/2026/10/18/news/national/more-want-wider-flood-control-scam-probe-survey/2448027
+- https://www.manilatimes.net/2026/10/17/news/voters-want-wider-flood-control-probe-reject-officials-implicated-in-scandal-survey/2447856

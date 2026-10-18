@@ -6123,3 +6123,14 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 **Sources (verified via WebSearch, 2+ reputable sources):**
 - https://tribune.net.ph/2026/10/16/ombudsman-dismisses-urdaneta-mayor-vice-mayor-6-councilors
 - https://newsinfo.inquirer.net/2325215/ombudsman-dismisses-8-top-urdaneta-execs-from-govt-service
+
+## 2026-10-18 12:02 PHT | threads | PUBLISHED LIVE (post_id sp_MsTWZVKLeyrS82yY3JXYM)
+**Topic:** Momentum Research nationwide survey (fielded Aug 18-23, 2026) found 66.3% of Filipino adults support a proposed wealth tax on billionaires (House Bill No. 9274, "Ultra-Wealth Tax Act"): 1% on net taxable assets above P1B, 2% for P2B+, 3% for P3B+, revenue earmarked for education, housing, health care, employment, and social protection. Support crossed political lines: opposition 69.3%, Duterte-aligned 67.2%, independents 66.9%, Marcos-aligned 59.2% (lowest but still majority). Distinct from all recently logged topics (impeachment charge withdrawal, Central Visayas wage order, Estrada suspension, SAFE KIDS bicameral mismatch, peso/BofA forecast, DPWH pay-before-completion, Bernardo/Zaldy Co balato, Solar Para sa Bayan arrest, El Nino/DOE blackouts, NCAP, NG debt-stock record, Angat/Kaliwa, CHR double-billing, RTB-32 bonds, Meralco rate hike, CHR graft complaint, NG debt-service, SWS self-rated poverty, Metro Cebu air quality, Pulse Asia inflation disapproval, 2027 budget realignment, PhilHealth remittance, Urdaneta mayor dismissal) - first post on the wealth-tax bill / cross-partisan tax-equity consensus.
+**Hook:** "Across every political camp, from the opposition to Marcos Jr.'s own base, majorities agree on something rare: tax billionaires."
+**Angle:** Economic & utility reform pillar. Attacks the system/incentive gap, not a named individual: the revenue plan already has broad public and cross-party buy-in, what's missing is legislative will to move the bill in Congress. No NZ comparison used this post (NZ has no wealth tax, so it wasn't a fitting contrast).
+**Tagalog beat used (fresh, composed for this post):** "Hindi pera ang kulang, kagustuhang kumilos lang." (It isn't money that's lacking, just the will to act.) Standalone-beat placement, mid-post. Not reused from recent posts.
+**Fact-check:** PASSED on first draft (independent Gemini + Google Search verifier corroborated the survey figures, tax structure, and revenue allocation).
+**Published live:** post_id=sp_MsTWZVKLeyrS82yY3JXYM, 432 chars.
+**Sources (verified via WebSearch, 2+ reputable sources):**
+- https://www.manilatimes.net/2026/10/18/news/national/2-in-3-filipinos-support-billionaires-wealth-tax/2448032
+- https://www.dailyguardian.com.ph/blog/2-in-3-filipinos-back-billionaire-wealth-tax-survey-finds

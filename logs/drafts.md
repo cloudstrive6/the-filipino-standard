@@ -6145,3 +6145,14 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 **Sources (verified via WebSearch, 2+ reputable sources):**
 - https://www.manilatimes.net/2026/10/18/news/national/more-want-wider-flood-control-scam-probe-survey/2448027
 - https://www.manilatimes.net/2026/10/17/news/voters-want-wider-flood-control-probe-reject-officials-implicated-in-scandal-survey/2447856
+
+## 2026-10-19 12:03 PHT | threads | SKIPPED (fact-check gate failed twice, not published)
+**Topic:** Philippine peso hitting fresh record lows past 63/USD in October 2026, with BSP's Monetary Board meeting October 22 to decide on a rate hike (economists split between 25bp and a larger 50bp move).
+**Hook:** "The peso keeps setting fresh record lows this month, past 63 to the dollar."
+**Angle:** Economic reform pillar. Attacks the system (decades of import dependency and currency-defense-after-the-fact monetary policy), not a named individual.
+**Tagalog beat attempted:** "Walang sweldo na tumataas kasabay ng dolyar." (fresh, composed for this post)
+**Fact-check:** FAILED twice. First attempt: claimed peso closed at "63.06, the weakest print in Philippine history" and BSP was weighing a "jumbo 50bp hike" as settled fact - verifier found the peso had since weakened further (63.23 intraday Oct 16) making "weakest ever" stale, and found a 50bp hike is not consensus (most economists expect 25bp). Revised draft corrected both figures and softened to "split between a standard move and a bigger one" - this passed on the specific numeric claims, but the verifier then contradicted the Tagalog beat itself, reading "Walang sweldo na tumataas kasabay ng dolyar" as an absolute factual claim and flagging it against an unrelated NCR minimum-wage hike approved in June 2026. Per the one-alternative-angle rule, stopped here rather than attempting a third draft. Nothing published this run.
+**Sources (verified via WebSearch, 2+ reputable sources):**
+- https://mb.com.ph/2026/10/19/bsp-rate-hike-seen-certain-but-weak-peso-raises-odds-of-bigger-move
+- https://tribune.net.ph/2026/10/18/peso-slide-raises-prospect-of-jumbo-bsp-hike
+- https://www.philstar.com/business/2026/10/16/2563467/peso-crosses-63-1-level

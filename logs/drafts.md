@@ -6168,3 +6168,15 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 - https://bworldonline.com/the-nation/2026/10/14/786921/coa-flags-p40-b-sss-paper-losses/
 - https://www.gmanetwork.com/news/money/companies/1006110/coa-flags-sss-p40-b-paper-loss-in-equity-investments/story/
 - https://astig.ph/coa-flags-sss-p40-billion-paper-losses-deceased-pensioners-2026/
+
+## 2026-10-20 12:03 PHT | threads | PUBLISHED LIVE (post_id sp_6hdGkdXXn3ag5AJ5NaUzC)
+**Topic:** VP Sara Duterte skipped the Senate's Oct 20, 2026 budget hearing for the Office of the Vice President's proposed P785.2 million 2027 budget; the finance subcommittee cleared the entire budget in under 20 minutes (16 minutes per one report) with OVP Chief of Staff Zuleika Lopez standing in. She also skipped the same budget hearing at the House of Representatives, unlike her attendance at both chambers in 2025. Distinct from all recently logged topics (impeachment charge withdrawal, Central Visayas wage order, Estrada suspension, SAFE KIDS bicameral mismatch, peso/BofA forecast, DPWH pay-before-completion, Bernardo/Zaldy Co balato, Solar Para sa Bayan arrest, El Nino/DOE blackouts, NCAP, NG debt-stock record, Angat/Kaliwa, CHR double-billing, RTB-32 bonds, Meralco rate hike, CHR graft complaint, NG debt-service, SWS self-rated poverty, Metro Cebu air quality, Pulse Asia inflation disapproval, 2027 budget realignment, PhilHealth remittance, Urdaneta mayor dismissal, wealth-tax survey, flood-control-scam voter survey, peso record low/BSP hike, SSS pension fund) - first post on the OVP budget-hearing absenteeism / rubber-stamp-oversight angle.
+**Hook:** "A ₱785.2 million government budget just cleared the Senate committee in under 20 minutes."
+**Angle:** Governance/accountability pillar. Attacks the oversight system (a budget hearing that can clear in under 20 minutes without the accountable official present isn't real scrutiny), not the Vice President personally; she is named only in her official capacity as reported by multiple outlets, consistent with past practice for named officials in case/record contexts.
+**Tagalog beat used (fresh, composed for this post):** "Wala siya, pero dumaan pa rin ang badyet." (She wasn't there, but the budget went through anyway.) Deliberately avoids the overused "walang nanagot/nagsagot" root used repeatedly in older entries; not reused from any recent post.
+**Fact-check:** PASSED on first draft (independent Gemini + Google Search verifier corroborated all 4 claims after 3 transient 503 retries).
+**Published live:** post_id=sp_6hdGkdXXn3ag5AJ5NaUzC, 475 chars.
+**Sources (verified via WebSearch, 2+ reputable sources):**
+- https://newsinfo.inquirer.net/2326860/sara-duterte-skips-ovp-budget-hearing-at-senate
+- https://www.philstar.com/headlines/2026/10/20/2564518/senate-panel-clears-ovp-budget-under-20-minutes-duterte-skips-hearing
+- https://tnt.abante.com.ph/2026/10/20/vp-sara-no-show-sa-senate-budget-hearing/news/

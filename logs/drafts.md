@@ -6180,3 +6180,17 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 - https://newsinfo.inquirer.net/2326860/sara-duterte-skips-ovp-budget-hearing-at-senate
 - https://www.philstar.com/headlines/2026/10/20/2564518/senate-panel-clears-ovp-budget-under-20-minutes-duterte-skips-hearing
 - https://tnt.abante.com.ph/2026/10/20/vp-sara-no-show-sa-senate-budget-hearing/news/
+
+## 2026-10-20 19:02 PHT | threads | PUBLISHED LIVE (post_id sp_Gyk6ozgxx4kTpePKk5Q)
+**Topic:** The Sandiganbayan suspended two sitting senators within the same month over plunder charges: Jinggoy Estrada (Oct 12, 2026, tied to P573M in DPWH project allocations) and Rodante Marcoleta (Oct 19, 2026, tied to P75M in undeclared 2025 campaign donations). Both ordered out for 90 days, both remain sitting senators during the suspension. Distinct from all recently logged topics (impeachment charge withdrawal, Central Visayas wage order, Estrada suspension [as a standalone item], SAFE KIDS bicameral mismatch, peso/BofA forecast, DPWH pay-before-completion, Bernardo/Zaldy Co balato, Solar Para sa Bayan arrest, El Nino/DOE blackouts, NCAP, NG debt-stock record, Angat/Kaliwa, CHR double-billing, RTB-32 bonds, Meralco rate hike, CHR graft complaint, NG debt-service, SWS self-rated poverty, Metro Cebu air quality, Pulse Asia inflation disapproval, 2027 budget realignment, PhilHealth remittance, Urdaneta mayor dismissal, wealth-tax survey, flood-control-scam voter survey, peso record low/BSP hike, SSS pension fund, OVP budget-hearing absenteeism [this morning's post]) - first post on the "two senators suspended in one month" systemic-pattern angle.
+**Hook:** "Dalawang senador, iisang buwan, parehong plunder." (Tagalog opening hook per tagalog planner placement.)
+**Angle:** Governance/accountability pillar. Attacks the system (preventive suspension is legally "ministerial," yet it took two separate scandals in 30 days to apply it, and suspended senators remain senators throughout), not the individuals' identities beyond their official capacity in a matter of public record.
+**Tagalog beat used (fresh, composed for this post):** "Dalawang senador, iisang buwan, parehong plunder." (Two senators, one month, same plunder charge.) Placement: opening_hook (per threads_tagalog_planner.py, rotated out of mid_pivot/closing_line used recently).
+**Fact-check:** PASSED on first draft (independent Gemini + Google Search verifier corroborated all 7 claims after 1 transient 503 retry).
+**Published live:** post_id=sp_Gyk6ozgxx4kTpePKk5Q, 489 chars.
+**Sources (verified via WebSearch, 2+ reputable sources):**
+- https://www.philstar.com/headlines/2026/10/19/2564317/marcoleta-suspended-90-days-over-plunder-charges
+- https://newsinfo.inquirer.net/2326693/marcoleta-suspended-due-to-plunder-case
+- https://mb.com.ph/2026/10/19/sandiganbayan-orders-90-day-suspension-of-marcoleta
+- https://mb.com.ph/2026/10/12/sandiganbayan-orders-senator-jinggoy-estradas-90-day-preventive-suspension
+- https://newsinfo.inquirer.net/2322345/sandiganbayan-suspends-jinggoy-estrada-due-to-plunder-case

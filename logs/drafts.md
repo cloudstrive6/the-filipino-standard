@@ -6194,3 +6194,17 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 - https://mb.com.ph/2026/10/19/sandiganbayan-orders-90-day-suspension-of-marcoleta
 - https://mb.com.ph/2026/10/12/sandiganbayan-orders-senator-jinggoy-estradas-90-day-preventive-suspension
 - https://newsinfo.inquirer.net/2322345/sandiganbayan-suspends-jinggoy-estrada-due-to-plunder-case
+
+## 2026-10-21 12:02 PHT | threads | PUBLISHED LIVE (post_id sp_ka5XvrEKmiKKyhZcAhjCX)
+**Topic:** The Supreme Court (decision Oct 20, 2026, penned by Senior Associate Justice Marvic Leonen) declared parts of the 2024, 2025, and 2026 national budgets unconstitutional for the same underlying defect across three straight cycles: Congress inflating the budget beyond what the President proposed via "unprogrammed appropriations." Specifics: P449.5B increase voided in the 2024 GAA (RA 11975), P17.99B added to DPWH's Special Road Fund voided in the 2025 GAA (RA 12116), and two loophole provisions (Special Provisions 1(a)/(b), Chapter XLIII) voided in the 2026 GAA that relaxed release conditions. Distinct from all recently logged topics (two-senators-suspended pattern, OVP budget-hearing absenteeism, SSS pension fund, peso record low/BSP hike, wealth-tax survey, flood-control-scam voter survey, 2027 budget realignment, etc.) - first post on the "SC has had to strike down the budget three years running" systemic pattern.
+**Hook:** "Tama na, ayon sa Korte Suprema." (Tagalog opening hook per tagalog planner placement.)
+**Angle:** Constitutional awareness / governance pillar. Attacks the system (Congress routinely exceeding its constitutional budget authority and getting caught by the Court, not any named legislator), frames the ruling as the Constitution's checks working rather than government self-correcting on its own.
+**Tagalog beat used (fresh, composed for this post):** "Tama na, ayon sa Korte Suprema." (Enough, according to the Supreme Court.) Placement: opening_hook (per threads_tagalog_planner.py, rotated per policy - excluded mid_pivot due to recency).
+**Fact-check:** PASSED on first draft (independent Gemini + Google Search verifier corroborated all 5 claims).
+**Published live:** post_id=sp_ka5XvrEKmiKKyhZcAhjCX, 486 chars.
+**Sources (verified via WebSearch, 2+ reputable sources):**
+- https://www.philstar.com/headlines/2026/10/21/2564572/sc-declares-provisions-2024-2025-2026-national-budgets-unconstitutional
+- https://newsinfo.inquirer.net/2327363/sc-congress-cant-bloat-presidents-budget
+- https://www.manilatimes.net/2026/10/20/news/supreme-court-sets-limits-to-congress-budget-increases/2449546
+- https://bworldonline.com/the-nation/2026/10/20/788229/sc-voids-parts-of-2024-2026-budget-laws-sets-limits-to-unprogrammed-funds/
+- https://sc.judiciary.gov.ph/sc-holds-unprogrammed-appropriations-subject-to-guidelines-voids-congressional-increases-in-2024-and-2025-budgets/

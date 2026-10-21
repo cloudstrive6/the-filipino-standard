@@ -6208,3 +6208,16 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 - https://www.manilatimes.net/2026/10/20/news/supreme-court-sets-limits-to-congress-budget-increases/2449546
 - https://bworldonline.com/the-nation/2026/10/20/788229/sc-voids-parts-of-2024-2026-budget-laws-sets-limits-to-unprogrammed-funds/
 - https://sc.judiciary.gov.ph/sc-holds-unprogrammed-appropriations-subject-to-guidelines-voids-congressional-increases-in-2024-and-2025-budgets/
+
+## 2026-10-21 19:02 PHT | threads | PUBLISHED LIVE (post_id sp_qUI28eO6WvOSzQNoitF5f)
+**Topic:** Fugitive businessman Charlie "Atong" Ang, facing nonbailable kidnapping-with-homicide and serious-illegal-detention charges over the 2021-2022 disappearance of 34 sabungeros (cockfight enthusiasts), left the Philippines through an "unofficial channel"/backdoor, confirmed by Interior Secretary Jonvic Remulla on Oct 20, 2026, and was last reported in Cambodia. Multiple RTC arrest warrants (Lipa City Batangas; Sta. Cruz and San Pablo, Laguna) are outstanding, and the reward for his capture stands at P20 million (raised from P10M in Feb 2026). Distinct from all recently logged topics (two-senators-suspended pattern, OVP budget-hearing absenteeism, SSS pension fund, peso record low/BSP hike, wealth-tax survey, flood-control-scam voter survey, 2027 budget realignment, SC budget-unconstitutionality pattern, etc.) - first post on the sabungeros-case fugitive / border-enforcement-is-selective angle.
+**Hook:** "Nakalusot lang siya sa likod-pintuan ng bansa." (He just slipped through the back door of the country.) Tagalog opening hook per threads_tagalog_planner.py placement.
+**Angle:** Political commentary / governance pillar. Attacks the border-enforcement system's selectivity (a non-bailable fugitive with a lookout bulletin and P20M reward walked out unflagged, while ordinary Filipinos face routine airport scrutiny), not Atong Ang's personal identity - he is named only as the factual subject of the news event.
+**Tagalog beat used (fresh, composed for this post):** "Nakalusot lang siya sa likod-pintuan ng bansa." Placement: opening_hook (per threads_tagalog_planner.py peek - mid_pivot excluded due to recency).
+**Fact-check:** PASSED on first draft (independent Gemini + Google Search verifier corroborated all 4 claims).
+**Published live:** post_id=sp_qUI28eO6WvOSzQNoitF5f, 482 chars.
+**Sources (verified via WebSearch, 2+ reputable sources):**
+- https://www.manilatimes.net/2026/10/21/news/atong-ang-slips-out-spotted-in-cambodia/2449396
+- https://www.pna.gov.ph/articles/1268936
+- https://www.gmanetwork.com/news/topstories/nation/974629/ph-sends-liaison-to-cambodia-vs-atong-ang-silg-remulla-says/story/
+- https://www.philstar.com/headlines/2026/01/17/2501488/another-arrest-warrant-out-vs-atong-ang-20-others

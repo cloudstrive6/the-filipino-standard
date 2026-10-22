@@ -6221,3 +6221,16 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 - https://www.pna.gov.ph/articles/1268936
 - https://www.gmanetwork.com/news/topstories/nation/974629/ph-sends-liaison-to-cambodia-vs-atong-ang-silg-remulla-says/story/
 - https://www.philstar.com/headlines/2026/01/17/2501488/another-arrest-warrant-out-vs-atong-ang-20-others
+
+## 2026-10-22 12:03 PHT | threads | PUBLISHED LIVE (post_id sp_ixcMcqZ6g3IBaj7CFYtwA)
+**Topic:** Senator Ronald "Bato" dela Rosa has evaded the ICC's crimes-against-humanity arrest warrant (issued under seal Nov 6, 2025, unsealed May 11, 2026) since fleeing the Senate in May 2026. This week (Oct 20-22, 2026) Malacanang publicly begged him to surrender rather than ordering his arrest; Interior Secretary Jonvic Remulla said a forced "tactical operation" is off the table because it could cause up to 10,000 deaths ("worse than Marawi"), since an armed group is protecting dela Rosa in Mindanao, and authorities are instead negotiating his turnover. Distinct from all recently logged topics (Atong Ang fugitive/border-enforcement, SC budget-unconstitutionality pattern, two-senators-suspended pattern, OVP budget-hearing absenteeism, SSS pension fund, peso record low/BSP hike, wealth-tax survey, flood-control-scam voter survey, 2027 budget realignment) - first post on the state-afraid-to-enforce-its-own-ICC-cooperation angle (distinct from the earlier May 2026 Senate-escape and Padilla-obstruction dela Rosa posts).
+**Hook:** "Nagtatago ang senador mula Mayo." (The senator has been hiding since May.) Tagalog opening hook per threads_tagalog_planner.py placement.
+**Angle:** Political commentary / constitutional-awareness pillar. Attacks the two-tier justice system (a sitting lawmaker evades international justice for months because private armed power outguns the state, while ordinary Filipinos get arrested for far less), not dela Rosa's personal identity - he is named only as the factual subject of the news event.
+**Tagalog beat used (fresh, composed for this post):** "Nagtatago ang senador mula Mayo." Placement: opening_hook (per threads_tagalog_planner.py peek).
+**Fact-check:** First draft FAILED (misstated the ICC warrant as the Philippine government's "own warrant"); corrected to "that ICC warrant" and PASSED on the second attempt (independent Gemini + Google Search verifier corroborated all 3 claims).
+**Published live:** post_id=sp_ixcMcqZ6g3IBaj7CFYtwA, 500 chars.
+**Sources (verified via WebSearch, 2+ reputable sources):**
+- https://www.manilatimes.net/2026/10/22/news/palace-urges-fugitive-senator-to-surrender/2451075
+- https://www.philstar.com/headlines/2026/10/21/2564809/palace-bato-surrender-avoid-bloodshed
+- https://www.sunstar.com.ph/manila/malaca%C3%B1ang-calls-for-bato-dela-rosas-surrender-to-avoid-bloodshed
+- https://filipinotimes.net/ph-news/2026/10/22/palace-urges-bato-dela-rosa-to-surrender-to-icc-warrant-to-prevent-bloodshed/

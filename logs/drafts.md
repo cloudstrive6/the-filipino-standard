@@ -6234,3 +6234,15 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 - https://www.philstar.com/headlines/2026/10/21/2564809/palace-bato-surrender-avoid-bloodshed
 - https://www.sunstar.com.ph/manila/malaca%C3%B1ang-calls-for-bato-dela-rosas-surrender-to-avoid-bloodshed
 - https://filipinotimes.net/ph-news/2026/10/22/palace-urges-bato-dela-rosa-to-surrender-to-icc-warrant-to-prevent-bloodshed/
+
+## 2026-10-22 19:03 PHT | threads | PUBLISHED LIVE (post_id sp_9v3ihGzYPpAJLmjRZxvch)
+**Topic:** House of Representatives prosecution adviser Robert Ace Barbers publicly urged the PNP, NBI, AMLC, and Comelec (Oct 22, 2026) to set up a joint mechanism tracing suspected links between remnant illegal POGO operations and political financing ahead of the 2028 elections, warning criminal syndicates could bankroll candidates in exchange for protection once elected. Distinct from all recently logged topics (Atong Ang fugitive/border-enforcement, SC budget-unconstitutionality pattern, two-senators-suspended pattern, OVP budget-hearing absenteeism, SSS pension fund, peso record low/BSP hike, wealth-tax survey, flood-control-scam voter survey, 2027 budget realignment, dela Rosa ICC-fugitive/Malacanang-surrender-plea) - first post on the POGO-money-buying-the-2028-ballot angle.
+**Hook:** "POGO was supposed to be dead." Opens on the gap between the official "total ban" narrative and the resurgence warning.
+**Angle:** Governance / constitutional-awareness pillar (electoral integrity, sovereignty of the vote). Attacks the system that lets banned criminal money re-enter politics through campaign financing and buy "protection" after the winners are sworn in, not any named individual - Barbers is cited only as the source of the on-record warning, not the target.
+**Tagalog beat used (fresh, composed for this post):** "Binili na sila bago pa man manalo." (They were already bought before they even won.) Placement: closing_line (per threads_tagalog_planner.py commit - broke a 4-post opening_hook streak in the actual log that the planner's stale state file hadn't been tracking; committed this entry to resync the state).
+**Fact-check:** PASSED on first attempt (independent Gemini + Google Search verifier corroborated all 3 claims: the POGO ban history, Barbers' Oct 22 2028-election-financing warning, and his call for PNP/NBI/AMLC/Comelec to trace the money pre-election).
+**Published live:** post_id=sp_9v3ihGzYPpAJLmjRZxvch, 495 chars.
+**Sources (verified via WebSearch, 2+ reputable sources):**
+- https://www.manilatimes.net/2026/10/22/news/probe-urged-on-pogo-linked-syndicates-that-may-bankroll-2028-bets-for-protection/2451380
+- https://journalnews.com.ph/pogo-remnants-reportedly-set-to-meddle-in-28-polls/
+- https://bnc.bilyonaryo.com/barbers-seeks-probe-into-alleged-pogo-funding-of-2028-bets/news/

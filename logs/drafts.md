@@ -6246,3 +6246,15 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 - https://www.manilatimes.net/2026/10/22/news/probe-urged-on-pogo-linked-syndicates-that-may-bankroll-2028-bets-for-protection/2451380
 - https://journalnews.com.ph/pogo-remnants-reportedly-set-to-meddle-in-28-polls/
 - https://bnc.bilyonaryo.com/barbers-seeks-probe-into-alleged-pogo-funding-of-2028-bets/news/
+
+## 2026-10-23 12:03 PHT | threads | PUBLISHED LIVE (post_id sp_pLlhFRlcvRFncjE7kcBYo)
+**Topic:** The Supreme Court voided P449.5 billion in unconstitutional unprogrammed-appropriations padding in the 2024 national budget (decision dated Oct 7, 2026, made public Oct 20, 2026), the third straight GAA cycle (2024, 2025, 2026) it has had to strike provisions from. On Oct 21, 2026, Malacanang announced the Marcos administration, via the Office of the Solicitor General, would file a motion for reconsideration disagreeing with parts of the ruling's new conditions on unprogrammed appropriations. Distinct from all recently logged topics (Atong Ang fugitive/border-enforcement, SC budget-unconstitutionality pattern itself, two-senators-suspended pattern, OVP budget-hearing absenteeism, SSS pension fund, peso record low/BSP hike, wealth-tax survey, flood-control-scam voter survey, 2027 budget realignment, dela Rosa ICC-fugitive/Malacanang-surrender-plea, POGO-money-buying-2028-ballot) - first post on the government-appealing-its-own-accountability-ruling angle (the follow-up chapter to the Oct 21 SC-pattern post, not a repeat of it).
+**Hook:** "The Supreme Court voided P449.5 billion in unconstitutional budget padding this month..." Opens on the verdict, pivots to the government asking for a rematch.
+**Angle:** Governance / constitutional-awareness pillar. Attacks the system's reflex to undo accountability the moment it bites, not any named individual - the Office of the Solicitor General is named only as the institutional actor filing the motion, not a person.
+**Tagalog beat used (fresh, composed for this post):** "Nahuli, pero ayaw pang tanggapin ang hatol." (Caught, but still refuses to accept the verdict.) Placement: closing_line.
+**Fact-check:** PASSED on first attempt (independent Gemini + Google Search verifier corroborated the P449.5B figure, the three-straight-budget-cycle pattern, and the Oct 21 OSG motion-for-reconsideration announcement).
+**Published live:** post_id=sp_pLlhFRlcvRFncjE7kcBYo, 392 chars.
+**Sources (verified via WebSearch, 2+ reputable sources):**
+- https://www.manilatimes.net/2026/10/22/news/national/palace-to-appeal-sc-budget-ruling/2451064
+- https://www.philstar.com/headlines/2026/10/22/2564991/solgen-seeks-review-sc-ruling-unprogrammed-appropriations
+- https://pia.gov.ph/news/palace-solgen-to-seek-reconsideration-of-supreme-court-ruling-on-national-budget-provisions

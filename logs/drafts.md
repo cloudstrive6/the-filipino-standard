@@ -6271,3 +6271,16 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 - https://www.philstar.com/headlines/2026/10/24/2565380/p50-milllion-bounty-batos-capture
 - https://www.rappler.com/philippines/pnp-dilg-bato-dela-rosa-week-surrender-millions-reward-icc-warrant/
 - https://www.gmanetwork.com/news/topstories/nation/1006921/dilg-offers-p50-m-reward-for-arrest-of-armed-and-dangerous-bato-dela-rosa/story/
+
+## 2026-10-24 19:03 PHT | threads | PUBLISHED LIVE (post_id sp_gsC831ol7OBUycjfel4E)
+**Topic:** Two PAF SF-260 trainer aircraft collided mid-air at Fernando Air Base, Lipa, Batangas on Oct 23, 2026, killing all four pilots aboard; the entire SF-260 fleet (the Air Force's primary pilot-training aircraft) was grounded pending investigation. Distinct from all recently logged topics (dela Rosa bounty, SC budget-unconstitutionality/OSG appeal, two-senators-suspended, OVP absenteeism, SSS pension, peso/BSP, wealth-tax survey, flood-control-scam survey, 2027 budget realignment, POGO-2028-ballot, Atong Ang) - first post on the recurring-fatal-trainer-crash / military-safety-accountability angle.
+**Hook:** "Four PAF pilots died Friday when two SF-260 trainers collided mid-air over Batangas." Factual hook per Threads convention (no Tagalog in the opening line this time; Tagalog placed mid_pivot per planner).
+**Angle:** Governance/public-service-duty pillar (Art. II Sec. 4 "prime duty to serve and protect" implied, not quoted verbatim). Attacks the pattern/system - grounded, investigated, cleared to fly, repeat - not any individual officer or pilot. Third fatal SF-260 incident in recent years (2023 Bataan crash, May 2026 Benguet crash, now Oct 2026 Batangas crash) with no fleet overhaul breaking the cycle.
+**Tagalog beat used (fresh, composed for this post):** "Ikatlong pagkakataon na ito." (This is already the third time.) Placement: mid_pivot (per threads_tagalog_planner.py - real recent log showed opening_hook, closing_line, closing_line, opening_hook, so mid_pivot/inline_woven/standalone_beat were due; committed to planner state).
+**Fact-check:** PASSED on first attempt (independent Gemini + Google Search verifier corroborated the Oct 23 mid-air collision and four deaths, the fleet-wide grounding, the May 20 2026 Benguet crash, and the 2023 crash history).
+**Published live:** post_id=sp_gsC831ol7OBUycjfel4E, 475 chars.
+**Sources (verified via WebSearch, 2+ reputable sources):**
+- https://newsinfo.inquirer.net/2329371/4-paf-pilots-killed-in-batangas-plane-crash-sf-260-fleet-grounded-2
+- https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/24/four-philippine-air-force-pilots-killed-in-batangas-crash-sf-260-fleet-grounded
+- https://astig.ph/paf-sf-260-fleet-grounded-four-pilots-killed-batangas-2026/
+- https://www.pna.gov.ph/articles/1275437

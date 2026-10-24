@@ -6258,3 +6258,16 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 - https://www.manilatimes.net/2026/10/22/news/national/palace-to-appeal-sc-budget-ruling/2451064
 - https://www.philstar.com/headlines/2026/10/22/2564991/solgen-seeks-review-sc-ruling-unprogrammed-appropriations
 - https://pia.gov.ph/news/palace-solgen-to-seek-reconsideration-of-supreme-court-ruling-on-national-budget-provisions
+
+## 2026-10-24 12:03 PHT | threads | PUBLISHED LIVE (post_id sp_VfpcYL3fNXE5Qkfw24yhL)
+**Topic:** The DILG (Sec. Jonvic Remulla, Oct 23, 2026) and PNP chief Gen. Jose Melencio Nartatez Jr. placed a P50-million reward for information leading to the arrest of Sen. Ronald "Bato" dela Rosa, declared him "armed and dangerous," and gave him one week to surrender under the ICC arrest warrant (unsealed May 11, 2026, under seal since Nov 6, 2025) he has evaded since fleeing the Senate in May 2026. Distinct from all recently logged topics (Atong Ang fugitive/border-enforcement, SC budget-unconstitutionality pattern, government-appealing-its-own-ruling, two-senators-suspended pattern, OVP budget-hearing absenteeism, SSS pension fund, peso record low/BSP hike, wealth-tax survey, flood-control-scam voter survey, 2027 budget realignment, POGO-money-2028-ballot) - first post on the state-finally-putting-a-price-on-a-fugitive-senator's-head angle (escalation from the Oct 20-22 Malacanang-pleads-for-surrender/negotiation posts to an actual bounty and deadline).
+**Hook:** "May pabuya na sa ulo ng senador." (There's now a bounty on the senator's head.) Tagalog opening hook per threads_tagalog_planner.py placement.
+**Angle:** Political commentary / constitutional-awareness pillar. Attacks the two-tier justice system (the state negotiates for months with a sitting lawmaker before resorting to a cash bounty, while ordinary Filipinos are arrested the same day), not dela Rosa's personal identity - he is named only as the factual subject of the news event.
+**Tagalog beat used (fresh, composed for this post):** "May pabuya na sa ulo ng senador." Placement: opening_hook (per threads_tagalog_planner.py peek; the planner's stored state had drifted from actual publish history showing two consecutive closing_line posts, so opening_hook was chosen to satisfy the real no-repeat rule, and the commit resynced the state).
+**Fact-check:** PASSED on first attempt (independent Gemini + Google Search verifier corroborated the P50M bounty, the "armed and dangerous" designation, the one-week surrender ultimatum, and the May 2026 ICC-warrant evasion timeline).
+**Published live:** post_id=sp_VfpcYL3fNXE5Qkfw24yhL, 497 chars.
+**Sources (verified via WebSearch, 2+ reputable sources):**
+- https://www.manilatimes.net/2026/10/24/news/p50m-bounty-up-for-capture-of-armed-and-dangerous-dela-rosa/2452561
+- https://www.philstar.com/headlines/2026/10/24/2565380/p50-milllion-bounty-batos-capture
+- https://www.rappler.com/philippines/pnp-dilg-bato-dela-rosa-week-surrender-millions-reward-icc-warrant/
+- https://www.gmanetwork.com/news/topstories/nation/1006921/dilg-offers-p50-m-reward-for-arrest-of-armed-and-dangerous-bato-dela-rosa/story/

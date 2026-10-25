@@ -6297,3 +6297,16 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 - https://www.philstar.com/headlines/2026/10/25/2565607/veteran-journalist-philip-lustre-posts-bail-cyberlibel-raps
 - https://www.rappler.com/philippines/philip-lustre-jr-arrested-alleged-cyber-libel/
 - https://www.manilatimes.net/2026/10/25/news/national/veteran-journalist-lustre-released-from-jail/2453166
+
+## 2026-10-25 19:03 PHT | threads | PUBLISHED LIVE (post_id sp_lykumPIVEZKnRNHyfe5Ht)
+**Topic:** Ombudsman Jesus Crispin Remulla launched the "Investors' Window" on Oct 22, 2026 in Cebu City, a direct channel for business owners to report officials who demand bribes, extort, or delay permits. He vowed immediate suspension of officials who ignore Anti-Red Tape Authority notices on delayed permits, and said he is already eyeing removing a mayor or two in Cavite over graft. Distinct from all recently logged topics (dela Rosa bounty, PAF SF-260 crash, SC budget/OSG appeal, two-senators-suspended, OVP absenteeism, SSS pension, peso/BSP, wealth-tax survey, flood-control-scam survey, 2027 budget realignment, POGO-2028-ballot, Atong Ang, Philip Lustre cyberlibel-skipped) - first post on the business-permit-extortion / Ombudsman-anti-corruption-business-window angle.
+**Hook:** "An Ombudsman just had to open an 'Investors' Window' so business owners have somewhere to report officials demanding bribes for a permit." Factual hook, no Tagalog in opening line.
+**Angle:** Business & SME advocacy / governance pillar. Attacks the system that normalizes bribery-for-permits so badly it needs its own reporting channel, not any named individual - Remulla is cited only as the official who announced and runs the initiative, not the target of criticism. First attempt included an unsourced NZ permit-process comparison which the fact-check flagged as an uncorroborated comparative claim; removed NZ entirely on the single allowed retry and reframed the closer as pure system commentary (no country comparison, so no NZ caveat needed this post).
+**Tagalog beat used (fresh, composed for this post):** "Kailangan pa palang magsumbong bago pagbigyan." (You still have to tattle just to get what you're owed.) Placement: closing_line.
+**Fact-check:** Attempt 1 FAILED (the "In New Zealand, a permit is a form, not a negotiation" line was flagged as an uncorroborated comparative claim). Attempt 2 PASSED (all 5 claims about the Investors' Window, its Oct 22 Cebu launch, the ARTA-notice suspension threat, and the Cavite mayor remark corroborated).
+**Published live:** post_id=sp_lykumPIVEZKnRNHyfe5Ht, 492 chars.
+**Sources (verified via WebSearch, 2+ reputable sources):**
+- https://www.philstar.com/headlines/2026/10/25/2565555/ombudsman-eyes-complaint-mechanism-businessmen
+- https://www.sunstar.com.ph/cebu/new-reporting-channel-aims-to-protect-business-owners
+- https://businessmirror.com.ph/2026/10/23/ombudsman-targets-redtape-to-boost-investment/
+- https://mb.com.ph/2026/10/23/ombudsman-says-he-will-remove-a-mayor-or-two-in-cavite-over-alleged-corruption

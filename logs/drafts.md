@@ -6284,3 +6284,16 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 - https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/24/four-philippine-air-force-pilots-killed-in-batangas-crash-sf-260-fleet-grounded
 - https://astig.ph/paf-sf-260-fleet-grounded-four-pilots-killed-batangas-2026/
 - https://www.pna.gov.ph/articles/1275437
+
+## 2026-10-25 12:04 PHT | threads | SKIPPED (fact-check failed x2)
+
+**Topic:** philip-lustre-cyberlibel-arrest-press-freedom
+**Angle:** Veteran journalist Philip Lustre Jr. (72) arrested Oct 24, 2026 in Quezon City on a cyberlibel warrant issued by a Davao court, while attending a media forum; released on bail that night after colleagues raised the bail money. Attacks the system - the cyberlibel law's forum-shopping potential and its use to intimidate critics - not any named individual or official. Constitutional-awareness / press-freedom pillar, distinct from all recently logged topics (dela Rosa bounty, PAF SF-260 crash, SC budget, two-senators-suspended, OVP absenteeism, SSS pension, peso/BSP, wealth-tax survey, flood-control-scam survey, 2027 budget realignment, POGO-2028-ballot, Atong Ang).
+**Hook:** "Parusa sa panulat, hindi sa krimen." (opening_hook placement per threads_tagalog_planner.py; committed to planner state as task direct-1792900980-lustre before the fact-check run, now superseded since no post was actually published)
+**Tagalog beat drafted:** "Parusa sa panulat, hindi sa krimen." (Punishment for the pen, not for a crime.)
+**Why skipped:** Fact-check blocked twice. Attempt 1: claimed "posted bail in under an hour" - contradicted; the under-an-hour figure was the fundraising speed among colleagues, not the arrest-to-release timeline (he was released "shortly after 11 p.m.," many hours after the morning arrest). Attempt 2: reworded to "colleagues raised his bail within the hour" - still contradicted on the same timeline point; also "the government's own media security task force admits the law is weaponized against critics" was found unverifiable as stated (PTFoMS committed to addressing misuse, but no direct admission that the law "is weaponized" was corroborated). No further attempts per hard rule.
+**Sources reviewed:**
+- https://newsinfo.inquirer.net/2329756/journalist-philip-lustre-posts-p50000-bail-in-cyberlibel-case
+- https://www.philstar.com/headlines/2026/10/25/2565607/veteran-journalist-philip-lustre-posts-bail-cyberlibel-raps
+- https://www.rappler.com/philippines/philip-lustre-jr-arrested-alleged-cyber-libel/
+- https://www.manilatimes.net/2026/10/25/news/national/veteran-journalist-lustre-released-from-jail/2453166

@@ -6325,3 +6325,15 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 - https://www.philstar.com/headlines/2026/10/26/2565820/vince-dizon-giovanni-lopez-trade-posts-dotr-dpwh
 - https://www.manilatimes.net/2026/10/26/business/top-business/tighter-oversight-delays-deepen-spending-slump/2453549
 - https://businessmirror.com.ph/2026/10/26/flood-fiasco-fallout-8-mo-infraspend-dips-35/
+
+## 2026-10-26 19:04 PHT | threads | PUBLISHED LIVE (post_id sp_0JEDhkjaRqK0qLT0d0Eq)
+**Topic:** House-approved 2027 national budget inserted P4.375 billion into Rep. Sandro Marcos' district (Ilocos Norte's 1st District), the single largest district-level insertion in the entire budget, more than double the next-highest (Misamis Occidental's 2nd District, P1.8 billion). Reported Oct 26, 2026 alongside watchdogs (People's Budget Coalition) flagging nearly P190 billion in House insertions nationwide with no published project lists or supporting documents. Distinct from all recently logged topics (DPWH-DOTr Cabinet swap [this morning's post], dela Rosa bounty, PAF SF-260 crash, SC budget/OSG appeal, two-senators-suspended, OVP absenteeism, SSS pension, peso/BSP, wealth-tax survey, flood-control-scam survey, 2027 budget realignment [earlier general coverage], POGO-2028-ballot, Atong Ang, Philip Lustre cyberlibel-skipped, Ombudsman Investors' Window) - first post on the lawmaker-funds-his-own-district / self-dealing-insertion angle, distinct from the general "2027 budget realignment" topic and from today's earlier DPWH-DOTr reshuffle post.
+**Hook:** "Siya mismo ang naglagay ng pondo sa sarili niyang distrito." (He himself put the funding into his own district.) Tagalog opening hook per threads_tagalog_planner.py peek/next (opening_hook was least-recently-used; mid_pivot banned due to recency).
+**Angle:** Governance/accountability and anti-dynasty pillar. Attacks the system that lets a sitting legislator vote on and benefit from the same budget process, and the opacity that let P190B in insertions through undocumented, not any personal attack on Sandro Marcos beyond his factual role as the district's representative.
+**Tagalog beat used (fresh, composed for this post):** "Siya mismo ang naglagay ng pondo sa sarili niyang distrito." Placement: opening_hook.
+**Fact-check:** FAILED on first attempt (initial draft cited an unverified "P369 million to P4.74 billion" figure pair; Gemini + Google Search verifier could not corroborate those exact numbers). Revised to the verified P4.375 billion insertion figure and PASSED on second attempt.
+**Published live:** post_id=sp_0JEDhkjaRqK0qLT0d0Eq, 494 chars.
+**Sources (verified via WebSearch, 2+ reputable sources):**
+- https://www.rappler.com/philippines/dpwh-budget-sandro-marcos-district-jumps-billions-house-bill-2027-watchdog/
+- https://www.philstar.com/headlines/2026/10/26/2565843/watchdogs-urge-senate-strip-house-insertions-pork-riddled-2027-budget
+- https://cdo.bomboradyo.com/rep-sandro-marcos-adunay-pinakadakung-budget-sa-dristrito-sa-dpwh-sa-2027/

@@ -6310,3 +6310,18 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 - https://www.sunstar.com.ph/cebu/new-reporting-channel-aims-to-protect-business-owners
 - https://businessmirror.com.ph/2026/10/23/ombudsman-targets-redtape-to-boost-investment/
 - https://mb.com.ph/2026/10/23/ombudsman-says-he-will-remove-a-mayor-or-two-in-cavite-over-alleged-corruption
+
+## 2026-10-26 12:02 PHT | threads | PUBLISHED LIVE (post_id sp_k4tzgKHjHLHPj1jpesTvl)
+**Topic:** Marcos Cabinet reshuffle announced Mon Oct 26 2026 (PCO Sec. Lino Cayetano): Vince Dizon, installed at DPWH Sept 1 2025 specifically to clean up the agency after the flood-control corruption scandal, swapped back to DOTr; DOTr's Giovanni "Banoy" Lopez takes over DPWH instead, directed to "sustain reforms." Paired with the DBM figure that Jan-Aug 2026 infra/capital outlays fell 34.6% (P798.4B to P522B) under the tighter post-scandal oversight. Distinct from all recently logged topics (dela Rosa bounty, PAF SF-260 crash, SC budget/OSG appeal, two-senators-suspended, OVP absenteeism, SSS pension, peso/BSP, wealth-tax survey, flood-control-scam survey, 2027 budget realignment, POGO-2028-ballot, Atong Ang, Philip Lustre cyberlibel-skipped, Ombudsman Investors' Window) - first post on the reform-mandate-reshuffled-before-finished / DPWH-DOTr-swap angle.
+**Hook:** "Palitan ng tao, hindi paglutas ng problema." (Change of person, not a solving of the problem.) Tagalog opening hook per threads_tagalog_planner.py peek (opening_hook was least-recently-used; mid_pivot banned due to recency).
+**Angle:** Governance/accountability pillar. Attacks the pattern of reshuffling the person tasked with a reform before the reform is finished, and the system that let a scandal gut infra spending by over a third, not any named individual - Dizon and Lopez are cited only as the factual subjects of the Cabinet move, not personal targets.
+**Tagalog beat used (fresh, composed for this post):** "Palitan ng tao, hindi paglutas ng problema." Placement: opening_hook.
+**Fact-check:** PASSED on first attempt (independent Gemini + Google Search verifier corroborated Dizon's Sept 1 2025 DPWH appointment tied to the flood-control scandal, the Oct 26 2026 Dizon-Lopez swap, and the 34.6% infra-spending drop P798.4B to P522B DBM-attributed to post-scandal oversight tightening).
+**Published live:** post_id=sp_k4tzgKHjHLHPj1jpesTvl, 422 chars.
+**Sources (verified via WebSearch, 2+ reputable sources):**
+- https://www.rappler.com/philippines/vince-dizon-returns-dotr-banoy-lopez-dpwh-marcos-cabinet-reshuffle/
+- https://bworldonline.com/the-nation/2026/10/26/789229/dizon-lopez-swap-cabinet-posts/
+- https://www.bloomberg.com/news/articles/2026-10-26/philippines-marcos-appoints-new-head-of-scandal-hit-public-works-department
+- https://www.philstar.com/headlines/2026/10/26/2565820/vince-dizon-giovanni-lopez-trade-posts-dotr-dpwh
+- https://www.manilatimes.net/2026/10/26/business/top-business/tighter-oversight-delays-deepen-spending-slump/2453549
+- https://businessmirror.com.ph/2026/10/26/flood-fiasco-fallout-8-mo-infraspend-dips-35/

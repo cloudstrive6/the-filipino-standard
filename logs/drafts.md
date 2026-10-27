@@ -6349,3 +6349,15 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 - https://www.manilatimes.net/2026/10/27/news/yellow-red-alerts-up-again-for-visayas-grid/2454542
 - https://newsinfo.inquirer.net/2330821/visayas-grid-to-be-placed-under-red-yellow-alerts-anew
 - https://business.inquirer.net/616743/red-alert-declared-over-visayas-anew
+
+## 2026-10-27 19:03 PHT | threads | PUBLISHED LIVE (post_id sp_3dseDWWkZULc09bbchNbE)
+**Topic:** NBI is investigating 26 more suspected anomalous flood control projects nationwide (Manila Times republished Oct 27, 2026; NBI Director Atty. Melvin Matibag), separate from the 47 projects already under scrutiny in Davao City. Breakdown: 9 under NBI's Southeastern Mindanao Regional Office, 7 in Bulacan, 5 in Cebu, 2 by the Fraud and Financial Crimes Division, 1 each in Calabarzon/Bayombong/Bulacan South. 17 of the 26 already filed before investigating panels, 9 under DOJ evaluation. Six DPWH officials/engineers (incl. an assistant chief in Bicol) relieved. Distinct from all recently logged topics (Visayas grid alert [this morning], Sandro Marcos district insertion, DPWH-DOTr Cabinet swap, dela Rosa bounty, PAF SF-260 crash, SC budget/OSG appeal, two-senators-suspended, OVP absenteeism, SSS pension, peso/BSP record low, wealth-tax survey, flood-control-scam voter survey [general survey angle, not this specific 26-project count], 2027 budget realignment, POGO-2028-ballot, Atong Ang, Philip Lustre cyberlibel-skipped, Ombudsman Investors' Window) - first post on the "the scandal keeps growing with every audit" angle, distinct from the general flood-control-scam survey topic already logged. Governance/anti-corruption pillar.
+**Hook:** "Hindi pa rin tapos ang bilang." (The count still isn't over.) Standalone Tagalog beat on its own line mid-post.
+**Angle:** Governance/anti-corruption pillar. Attacks the system that let the flood-control scheme run for years before being caught, not any named official. No NZ comparison in this post.
+**Tagalog beat used (fresh, composed for this post):** "Hindi pa rin tapos ang bilang." Placement: standalone_beat (broke a 3-post opening_hook streak noted in the real log; inline_woven and standalone_beat had not appeared recently).
+**Fact-check:** PASSED on first attempt (independent Gemini + Google Search verifier corroborated the 26-project count, the Davao/47-project distinction, the 6-relieved-officials figure, and the 17-filed/9-under-DOJ-review split).
+**Published live:** post_id=sp_3dseDWWkZULc09bbchNbE, 478 chars.
+**Sources (verified via WebSearch, 2+ reputable sources):**
+- https://www.manilatimes.net/2026/10/27/news/nbi-probes-26-more-flood-control-projects/2454221
+- https://newsinfo.inquirer.net/2327891/nbi-26-more-suspected-anomalous-flood-control-projects-under-probe
+- https://www.philstar.com/nation/2026/10/22/2564901/26-more-anomalous-flood-projects-probed

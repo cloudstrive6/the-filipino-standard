@@ -6337,3 +6337,15 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 - https://www.rappler.com/philippines/dpwh-budget-sandro-marcos-district-jumps-billions-house-bill-2027-watchdog/
 - https://www.philstar.com/headlines/2026/10/26/2565843/watchdogs-urge-senate-strip-house-insertions-pork-riddled-2027-budget
 - https://cdo.bomboradyo.com/rep-sandro-marcos-adunay-pinakadakung-budget-sa-dristrito-sa-dpwh-sa-2027/
+
+## 2026-10-27 12:04 PHT | threads | PUBLISHED LIVE (post_id sp_Q2uAor5ZnvljIRPrQSgp1)
+**Topic:** NGCP raised red and yellow alerts over the Visayas grid again on Oct 27, 2026 (Tuesday), with projected peak demand of 2,482 MW against only 2,452 MW available capacity. Cause: Therma Visayas Inc. units 1 and 2 and KEPCO SPC Power Corp Unit 1 offline, plus limited Mindanao power imports. Visayas has been under repeated red/yellow alerts for over a week (Oct 15, 20, 22, 23, 26, 27). Distinct from all recently logged topics (Ombudsman budget-gaming/SC-ruling angle - attempted this run, FAILED fact-check, abandoned; Sandro Marcos district insertion, DPWH-DOTr Cabinet swap, dela Rosa bounty, PAF SF-260 crash, SC budget/OSG appeal, two-senators-suspended, OVP absenteeism, SSS pension, peso/BSP record low, wealth-tax survey, flood-control-scam survey, 2027 budget realignment, POGO-2028-ballot, Atong Ang, Philip Lustre cyberlibel-skipped, Ombudsman Investors' Window) - first post on the Visayas-grid-reliability / aging-coal-plants-keep-tripping angle. Utility-reform pillar.
+**Hook:** "Tatlumpung megawatt lang ang pagitan ng ilaw at dilim." (Only thirty megawatts separate light from darkness.) Tagalog opening hook per threads_tagalog_planner.py peek/commit (opening_hook recommended; mid_pivot banned due to recency in planner state, though planner state was stale/drifted - resynced via this commit).
+**Angle:** Utility/infrastructure-reliability pillar. Attacks the fragility of grid supply and the recurring plant-outage pattern, not any named individual. No NZ comparison made in this post (not required when NZ isn't invoked).
+**Tagalog beat used (fresh, composed for this post):** "Tatlumpung megawatt lang ang pagitan ng ilaw at dilim." Placement: opening_hook.
+**Fact-check:** First attempt this run (Ombudsman "gamed the budget" / P1-trillion-pork-in-2027-budget angle, SC 2024-2026 unconstitutionality tie-in) FAILED - Gemini + Google Search verifier could not corroborate the SC-ruling-struck-down-2024-2026-budgets claim, the Ombudsman "trace who gamed it" vow, or the P1T/P695B pork breakdown as phrased. Abandoned per the one-retry rule; pivoted to the Visayas grid alert angle instead, which PASSED on this (the one permitted alternate) attempt.
+**Published live:** post_id=sp_Q2uAor5ZnvljIRPrQSgp1, 492 chars.
+**Sources (verified via WebSearch, 2+ reputable sources):**
+- https://www.manilatimes.net/2026/10/27/news/yellow-red-alerts-up-again-for-visayas-grid/2454542
+- https://newsinfo.inquirer.net/2330821/visayas-grid-to-be-placed-under-red-yellow-alerts-anew
+- https://business.inquirer.net/616743/red-alert-declared-over-visayas-anew

@@ -6361,3 +6361,15 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 - https://www.manilatimes.net/2026/10/27/news/nbi-probes-26-more-flood-control-projects/2454221
 - https://newsinfo.inquirer.net/2327891/nbi-26-more-suspected-anomalous-flood-control-projects-under-probe
 - https://www.philstar.com/nation/2026/10/22/2564901/26-more-anomalous-flood-projects-probed
+
+## 2026-10-28 12:02 PHT | threads | PUBLISHED LIVE (post_id sp_4KQFBbTWFZ6qG70P9lnVG)
+**Topic:** Outgoing DPWH Secretary Vince Dizon's Oct 27, 2026 turnover tally to incoming Secretary Giovanni Lopez: 29 contractors blacklisted or suspended (about 20 blacklisted, 9 suspended), over 80 personnel removed, 39 flood control corruption cases already filed in court, and more than 50 individuals either detained or facing outstanding arrest warrants, all accumulated during Dizon's roughly one-year tenure (Sept 1 2025 - Oct 26 2026). Distinct from all recently logged topics (NBI 26-more-projects count, Visayas grid alert, Sandro Marcos district insertion, DPWH-DOTr Cabinet swap [that post covered the reshuffle itself and the 34.6% infra-spending drop, not this turnover tally], dela Rosa bounty, PAF SF-260 crash, SC budget/OSG appeal, two-senators-suspended, OVP absenteeism, SSS pension, peso/BSP record low, wealth-tax survey, flood-control-scam voter survey, 2027 budget realignment, POGO-2028-ballot, Atong Ang, Philip Lustre cyberlibel-skipped, Ombudsman Investors' Window) - first post on the "the exit receipt proves how deep the rot already was" angle. Governance/anti-corruption pillar.
+**Hook:** "Vince Dizon left DPWH with a receipt, not a victory lap" opening line, naming the four handover numbers in one breath.
+**Angle:** Governance/anti-corruption pillar. Attacks the system that required this scale of sanctions to call one agency "clean," not any named official; Dizon and the figures are cited only as the factual subject of the handover. No NZ comparison in this post.
+**Tagalog beat used (fresh, composed for this post):** "Resibo lang ito, hindi pa tapos." (It's just a receipt, not the end yet - ties directly to the "receipt" framing of this specific post.) Placement: mid_pivot (English hook and numbers open, Tagalog clause pivots the post into its verdict, English closer follows). Varies from the prior post's standalone_beat placement.
+**Fact-check:** PASSED on first attempt (independent Gemini + Google Search verifier corroborated Dizon's DPWH tenure dates, the 29-contractors, 80+-personnel, 39-cases, and 50+-detained/warrant figures, all dated Oct 27, 2026).
+**Published live:** post_id=sp_4KQFBbTWFZ6qG70P9lnVG, 388 chars.
+**Sources (verified via WebSearch, 2+ reputable sources):**
+- https://newsinfo.inquirer.net/2331316/dizon-hands-lopez-next-dpwh-corruption-cases
+- https://newsinfo.inquirer.net/2330860/dizon-to-lopez-your-turn-to-get-rid-of-corrupt-dpwh-personnel
+- https://tribune.net.ph/2026/10/27/secretary-dizon-turns-over-cases-of-dpwh-officials-to-secretary-lopez

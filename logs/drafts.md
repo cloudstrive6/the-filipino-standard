@@ -6373,3 +6373,15 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 - https://newsinfo.inquirer.net/2331316/dizon-hands-lopez-next-dpwh-corruption-cases
 - https://newsinfo.inquirer.net/2330860/dizon-to-lopez-your-turn-to-get-rid-of-corrupt-dpwh-personnel
 - https://tribune.net.ph/2026/10/27/secretary-dizon-turns-over-cases-of-dpwh-officials-to-secretary-lopez
+
+## 2026-10-28 19:03 PHT | threads | PUBLISHED LIVE (post_id sp_qq0ChRsRSjjtKKOkj5bKJ)
+**Topic:** Three Filipinos (ages 21, 51, 50) intercepted at Davao International Airport (Oct 17, reported Oct 26-27, 2026) after being promised P200,000/month for "military jobs" in Eastern Europe, recruited via Facebook and Telegram by handlers known only as "Alexander" and "Oleg"; PNP (Gen. Jose Melencio Nartatez Jr.) and Bureau of Immigration flagged the scheme. Distinct from all recently logged topics (NBI 26-more-projects, Dizon-Lopez turnover tally, Visayas grid alert, Sandro Marcos district insertion, DPWH-DOTr Cabinet swap, dela Rosa bounty/ICC TRO, PAF SF-260 crash, SC budget/OSG appeal, two-senators-suspended, OVP absenteeism, SSS pension, peso/BSP record low, wealth-tax survey, flood-control-scam voter survey, 2027 budget realignment, POGO-2028-ballot, Atong Ang, Philip Lustre cyberlibel-skipped, Ombudsman Investors' Window) - first post on the "a scam recruiter out-promising the domestic job market" angle. Filipino Empowerment / Economic Reform pillar.
+**Hook:** Tagalog opening beat framing the "dream job" as a trap, then the concrete Davao-airport interception detail.
+**Angle:** Attacks the system (the domestic job market's failure to make honest work competitive with a stranger's Telegram lie), not any named individual; the recruiters' aliases and the PNP response are cited only as the factual subject. No NZ comparison in this post.
+**Tagalog beat used (fresh, composed for this post):** "Pangarap na trabaho sa Europe, patibong pala." (The dream job in Europe turns out to be a trap - names this post's specific subject.) Placement: opening_hook (per planner), varies from the prior two posts' mid_pivot/standalone placements.
+**Fact-check:** PASSED on first attempt (independent Gemini + Google Search verifier corroborated the interception, the P200,000/month promise, and the Facebook/Telegram recruitment via "Alexander" and "Oleg").
+**Published live:** post_id=sp_qq0ChRsRSjjtKKOkj5bKJ, 405 chars.
+**Sources (verified via WebSearch, 2+ reputable sources):**
+- https://www.philstar.com/headlines/2026/10/28/2566114/pnp-orders-tighter-watch-recruiters-targeting-filipinos-military-work
+- https://www.manilatimes.net/2026/10/27/news/national/3-filipinos-hired-for-military-jobs-in-europe-held/2454182
+- https://www.sunstar.com.ph/manila/pnp-warns-vs-fake-military-job-offers-in-europe

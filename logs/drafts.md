@@ -6385,3 +6385,15 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 - https://www.philstar.com/headlines/2026/10/28/2566114/pnp-orders-tighter-watch-recruiters-targeting-filipinos-military-work
 - https://www.manilatimes.net/2026/10/27/news/national/3-filipinos-hired-for-military-jobs-in-europe-held/2454182
 - https://www.sunstar.com.ph/manila/pnp-warns-vs-fake-military-job-offers-in-europe
+
+## 2026-10-29 12:03 PHT | threads | PUBLISHED LIVE (post_id sp_SQyPzGeF3Zi8Jzy7zZjvz)
+**Topic:** DBM data (released Oct 28-29, 2026) shows government-wide NCA utilization dipped to 96.6% as of end-September 2026; DPWH holds the largest unused NCA of any agency at P59.19 billion, its own utilization rate falling to 86.7% from 95.6% last year, amid the ongoing flood control corruption scandal and stricter fund-release scrutiny. Distinct from all recently logged topics (NBI 26-more-projects, Dizon-Lopez turnover tally, Visayas grid alert, Sandro Marcos district insertion, DPWH-DOTr Cabinet swap, dela Rosa bounty/ICC TRO, PAF SF-260 crash, SC budget/OSG appeal, two-senators-suspended, OVP absenteeism, SSS pension, peso/BSP record low, wealth-tax survey, flood-control-scam voter survey, 2027 budget realignment, POGO-2028-ballot, Atong Ang, Philip Lustre cyberlibel-skipped, Ombudsman Investors' Window, Davao scam recruiter) - first post on the "post-scandal fear froze the money meant to fix the problem" angle. Economic & Utility Reform / Governance Comparison pillar.
+**Hook:** Opens with the hard number (P59.19 billion unused, largest of any agency) before naming the cause.
+**Angle:** Attacks the system (a bureaucracy so scandal-scarred it now hoards funds instead of building flood control), not any named individual; DPWH is cited only as the factual subject of the DBM data. No NZ comparison in this post.
+**Tagalog beat used (fresh, composed for this post):** "Takot gumalaw ang pondo, pero hindi naman natitigil ang pagbaha." (The fund is afraid to move, but the flooding doesn't stop - names this post's specific subject, the frozen DPWH cash vs. ongoing floods.) Placement: standalone_beat (own line mid-post), varies from the prior post's opening_hook placement.
+**Fact-check:** PASSED on first attempt (independent Gemini + Google Search verifier corroborated the P59.19 billion unused NCA figure and the 86.7%-from-95.6% utilization drop).
+**Published live:** post_id=sp_SQyPzGeF3Zi8Jzy7zZjvz, 388 chars.
+**Sources (verified via WebSearch, 2+ reputable sources):**
+- https://www.philstar.com/headlines/2026/10/29/2566432/dbm-nca-utilization-rate-966
+- https://bworldonline.com/economy/2026/10/28/789982/cash-utilization-hits-96-6-at-end-september/
+- https://mb.com.ph/2026/10/29/govt-spending-efficiency-slips-in-september-as-unused-cash-authority-swells-to-137-billion

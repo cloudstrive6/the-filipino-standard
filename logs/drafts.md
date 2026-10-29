@@ -6397,3 +6397,12 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 - https://www.philstar.com/headlines/2026/10/29/2566432/dbm-nca-utilization-rate-966
 - https://bworldonline.com/economy/2026/10/28/789982/cash-utilization-hits-96-6-at-end-september/
 - https://mb.com.ph/2026/10/29/govt-spending-efficiency-slips-in-september-as-unused-cash-authority-swells-to-137-billion
+
+## 2026-10-29 19:02 PHT | threads | NOT PUBLISHED (fact-check failed twice, stopped per rule)
+**Topic:** AMLC secured court forfeiture (reported Oct 29, 2026) of P3.12 million a government officer allegedly offered a lawmaker to kill a probe into infrastructure projects; lawmaker refused and reported it to police. Distinct from all recently logged topics. Governance Comparison / accountability pillar.
+**Attempt 1:** Failed fact-check - phrased the original bribe offer as happening "this week"; verifier corrected that the offer itself occurred around August 2025 and only the AMLC forfeiture ruling is this week's news.
+**Attempt 2 (the one permitted alternative):** Rewrote to correctly frame the forfeiture as the fresh event. Failed fact-check on an unsourced specificity detail - verifier could not corroborate that the forfeiture order came from a "Batangas court" (that detail was not independently confirmed, though the WebFetch summary of the Manila Times article had suggested a Batangas RTC venue).
+**Outcome:** Per the hard rule (max one alternative draft, then stop), no post was published this run. No image generated, nothing sent live.
+**Sources consulted (verified via WebSearch/WebFetch, 2+ reputable outlets):**
+- https://www.manilatimes.net/2026/10/29/news/amlc-secures-forfeiture-of-p312m-bribe-for-lawmaker-investigating-govt-projects/2456963
+- https://bnc.bilyonaryo.com/wrong-move-officers-alleged-p3-12m-offer-to-halt-a-probe-ends-in-arrest-forfeiture/business/

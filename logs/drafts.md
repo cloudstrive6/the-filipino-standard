@@ -6406,3 +6406,16 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 **Sources consulted (verified via WebSearch/WebFetch, 2+ reputable outlets):**
 - https://www.manilatimes.net/2026/10/29/news/amlc-secures-forfeiture-of-p312m-bribe-for-lawmaker-investigating-govt-projects/2456963
 - https://bnc.bilyonaryo.com/wrong-move-officers-alleged-p3-12m-offer-to-halt-a-probe-ends-in-arrest-forfeiture/business/
+
+## 2026-10-30 12:04 PHT | threads | dpwh-dotr-cabinet-swap
+
+**Topic:** Marcos's Oct 26, 2026 Cabinet swap sending outgoing DPWH Secretary Vince Dizon back to Transportation and installing Giovanni Lopez at DPWH, framed against Ombudsman Remulla's Oct 12, 2026 update that 39 court cases (35 Sandiganbayan, 4 regional trial courts) have been filed over flood control anomalies. Governance Comparison / accountability pillar. Distinct from the AMLC bribery angle and the DBM unused-cash angle logged in the prior two entries.
+**Angle:** Reassigning officials and calling it "sustaining the reforms" is not the same thing as prosecuting the underlying system. Accountability should depend on the system, not on which official currently holds the desk.
+**Hook:** "39 court cases filed over flood control anomalies... That is the scoreboard after a year of scandal."
+**Tagalog beat:** "Hindi dapat nakasalalay sa tao ang accountability. Dapat nakasalalay ito sa sistema." (closing line placement)
+**Fact-check:** First attempt failed - used a stale Sept 2026 figure (35 total cases, 31 Sandiganbayan). Verifier corrected to the Oct 12, 2026 update (39 total: 35 Sandiganbayan, 4 RTC). Corrected draft PASSED on the permitted second attempt.
+**Published live:** post_id=sp_wEkYgakNlPzpciNrEZ5kY, 499 chars.
+**Sources (verified via WebSearch, 2+ reputable sources):**
+- https://newsinfo.inquirer.net/2330691/dizon-lopez-swap-posts-in-latest-cabinet-revamp
+- https://www.manilatimes.net/2026/10/30/news/lopez-vows-to-continue-anti-corruption-drive/2456808
+- https://www.panaynews.net/cabinet-reshuffle-dizon-back-at-dotr-to-fix-commute-lopez-vows-to-sustain-dpwh-reforms/

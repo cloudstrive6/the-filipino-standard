@@ -6419,3 +6419,15 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 - https://newsinfo.inquirer.net/2330691/dizon-lopez-swap-posts-in-latest-cabinet-revamp
 - https://www.manilatimes.net/2026/10/30/news/lopez-vows-to-continue-anti-corruption-drive/2456808
 - https://www.panaynews.net/cabinet-reshuffle-dizon-back-at-dotr-to-fix-commute-lopez-vows-to-sustain-dpwh-reforms/
+
+## 2026-10-30 19:03 PHT | threads | dpwh-bulacan-engineers-suspended
+
+**Topic:** Ombudsman's Oct 30, 2026 order placing five DPWH Bulacan 1st District field engineers (Irene D. Ontingco, Kevin A. Geronimo, John Michael E. Ramos, Bernardo P. Villafuerte, Michelle C. Cruz) under six-month unpaid preventive suspension over three flood control projects worth P188.9M in Baliuag, Bulacan, facing Grave Misconduct, Serious Dishonesty, and Gross Neglect of Duty charges. Distinct from the AMLC bribery angle, the DBM unused-cash angle, and the DPWH-DOTr Cabinet swap angle logged in the prior three entries - first post contrasting field-level suspensions against the top-level reshuffle happening the same week. Governance Comparison / accountability pillar.
+**Angle:** Attacks the system's pattern of punishing field engineers while agency heads merely swap desks; names no individuals beyond the factual subject of the Ombudsman order. Reassigning a secretary is not accountability if it's the same system underneath.
+**Hook:** Tagalog opening beat naming the five suspended engineers and asking who's next, then the English explainer.
+**Tagalog beat used (fresh, composed for this post):** "Limang inhinyero sa Bulacan, suspendido nang walang sahod. Sino pa ang sumunod?" Placement: opening_hook (per threads_tagalog_planner.py), varies from the prior post's closing_line placement.
+**Fact-check:** Attempt 1 failed - phrasing "the agency's own top two officials simply swapped desks" was read as implying two DPWH-internal officials, when the swap was actually DPWH's secretary with the Transportation secretary. Attempt 2 (the one permitted alternative) corrected to "DPWH's own secretary simply swapped desks with the transportation secretary" and PASSED.
+**Published live:** post_id=sp_XHlSaL4txrKNSKsXywsIs, 466 chars.
+**Sources (verified via WebSearch, 2+ reputable sources):**
+- https://www.rappler.com/philippines/dpwh-bulacan-engineers-suspended-october-30-2026/
+- https://www.ombudsman.gov.ph/?p=135089

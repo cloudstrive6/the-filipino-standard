@@ -6431,3 +6431,16 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 **Sources (verified via WebSearch, 2+ reputable sources):**
 - https://www.rappler.com/philippines/dpwh-bulacan-engineers-suspended-october-30-2026/
 - https://www.ombudsman.gov.ph/?p=135089
+
+## 2026-10-31 12:03 PHT | threads | ng-debt-record-19.66t
+
+**Topic:** Bureau of the Treasury data (reported Oct 30-31, 2026) shows national government debt hit a record P19.66 trillion as of end-September 2026, up from P19.61T in August, driven by peso depreciation and fresh government securities issuance. This is 99.5% of the government's projected P19.77-trillion full-year 2026 ceiling, and the fourth straight monthly record this year (P19.07T June, P19.39T July, P19.61T August, P19.66T September). Distinct from all recently logged topics (QC barangay officials suspended, DPWH Bulacan engineers suspended, DPWH-DOTr Cabinet swap, AMLC bribery forfeiture, DBM unused-cash/DPWH NCA, Davao scam recruiter, NBI 26-more-projects, Sandro Marcos district insertion, Visayas grid alert, two-senators-suspended, OVP absenteeism, SSS pension, peso/BSP record low [separate FX-rate angle, not this debt-stock figure], wealth-tax survey, flood-control-scam survey, 2027 budget realignment, POGO-2028-ballot, Atong Ang, Philip Lustre cyberlibel, Ombudsman Investors' Window, dela Rosa bounty, SC budget/OSG appeal, PAF SF-260 crash) - first post on the "debt ceiling nearly maxed out with a quarter of the year still to go" angle. Economic & Utility Reform pillar.
+**Angle:** Attacks the system's fiscal incentive structure (borrowing to cover gaps while the debt stock keeps breaking records), not any named individual. No NZ comparison in this post.
+**Hook:** "Hindi na kasya sa ceiling." then the P19.66 trillion figure and the 99.5%-of-ceiling detail.
+**Tagalog beat used (fresh, composed for this post):** "Hindi na kasya sa ceiling." (It no longer fits within the ceiling - names this post's specific subject, the debt stock nearly breaching its own annual limit.) Placement: opening_hook, varies from the prior two posts' closing_line/opening_hook-with-names placements.
+**Fact-check:** PASSED on first attempt (independent Gemini + Google Search verifier corroborated the P19.66T record, the 99.5%-of-ceiling figure, and the fourth-straight-monthly-record pattern with the June-September figures).
+**Published live:** post_id=sp_HLXGlT8o7g0NC3ej0nRPU, 488 chars.
+**Sources (verified via WebSearch, 2+ reputable sources):**
+- https://www.philstar.com/business/2026/10/31/2566729/weak-peso-pushes-ng-debt-record-p1966-trillion
+- https://business.inquirer.net/619094/ph-debt-climbs-to-record-p19-66t-in-september
+- https://businessmirror.com.ph/2026/10/31/end-september-ng-debt-swells-to-%E2%82%A719-66t-another-record-high/

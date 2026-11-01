@@ -6456,3 +6456,16 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 **Sources (verified via WebSearch, 2+ reputable sources):**
 - https://newsinfo.inquirer.net/2331962/senate-seeks-explanation-from-lalamove-founder
 - https://gmanetwork.com/news/topstories/nation/1007457/raffy-tulfo-warns-lalamove-of-contempt-over-repeated-hearing-absences/story/
+
+## 2026-11-01 19:03 PHT | threads | bske-manual-vote-buying-guard
+
+**Topic:** The 2026 Barangay and Sangguniang Kabataan (BSKE) elections are held nationwide Nov 2, 2026 under a fully manual system with no technological upgrades per Comelec. The main enforcement tools against vote-buying are after-the-fact: Comelec Resolution No. 11104 flagging e-wallet transfers over P500,000 as suspicious, a cash "money ban" on carrying P500,000+ near Election Day, and Omnibus Election Code penalties (1-6 years imprisonment, disqualification, loss of suffrage) for vote-buying/selling. Distinct from all recently logged topics (ng debt record, QC barangay suspensions, DPWH Bulacan, DPWH-DOTr swap, AMLC forfeiture, DBM/DPWH NCA, Davao scam recruiter, NBI projects, Sandro Marcos insertion, Visayas grid, two-senators-suspended, OVP absenteeism, SSS pension, peso/BSP low, wealth-tax survey, flood-control survey, 2027 budget realignment, POGO-2028, Atong Ang, Lustre cyberlibel, Ombudsman Investors' Window, dela Rosa bounty, SC budget/OSG, PAF crash, Meralco rate hike, Lalamove-Senate) - first post on grassroots electoral integrity / enforcement design. Political Commentary / Constitutional Awareness pillar.
+**Angle:** Attacks the enforcement design, not individuals: the government layer closest to ordinary Filipinos' daily lives runs on the least technology and the weakest real-time safeguards, with penalties that only bite after the vote is already bought.
+**Hook:** "Barangay and SK elections happen nationwide on November 2, the layer of government closest to daily life."
+**Tagalog beat used (fresh, composed for this post):** "Pinakamalapit sa tao, pinakamahina ang bantay." (Closest to the people, weakest the guard.) Placement: closing_line.
+**Fact-check:** PASSED on first attempt (independent Gemini + Google Search verifier corroborated the Nov 2 manual BSKE, the no-tech-upgrades plan, the P500,000 e-wallet/cash flagging rule, and the Omnibus Election Code penalties).
+**Published live:** post_id=sp_rWbf1eYy56yXeyEDgPTm, 488 chars.
+**Sources (verified via WebSearch, 2+ reputable sources):**
+- https://www.manilatimes.net/2026/03/22/news/national/comelec-sets-nov-2-for-manual-barangay-sk-elections-no-tech-upgrades-planned/2304893
+- https://cebudailynews.inquirer.net/535575/vote-buying-via-e-wallets-will-be-closely-watched-offenders-face-jail-time
+- https://pia.gov.ph/comelec-to-implement-p500k-money-ban-to-combat-vote-buying/

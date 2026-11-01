@@ -6444,3 +6444,15 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 - https://www.philstar.com/business/2026/10/31/2566729/weak-peso-pushes-ng-debt-record-p1966-trillion
 - https://business.inquirer.net/619094/ph-debt-climbs-to-record-p19-66t-in-september
 - https://businessmirror.com.ph/2026/10/31/end-september-ng-debt-swells-to-%E2%82%A719-66t-another-record-high/
+
+## 2026-11-01 12:03 PHT | threads | lalamove-senate-show-cause-skipped-hearing
+
+**Topic:** Senate Committee on Public Services (chair Sen. Raffy Tulfo) is hearing testimony on digital labor platform regulation covering gig delivery riders' pay, welfare, and package security; Lalamove Philippines representatives failed to attend three consecutive hearings. On Oct 28-29, 2026, Tulfo ordered a show-cause order against Lalamove and warned that continued non-appearance after a subpoena would result in an arrest warrant for founder/CEO Shing Chow. Distinct from all recently logged topics (ng debt record P19.66T, QC barangay officials suspended, DPWH Bulacan engineers suspended, DPWH-DOTr Cabinet swap, AMLC bribery forfeiture, DBM unused-cash/DPWH NCA, Davao scam recruiter, NBI 26-more-projects, Sandro Marcos district insertion, Visayas grid alert, two-senators-suspended, OVP absenteeism, SSS pension, peso/BSP record low, wealth-tax survey, flood-control-scam survey, 2027 budget realignment, POGO-2028-ballot, Atong Ang, Philip Lustre cyberlibel, Ombudsman Investors' Window, dela Rosa bounty, SC budget/OSG appeal, PAF SF-260 crash, Meralco distribution rate hike) - first post on corporate accountability to legislative oversight / gig-worker welfare enforcement gap. Business & SME Advocacy / Filipino Empowerment pillar.
+**Angle:** Attacks the system/incentive gap, not a named individual as the subject of mockery: a gig-economy platform profiting from thousands of riders can snub Senate oversight repeatedly until a senator personally threatens arrest, showing how dependent corporate accountability is on individual legislative willpower rather than built-in enforcement. No NZ comparison used this post (no sourced NZ gig-economy fact fit cleanly).
+**Hook:** "A Senate hearing on gig delivery drivers' pay and welfare has been missing one key witness three times straight: Lalamove."
+**Tagalog beat used (fresh, composed for this post):** "Ayaw sumagot, pero umaasa sa kita ng mga rider na walang laban." (Unwilling to answer, yet dependent on the earnings of riders who have no recourse.) Placement: closing_line.
+**Fact-check:** PASSED on first attempt (independent Gemini + Google Search verifier corroborated the three-consecutive-absences, the show-cause order, and the Tulfo arrest-warrant warning naming Shing Chow).
+**Published live:** post_id=sp_G38RLw8begbmI6lIa2EYV, 464 chars.
+**Sources (verified via WebSearch, 2+ reputable sources):**
+- https://newsinfo.inquirer.net/2331962/senate-seeks-explanation-from-lalamove-founder
+- https://gmanetwork.com/news/topstories/nation/1007457/raffy-tulfo-warns-lalamove-of-contempt-over-repeated-hearing-absences/story/

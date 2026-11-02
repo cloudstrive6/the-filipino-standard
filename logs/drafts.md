@@ -6482,3 +6482,16 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 - https://www.manilatimes.net/2026/11/02/news/govt-urged-to-extend-soft-loans-to-msmes-farmers/2459047
 - https://www.philstar.com/business/2026/10/25/2565026/bsp-hikes-interest-rates-50-basis-points
 - https://www.gmanetwork.com/news/money/economy/1006812/bsp-hikes-rates-by-50-basis-points-amid-expected-inflation-el-ni-o-effects/story/
+
+## 2026-11-02 19:02 PHT | threads | next-chief-justice-appointment
+
+**Topic:** Chief Justice Alexander Gesmundo retires Nov 6, 2026 (mandatory retirement age 70). JBC submitted a 5-nominee shortlist to Malacanang (Leonen, Caguioa, Dimaampao, Marquez, Zalameda). President Marcos has sole appointing power with a 90-day constitutional window, no confirmation vote or public hearing on the final pick. Distinct from all recently logged topics (BSKE manual vote-buying guard, BSP rate hike/MSME soft loans, and the longer list of prior topics in this log) - first post on judicial appointment power concentration. Constitutional Awareness / Governance Comparison pillar.
+**Angle:** Attacks the system, not individuals: the branch constitutionally built to check the presidency is itself staffed, at the top, by a single presidential choice with no confirmation vote or public hearing.
+**Hook:** "Chief Justice Alexander Gesmundo retires this Friday, Nov. 6. Five Associate Justices are shortlisted to replace him: Leonen, Caguioa, Dimaampao, Marquez, Zalameda."
+**Tagalog beat used (fresh, composed for this post):** "Sino ba talaga ang humihirang sa tagapagbantay?" (Who really appoints the guard of the guard?) Placement: closing_line.
+**Fact-check:** PASSED on first attempt (independent Gemini + Google Search verifier corroborated Gesmundo's Nov 6 retirement, the 5-nominee JBC shortlist, the President's sole appointing power, and the 90-day constitutional window with no confirmation vote/public hearing).
+**Published live:** post_id=sp_zMv2jF2dbGYV4nqzjrgsA, 429 chars.
+**Sources (verified via WebSearch, 2+ reputable sources):**
+- https://www.rappler.com/philippines/supreme-court-chief-justice-candidates-2026/
+- https://mb.com.ph/2026/10/29/jbc-nominates-all-5-aspirants-to-chief-justice-post-list-to-be-submitted-to-president-marcos
+- https://www.gmanetwork.com/news/topstories/nation/1007605/jbc-submits-shortlist-of-chief-justice-associate-justice-candidates-to-marcos/story/

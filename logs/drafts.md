@@ -6469,3 +6469,16 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 - https://www.manilatimes.net/2026/03/22/news/national/comelec-sets-nov-2-for-manual-barangay-sk-elections-no-tech-upgrades-planned/2304893
 - https://cebudailynews.inquirer.net/535575/vote-buying-via-e-wallets-will-be-closely-watched-offenders-face-jail-time
 - https://pia.gov.ph/comelec-to-implement-p500k-money-ban-to-combat-vote-buying/
+
+## 2026-11-02 12:03 PHT | threads | bsp-rate-hike-msme-soft-loans
+
+**Topic:** BSP's Monetary Board hiked its benchmark rate by 50bps to 5.50% on Oct 22, 2026 (fourth straight hike) and raised its 2027 inflation forecast to 6% (from 5.4%). Senate President Sherwin Gatchalian responded with a public call for soft loans / concessional financing for MSMEs and farmers, citing higher borrowing costs threatening layoffs. Distinct from all recently logged topics (ng debt record, QC barangay suspensions, DPWH Bulacan, DPWH-DOTr swap, AMLC forfeiture, DBM/DPWH NCA, Davao scam recruiter, NBI projects, Sandro Marcos insertion, Visayas grid, two-senators-suspended, OVP absenteeism, SSS pension, peso/BSP low, wealth-tax survey, flood-control survey, 2027 budget realignment, POGO-2028, Atong Ang, Lustre cyberlibel, Ombudsman Investors' Window, dela Rosa bounty, SC budget/OSG, PAF crash, Meralco rate hike, Lalamove-Senate, BSKE manual vote-buying guard) - first post on monetary tightening squeezing MSME/agri credit access. Economic & Utility Reform / Business & SME Advocacy pillar.
+**Angle:** Attacks the system, not individuals: when monetary policy raises the cost of survival for small businesses and farmers, the government's own answer is a request for soft loans, not an existing fund or program. Relief for MSMEs is a press release, not policy.
+**Hook:** "BSP hiked rates for the fourth straight time, now at 5.50%, and raised its 2027 inflation forecast to 6%."
+**Tagalog beat used (fresh, composed for this post):** "Pakiusap lang, hindi solusyon." (Just an appeal, not a solution.) Placement: closing_line.
+**Fact-check:** PASSED on first attempt (independent Gemini + Google Search verifier corroborated the 50bps hike to 5.50%, the 2027 inflation forecast raised to 6%, and Gatchalian's soft-loan call).
+**Published live:** post_id=sp_lDKUn4EOOEz8QAHag4Fvy, 446 chars.
+**Sources (verified via WebSearch, 2+ reputable sources):**
+- https://www.manilatimes.net/2026/11/02/news/govt-urged-to-extend-soft-loans-to-msmes-farmers/2459047
+- https://www.philstar.com/business/2026/10/25/2565026/bsp-hikes-interest-rates-50-basis-points
+- https://www.gmanetwork.com/news/money/economy/1006812/bsp-hikes-rates-by-50-basis-points-amid-expected-inflation-el-ni-o-effects/story/

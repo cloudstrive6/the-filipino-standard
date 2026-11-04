@@ -6508,3 +6508,16 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 - https://newsinfo.inquirer.net/2333119/ejercito-dpwh-agree-to-drop-noncompliant-projects-from-2027-budget
 - https://www.pna.gov.ph/article/senate-flags-p266-b-dpwh-projects-for-further-scrutiny
 - https://astig.ph/dpwh-6271-house-projects-november-3-documents-deadline-2026/
+
+## 2026-11-04 12:02 PHT | threads | gensan-row-scam-ombudsman-graft-charges
+
+**Topic:** Office of the Ombudsman filed graft and malversation charges before the Sandiganbayan against 6 DPWH Region XII personnel (including former regional director Subair Saro Diron and former assistant regional director Laureano Suan Jr.) and 7 private individuals over a P491.9 million (P491,931,120.20) road right-of-way scam in General Santos City, tied to the Digos-Makar National Road. The scheme used a 2009 appraisal rate (P3,500/sqm) to compute compensation for 18 parcels of land acquired by government in the early 1990s, inflating the payout. NBI first flagged the scheme in 2018-2019; charges were only filed this week (Nov 3-4, 2026), nearly eight years later. Distinct from all recently logged topics (next-chief-justice-appointment, bsp-rate-hike-msme-soft-loans, bske-manual-vote-buying-guard, lalamove-senate-show-cause, ng-debt-record-19.66t, dpwh-bulacan-engineers-suspended, dpwh-dotr-cabinet-swap, 2027-budget-realignment, dpwh-2027-budget-ghost-projects-paperwork-deadline) - first post on this specific GenSan right-of-way graft case / appraisal-date-swap scheme. Governance Comparison / Economic & Utility Reform pillar (public funds accountability).
+**Angle:** Attacks the system and the timeline, not individuals: an appraisal-date swap inflated a government payout by using a later, higher valuation for decades-old land, and it took almost eight years from NBI red flag to actual charges.
+**Hook:** "A road right-of-way deal in General Santos City paid P491.9 million for land acquired in the early 1990s. The appraisal used to compute that payout came from 2009, nearly two decades later, at P3,500 per square meter."
+**Tagalog beat used (fresh, composed for this post):** "Walong taon bago humabol ang batas." (Eight years before the law caught up.) Placement: closing_line.
+**Fact-check:** PASSED on first attempt (independent Gemini + Google Search verifier corroborated the P491.9M figure, the 2009-appraisal-for-1990s-land mismatch at P3,500/sqm, the 2018-2019 NBI flag, and the November 3, 2026 Ombudsman filing of charges against 6 DPWH personnel and 7 private individuals).
+**Published live:** post_id=sp_KeAVuQu9gdf54a9Rrelo1, 405 chars.
+**Sources (verified via WebSearch, 2+ reputable sources):**
+- https://www.philstar.com/headlines/2026/11/04/2567732/dpwh-execs-face-graft-p4919-million-right-way-scam
+- https://www.gmanetwork.com/news/topstories/nation/1008089/ombudsman-files-charges-vs-6-dpwh-personnel-over-alleged-p491-9-m-right-of-way-scam/story/
+- https://www.manilatimes.net/2026/11/04/news/national/ombudsman-files-cases-vs-6-dpwh-personnel/2460224

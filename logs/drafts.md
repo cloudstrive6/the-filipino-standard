@@ -6534,3 +6534,16 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 - https://www.manilatimes.net/2026/11/05/news/national/procurement-integrity-bill-pushed/2461912
 - https://www.gmanetwork.com/news/topstories/nation/1008256/win-gatchalian-pushes-for-law-banning-public-officials-kin-from-getting-gov-t-contracts/story/
 - https://newsinfo.inquirer.net/2335994/gatchalian-pushes-ok-of-bill-barring-public-execs-kin-from-govt-deals
+
+## 2026-11-05 19:04 PHT | threads | october-inflation-7.8pct-44month-high
+
+**Topic:** PSA data released Nov 5, 2026: headline inflation accelerated to 7.8% in October 2026 (from 7.2% in September), the highest print in 44 months (since February 2023). Transport inflation surged to 20.1% from 14.6% in a single month; housing/water/electricity/gas/other fuels rose to 9.3% from 8.4%. The print landed inside BSP's own pre-announced forecast range (7.1%-8.1%). Distinct from all recently logged topics (next-chief-justice-appointment, bsp-rate-hike-msme-soft-loans, bske-manual-vote-buying-guard, lalamove-senate-show-cause, ng-debt-record-19.66t, dpwh-bulacan-engineers-suspended, dpwh-dotr-cabinet-swap, 2027-budget-realignment, dpwh-2027-budget-ghost-projects-paperwork-deadline, gensan-row-scam-ombudsman-graft-charges, senate-procurement-integrity-anti-nepotism-bill) - first post on the actual October CPI print itself (earlier posts covered a Pulse Asia inflation-disapproval survey and a BSP rate-hike/MSME-loans story, not this data release). Economic & Utility Reform pillar.
+**Angle:** Attacks the gap between technocratic comfort (the number fit the forecast band) and lived reality (transport and utility costs spiked hardest on ordinary households) - a systems/incentive critique, no individual named.
+**Hook:** "Inflation climbed to 7.8% in October, the highest in 44 months."
+**Tagalog beat used (fresh, composed for this post):** "Tama sa forecast, mahirap sa bulsa." (Right on the forecast, hard on the wallet.) Placement: standalone_beat (previous 5 posts in a row all used closing_line, so this run deliberately rotated to a standalone middle line to break the repeated pattern).
+**Fact-check:** PASSED on first attempt (independent Gemini + Google Search verifier corroborated the 7.8% October print, the 44-month-high framing, the transport index jump 14.6%->20.1%, the housing/electricity/fuel jump 8.4%->9.3%, and that the print fell within BSP's pre-stated 7.1%-8.1% forecast range).
+**Published live:** post_id=sp_fDBoVb12T7B734IfvocY, 488 chars.
+**Sources (verified via WebSearch, 2+ reputable sources):**
+- https://www.manilatimes.net/2026/11/05/business/inflation-climbs-to-78-in-october/2462382
+- https://mb.com.ph/2026/11/05/philippine-inflation-soars-to-78-in-october-highest-in-nearly-four-years-as-food-transport-costs-surge
+- https://businessmirror.com.ph/2026/11/05/inflation-highest-in-three-years-due-to-rising-transport-and-housing-costs/

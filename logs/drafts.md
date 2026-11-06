@@ -6547,3 +6547,15 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 - https://www.manilatimes.net/2026/11/05/business/inflation-climbs-to-78-in-october/2462382
 - https://mb.com.ph/2026/11/05/philippine-inflation-soars-to-78-in-october-highest-in-nearly-four-years-as-food-transport-costs-surge
 - https://businessmirror.com.ph/2026/11/05/inflation-highest-in-three-years-due-to-rising-transport-and-housing-costs/
+
+## 2026-11-06 12:03 PHT | threads | minimum-wage-living-wage-gap-regional-boards
+
+**Topic:** Labor groups (IBON, SENTRO) flagged the minimum-wage-to-living-wage gap on Nov 6, 2026 as October inflation hit 7.8%. National average daily minimum wage rose just 6.9% in a year, from ₱487 (Oct 2025) to ₱521 (Oct 2026), against an IBON-computed family-of-five living wage of ₱1,327/day, a ₱806 daily shortfall. The poorest 30% of households face 9.5% inflation versus the 7.8% headline. SENTRO is demanding a flat ₱200 across-the-board daily wage hike and a single national minimum wage to replace the current 17 Regional Tripartite Wages and Productivity Boards. Distinct from all recently logged topics (october-inflation-7.8pct-44month-high, which covered the CPI print itself; senate-procurement-integrity-anti-nepotism-bill; gensan-row-scam-ombudsman-graft-charges; dpwh-2027-budget-ghost-projects-paperwork-deadline; next-chief-justice-appointment; bsp-rate-hike-msme-soft-loans; bske-manual-vote-buying-guard; lalamove-senate-show-cause) - first post on the wage-setting system's structural lag behind inflation, not the inflation print itself. Economic & Utility Reform pillar.
+**Angle:** Attacks the regional wage-board system as structurally incapable of tracking inflation (patchwork of 17 boards moving on their own slow clock) and highlights that the poorest households face materially higher inflation than the headline number suggests. No individual named; labor groups (IBON, SENTRO) referenced only as the source of the demand.
+**Hook:** "₱521. The average daily minimum wage nationwide as of October 2026, up just 6.9% in a year."
+**Tagalog beat used (fresh, composed for this post):** "Tumakbo ang presyo, gumapang ang sahod." (The price ran, the wage crawled.) Placement: closing_line.
+**Fact-check:** PASSED on first attempt (independent Gemini + Google Search verifier corroborated the ₱521/₱487 minimum wage figures, the ₱1,327 IBON living wage, the ₱806 gap, the 7.8%/9.5% inflation figures, the 17-regional-board system, and SENTRO's ₱200/single-minimum-wage demand).
+**Published live:** post_id=sp_P9aIFm6wMuF3fsuCkSvk, 453 chars.
+**Sources (verified via WebSearch, 2+ reputable sources):**
+- https://newsinfo.inquirer.net/2337031/groups-flag-wage-gap-seek-wage-hike-as-inflation-hits-7-8
+- https://www.ibon.org/tl/poverty-wages-fail-to-keep-up-with-ph-inflation/

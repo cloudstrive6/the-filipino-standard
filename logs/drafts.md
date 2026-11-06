@@ -6559,3 +6559,15 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 **Sources (verified via WebSearch, 2+ reputable sources):**
 - https://newsinfo.inquirer.net/2337031/groups-flag-wage-gap-seek-wage-hike-as-inflation-hits-7-8
 - https://www.ibon.org/tl/poverty-wages-fail-to-keep-up-with-ph-inflation/
+
+## 2026-11-06 19:02 PHT | threads | joseph-sy-fake-citizenship-mining-civil-registry
+
+**Topic:** Mining tycoon Joseph Sy (chairman, Global Ferronickel Holdings) skipped the Nov 5, 2026 Senate justice and human rights committee hearing into his alleged fake Filipino citizenship, citing a medical emergency. The PSA told senators it found irregularities "pointing to the existence of fraud": Sy's baptismal certificate is not in the issuing parish's records, his affidavit of delayed birth registration was notarized by a lawyer who does not exist, and he filed for late birth registration in Dec 2007, 41 years after his claimed Oct 10, 1966 birth. Senators have called the case "Alice Guo 2.0," pointing to the same civil-registry weaknesses that let a foreign national allegedly fake citizenship to operate in an industry (mining, like Guo's POGO) reserved for Filipinos. Distinct from all recently logged topics (october-inflation-7.8pct-44month-high, senate-procurement-integrity-anti-nepotism-bill, gensan-row-scam-ombudsman-graft-charges, dpwh-2027-budget-ghost-projects-paperwork-deadline, next-chief-justice-appointment, bsp-rate-hike-msme-soft-loans, bske-manual-vote-buying-guard, lalamove-senate-show-cause, minimum-wage-living-wage-gap-regional-boards) - first post on citizenship-fraud / civil-registry weaponization against sectors reserved for Filipinos. Governance/Constitutional Awareness pillar.
+**Angle:** Attacks the broken civil registry system that lets fabricated documents (fake notaries, unissued baptismal certificates, decades-late birth registration) buy entry into industries the Constitution reserves for Filipinos, not Sy's personal identity. Frames it as the same structural failure already seen in the Alice Guo case, i.e. a repeatable exploit, not a one-off.
+**Hook:** "A mining tycoon's \"Filipino citizenship\" has a baptismal certificate the parish never issued, a birth affidavit notarized by a lawyer who doesn't exist, and a birth registered 41 years late."
+**Tagalog beat used (fresh, composed for this post):** "Peke ang papel, totoo ang nawala." (The paper is fake, what was lost is real.) Placement: closing_line.
+**Fact-check:** PASSED on first attempt (independent Gemini + Google Search verifier corroborated the baptismal certificate discrepancy, the nonexistent notarizing lawyer, the 41-year-late birth registration, the PSA fraud findings, the skipped Nov 5 hearing, and the Alice Guo 2.0 comparison).
+**Published live:** post_id=sp_rhLQPQywItNK8hXcyNcT, 494 chars.
+**Sources (verified via WebSearch, 2+ reputable sources):**
+- https://www.philstar.com/nation/2026/11/06/2568240/joseph-sy-skips-senate-probe-fake-citizenship
+- https://globalnation.inquirer.net/313209/psa-cites-irregularities-pointing-to-existence-of-fraud-in-mining-tycoons-ph-citizenship

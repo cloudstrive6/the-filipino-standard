@@ -6583,3 +6583,16 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 **Sources (verified via WebSearch, 2+ reputable sources):**
 - https://worldjusticeproject.org/sites/default/files/documents/Philippines_3.pdf
 - https://www.manilatimes.net/2026/11/08/news/pangilinan-pushes-court-reforms-anti-corruption-drive/2464630
+
+## 2026-11-09 19:03 PHT | threads | senate-impeachment-gag-order-withdrawn-articles
+
+**Topic:** The House prosecution panel withdrew three of the four impeachment articles against Vice President Sara Duterte on Oct. 13, 2026 (misuse of confidential funds, bribery, threats against officials), and Presiding Officer Francis Escudero's Oct. 13 ruling had lifted the sub judice gag on those three, letting the public discuss them. On Nov. 4, 2026 the VP's defense filed a manifestation asking the gag stay in place; on Nov. 6, 2026 the Senate impeachment court reimposed the sub judice rule on all four articles, withdrawn or not. Distinct from all recently logged topics (joseph-sy-fake-citizenship-mining-civil-registry, wjp-rule-of-law-index-97th-stagnant-rank, and earlier DPWH/flood-scam/procurement posts) - first post on the gag-order/sub-judice mechanism itself. Constitutional Awareness pillar (Art. III Sec. 4, freedom of speech/press, applied without quoting it verbatim to stay under the char limit).
+**Angle:** Attacks the sub judice rule as a system that can be invoked by the subject of dropped corruption charges to seal them from public scrutiny, not Duterte's personal guilt or innocence; withdrawn is reframed as not the same as resolved.
+**Hook:** "Three corruption charges against the Vice President were formally withdrawn. The public is still banned from discussing why."
+**Tagalog beat used (fresh, composed for this post):** "Binawi ang kaso, pero hindi nawala ang tanong." (The case was withdrawn, but the question didn't disappear.) Placement: standalone_beat (mid-post, own line) - varies from the last two posts' closing_line placement.
+**Fact-check:** PASSED on first attempt (independent Gemini + Google Search verifier corroborated the Oct. 13 withdrawal of three articles, the Oct. 13 lifting of the gag by Escudero, the Nov. 4 defense manifestation, and the Nov. 6 reimposition of the sub judice rule on all four articles).
+**Published live:** post_id=sp_lpNbIBmCKtH5M9trz0TFz, 500 chars.
+**Sources (verified via WebSearch, 2+ reputable sources):**
+- https://www.philstar.com/headlines/2026/11/06/2568289/senate-impeachment-court-reimposes-gag-order-withdrawn-articles
+- https://tribune.net.ph/2026/11/06/impeach-court-restores-gag-order
+- https://www.philstar.com/headlines/2026/11/09/2568973/senate-court-keeps-gag-rule-withdrawn-sara-impeachment-articles

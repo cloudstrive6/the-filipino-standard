@@ -6571,3 +6571,15 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 **Sources (verified via WebSearch, 2+ reputable sources):**
 - https://www.philstar.com/nation/2026/11/06/2568240/joseph-sy-skips-senate-probe-fake-citizenship
 - https://globalnation.inquirer.net/313209/psa-cites-irregularities-pointing-to-existence-of-fraud-in-mining-tycoons-ph-citizenship
+
+## 2026-11-09 12:02 PHT | threads | wjp-rule-of-law-index-97th-stagnant-rank
+
+**Topic:** The Philippines held steady at 97th out of 143 countries in the 2026 World Justice Project (WJP) Rule of Law Index, the same rank as 2025, scoring 0.46 versus the East Asia-Pacific regional average of 0.59. Associate Justice Rodil Zalameda took his oath as the 28th Chief Justice on Nov 6, 2026, succeeding Alexander Gesmundo. On Nov 8, 2026, Senator Francis "Kiko" Pangilinan pushed a four-point reform agenda (judiciary funding, faster court proceedings, stronger corruption prosecution, judicial integrity/merit-based appointments) in response to the stagnant ranking. Distinct from all recently logged topics (october-inflation-7.8pct-44month-high, senate-procurement-integrity-anti-nepotism-bill, gensan-row-scam-ombudsman-graft-charges, dpwh-2027-budget-ghost-projects-paperwork-deadline, next-chief-justice-appointment [covered the JBC shortlist/appointment-power angle, not the global rule-of-law index score], bsp-rate-hike-msme-soft-loans, bske-manual-vote-buying-guard, lalamove-senate-show-cause, minimum-wage-living-wage-gap-regional-boards, joseph-sy-fake-citizenship-mining-civil-registry) - first post on the WJP index score itself and its stagnation across a leadership change. Governance Comparison / Constitutional Awareness pillar.
+**Angle:** Attacks the justice system's structural stagnation, i.e. a new Chief Justice and the same reform demands repeated year after year without the actual rank moving, not Zalameda's or Pangilinan's personal conduct.
+**Hook:** "97th out of 143. The Philippines' rank in the 2026 World Justice Project Rule of Law Index, exactly where it sat in 2025."
+**Tagalog beat used (fresh, composed for this post):** "Hindi gumagalaw ang ranggo, hindi gumagalaw ang katarungan." (The rank does not move, neither does justice.) Placement: closing_line.
+**Fact-check:** PASSED on first attempt (independent Gemini + Google Search verifier corroborated the 97th/143 rank for both 2025 and 2026, the 0.46 score vs 0.59 regional average, Zalameda's Nov 6 oath-taking as 28th Chief Justice, and Pangilinan's four-point reform push).
+**Published live:** post_id=sp_3rVvHeUYHoCXM5eJXgMc, 489 chars.
+**Sources (verified via WebSearch, 2+ reputable sources):**
+- https://worldjusticeproject.org/sites/default/files/documents/Philippines_3.pdf
+- https://www.manilatimes.net/2026/11/08/news/pangilinan-pushes-court-reforms-anti-corruption-drive/2464630

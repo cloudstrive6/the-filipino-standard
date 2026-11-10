@@ -6596,3 +6596,16 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 - https://www.philstar.com/headlines/2026/11/06/2568289/senate-impeachment-court-reimposes-gag-order-withdrawn-articles
 - https://tribune.net.ph/2026/11/06/impeach-court-restores-gag-order
 - https://www.philstar.com/headlines/2026/11/09/2568973/senate-court-keeps-gag-rule-withdrawn-sara-impeachment-articles
+
+## 2026-11-10 12:03 PHT | threads | davao-assessor-saln-credibility
+
+**Topic:** On Nov 9, 2026 (Day 40 of VP Sara Duterte's impeachment trial, Article II "unexplained wealth"), defense witness Davao City Assessor Engr. Jaime Adalin testified under oath that a disputed property owned by Duterte's husband Manases Carpio (Matina Crossing, Davao City) matched an entry in her SALN. On cross-examination, when shown street-view photographs of the building, Adalin said he was no longer sure it was the same property. Distinct from all recently logged topics (senate-impeachment-gag-order-withdrawn-articles covered the sub-judice/gag mechanism; wjp-rule-of-law-index-97th-stagnant-rank; joseph-sy-fake-citizenship-mining-civil-registry) - first post on the Article II evidentiary substance itself (defense witness credibility under cross-examination), not the procedural gag-order fight. Governance / Constitutional Awareness pillar (RA 6713 SALN law).
+**Angle:** Attacks the asset-disclosure verification system, not Duterte or the assessor personally: a sworn claim meant to settle a public-accountability question collapsed the moment it was tested, which is exactly why independent verification (not official say-so) is the point of SALN disclosure.
+**Hook (opening_hook placement):** "Sigurado, hanggang sa ipinakita ang litrato." (Certain, until the photo was shown.)
+**Tagalog beat used (fresh, composed for this post):** Same as hook above. Placement: opening_hook (per threads_tagalog_planner.py, varies from last 2 posts' standalone_beat/closing_line).
+**Fact-check:** First draft FAILED (included an unverifiable claim about "a second local assessor" testifying this week on a separate Samal Island lot; the independent Gemini + Google Search verifier could not corroborate it as of this run). Rewrote to drop that claim and keep only the two verified claims (Adalin's SALN-match testimony and his later uncertainty on cross-examination) plus the general SALN-law claim. Second draft PASSED.
+**Published live:** post_id=sp_D1YknhhrdGDTDd9rO2qT, 482 chars.
+**Sources (verified via WebSearch, 2+ reputable sources):**
+- https://www.rappler.com/philippines/national-news/davao-assessor-hit-inconsistent-testimony-sara-duterte-impeachment-trial
+- https://www.sunstar.com.ph/manila/pangilinan-questions-assessors-shifting-account-of-vp-sara-linked-lot
+- https://www.philstar.com/headlines/2026/11/09/2569008/sara-witness-admits-china-trip-davao-officials-after-grilling

@@ -6609,3 +6609,16 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 - https://www.rappler.com/philippines/national-news/davao-assessor-hit-inconsistent-testimony-sara-duterte-impeachment-trial
 - https://www.sunstar.com.ph/manila/pangilinan-questions-assessors-shifting-account-of-vp-sara-linked-lot
 - https://www.philstar.com/headlines/2026/11/09/2569008/sara-witness-admits-china-trip-davao-officials-after-grilling
+
+## 2026-11-11 19:03 PHT | threads | dpwh-certificate-implementability-one-strike
+
+**Topic:** DPWH Secretary Giovanni Lopez relieved four district engineers this week (Nov 9-10, 2026): Amron Mitmug (Lanao del Norte 2nd DEO), whose signed Certificates of Implementability covered 59 projects later found unimplementable; Hermon Ines (Tarlac 1st DEO), Saidale Mitmug (Cotabato 3rd DEO), and Clifton Valencerina, all accused of corruption/extortion including collecting "SOP" kickbacks from contractors. The dismissals cite the "one-strike policy" against corruption, continued from predecessor Vince Dizon. Distinct from all recently logged topics (dpwh-2027-budget-ghost-projects-paperwork-deadline covered budget-level project-count/documentation gaps; gensan-row-scam-ombudsman-graft-charges covered an 8-year-old appraisal-fraud case; this is the first post on the implementability-certification mechanism itself and this week's firings). Economic & Utility Reform / Governance Comparison pillar (public funds accountability, incentive design of self-certification).
+**Angle:** Attacks the self-certification system, not the named officials' identities: a single signature cleared 59 projects as implementable with no independent check, and the failure only surfaced because a policy choice (one-strike) went looking, not because the process itself verifies before money moves.
+**Hook:** "One engineer's signature cleared 59 road projects as 'implementable.' None of them were."
+**Tagalog beat used (fresh, composed for this post):** "Hinihintay lang ang reklamo bago tingnan." (Only the complaint is waited for before anyone looks.) Placement: mid_pivot (varies from last 2 posts' standalone_beat/opening_hook).
+**Fact-check:** PASSED on first attempt (independent Gemini + Google Search verifier corroborated the 59-project certificate figure and Amron Mitmug's identity, the Nov 9-10 relief of all four officials, the kickback/extortion allegations against the other three, and the one-strike policy continuation under Secretary Lopez).
+**Published live:** post_id=sp_8NUD1xLplfqcjMLj3F9nq, 460 chars.
+**Sources (verified via WebSearch, 2+ reputable sources):**
+- https://www.manilatimes.net/2026/11/10/news/national/dpwh-fires-4-more-erring-officials/2465351
+- https://newsinfo.inquirer.net/2338723/dpwh-execs-relieved-as-lopez-cleans-up-ranks
+- https://context.ph/2026/11/09/dpwh-removes-4-officials-over-corruption-reinforces-anti-graft-policy/

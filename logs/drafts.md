@@ -6641,3 +6641,16 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 - https://business.inquirer.net/620498/bsp-keeps-3-cap-on-credit-card-finance-charges
 - https://context.ph/2026/11/12/bsp-keeps-3-credit-card-interest-cap-raises-installment-and-cash-advance-fee-limits/
 - https://tribune.net.ph/2026/11/12/bsp-raises-credit-card-installment-rate-ceiling-to-15
+
+## 2026-11-13 12:02 PHT | threads | impeachment-trial-paused-for-asean-summit
+
+**Topic:** The Senate impeachment court adjourned VP Sara Duterte's impeachment trial on Nov 12, 2026 (Day 43), suspending proceedings for a full week until Nov 19 to accommodate the 49th ASEAN Summit in Manila (Nov 16-18, 2026), which Malacanang declared special non-working days for, with road closures around PICC. Distinct from all recently logged topics (senate-impeachment-gag-order-withdrawn-articles covered the sub-judice/gag mechanism; the Nov 9 post covered defense-witness credibility on Article II evidentiary substance) - first post on the scheduling-priority angle itself: an accountability process paused for a diplomatic/logistics event, not the trial's substance or any individual's guilt.
+**Angle:** Attacks the sequencing of institutional priority, not Duterte or any official personally: the mechanism meant to answer a sovereign accountability question yields the calendar to a summit and its road closures, and that ordering is the point, not who is on trial.
+**Hook (opening line):** "An impeachment trial is supposed to decide whether the second-highest official in the country keeps the job. This week the Senate court paused that trial for a full week..."
+**Tagalog beat used (fresh, composed for this post):** "Nauna ang summit. Humintay ang accountability." (The summit came first. Accountability waited.) Placement: closer/verdict line, parallel structure. Varies from all recently logged beats (sigurado/litrato, dpwh one-strike, "Nakita lang natin ang hindi tumaas").
+**Fact-check:** PASSED (independent Gemini + Google Search verifier corroborated the Nov 12 adjournment to Nov 19, the Nov 15-18 ASEAN Summit at PICC, the Malacanang special non-working days declaration for Nov 16-18, and road closures around PICC/CCP complex).
+**Published live:** post_id=sp_RjKEVQ7Ty4dTi6IKbyb5t, 372 chars.
+**Sources (verified via WebSearch, 2+ reputable sources):**
+- https://newsinfo.inquirer.net/2340221/duterte-impeachment-trial-to-resume-after-asean-summit
+- https://filipinotimes.net/latest-news/2026/11/12/duterte-impeachment-trial-suspended-until-nov-19-for-asean-summit/
+- https://www.philstar.com/headlines/2026/11/12/2569644/donald-trump-join-marcos-asean-leaders-manila-summit-nov-17

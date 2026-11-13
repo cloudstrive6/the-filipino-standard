@@ -6654,3 +6654,17 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 - https://newsinfo.inquirer.net/2340221/duterte-impeachment-trial-to-resume-after-asean-summit
 - https://filipinotimes.net/latest-news/2026/11/12/duterte-impeachment-trial-suspended-until-nov-19-for-asean-summit/
 - https://www.philstar.com/headlines/2026/11/12/2569644/donald-trump-join-marcos-asean-leaders-manila-summit-nov-17
+
+## 2026-11-13 19:03 PHT | threads | goccs-leadership-musical-chairs
+
+**Topic:** On Nov 12-13, 2026, Marcos administration reshuffled three GOCC/agency top posts in one announcement: Customs Commissioner Ariel Nepomuceno moved to BCDA president/CEO (replacing Joshua Bingcang), Bingcang moved to PEZA Director General, and outgoing BIR Commissioner Charlito Martin Mendoza moved to Bureau of Customs Commissioner. Distinct from all recently logged topics (impeachment-trial-paused-for-asean-summit covered judicial/legislative scheduling; this covers executive-branch GOCC appointment patronage) - first post on the revolving-door appointment angle.
+**Angle:** Attacks the system of unilateral presidential appointment power over GOCC leadership (no open competition, same small circle of appointees reshuffled), not any individual official's competence or identity.
+**Hook (opening line):** "Three state agencies just swapped leaders in one announcement."
+**Tagalog beat used (fresh, composed for this post):** "Parang musical chairs lang, pero pera ng bayan ang nakataya." (It's just like musical chairs, but it's the people's money at stake.) Placement: closer/verdict line. Varies from all recently logged beats (sigurado/litrato, dpwh one-strike, "Nakita lang natin ang hindi tumaas", "Nauna ang summit. Humintay ang accountability.").
+**Fact-check:** PASSED (independent Gemini + Google Search verifier corroborated all three appointments and the lack of any public competition process; confirmed Marcos administered oaths on Nov 13, 2026).
+**Published live:** post_id=sp_8qGkxRDTVa0t4FR6QtRI8, 430 chars.
+**Sources (verified via WebSearch, 2+ reputable sources):**
+- https://www.manilatimes.net/2026/11/13/news/national/nepomuceno-to-replace-bingcang-as-bcda-president/2468020
+- https://business.inquirer.net/620503/customs-chief-heads-to-bcda
+- https://www.rappler.com/business/new-commissioners-bir-customs-reshuffle-november-2026/
+- https://tribune.net.ph/2026/11/12/fresh-revamp-hits-boc-goccs

@@ -6681,3 +6681,16 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 - https://www.gmanetwork.com/news/topstories/nation/1009393/ombudsman-to-step-up-lifestyle-checks-on-bir-boc-execs-amid-bribery-reports/story/
 - https://tribune.net.ph/2026/11/13/ombudsman-to-intensify-lifestyle-checks-on-bir-boc-officials
 - https://www.philstar.com/business/2026/11/13/2569917/ombudsman-plans-investment-office-curb-bribery-eliminate-fixers
+
+## 2026-11-14 19:02 PHT | threads | meralco-november-rate-hike-vs-entrust-dividend
+
+**Topic:** Meralco raised November 2026 billing rates by P0.4895/kWh (about P98 more on a 200 kWh bill), attributed to a weaker peso and higher fuel costs tied to Middle East tensions. Economic & Utility Reform pillar. Distinct from all recently logged topics (bir-boc-lifestyle-checks-no-receipts covered tax/customs bribery collection; the October Meralco post covered the structural 15-year distribution-rate reset, not this month's fuel/peso-driven generation-charge pass-through) - first post on this specific November pass-through hike and its currency/geopolitical driver.
+**Angle:** Attacks the ownership structure that lets cost shocks (weak peso, Middle East fuel prices) flow straight through to captive Meralco customers with no offsetting return, contrasted with Auckland's community-trust ownership model that pays dividends instead. Not aimed at any named official or executive.
+**Hook (opening line):** "Meralco just raised November rates again, up 0.49 pesos per kWh, about 98 pesos more on a 200 kWh bill."
+**Tagalog beat used (fresh, composed for this post):** "Pareho ang krisis, iba ang may-ari. Doon, binabalik sa tao. Dito, kinukuha lang." (Same crisis, different owner. There, it's given back to the people. Here, it's just taken.) Placement: closer/verdict line. Varies from all recently logged beats ("Resibo, hindi lifestyle check, ang kailangan dito," musical-chairs line, "Nakita lang natin ang hindi tumaas," "Nauna ang summit. Humintay ang accountability.").
+**Fact-check:** PASSED (independent Gemini + Google Search verifier corroborated the P0.4895/kWh November hike, the ~P98/200kWh bill impact, the peso/Middle East fuel cost attribution, Entrust's 75.1% Vector stake, and the NZD 364 2025 household dividend).
+**Published live:** post_id=sp_wsGr6RITzPhy46zDe2fj, 419 chars.
+**Sources (verified via WebSearch, 2+ reputable sources):**
+- https://www.gmanetwork.com/news/money/companies/1009371/meralco-raises-power-rate-by-p0-49-per-kwh-in-november/story/
+- https://newsinfo.inquirer.net/2341030/meralco-rate-up-anew-in-november-at-49-centavos-per-kwh
+- https://finance.biggo.com/news/9712c830-9ec7-4df1-aa68-47b0d75f2620

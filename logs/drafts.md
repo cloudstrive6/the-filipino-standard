@@ -6668,3 +6668,16 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 - https://business.inquirer.net/620503/customs-chief-heads-to-bcda
 - https://www.rappler.com/business/new-commissioners-bir-customs-reshuffle-november-2026/
 - https://tribune.net.ph/2026/11/12/fresh-revamp-hits-boc-goccs
+
+## 2026-11-14 12:02 PHT | threads | bir-boc-lifestyle-checks-no-receipts
+
+**Topic:** On Nov 13, 2026, Ombudsman Jesus Crispin Remulla announced intensified lifestyle checks on BIR and BOC officials after reports that collectors charged businesses more than the legally prescribed fees, with the overcharge going unreceipted (sometimes exceeding the legitimate fee itself). Governance/anti-corruption pillar. Distinct from all recently logged topics (impeachment-trial-paused-for-asean-summit covered judicial/legislative scheduling; goccs-leadership-musical-chairs covered executive appointment patronage; this covers the bribery-collection mechanism itself and the enforcement response).
+**Angle:** Attacks the cash-fee-collection system that makes unreceipted overcharging possible and the government's reflexive response of individual lifestyle checks rather than structural fixes (mandatory digital, logged, receipted transactions), not any named official.
+**Hook (opening line):** "The Ombudsman just admitted officials at the Bureau of Internal Revenue and Bureau of Customs have been charging more than the required fees, with zero receipts."
+**Tagalog beat used (fresh, composed for this post):** "Resibo, hindi lifestyle check, ang kailangan dito." (A receipt, not a lifestyle check, is what's needed here.) Placement: closer/verdict line. Varies from all recently logged beats (musical-chairs line, "Nakita lang natin ang hindi tumaas", "Nauna ang summit. Humintay ang accountability.").
+**Fact-check:** PASSED (independent Gemini + Google Search verifier corroborated Remulla's Nov 13, 2026 announcement of intensified BIR/BOC lifestyle checks and the unreceipted-overcharge reports).
+**Published live:** post_id=sp_u4ajFBD2EHacDCsgGqUPq, 383 chars.
+**Sources (verified via WebSearch, 2+ reputable sources):**
+- https://www.gmanetwork.com/news/topstories/nation/1009393/ombudsman-to-step-up-lifestyle-checks-on-bir-boc-execs-amid-bribery-reports/story/
+- https://tribune.net.ph/2026/11/13/ombudsman-to-intensify-lifestyle-checks-on-bir-boc-officials
+- https://www.philstar.com/business/2026/11/13/2569917/ombudsman-plans-investment-office-curb-bribery-eliminate-fixers

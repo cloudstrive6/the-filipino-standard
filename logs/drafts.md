@@ -6694,3 +6694,15 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 - https://www.gmanetwork.com/news/money/companies/1009371/meralco-raises-power-rate-by-p0-49-per-kwh-in-november/story/
 - https://newsinfo.inquirer.net/2341030/meralco-rate-up-anew-in-november-at-49-centavos-per-kwh
 - https://finance.biggo.com/news/9712c830-9ec7-4df1-aa68-47b0d75f2620
+
+## 2026-11-15 12:03 PHT | threads | sws-q3-2026-satisfaction-bad-corruption-inflation
+
+**Topic:** SWS Q3 2026 survey (fielded Sept 21-27, released Nov 13-15): Marcos admin net satisfaction fell to neutral -4 (second-lowest on record, after poor -13 in March 2026). Corruption (-30) and inflation (-34) both hit "bad" for the first time, worse than their prior "poor" ratings in March/June 2026. Governance/political-commentary pillar. Distinct from all recently logged topics (BIR/BOC lifestyle checks covered tax/customs bribery collection; the Meralco posts covered utility billing) - first post on this specific survey release.
+**Angle:** Attacks the system's inability to move the needle on its two chronic weak points despite rotating officials, not any named official. Contrasts with how a scorecard sliding this far would normally force a correction, caveated that no country including NZ is perfect.
+**Hook (opening line):** "Marcos admin satisfaction fell to neutral -4 this quarter, second-lowest on record."
+**Tagalog beat used (fresh, composed for this post):** "Hanggang kailan pareho lang ang sagot?" (Until when does the answer stay the same?) Placement: closer question. Varies from all recently logged beats (Entrust/Meralco closer, "Resibo, hindi lifestyle check...", musical-chairs line, "Nakita lang natin ang hindi tumaas," "Nauna ang summit. Humintay ang accountability.").
+**Fact-check:** First draft FAILED (claimed corruption/inflation were graded "bad" in prior surveys too; they were actually "poor" before this quarter). Revised to state -30/-34 as the first "bad" grade either has drawn. Revision PASSED (independent Gemini + Google Search verifier corroborated the -4 net rating, the -30 corruption and -34 inflation marks, and that both are new lows versus prior "poor" ratings).
+**Published live:** post_id=sp_WtKElriFnIeSnbfejyQT8, 497 chars.
+**Sources (verified via WebSearch, 2+ reputable sources):**
+- https://www.philstar.com/headlines/2026/11/15/2570243/satisfaction-marcos-government-drops-anew-sws
+- https://mb.com.ph/2026/11/13/satisfaction-with-marcos-admin-drops-to-second-lowest-rating-in-q3-2026-sws

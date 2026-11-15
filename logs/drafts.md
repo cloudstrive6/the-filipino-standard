@@ -6706,3 +6706,16 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 **Sources (verified via WebSearch, 2+ reputable sources):**
 - https://www.philstar.com/headlines/2026/11/15/2570243/satisfaction-marcos-government-drops-anew-sws
 - https://mb.com.ph/2026/11/13/satisfaction-with-marcos-admin-drops-to-second-lowest-rating-in-q3-2026-sws
+
+## 2026-11-15 19:03 PHT | threads | asean-summit-security-vs-protest-riot-shield
+
+**Topic:** ASEAN Summit opening day (Nov 15, 2026): PNP deployed ~23,154 security personnel for the 49th ASEAN Summit; protesters trying to march toward the PICC in Pasay were dispersed at Liwasang Bonifacio, 5 arrested, 2 injured, one struck in the head with a riot shield. Constitutional-awareness / political-commentary pillar. Distinct from today's earlier SWS satisfaction post and from the 11/13 "impeachment paused for ASEAN summit" post - this is the protest-policing angle on summit day itself, not covered yet.
+**Angle:** Contrasts the resources and precision used to secure the summit for leaders against the force used on citizens exercising the constitutional right to peaceably assemble. Attacks the policing/resourcing system and priorities, not any named official, officer, or the protesters' specific cause (Pax Silica/Trump not mentioned, kept neutral).
+**Hook (opening line):** "Nearly 23,000 security personnel locked down Metro Manila for the ASEAN Summit's opening day."
+**Tagalog beat used (fresh, composed for this post):** "Riot shield ang sagot sa karapatang magtipon." (A riot shield was the answer to the right to assemble.) Placement: standalone_beat, mid-post. Varies from all recently logged beats/placements (prior post's closing question, the musical-chairs line, "Nakita lang natin ang hindi tumaas," "Nauna ang summit. Humintay ang accountability.").
+**Fact-check:** PASSED on first draft. Independent Gemini + Google Search verifier corroborated the ~23,154 security personnel figure, the 5 arrests/2 injuries/riot-shield detail, and the verbatim text of Art. III Sec. 4 of the 1987 Constitution.
+**Published live:** post_id=sp_CqHD8gm60LOjGYNWKwImZ, 498 chars.
+**Sources (verified via WebSearch, 2+ reputable sources):**
+- https://www.gmanetwork.com/news/topstories/metro/1009564/5-people-arrested-2-hurt-in-manila-amid-asean-summit-protests/story/
+- https://www.manilatimes.net/2026/11/15/news/5-protesters-arrested-2-injured-in-clash-with-police/2470207
+- https://tribune.net.ph/2026/11/15/chaos-erupt-in-manila-on-asean-summit-opening-day-arrests-injuries-reported

@@ -6733,3 +6733,17 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 - https://astig.ph/asean-declaration-fair-ethical-recruitment-migrant-workers-2026/
 - https://globalnation.inquirer.net/326691/recruitment-firms-face-raps-for-keeping-ofw-applicants-in-illegal-houses
 - https://www.gmanetwork.com/news/pinoyabroad/dispatch/990534/dmw-206-rescued-from-substandard-facilities-run-by-recruitment-agencies/story/
+
+## 2026-11-16 19:04 PHT | threads | meralco-distribution-rate-reset-after-15-years
+
+**Topic:** Meralco's November 2026 bill already rose on higher generation costs (P15.5510/kWh, up from P15.0615). On top of that, the ERC approved Meralco's own distribution rate reset in October 2026, its first since 2011, covering July 2026-June 2030. A P2.64-billion refund is being rolled out over six months to cushion the impact. Economic & utility reform pillar. Distinct from the ASEAN-summit-cluster posts logged for 11/15-11/16 (SWS satisfaction survey, riot-shield policing, migrant-worker declaration) and from the 2026-06-07 flood-control post - this is the Meralco monopoly/utility-rate angle, not covered in recent entries.
+**Angle:** Attacks the incentive structure behind a 15-year rate-reset gap where the first adjustment that lands is a hike, with a refund framed as relief rather than a fix. No individuals named; targets Meralco and the regulatory reset process.
+**Hook (opening line, Tagalog beat per planner):** "Tumaas na ang bayad. Ngayon, may basbas pa mula sa regulator." (The bill went up. Now it even has the regulator's blessing.)
+**Tagalog beat used (fresh, composed for this post):** "Tumaas na ang bayad. Ngayon, may basbas pa mula sa regulator." Placement: opening_hook (per threads_tagalog_planner.py peek/commit; history showed only one stale entry, mid_pivot from 2026-06-07, so opening_hook was selected and committed). Fresh phrase, not reused from any bank or recent post.
+**Fact-check:** First draft FAILED (unverifiable claim about a consumer group "PARE" pushing for transparency - independent Gemini + Google Search verifier could not corroborate it). Rewrote without that claim, keeping only independently-verifiable facts. Second draft PASSED: verified the P15.55/kWh November rate, the ERC's first-since-2011 distribution rate reset (July 2026-June 2030), and the P2.64-billion refund over six months.
+**Published live:** post_id=sp_Wd6uO0msZGA0lp7yMLqX, 459 chars.
+**Sources (verified via WebSearch, 2+ reputable sources):**
+- https://www.manilatimes.net/2026/11/14/news/national/meralco-power-rates-higher-in-november/2469652
+- https://www.philstar.com/headlines/2026/11/14/2569996/meralco-rates-rise-november
+- https://www.rappler.com/business/meralco-distribution-rate-hike-october-2026/
+- https://newsinfo.inquirer.net/2321298/regulators-ok-meralco-rate-hike-after-15-yrs

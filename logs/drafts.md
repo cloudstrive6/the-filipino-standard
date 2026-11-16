@@ -6719,3 +6719,17 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 - https://www.gmanetwork.com/news/topstories/metro/1009564/5-people-arrested-2-hurt-in-manila-amid-asean-summit-protests/story/
 - https://www.manilatimes.net/2026/11/15/news/5-protesters-arrested-2-injured-in-clash-with-police/2470207
 - https://tribune.net.ph/2026/11/15/chaos-erupt-in-manila-on-asean-summit-opening-day-arrests-injuries-reported
+
+## 2026-11-16 12:04 PHT | threads | asean-migrant-worker-declaration-no-penalties
+
+**Topic:** At the 49th ASEAN Summit in Manila (Nov 15, 2026), ASEAN leaders adopted the Philippine-led "Declaration on Fair, Ethical and Sustainable Recruitment for Empowered Migrant Workers," meant to protect ~600,000 Filipino migrant workers across ASEAN from illegal recruitment and excessive fees. The declaration carries no penalties or sanctions for non-compliant member states; DMW's own officials said implementation likely starts only in early 2027. Contrasted against DMW's own June 2026 raids that rescued 206 OFW applicants from illegal lodging where agencies demanded up to P50,000 for their release. Filipino empowerment / governance comparison pillar. Distinct from the two 11/15 posts (SWS satisfaction survey, ASEAN protest/riot-shield policing) - this is the migrant-worker-protection-theater angle, not covered yet.
+**Angle:** Attacks the system of toothless international declarations (no penalties, 2027 start) against the backdrop of ongoing domestic recruitment abuse the government itself documented months ago. No individuals named; targets ASEAN's enforcement mechanism and the recruitment-agency system.
+**Hook (opening line, Tagalog beat per planner):** "Pangako lang, walang parusa." (Just a promise, no penalty.)
+**Tagalog beat used (fresh, composed for this post):** "Pangako lang, walang parusa." Placement: opening_hook (per threads_tagalog_planner.py peek; last post used mid_pivot, excluded). Varies from all recently logged beats ("Hanggang kailan pareho lang ang sagot?", "Riot shield ang sagot sa karapatang magtipon.", "Bumabaha pa rin. Walang pondo.").
+**Fact-check:** PASSED on first draft. Independent Gemini + Google Search verifier corroborated the declaration's adoption and ~600,000 OFW figure, the lack of penalties (per DMW Asst. Sec. Levinson Alcantara), the "probably early 2027" implementation timeline (per DMW Sec. Hans Leo Cacdac), and the June 2026 raid rescuing 206 OFW applicants with agencies demanding up to P50,000 for release.
+**Published live:** post_id=sp_og514jqpNt2Cu8NiZtMIj, 471 chars.
+**Sources (verified via WebSearch, 2+ reputable sources):**
+- https://www.manilatimes.net/2026/11/16/news/national/asean-adopts-declaration-protecting-migrant-workers/2470226
+- https://astig.ph/asean-declaration-fair-ethical-recruitment-migrant-workers-2026/
+- https://globalnation.inquirer.net/326691/recruitment-firms-face-raps-for-keeping-ofw-applicants-in-illegal-houses
+- https://www.gmanetwork.com/news/pinoyabroad/dispatch/990534/dmw-206-rescued-from-substandard-facilities-run-by-recruitment-agencies/story/

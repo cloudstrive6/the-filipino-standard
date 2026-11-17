@@ -6760,3 +6760,15 @@ Per the hard rule (max one retry, then stop), publishing nothing this run rather
 - https://pcij.org/2025/11/29/allocables-are-the-new-pork/
 - https://www.rappler.com/philippines/dpwh-budget-sandro-marcos-district-jumps-billions-house-bill-2027-watchdog/
 - https://tribune.net.ph/2026/11/16/sandros-district-racks-up-p22b
+
+## 2026-11-17 19:04 PHT | threads | moodys-growth-forecast-cut-corruption-link
+
+**Topic:** Moody's Analytics cut its 2026 Philippine GDP growth forecast to 2.4% from 3% (report released Nov 16, 2026), explicitly citing private investment contracting for a fifth consecutive quarter, with "elevated political uncertainty and corruption controversies" weighing on business confidence. Inflation hit 7.8% in October, the eighth straight month above the BSP's 2-4% target. Economic & utility reform / governance comparison pillar. Distinct from the ASEAN-summit cluster (SWS satisfaction, riot-shield policing, migrant-worker declaration), the Meralco rate-reset post, and the same-day NOT-PUBLISHED pork-barrel-district draft - this is the credit-rating-agency-quantifies-corruption-cost angle, not covered yet.
+**Angle:** A credit rating agency, not an activist or opposition figure, now formally attributes slowing growth and deferred investment to corruption and political uncertainty - attacks the corruption/uncertainty climate as an economic drag, not any named official or party.
+**Hook (opening line):** "Moody's Analytics just cut its 2026 Philippine growth forecast to 2.4%, down from 3%."
+**Tagalog beat used (fresh, composed for this post):** "Nasa resibo na ng ekonomiya ang bayad ng korapsyon." (The cost of corruption is now on the economy's receipt.) Placement: closer line. Fresh phrase, not reused from any bank or recent post ("Hanggang kailan pareho lang ang sagot?", "Riot shield ang sagot sa karapatang magtipon.", "Pangako lang, walang parusa.", "Tumaas na ang bayad. Ngayon, may basbas pa mula sa regulator.").
+**Fact-check:** PASSED on first draft. Independent Gemini + Google Search verifier corroborated the 2.4%-from-3% forecast cut, the fifth-consecutive-quarter private investment contraction tied to "political uncertainty and corruption controversies," and the 7.8% October inflation figure (eighth straight month above the BSP's 2-4% target).
+**Published live:** post_id=sp_esgDBq1viknrWelCTQKP, 469 chars.
+**Sources (verified via WebSearch, 2+ reputable sources):**
+- https://businessmirror.com.ph/2026/11/16/moodys-think-tank-brings-down-gdp-forecast-to-2-3/
+- https://www.manilatimes.net/2026/11/17/business/top-business/moodys-slashes-growth-outlook/2471242

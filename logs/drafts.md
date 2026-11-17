@@ -6747,3 +6747,16 @@ queued or sent to `publish_direct.py` since no caption was produced. No fact-che
 - https://www.philstar.com/headlines/2026/11/14/2569996/meralco-rates-rise-november
 - https://www.rappler.com/business/meralco-distribution-rate-hike-october-2026/
 - https://newsinfo.inquirer.net/2321298/regulators-ok-meralco-rate-hike-after-15-yrs
+
+## 2026-11-17 12:04 PHT | threads | congressional-district-budget-pork-barrel (NOT PUBLISHED)
+
+**Topic:** 2027 national budget scrutiny: watchdogs (PCIJ, Rappler, Tribune) flagged a single congressional district's disproportionate DPWH infrastructure allocations as a pork-barrel-by-another-name pattern, tied to the Constitution's never-defined anti-dynasty provision (Art. II, Sec. 26). Political Commentary / Constitutional Awareness pillars. Distinct from all recently logged ASEAN-cluster and Meralco posts.
+**Angle:** Attacks the budget-insertion system and the 39-year-unenacted anti-dynasty law, not a named individual.
+**Outcome: NOT PUBLISHED.** Two drafts attempted, both FAILED the independent fact-check gate:
+1. First draft conflated two different districts' figures (the P22B+/2023-2026 figure actually belongs to Leyte's 1st District, not the district with the P4.3B 2027 raise) and wrongly claimed the district's representative leads the House (he no longer does; Speaker changed Sept 2025). Verifier caught the conflation.
+2. Rewrite (one allowed retry) corrected to cite only Leyte's 1st District's P63B figure plus a claimed Supreme Court "grave abuse of discretion" ruling on the anti-dynasty inaction. Verifier could not independently corroborate either the P63B total-for-period figure or the SC ruling claim.
+Per the hard rule (max one retry, then stop), publishing nothing this run rather than shipping an unverifiable claim.
+**Sources consulted (not all verifiable to the fact-check gate's standard):**
+- https://pcij.org/2025/11/29/allocables-are-the-new-pork/
+- https://www.rappler.com/philippines/dpwh-budget-sandro-marcos-district-jumps-billions-house-bill-2027-watchdog/
+- https://tribune.net.ph/2026/11/16/sandros-district-racks-up-p22b

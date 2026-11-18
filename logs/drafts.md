@@ -6772,3 +6772,15 @@ Per the hard rule (max one retry, then stop), publishing nothing this run rather
 **Sources (verified via WebSearch, 2+ reputable sources):**
 - https://businessmirror.com.ph/2026/11/16/moodys-think-tank-brings-down-gdp-forecast-to-2-3/
 - https://www.manilatimes.net/2026/11/17/business/top-business/moodys-slashes-growth-outlook/2471242
+
+## 2026-11-18 12:05 PHT | threads | nea-coa-unliquidated-subsidy-electric-coops
+
+**Topic:** COA's audit of NEA's 2025 financial statements (qualified opinion) flagged 1.76 billion pesos in subsidy funds granted to 56 electric cooperatives that remained unliquidated as of Dec 31, 2025, some sitting unliquidated for up to 11 years (released 2014-2025). COA also found NEA released an additional 96.91 million pesos to a cooperative already failing to comply with program rules, and called for recovery of the unspent funds. Economic & utility reform pillar. Distinct from the logged ASEAN-summit cluster, the Meralco rate-reset post, and the Moody's growth-forecast post - this is the electric-cooperative-subsidy-accountability angle (the "member-owned alternative to Meralco" failing its own oversight), not covered yet.
+**Angle:** Attacks the regulator's (NEA) lax enforcement and the cooperative accountability system, not any named official or cooperative.
+**Hook (opening line):** "1.76 billion pesos in electric cooperative subsidies sat unliquidated, some for up to 11 years, before state auditors finally caught it."
+**Tagalog beat used (fresh, composed for this post):** "Kooperatiba raw ang sagot, pero saan napunta ang pera?" (The cooperative was supposedly the answer, but where did the money go?) Placement: closer line. Fresh phrase, distinct from recent posts' beats ("Nasa resibo na ng ekonomiya ang bayad ng korapsyon.", "Hanggang kailan pareho lang ang sagot?", "Riot shield ang sagot sa karapatang magtipon.", "Pangako lang, walang parusa.").
+**Fact-check:** PASSED on first draft. Independent Gemini + Google Search verifier corroborated both the 1.76B-unliquidated-up-to-11-years figure and the 96.91M released to a non-compliant cooperative.
+**Published live:** post_id=sp_fMI5RNIA6JXJFq1N6VlFr, 434 chars.
+**Sources (verified via WebSearch, 2+ reputable sources):**
+- https://www.coa.gov.ph/reports/performance-audit-reports/2025-2/rural-electrification-program/
+- https://www.manilatimes.net/2026/11/17/opinion/columns/electric-co-ops-continue-to-fare-badly/2470816

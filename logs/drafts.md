@@ -6784,3 +6784,15 @@ Per the hard rule (max one retry, then stop), publishing nothing this run rather
 **Sources (verified via WebSearch, 2+ reputable sources):**
 - https://www.coa.gov.ph/reports/performance-audit-reports/2025-2/rural-electrification-program/
 - https://www.manilatimes.net/2026/11/17/opinion/columns/electric-co-ops-continue-to-fare-badly/2470816
+
+## 2026-11-18 19:03 PHT | threads | dof-import-tax-exemptions-no-inspections-16-years
+
+**Topic:** COA's 2025 audit flagged the Department of Finance for approving P253.33 billion in import tax exemptions from 2023-2025 (79,821 applications) without conducting the legally required pre-release/post-release inspections to verify the goods matched declarations and were used as claimed. COA found the inspection requirement had gone unmet for 16 years straight. Economic & utility reform / governance pillar. Distinct from the morning's NEA-COA electric-coop-subsidy post, the Moody's growth-forecast post, and the Meralco rate-reset post - this is the tax-exemption-enforcement-vacuum angle (DOF trusting importer self-declarations with zero verification for over a decade and a half), not covered yet.
+**Angle:** Attacks the enforcement system (DOF's non-conduct of mandated inspections), not any named official.
+**Hook (opening line):** "P253.33 billion in import tax exemptions got approved from 2023 to 2025. Zero pre-release or post-release inspections to check if the goods matched what was declared or were actually used as claimed."
+**Tagalog beat used (fresh, composed for this post):** "Labing-anim na taon, tiwala lang pala ang sistema." (Sixteen years, turns out the system was just trust.) Placement: closer line. Fresh phrase, distinct from recent posts' beats ("Kooperatiba raw ang sagot, pero saan napunta ang pera?", "Nasa resibo na ng ekonomiya ang bayad ng korapsyon.", "Hanggang kailan pareho lang ang sagot?", "Riot shield ang sagot sa karapatang magtipon.", "Pangako lang, walang parusa.").
+**Fact-check:** PASSED on first draft. Independent Gemini + Google Search verifier corroborated the P253.33B figure, the zero-inspections finding, and the 16-year/79,821-application detail.
+**Published live:** post_id=sp_lKRoRwYArHy4rYeiOpS5l, 362 chars.
+**Sources (verified via WebSearch, 2+ reputable sources):**
+- https://tribune.net.ph/2026/11/17/coa-flags-p253b-tax-exemptions-granted-without-inspections
+- https://tribune.net.ph/2026/11/17/dof-faces-coa-scrutiny-over-import-tax-breaks

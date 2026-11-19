@@ -6796,3 +6796,16 @@ Per the hard rule (max one retry, then stop), publishing nothing this run rather
 **Sources (verified via WebSearch, 2+ reputable sources):**
 - https://tribune.net.ph/2026/11/17/coa-flags-p253b-tax-exemptions-granted-without-inspections
 - https://tribune.net.ph/2026/11/17/dof-faces-coa-scrutiny-over-import-tax-breaks
+
+## 2026-11-19 12:03 PHT | threads | NOT PUBLISHED (two drafts, both failed fact-check)
+
+**Topic (draft 1):** COA's 2025 annual audit report reportedly flagged the Bureau of the Treasury for P2.04 million in procurement deficiencies: using "shopping" for office supplies (a method state auditors said RA 12009 no longer recognizes), failing to impose penalties on delayed contractors despite missing documentation for the extensions granted, and deviating from its own approved 2024 Annual Procurement Plan via negotiated procurement. Reported by Tribune and The Chronicle (two outlets), November 17-18, 2026.
+**Angle:** Attacks the enforcement/training system at the agency that handles the nation's money, not any named official.
+**Hook (opening line):** "The Bureau of Treasury safeguards the nation's money. COA's 2025 audit says it could not even follow its own procurement rules."
+**Outcome:** FAILED fact-check. Independent Gemini + Google Search verifier could not find a 2025 COA Annual Audit Report for BTr and said the P2.04M figure and specific findings were not corroborated (verifier only found a 2023 BTr report), despite two separate outlets reporting it.
+
+**Topic (draft 2, the one retry):** A Cebu City Council resolution and local reporting (Sunstar, Inquirer/CDN, Philstar Freeman) describe two confidential-fund releases under a past administration: 40 million pesos on Dec. 27, 2024 (the last working day of that year) and 10 million pesos on June 27, 2025, days before that administration's term ended. A councilor has asked COA for a special audit of both releases. Rewritten with no named officials, attacking the absence of a pre-transition freeze rule for confidential funds.
+**Hook (opening line):** "A city government released 40 million pesos in confidential funds on the last working day of 2024. Then another 10 million pesos days before that administration's term ended in 2025."
+**Outcome:** FAILED fact-check. Independent Gemini + Google Search verifier found no corroboration for the specific amounts/dates or the city-council-audit-request framing as stated.
+
+**Result:** Per the one-retry rule, no third draft attempted. Publishing nothing this run per the hard rule (when in doubt, publish nothing). Both underlying stories are real and multi-sourced per WebSearch (Tribune, The Chronicle for BTr; Sunstar, Inquirer/CDN, Philstar Freeman for Cebu), but the independent live fact-check verifier could not corroborate them at the specificity written, likely a verifier-indexing gap rather than fabrication. Topics avoided for the next run: BTr procurement deficiencies, Cebu confidential-fund timing.

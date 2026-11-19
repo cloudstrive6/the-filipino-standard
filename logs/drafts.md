@@ -6809,3 +6809,15 @@ Per the hard rule (max one retry, then stop), publishing nothing this run rather
 **Outcome:** FAILED fact-check. Independent Gemini + Google Search verifier found no corroboration for the specific amounts/dates or the city-council-audit-request framing as stated.
 
 **Result:** Per the one-retry rule, no third draft attempted. Publishing nothing this run per the hard rule (when in doubt, publish nothing). Both underlying stories are real and multi-sourced per WebSearch (Tribune, The Chronicle for BTr; Sunstar, Inquirer/CDN, Philstar Freeman for Cebu), but the independent live fact-check verifier could not corroborate them at the specificity written, likely a verifier-indexing gap rather than fabrication. Topics avoided for the next run: BTr procurement deficiencies, Cebu confidential-fund timing.
+
+## 2026-11-19 19:03 PHT | threads | tieza-coa-tourism-infra-planning-failure
+
+**Topic:** COA's 2025 annual audit report found TIEZA (Tourism Infrastructure and Enterprise Zone Authority) failed to effectively implement P3.328 billion worth of locally funded tourism infrastructure projects due to inadequate planning, detailed engineering, supervision, and monitoring. Auditors also flagged two convention centers, the Iloilo Convention Center (P529.474M) and the Aquilino Q. Pimentel Jr. International Convention Center (P1.114B), improperly accounted for as single asset items without component classification. TIEZA has yet to implement 58 of 115 prior-year audit recommendations. Economic & utility reform pillar. Distinct from all recently logged topics (ASEAN cluster, Meralco, Moody's forecast, NEA-COA coops, DOF import tax, BTr procurement, Cebu confidential funds, pork-barrel district) - this is the tourism-infrastructure-agency-planning-failure angle, not covered yet.
+**Angle:** Attacks the planning/engineering/monitoring system at the tourism infrastructure agency, not any named official.
+**Hook (opening line):** "P3.328 billion in tourism infrastructure. COA's 2025 audit says TIEZA could not even get the planning right."
+**Tagalog beat used (fresh, composed for this post):** "Plano raw, pero wala palang plano." (Supposedly planned, but turns out there was no plan at all.) Placement: closer line. Fresh phrase, distinct from recent posts' beats ("Labing-anim na taon, tiwala lang pala ang sistema.", "Kooperatiba raw ang sagot, pero saan napunta ang pera?", "Nasa resibo na ng ekonomiya ang bayad ng korapsyon.").
+**Fact-check:** PASSED on first draft. Independent Gemini + Google Search verifier corroborated the P3.328B figure, the inadequate-planning/engineering/monitoring finding, the P1.643B combined convention-center accounting issue, and the 58-of-115 unimplemented recommendations.
+**Published live:** post_id=sp_GZKVqvAXjnlFJ4dDVkH3H, 460 chars.
+**Sources (verified via WebSearch, 2+ reputable sources):**
+- https://bworldonline.com/the-nation/2026/11/18/794831/coa-flags-p3-3-b-tieza-projects/
+- https://www.coa.gov.ph/reports/annual-audit-reports/ (COA 2025 Annual Audit Report, TIEZA)

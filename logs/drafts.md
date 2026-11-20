@@ -6821,3 +6821,15 @@ Per the hard rule (max one retry, then stop), publishing nothing this run rather
 **Sources (verified via WebSearch, 2+ reputable sources):**
 - https://bworldonline.com/the-nation/2026/11/18/794831/coa-flags-p3-3-b-tieza-projects/
 - https://www.coa.gov.ph/reports/annual-audit-reports/ (COA 2025 Annual Audit Report, TIEZA)
+
+## 2026-11-20 12:04 PHT | threads | caap-coa-property-discrepancy-unrecorded-assets
+
+**Topic:** COA's 2025 annual audit report (reported Nov 4, 2026) found the Civil Aviation Authority of the Philippines (CAAP) could not reconcile a P3.779-billion discrepancy between its general ledger and physical inventory for its Property and Equipment account, and had never recorded four parcels of land (Pasay/Taguig) and 12 buildings/facilities (Pasay/Tagaytay) in its books at all. 81 of 169 prior-year audit recommendations remain unimplemented. Distinct from all recently logged topics (TIEZA tourism-infra planning failure, BTr procurement, Cebu confidential funds, pork-barrel district, ASEAN cluster, Meralco, Moody's forecast, NEA-COA coops, DOF import tax, BIR/BOC lifestyle checks, SSS pension paper loss, flood-control scandal posts, DPWH budget/ghost-project posts) - first post on CAAP, the national aviation safety regulator, failing basic asset-tracking discipline. Economic & Utility Reform / Governance Comparison pillar (public asset accountability).
+**Angle:** Attacks the internal reconciliation/asset-tracking system at the national aviation safety regulator, not any named official.
+**Hook (opening line):** "CAAP keeps the nation's airspace safe. COA's 2025 audit says it cannot even account for its own land."
+**Tagalog beat used (fresh, composed for this post):** "Kung sariling lupa nawawala sa talaan, paano pa ang kaligtasan sa himpapawid?" (If its own land goes missing from the records, what more of safety in the skies?) Placement: closer/rhetorical question. Fresh phrase, distinct from recent posts' beats (TIEZA's "Plano raw, pero wala palang plano.", and earlier beats logged in prior entries).
+**Fact-check:** PASSED on first draft. Independent Gemini + Google Search verifier corroborated CAAP's safety mandate, the P3.779B ledger/physical-inventory discrepancy, the four unrecorded parcels of land and 12 buildings, and the 81-of-169 unimplemented recommendations figure.
+**Published live:** post_id=sp_33D7ENpLV7U0YzC1cQ7, 386 chars.
+**Sources (verified via WebSearch, 2+ reputable sources):**
+- https://bworldonline.com/the-nation/2026/11/04/791478/coa-flags-caap-over-p3-78-billion-property-discrepancies-unrecorded-assets/
+- https://www.coa.gov.ph/reports/annual-audit-reports/ (COA 2025 Annual Audit Report, CAAP)

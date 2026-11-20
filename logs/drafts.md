@@ -6833,3 +6833,15 @@ Per the hard rule (max one retry, then stop), publishing nothing this run rather
 **Sources (verified via WebSearch, 2+ reputable sources):**
 - https://bworldonline.com/the-nation/2026/11/04/791478/coa-flags-caap-over-p3-78-billion-property-discrepancies-unrecorded-assets/
 - https://www.coa.gov.ph/reports/annual-audit-reports/ (COA 2025 Annual Audit Report, CAAP)
+
+## 2026-11-20 19:03 PHT | threads | senate-dpwh-p97b-budget-cut-health-philhealth-reroute
+
+**Topic:** Senate finance committee (chair JV Ejercito), filed Nov 20, 2026, stripped P97 billion from DPWH's 2027 budget over undocumented/unsupported infrastructure projects and rerouted part of it to health (P9.6B) and PhilHealth (P19.8B, raising its allocation to P94.2B). Distinct from all recently logged topics (TIEZA, CAAP unrecorded assets, BTr procurement, Cebu confidential funds, pork-barrel district, ASEAN cluster, Meralco, Moody's forecast, NEA-COA coops, DOF import tax, BIR/BOC lifestyle checks, SSS pension paper loss, flood-control scandal posts, DPWH ghost-project posts) - first post specifically on the 2027 budget bicam reallocation forced by DPWH's documentation failures, and the only one framed around money actually being redirected toward health services rather than just flagging a problem. Economic & Utility Reform / Governance Comparison pillar.
+**Angle:** Attacks DPWH's audit record and the system that let unsupported infra projects balloon, not any named official; frames the reroute as proof money only moves when forced, not willingly.
+**Hook (opening line):** "DPWH's audit record finally cost it something real."
+**Tagalog beat used (fresh, composed for this post):** "Bakit kailangan pang pilitin bago kumilos ang sistema?" (Why does the system need to be forced before it acts?) Placement: closer/rhetorical question. Fresh phrase, distinct from recent posts' beats (CAAP's "Kung sariling lupa nawawala sa talaan, paano pa ang kaligtasan sa himpapawid?", TIEZA's "Plano raw, pero wala palang plano.").
+**Fact-check:** First draft FAILED (unverified P15.3B education figure and unverified "corruption scandal forced this" causal claim). Revised to drop the uncorroborated education figure and reframe the cause as "undocumented, unsupported infrastructure projects" (the Senate's actual stated reason). Second draft PASSED - independent Gemini + Google Search verifier corroborated the P97B cut, the P9.6B health increase, the P19.8B PhilHealth boost, and COA's P531.79B flag on DPWH project inefficiencies.
+**Published live:** post_id=sp_zLgCimWjDsLFIsaOsvF8, 469 chars.
+**Sources (verified via WebSearch, 2+ reputable sources):**
+- https://tribune.net.ph/2026/11/20/ejercito-files-2027-budget-report-strips-p97b-in-dpwh-projects
+- https://newsinfo.inquirer.net/2344449/p97-b-slashed-from-dpwh-budget-in-senate-appropriations-bill

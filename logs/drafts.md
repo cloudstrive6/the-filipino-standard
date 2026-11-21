@@ -6858,3 +6858,13 @@ Per the hard rule (max one retry, then stop), publishing nothing this run rather
 - https://www.rappler.com/philippines/mindanao/bangsamoro-education-ministry-suprise-audit-corruption-discrepancies/
 - https://newsinfo.inquirer.net/2344541/school-supply-stipend-woes-hound-barmm-education-ministry
 - https://newsinfo.inquirer.net/2340905/barmm-education-chief-probes-sale-of-teaching-posts-scholarships
+
+## 2026-11-21 19:04 PHT | threads | NO POST PUBLISHED (both drafts failed fact-check)
+
+**Topic (draft 1):** Day 44 of VP Sara Duterte's impeachment trial (Nov 19, 2026): defense witness Rainer dela Fuente (ex-AMLC) disputed prosecution's P817M unexplained-wealth forensic report under cross-examination despite admitting he never read the 50-page report or its supporting documents; Senator-judge Raffy Tulfo questioned how he could contradict evidence he never opened. Multi-sourced (Rappler, GMA News, Manila Times, Bilyonaryo) via WebSearch.
+**Outcome:** FAILED fact-check. Independent Gemini + Google Search verifier asserted "there is no ongoing or recently concluded impeachment trial against VP Sara Duterte" and could not verify any claim in that context, despite the trial being real and multi-sourced per WebSearch - likely a verifier knowledge/indexing gap on this specific ongoing trial, not fabrication on TFS's part.
+
+**Topic (draft 2, the one retry):** COA's 2025 annual audit report on the Municipality of Leon, Iloilo faulted the LGU for weak monitoring of a P7.27M public market reconstruction: contractor (1st Rock and Roll Construction Services) abandoned the project after negative slippage hit 42.88%, well past the 15% GPPB termination threshold, before the LGU acted. Reported via Daily Guardian PH, cross-checked via WebSearch.
+**Outcome:** FAILED fact-check. Independent verifier corroborated every claim (abandonment, 15% threshold miss, 42.88% slippage, engineer's workload excuse) EXCEPT the performance-bond-expired-unforfeited detail, which it could not find in its search - rewritten without that detail was not attempted since the one-retry budget was exhausted.
+
+**Result:** Per the one-retry rule, no third draft attempted. Publishing nothing this run per the hard rule (when in doubt, publish nothing). Topics avoided for the next run: Duterte impeachment Day 44/AMLC witness angle (until verifier can corroborate it), Leon Iloilo market abandonment.

@@ -6845,3 +6845,16 @@ Per the hard rule (max one retry, then stop), publishing nothing this run rather
 **Sources (verified via WebSearch, 2+ reputable sources):**
 - https://tribune.net.ph/2026/11/20/ejercito-files-2027-budget-report-strips-p97b-in-dpwh-projects
 - https://newsinfo.inquirer.net/2344449/p97-b-slashed-from-dpwh-budget-in-senate-appropriations-bill
+
+## 2026-11-21 12:02 PHT | threads | barmm-education-ministry-audit-bribery-dead-teachers-payroll
+
+**Topic:** BARMM's internal audit (led by Education Minister Naguib Sinarimbo) of the Ministry of Basic, Higher and Technical Education uncovered teacher-hiring bribery (P100,000-P300,000 allegedly paid for posts), deceased teachers still drawing salary for 6 months to a year, and 1,304 defective learning tablets stuck in a warehouse since 2022. COA is running a P2.2 billion special audit into the ministry. Distinct from all recently logged topics (DPWH P97B budget cut, CAAP unrecorded assets, TIEZA, BTr procurement, Cebu confidential funds, pork-barrel district, ASEAN cluster, Meralco, Moody's forecast, NEA-COA coops, DOF import tax, BIR/BOC lifestyle checks, SSS pension paper loss, flood-control posts) - first post on BARMM/education-ministry payroll and procurement dysfunction. Governance / Political Commentary pillar.
+**Angle:** Attacks the ministry's internal controls and payroll/procurement systems (hiring, payroll exit, warehousing), not any named official; contrasts bribery to get hired for a job that still can't track who's alive on its own payroll.
+**Hook (opening line):** "BARMM's own audit just exposed the rot in its school system."
+**Tagalog beat used (fresh, composed for this post):** "Patay na nga, sahod pa rin. Sino pa kaya ang hindi nasusubaybayan ng sistemang ito?" (Already dead, yet still being paid. Who else, then, is this system failing to track?) Placement: closer/rhetorical question. Fresh phrase, distinct from recent posts' beats (DPWH's "Bakit kailangan pang pilitin bago kumilos ang sistema?", CAAP's "Kung sariling lupa nawawala sa talaan, paano pa ang kaligtasan sa himpapawid?").
+**Fact-check:** PASSED on first draft. Independent Gemini + Google Search verifier corroborated the audit led by Minister Sinarimbo, the P100K-300K teacher-hiring bribery allegations, the 6-month-to-1-year deceased-teacher payroll overpayments, the 1,304 defective tablets stored since 2022, and COA's P2.2B special audit into MBHTE.
+**Published live:** post_id=sp_6a4nwHHtxGmMR1L3eOeD6, 495 chars.
+**Sources (verified via WebSearch, 2+ reputable sources):**
+- https://www.rappler.com/philippines/mindanao/bangsamoro-education-ministry-suprise-audit-corruption-discrepancies/
+- https://newsinfo.inquirer.net/2344541/school-supply-stipend-woes-hound-barmm-education-ministry
+- https://newsinfo.inquirer.net/2340905/barmm-education-chief-probes-sale-of-teaching-posts-scholarships

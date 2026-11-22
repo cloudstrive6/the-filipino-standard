@@ -6881,3 +6881,16 @@ Per the hard rule (max one retry, then stop), publishing nothing this run rather
 - https://www.philstar.com/nation/2026/11/21/2571521/visayas-grid-placed-under-red-alert
 - https://www.manilatimes.net/2026/11/21/regions/ngcp-issues-yellow-red-alerts-for-visayas-grid/2474699
 - https://www.gmanetwork.com/news/topstories/regions/1010382/visayas-grid-under-yellow-alert-on-sunday-nov-22-2026-ngcp/story/
+
+## 2026-11-22 19:03 PHT | threads | visayas-grid-nov20-dual-alert-battery-half-fix — PUBLISHED LIVE
+
+**Topic:** Visayas grid logged 123 yellow/red alerts since January (93 yellow, 30 red). On November 20, 2026, NGCP issued simultaneous yellow and red alerts (red 5-6pm, yellow 4-5pm and 6-7pm) after Therma Visayas Inc. Unit 2's unplanned outage; 23 plants ran derated, 668.6 MW unavailable. DOE's fix is 253 MW of battery storage by year end, which DOE's own simulations project cuts alerts by only about half. Economic & Utility Reform pillar. Distinct from all recently logged topics; corrects the prior run's draft which misdated this dual alert to Nov 21 (that draft failed fact-check and was not published).
+**Hook:** "Visayas has logged 123 power grid alerts since January, 93 yellow, 30 red. Almost one warning every two days."
+**Tagalog beat (fresh):** "Kalahati pa lang ang plano nila. Saan napupunta ang ibang kalahati?" (Their plan is still only half. Where does the other half go?) Placement: closer/question.
+**Fact-check:** Retry 1 (Nov 21 dual-alert framing) FAILED — verifier corrected the date to Nov 20 and the plant/MW figures. Retry 2 (Nov 20, 668.6 MW, 23 derated) PASSED all 5 claims. Published live, post_id=sp_HjiXeqQcWoxUSA6Kfm6.
+**Sources:**
+- https://powerphilippines.com/visayas-logs-123-grid-alerts-in-2026-as-doe-eyes-2028-supply-relief/
+- https://tribune.net.ph/2026/09/03/visayas-grid-logs-123-alerts-as-supply-falters-2
+- https://www.manilatimes.net/2026/11/21/regions/ngcp-issues-yellow-red-alerts-for-visayas-grid/2474699
+- https://www.philstar.com/nation/2026/11/21/2571521/visayas-grid-placed-under-red-alert
+- https://negrosnowdaily.com/battery-powered-facilities-to-ease-visayas-grid-power-alerts-doe/

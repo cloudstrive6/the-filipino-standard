@@ -6868,3 +6868,16 @@ Per the hard rule (max one retry, then stop), publishing nothing this run rather
 **Outcome:** FAILED fact-check. Independent verifier corroborated every claim (abandonment, 15% threshold miss, 42.88% slippage, engineer's workload excuse) EXCEPT the performance-bond-expired-unforfeited detail, which it could not find in its search - rewritten without that detail was not attempted since the one-retry budget was exhausted.
 
 **Result:** Per the one-retry rule, no third draft attempted. Publishing nothing this run per the hard rule (when in doubt, publish nothing). Topics avoided for the next run: Duterte impeachment Day 44/AMLC witness angle (until verifier can corroborate it), Leon Iloilo market abandonment.
+
+## 2026-11-22 12:03 PHT | threads | NO POST PUBLISHED (both drafts failed fact-check)
+
+**Topic:** Visayas power grid (NGCP) alert pattern: 123 grid alerts (93 yellow, 30 red) logged Jan 1 - Sept 3, 2026, then another yellow+red alert day on Nov 21, 2026 (19 plants forced-outage, 23 derated, 600+ MW unavailable) and a further yellow alert on Nov 22. DOE's fix is 253 MW of battery storage, projected to cut alerts by only ~half. Multi-sourced via WebSearch: Tribune.net.ph, powerphilippines.com, Philstar, Manila Times, GMA News.
+**Draft 1:** Framed the Nov 21/22 alerts as "red alert Saturday, yellow alert Sunday" - imprecise (both yellow AND red actually landed on Nov 21 itself). FAILED fact-check on that imprecision.
+**Draft 2 (the one retry):** Corrected to "yellow and red alert on Nov 21, yellow alert again on Nov 22." Verifier confirmed the Jan-Sept 123-alert count, the Nov 21 dual alert, and the 253 MW/half-reduction DOE figure, but could not independently corroborate the Nov 22 yellow alert (despite it being the GMA News headline that surfaced the story) - likely a verifier indexing lag on same-day news, not fabrication.
+**Result:** Per the one-retry rule, no third draft attempted. Publishing nothing this run per the hard rule (when in doubt, publish nothing). Topic avoided for the next run until the Nov 22 alert detail can be independently corroborated, or drop that specific sub-claim and re-angle around the Jan-Sept 123-alert count + Nov 21 dual alert + the "fixes only half" DOE figure, which all verified cleanly both times.
+**Sources:**
+- https://tribune.net.ph/2026/09/03/visayas-grid-logs-123-alerts-as-supply-falters-2
+- https://powerphilippines.com/visayas-logs-123-grid-alerts-in-2026-as-doe-eyes-2028-supply-relief/
+- https://www.philstar.com/nation/2026/11/21/2571521/visayas-grid-placed-under-red-alert
+- https://www.manilatimes.net/2026/11/21/regions/ngcp-issues-yellow-red-alerts-for-visayas-grid/2474699
+- https://www.gmanetwork.com/news/topstories/regions/1010382/visayas-grid-under-yellow-alert-on-sunday-nov-22-2026-ngcp/story/

@@ -6894,3 +6894,13 @@ Per the hard rule (max one retry, then stop), publishing nothing this run rather
 - https://www.manilatimes.net/2026/11/21/regions/ngcp-issues-yellow-red-alerts-for-visayas-grid/2474699
 - https://www.philstar.com/nation/2026/11/21/2571521/visayas-grid-placed-under-red-alert
 - https://negrosnowdaily.com/battery-powered-facilities-to-ease-visayas-grid-power-alerts-doe/
+
+## 2026-11-23 12:03 PHT | threads | NO POST PUBLISHED (both drafts failed fact-check)
+**Topic attempted:** Philippine GDP growth slowed to 2.1% in Q3 2026 (weakest since the pandemic, fifth straight quarter of deceleration); inflation hit a three-year high of 7.8% in October 2026; Palace blames the Middle East/Iran war while ASEAN neighbors facing the same oil shock outgrew PH (Vietnam 9.95%, Indonesia 5.47%, Singapore 5.4%, Malaysia 5.5%). Governance Comparison / Economic Reform pillar. Distinct from all recently logged topics (DPWH budget cut, BARMM education ministry, Visayas grid alerts, CAAP, TIEZA, BTr, Cebu confidential funds, pork-barrel district, ASEAN cluster, Meralco, Moody's forecast, NEA-COA coops, DOF import tax, BIR/BOC lifestyle checks, SSS pension paper loss, flood-control posts).
+**Fact-check:** Retry 1 (Malaysia 5.3%) FAILED - verifier corrected Malaysia's actual Q3 2026 growth to 5.5% (5.3% was only the advance estimate). Retry 2 (Malaysia 5.5%) FAILED - verifier this time flagged Indonesia's 5.5% (rounded from 5.47%) as contradicted. Per the one-retry rule, stopped here and published nothing.
+**Sources:**
+- https://mb.com.ph/2026/11/09/philippine-gdp-growth-plunges-to-new-post-pandemic-low-of-21-in-q3-2026
+- https://www.rappler.com/business/gross-domestic-product-philippines-q3-2026/
+- https://tribune.net.ph/2026/11/22/lacson-to-marcos-stop-blaming-us-iran-war-for-sluggish-philippine-growth
+- https://www.manilatimes.net/2026/11/22/news/lacson-iran-conflict-cannot-fully-explain-ph-sluggish-growth/2475611
+- https://businessmirror.com.ph/2026/11/23/dont-pin-weak-growth-solely-on-me-conflict-ping-to-palace/

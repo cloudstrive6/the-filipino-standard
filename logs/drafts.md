@@ -6904,3 +6904,18 @@ Per the hard rule (max one retry, then stop), publishing nothing this run rather
 - https://tribune.net.ph/2026/11/22/lacson-to-marcos-stop-blaming-us-iran-war-for-sluggish-philippine-growth
 - https://www.manilatimes.net/2026/11/22/news/lacson-iran-conflict-cannot-fully-explain-ph-sluggish-growth/2475611
 - https://businessmirror.com.ph/2026/11/23/dont-pin-weak-growth-solely-on-me-conflict-ping-to-palace/
+
+## 2026-11-23 19:02 PHT | threads | senate-campaign-finance-disclosure-blind-spot-marcoleta-bail — PUBLISHED LIVE
+
+**Topic:** Sandiganbayan's 3rd Division denied Sen. Rodante Marcoleta's bail petition (Nov 23, 2026) in a P75M plunder case, ruling evidence of guilt strong. The P75M in 2025 campaign donations (P30M from Mike Defensor, P25M from Joseph Espiritu, P20M from Aristotle Viray) never appeared in his SOCE (campaign finance report) or SALN. Governance / Political Commentary pillar. Distinct from all recently logged topics (DPWH budget cut, BARMM education ministry, Visayas grid alerts, CAAP, TIEZA, BTr, Cebu confidential funds, pork-barrel district, ASEAN cluster, Meralco, Moody's forecast, NEA-COA coops, DOF import tax, BIR/BOC lifestyle checks, SSS pension paper loss, flood-control posts, GDP/inflation/ASEAN comparison, Duterte impeachment AMLC witness, Leon Iloilo market abandonment) — first post on the campaign-finance/SALN disclosure blind spot.
+**Angle:** Attacks the disclosure systems (SOCE and SALN) that exist specifically to catch undeclared money but failed, leaving a criminal plunder case as the only thing that caught it; kept the senator unnamed in the post itself to keep the focus on the system, not the individual.
+**Hook (opening line):** "Evidence of guilt strong enough to deny bail. The case: a senator accused of pocketing 75 million pesos in 2025 donations that never surfaced in any campaign finance report or statement of assets."
+**Tagalog beat used (fresh, composed for this post):** "Sa papel dapat nahuli, hindi sa korte." (It should have been caught on paper, not in court.) Placement: closer. Fresh phrase, distinct from recent posts' beats (BARMM's "Patay na nga, sahod pa rin...", Visayas grid's "Kalahati pa lang ang plano nila...").
+**Fact-check:** PASSED on first draft. Independent Gemini + Google Search verifier corroborated the P75M figure, the SOCE/SALN non-disclosure, the Sandiganbayan plunder case, and the bail denial with "evidence of guilt strong" language.
+**Published live:** post_id=sp_0hhuHpRaI59LxtWGGNuIb, 382 chars.
+**Sources (verified via WebSearch, 2+ reputable sources):**
+- https://www.rappler.com/philippines/sandiganbayan-denies-rodante-marcoleta-bail-plunder-case/
+- https://www.manilatimes.net/2026/11/23/news/sandiganbayan-denies-marcoleta-petition-for-bail/2475874
+- https://tribune.net.ph/2026/11/23/sandiganbayan-denies-marcoleta-bail-in-p75m-plunder-case
+- https://www.gmanetwork.com/news/topstories/nation/1010475/sandiganbayan-denies-marcoleta-s-bid-for-bail/story/
+- https://mb.com.ph/2026/11/23/sandiganbayan-denies-bail-to-marcoleta-3-co-accused-in-75-million-plunder-case

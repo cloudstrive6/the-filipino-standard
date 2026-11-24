@@ -6919,3 +6919,17 @@ Per the hard rule (max one retry, then stop), publishing nothing this run rather
 - https://tribune.net.ph/2026/11/23/sandiganbayan-denies-marcoleta-bail-in-p75m-plunder-case
 - https://www.gmanetwork.com/news/topstories/nation/1010475/sandiganbayan-denies-marcoleta-s-bid-for-bail/story/
 - https://mb.com.ph/2026/11/23/sandiganbayan-denies-bail-to-marcoleta-3-co-accused-in-75-million-plunder-case
+
+## 2026-11-24 12:05 PHT | threads | flood-control-duplicate-appropriations-lacson — PUBLISHED LIVE
+
+**Topic:** Sen. Panfilo Lacson's budget review (flagged Nov 23, 2026) found flood control projects, including about 30 suspected "ghost" multipurpose buildings, that received appropriations in 2024, 2025, 2026, and again in the proposed 2027 national budget, with drone shots confirming at least one site is still an empty lot with no structure built despite four straight years of funding. Economic & Utility Reform / Governance Comparison pillar. Distinct from all recently logged topics (DPWH P97B budget cut for undocumented projects, BARMM education ministry, Visayas grid alerts, CAAP, TIEZA, BTr, Cebu confidential funds, pork-barrel district, ASEAN cluster, Meralco, Moody's forecast, NEA-COA coops, DOF import tax, BIR/BOC lifestyle checks, SSS pension paper loss, flood-control scandal/court-case/suspension posts, GDP/inflation/ASEAN comparison, Duterte impeachment AMLC witness, Leon Iloilo market abandonment, Marcoleta bail/SOCE blind spot) — first post on the specific budget-process gap: the same unbuilt project getting re-funded year after year with no cross-year check.
+**Angle:** Attacks the budget appropriation process itself (no mechanism checks whether a project was already paid for before funding it again), not any named individual; kept the senator unnamed in the post body to keep focus on the system.
+**Hook (opening line, Tagalog):** "Apat na taon na, pareho pa ring bakanteng lote." (Four years now, still the same empty lot.)
+**Tagalog beat used (fresh, composed for this post):** same as hook above. Placement: opening_hook — breaks a 9-post streak of closer-line placement (recent beats all landed as closers: "Sa papel dapat nahuli, hindi sa korte.", "Patay na nga, sahod pa rin...", "Kalahati pa lang ang plano nila...", etc.).
+**Fact-check:** PASSED on first draft. Independent Gemini + Google Search verifier corroborated the 2024-2027 four-year funding pattern, the empty-lot/no-structure claim, the ~30 ghost multipurpose buildings figure, and the systemic duplicate-appropriations gap.
+**Published live:** post_id=sp_4mPG98KAOhCM494Lwvroh, 494 chars.
+**Sources (verified via WebSearch, 2+ reputable sources):**
+- https://www.philstar.com/headlines/2026/11/23/2572079/some-flood-control-items-2027-budget-funded-twice-says-lacson
+- https://www.manilatimes.net/2026/11/23/news/lacson-flags-double-appropriations-for-flood-control-projects-in-2027-budget/2475865
+- https://businessmirror.com.ph/2026/11/23/lacson-spots-double-appropriations-in-2027-budget-for-flood-control-projects/
+- https://www.manilatimes.net/2026/11/24/news/projects-get-funding-twice-thrice-lacson/2476424

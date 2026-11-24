@@ -6946,3 +6946,16 @@ Per the hard rule (max one retry, then stop), publishing nothing this run rather
 - https://www.manilatimes.net/2026/11/24/news/national/cayetano-flags-foreign-loans-lacking-congressional-scrutiny/2476608
 - https://tnt.abante.com.ph/2026/11/23/cayetano-nagbabala-sa-foreign-loans-na-hindi-nasusuri-ng-kongreso/news/
 - https://www.unlinews.org/19763/sen-cayetano-nagbabala-hinggil-sa-foreign-loans-na-hindi-nasusuri-ng-kongreso/
+
+## 2026-11-24 19:03 PHT | threads | octa-corruption-concern-drop-vs-flood-control-hearings — PUBLISHED LIVE
+
+**Topic:** OCTA Research's "Tugon ng Masa" survey (conducted Sep 28-Oct 4, 2026, released Nov 2026) found fighting graft and corruption fell to 29% of Filipinos' top national concerns, down from 32% in July, despite a year of televised Senate Blue Ribbon flood-control hearings and 79 criminal cases filed by the Ombudsman as of Nov 6, 2026. Governance Comparison / Political Commentary pillar. Distinct from all recently logged topics (Cayetano foreign-loan oversight, Lacson double appropriations, flood-control duplicate funding, DPWH budget cut, BARMM education, Visayas grid, CAAP, TIEZA, BTr, Cebu confidential funds, pork-barrel district, ASEAN cluster, Meralco, Moody's forecast, NEA-COA coops, DOF import tax, BIR/BOC lifestyle checks, SSS pension, GDP/inflation/ASEAN comparison, Duterte impeachment AMLC witness, Leon Iloilo market abandonment) — first post framing public opinion data itself as the evidence that hearings-as-spectacle aren't converting into trust or results.
+**Angle:** Attacks the gap between visible oversight theater (hearings, headlines) and actual accountability (convictions/sentencing), not any named official.
+**Hook (opening line, English):** "Fighting corruption dropped to 29 percent of Filipinos' top national concerns in OCTA's latest survey, down from 32 percent in July, even after a year of televised flood control hearings and 79 criminal cases filed by the Ombudsman."
+**Tagalog beat used (fresh, composed for this post):** "Hindi sapat ang dami ng hearing kung kaunti lang ang talagang nagtutungo sa bilibid." (All the hearings aren't enough if hardly anyone actually ends up behind bars.) Placement: mid-post, pivot line.
+**Fact-check:** First draft (claimed "third straight survey") FAILED — corruption ranked second in the Sept 2025 OCTA wave, not third three times running. Revised to only the verified 29%-vs-32% figure and the 79-case Ombudsman stat; PASSED on second draft. Independent Gemini + Google Search verifier corroborated the 29%/32% figures, the televised flood-control hearings timeline, and the 79 criminal cases filed by Ombudsman Remulla (Nov 6, 2026).
+**Published live:** post_id=18077488499757159, url=https://www.threads.com/@thefilipinostandard/post/DgHzeg1Fl6y, 465 chars.
+**Sources (verified via WebSearch, 2+ reputable sources):**
+- https://www.manilatimes.net/2026/11/23/news/prices-remain-filipinos-top-concern-rising-to-42-octa-survey/2475823
+- https://www.sunstar.com.ph/manila/octa-rising-prices-remain-top-concern-of-filipinos
+- https://malaya.com.ph/news/national-news/inflation-remains-top-concern-among-filipinos-octa-survey/

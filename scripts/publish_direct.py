@@ -144,16 +144,26 @@ def main() -> int:
 
     scheduled_at = _pht_to_utc_iso(args.at) if args.at else None
 
-    pfm_key = (os.environ.get("POSTFORME_API_KEY") or "").strip()
-    project_id = (os.environ.get("POSTFORME_PROJECT_ID") or "").strip()
-    base = (os.environ.get("POSTFORME_BASE_URL") or "").strip() or "https://api.postforme.dev/v1"
-    if not pfm_key or not project_id:
-        logger.error("POSTFORME_API_KEY / POSTFORME_PROJECT_ID missing.")
-        return 11
-    pfm = PostForMeClient(api_key=pfm_key, project_id=project_id, base_url=base, logger=logger)
+    # Threads goes straight through the Threads API (Meta app "TFS All-in-One Publisher") whenever a Threads token
+    # is set (Bryce, 2026-11-24: free up Post for Me, one TFS Meta app). Everything else still goes via Post for Me.
+    direct_threads = "threads" in platforms and bool((os.environ.get("THREADS_ACCESS_TOKEN") or "").strip())
+    pfm_platforms = [pl for pl in platforms if not (direct_threads and pl == "threads")]
+    if direct_threads and scheduled_at:
+        logger.error("Threads via the Threads API posts now only; drop --at for Threads.")
+        return 2
+
+    pfm = None
+    if pfm_platforms:
+        pfm_key = (os.environ.get("POSTFORME_API_KEY") or "").strip()
+        project_id = (os.environ.get("POSTFORME_PROJECT_ID") or "").strip()
+        base = (os.environ.get("POSTFORME_BASE_URL") or "").strip() or "https://api.postforme.dev/v1"
+        if not pfm_key or not project_id:
+            logger.error("POSTFORME_API_KEY / POSTFORME_PROJECT_ID missing.")
+            return 11
+        pfm = PostForMeClient(api_key=pfm_key, project_id=project_id, base_url=base, logger=logger)
 
     social_accounts: list[str] = []
-    for pl in platforms:
+    for pl in pfm_platforms:
         ext = (os.environ.get(PLATFORM_CONFIG[pl]["env"]) or "").strip()
         if not ext:
             logger.error("Missing env %s for platform %s", PLATFORM_CONFIG[pl]["env"], pl)
@@ -165,8 +175,8 @@ def main() -> int:
         social_accounts.append(internal)
 
     logger.info(
-        "Prepared | platforms=%s | accounts=%s | image=%s | scheduled_at=%s | ext_id=%s | chars=%d",
-        platforms, social_accounts, bool(image_path or media_url), scheduled_at, ext_id, len(caption),
+        "Prepared | platforms=%s | threads_direct=%s | pfm_accounts=%s | image=%s | scheduled_at=%s | ext_id=%s | chars=%d",
+        platforms, direct_threads, social_accounts, bool(image_path or media_url), scheduled_at, ext_id, len(caption),
     )
 
     # Double gate: actually publishing requires BOTH --live AND the env master
@@ -193,30 +203,41 @@ def main() -> int:
             return 4
         logger.info("Fact-check PASSED - proceeding to publish.")
 
-    if image_path:
-        if not image_path.exists():
-            logger.error("Image not found: %s", image_path)
-            return 2
-        media_url = pfm.upload_image(image_path)
+    results: dict[str, dict] = {}
+    if direct_threads:
+        from threads_api import post_text
+        results["threads"] = post_text(caption)
+        logger.info("PUBLISHED via Threads API | post_id=%s | url=%s",
+                    results["threads"].get("post_id"), results["threads"].get("post_url"))
 
-    result = pfm.create_post(
-        caption=caption,
-        social_accounts=social_accounts,
-        media_url=media_url,
-        scheduled_at=scheduled_at,
-        external_id=ext_id,
-    )
+    if pfm is not None:
+        if image_path:
+            if not image_path.exists():
+                logger.error("Image not found: %s", image_path)
+                return 2
+            media_url = pfm.upload_image(image_path)
+        results["postforme"] = pfm.create_post(
+            caption=caption,
+            social_accounts=social_accounts,
+            media_url=media_url,
+            scheduled_at=scheduled_at,
+            external_id=ext_id,
+        )
+        logger.info("PUBLISHED via Post for Me | post_id=%s | url=%s",
+                    results["postforme"].get("post_id"), results["postforme"].get("post_url"))
+
+    first = results.get("threads") or results.get("postforme") or {}
     _append_log({
         "external_id": ext_id,
         "platforms": platforms,
+        "provider": "+".join(k for k in ("threads", "postforme") if k in results).replace("threads", "threads_api"),
         "social_accounts": social_accounts,
         "scheduled_at": scheduled_at,
-        "post_id": result.get("post_id"),
-        "post_url": result.get("post_url"),
+        "post_id": first.get("post_id"),
+        "post_url": first.get("post_url"),
         "chars": len(caption),
         "ts_pht": dt.datetime.now(PHT).isoformat(timespec="seconds"),
     })
-    logger.info("PUBLISHED | post_id=%s | url=%s", result.get("post_id"), result.get("post_url"))
     return 0
 
 

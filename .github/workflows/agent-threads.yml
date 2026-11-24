@@ -37,6 +37,16 @@ jobs:
       - run: npm install -g @anthropic-ai/claude-code
       - run: touch .env logs/drafts.md logs/posted_log.jsonl
 
+      # Threads posts go straight through the Threads API on the one TFS Meta app (2026-11-24). The 60-day token is
+      # refreshed weekly and written back to the repo secret (this repo is public, so never to a file).
+      - name: Refresh Threads token (weekly)
+        env:
+          THREADS_ACCESS_TOKEN: ${{ secrets.THREADS_ACCESS_TOKEN }}
+          THREADS_TOKEN_REFRESHED: ${{ vars.THREADS_TOKEN_REFRESHED }}
+          GH_TOKEN: ${{ secrets.TFS_REPO_ADMIN_PAT }}
+          REPO: ${{ github.repository }}
+        run: python scripts/refresh_threads_token.py
+
       # NOTE: verify/tune the `claude` invocation on the FIRST dry-run -
       # headless flags (--allowedTools / --dangerously-skip-permissions /
       # --max-turns) and OAuth env var name can change between CLI versions.
@@ -49,6 +59,7 @@ jobs:
           POSTFORME_FB_PAGE_ID: ${{ secrets.POSTFORME_FB_PAGE_ID }}
           POSTFORME_IG_ACCOUNT_ID: ${{ secrets.POSTFORME_IG_ACCOUNT_ID }}
           POSTFORME_THREADS_ACCOUNT_ID: ${{ secrets.POSTFORME_THREADS_ACCOUNT_ID }}
+          THREADS_ACCESS_TOKEN: ${{ env.THREADS_ACCESS_TOKEN_FRESH || secrets.THREADS_ACCESS_TOKEN }}
           TFS_LIVE: ${{ vars.TFS_LIVE }}
         run: |
           claude -p "Read agent/post_agent.md and perform exactly ONE run for PLATFORM=threads. Work FAST with only plain foreground WebSearch (2-4 queries) then write and publish - do NOT use the deep-research skill, the Workflow or Task tools, sub-agents, or background/long-running commands. The TFS_LIVE env var is your live switch: if it is exactly 'true' you MUST publish live (pass --live to publish_direct.py); otherwise run a dry run (omit --live)." \

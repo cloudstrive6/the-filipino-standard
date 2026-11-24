@@ -1,5 +1,5 @@
 """threads_api.py - post a text Thread to @thefilipinostandard straight through Meta's Threads API
-(graph.threads.net), using the one TFS Meta app "TFS All-in-One Publisher" (Bryce, 2026-11-24: free up Post for Me
+(graph.threads.net), using the one TFS Meta app "TFS Publisher" (Bryce, 2026-11-24: free up Post for Me
 and keep every TFS pipeline on one Meta app). Ported from the video pipeline's src/tfs/publish/threads.py.
 
 Env: THREADS_ACCESS_TOKEN (long-lived, 60 days; the workflow refreshes it weekly with refresh_token() and writes the

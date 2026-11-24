@@ -144,10 +144,13 @@ def main() -> int:
 
     scheduled_at = _pht_to_utc_iso(args.at) if args.at else None
 
-    # Threads goes straight through the Threads API (Meta app "TFS All-in-One Publisher") whenever a Threads token
-    # is set (Bryce, 2026-11-24: free up Post for Me, one TFS Meta app). Everything else still goes via Post for Me.
-    direct_threads = "threads" in platforms and bool((os.environ.get("THREADS_ACCESS_TOKEN") or "").strip())
-    pfm_platforms = [pl for pl in platforms if not (direct_threads and pl == "threads")]
+    # Threads goes ONLY through the Threads API on the one TFS Meta app "TFS Publisher" (Bryce, 2026-11-24: free up
+    # Post for Me, one TFS Meta app). No fallback: without a token we stop rather than spend Post for Me credits.
+    direct_threads = "threads" in platforms
+    if direct_threads and not (os.environ.get("THREADS_ACCESS_TOKEN") or "").strip():
+        logger.error("THREADS_ACCESS_TOKEN missing: Threads posts only via the Threads API, never Post for Me.")
+        return 11
+    pfm_platforms = [pl for pl in platforms if pl != "threads"]
     if direct_threads and scheduled_at:
         logger.error("Threads via the Threads API posts now only; drop --at for Threads.")
         return 2

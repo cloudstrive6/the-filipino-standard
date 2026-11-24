@@ -1,4 +1,4 @@
-# Manual check that posts NOTHING: the Threads token works through the one TFS Meta app (TFS All-in-One Publisher),
+# Manual check that posts NOTHING: the Threads token works through the one TFS Meta app (TFS Publisher),
 # the refresh PAT can read the repo variables, and the weekly refresh step runs. Run it after changing either token.
 name: threads-check
 on:

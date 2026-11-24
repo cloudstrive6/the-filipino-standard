@@ -1,0 +1,31 @@
+# Manual check that posts NOTHING: the Threads token works through the one TFS Meta app (TFS All-in-One Publisher),
+# the refresh PAT can read the repo variables, and the weekly refresh step runs. Run it after changing either token.
+name: threads-check
+on:
+  workflow_dispatch: {}
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+      - run: pip install -q requests
+      - name: Token posts as which Threads account (read only)
+        env:
+          THREADS_ACCESS_TOKEN: ${{ secrets.THREADS_ACCESS_TOKEN }}
+        run: python -c "import sys; sys.path.insert(0, 'scripts'); import threads_api; print('Threads token OK, posts as @' + threads_api.whoami())"
+      - name: Refresh PAT can reach the repo variables
+        env:
+          GH_TOKEN: ${{ secrets.TFS_REPO_ADMIN_PAT }}
+        run: gh variable list -R ${{ github.repository }} > /dev/null && echo "Refresh PAT OK"
+      - name: Weekly refresh step (a new token is only issued once the current one is 24 h old)
+        env:
+          THREADS_ACCESS_TOKEN: ${{ secrets.THREADS_ACCESS_TOKEN }}
+          THREADS_TOKEN_REFRESHED: ${{ vars.THREADS_TOKEN_REFRESHED }}
+          GH_TOKEN: ${{ secrets.TFS_REPO_ADMIN_PAT }}
+          REPO: ${{ github.repository }}
+        run: python scripts/refresh_threads_token.py

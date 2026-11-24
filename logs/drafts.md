@@ -6933,3 +6933,16 @@ Per the hard rule (max one retry, then stop), publishing nothing this run rather
 - https://www.manilatimes.net/2026/11/23/news/lacson-flags-double-appropriations-for-flood-control-projects-in-2027-budget/2475865
 - https://businessmirror.com.ph/2026/11/23/lacson-spots-double-appropriations-in-2027-budget-for-flood-control-projects/
 - https://www.manilatimes.net/2026/11/24/news/projects-get-funding-twice-thrice-lacson/2476424
+
+## 2026-11-24 14:42 PHT | threads | foreign-loans-no-congressional-scrutiny-cayetano — PUBLISHED LIVE
+
+**Topic:** Senate Minority Leader Alan Peter Cayetano (flagged Nov 23-24, 2026) urged COA to audit foreign loan agreements signed by the executive branch, warning Congress is routinely forced to approve project funding for loans already signed, with no prior congressional vetting; some loan contracts carry arbitration clauses that move dispute resolution outside Philippine courts. He proposed requiring prior congressional approval before the executive finalizes any foreign loan agreement. Governance Comparison / Constitutional Awareness pillar. Distinct from all recently logged topics (Marcoleta bail/SOCE, flood-control duplicate appropriations, DPWH budget cut, BARMM education, Visayas grid, CAAP, TIEZA, BTr, Cebu confidential funds, pork-barrel district, ASEAN cluster, Meralco, Moody's forecast, NEA-COA coops, DOF import tax, BIR/BOC lifestyle checks, SSS pension, GDP/inflation/ASEAN comparison, Duterte impeachment AMLC witness, Leon Iloilo market abandonment) — first post on the foreign-borrowing oversight gap: executive signs, Congress rubber-stamps after the fact.
+**Angle:** Attacks the sequencing flaw in the borrowing process itself (executive signs before Congress ever reviews), not any named individual; kept the senator unnamed in the post body to keep focus on the system.
+**Hook (opening line, English):** "Foreign loans worth billions get signed by the executive branch before Congress reviews the fine print, and some contracts move dispute resolution outside Philippine courts entirely."
+**Tagalog beat used (fresh, composed for this post):** "Hindi dapat basta pirma lang, tapos tayo na ang magbabayad." (It shouldn't just be a signature, then we're the ones who pay.) Placement: closer.
+**Fact-check:** PASSED on first draft. Independent Gemini + Google Search verifier corroborated the pre-signing/post-hoc-approval sequencing, the arbitration-clause-outside-PH claim, the COA audit request, and the proposed prior-approval reform.
+**Published live:** post_id=17929658049441916, url=https://www.threads.com/@thefilipinostandard/post/DgHVkGMmx8A, 410 chars.
+**Sources (verified via WebSearch, 2+ reputable sources):**
+- https://www.manilatimes.net/2026/11/24/news/national/cayetano-flags-foreign-loans-lacking-congressional-scrutiny/2476608
+- https://tnt.abante.com.ph/2026/11/23/cayetano-nagbabala-sa-foreign-loans-na-hindi-nasusuri-ng-kongreso/news/
+- https://www.unlinews.org/19763/sen-cayetano-nagbabala-hinggil-sa-foreign-loans-na-hindi-nasusuri-ng-kongreso/

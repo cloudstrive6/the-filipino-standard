@@ -6959,3 +6959,17 @@ Per the hard rule (max one retry, then stop), publishing nothing this run rather
 - https://www.manilatimes.net/2026/11/23/news/prices-remain-filipinos-top-concern-rising-to-42-octa-survey/2475823
 - https://www.sunstar.com.ph/manila/octa-rising-prices-remain-top-concern-of-filipinos
 - https://malaya.com.ph/news/national-news/inflation-remains-top-concern-among-filipinos-octa-survey/
+
+## 2026-11-25 12:03 PHT | threads | coa-chairman-confirmation-independence-objection-withdrawn — PUBLISHED LIVE
+
+**Topic:** The Commission on Appointments confirmed Douglas Michael Mallillin as COA chairman on Nov 23, 2026, completing predecessor Gamaliel Cordoba's unexpired term (to Feb 2, 2029). Sen. Imee Marcos moved to defer the vote, citing serious concerns that the nation's top audit body's broad powers could be turned into a tool of political harassment against rivals. Colleagues put her objection to a vote; she withdrew it and he was confirmed and later sworn in by the President (Nov 24). Constitutional Awareness / Governance Comparison pillar. Distinct from all recently logged topics (OCTA corruption-concern survey, Cayetano foreign-loan oversight, flood-control duplicate appropriations/Lacson, Marcoleta campaign-finance disclosure, Visayas grid alerts, BARMM education audit, DPWH budget cut, CAAP/TIEZA/NEA-COA/DOF COA findings, Meralco rate reset, Moody's forecast, SSS pension, GDP/inflation).
+**Angle:** Attacks the confirmation process as theater — a lawmaker raises a real independence concern about the country's chief corruption watchdog on the public record, then drops the objection and rubber-stamps the appointment anyway without it being resolved. Critiques the system/incentive (toothless CA scrutiny), not any individual's character.
+**Hook (opening line, English):** "The Commission on Appointments confirmed Douglas Mallillin as COA chairman this week, days after Sen. Imee Marcos moved to defer the vote, citing concerns the nation's audit body could become a tool against political rivals."
+**Tagalog beat used (fresh, composed for this post):** "Pinag-uusapan ang kapangyarihan, pero walang hinintay na sagot." (The power gets debated, but no one waits for the answer.) Placement: closer.
+**Fact-check:** First draft included an added detail ("key documents on his plans still missing") that the independent verifier could not corroborate — FAILED. Revised to drop that unverifiable detail and keep only claims confirmed by 2+ sources; PASSED on second draft. Independent Gemini + Google Search verifier corroborated the Nov 23 CA confirmation, Marcos's deferment motion and stated concern, and her subsequent withdrawal of the objection.
+**Published live:** post_id=18115625192600236, url=https://www.threads.com/@thefilipinostandard/post/DgJoJrGFDb8, 492 chars.
+**Sources (verified via WebSearch, 2+ reputable sources):**
+- https://www.manilatimes.net/2026/11/23/news/ca-confirms-mallillin-as-coa-chairman-despite-marcos-objection/2475952
+- https://www.philstar.com/headlines/2026/11/23/2572090/douglas-michael-mallillin-confirmed-new-coa-chair
+- https://newsinfo.inquirer.net/2345644/ca-confirms-douglas-michael-mallillin-as-coa-chairperson
+- https://www.gmanetwork.com/news/topstories/nation/1010491/mallillin-confirmed-as-coa-chairperson-by-commission-on-appointments/story/

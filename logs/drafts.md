@@ -6986,3 +6986,17 @@ Per the hard rule (max one retry, then stop), publishing nothing this run rather
 - https://www.manilatimes.net/2026/11/26/news/national/romualdez-asks-court-to-lift-his-suspension/2477723
 - https://www.philstar.com/headlines/2026/11/25/2572580/romualdez-asks-sandiganbayan-reconsider-90-day-suspension
 - https://businessmirror.com.ph/2026/11/26/romualdez-asks-sandiganbayan-to-lift-his-suspension/
+
+## 2026-11-26 19:04 PHT | threads | ovp-budget-one-minute-no-interpellation-courtesy — PUBLISHED LIVE
+
+**Topic:** The Senate approved the Office of the Vice President's P785.2 million 2027 budget in one minute on Nov 26, 2026, with no senator asking a single question, after VP Sara Duterte appeared in person following her absence from the Oct 20, 2026 Finance Committee hearing (where the committee endorsed the budget to plenary in about 16 minutes). Senate Majority Leader Zubiri called the silence "a courtesy that we give to the Office of the Vice President." Governance Comparison / Constitutional Awareness pillar. Distinct from all recently logged topics (OCTA survey, Cayetano foreign-loan oversight, Lacson's duplicate-appropriations flag, Marcoleta disclosure, Visayas grid, BARMM audit, DPWH budget cut, various COA findings, Meralco rate reset, Moody's forecast, SSS pension, GDP/inflation, COA chairman Mallillin confirmation, Romualdez suspension-lift motion).
+**Angle:** Budget scrutiny exists so taxpayers know where public money goes; here it was explicitly waived as "courtesy" for one office, right after that office skipped the hearing meant to provide the scrutiny. Critiques the system/incentive (selective parliamentary courtesy overriding budget oversight), not the official's character. Ties to Art. II, Sec. 1 ("sovereignty resides in the people").
+**Hook (opening line, Tagalog, opening_hook placement per planner):** "Isang minuto. Walang tanong, walang paliwanag." (One minute. No question, no explanation.)
+**Tagalog beat used (fresh, composed for this post):** same as hook above. Placement: opening_hook (per `threads_tagalog_planner.py`, history depth was 1 at peek time, committed as entry #2 after this post).
+**Fact-check:** First attempt hit transient Gemini 503s (3 internal retries, infrastructure, not content); on completion the independent Gemini + Google Search verifier PASSED all claims: the P785.2M figure, the Nov 26 plenary approval, the Oct 20 Finance Committee absence, the Zubiri "courtesy" quote, and the Art. II Sec. 1 citation.
+**Published live:** post_id=17939804412411888, url=https://www.threads.com/@thefilipinostandard/post/DgM9D8LkUbR, 499 chars.
+**Sources (verified via WebSearch, 2+ reputable sources):**
+- https://www.rappler.com/philippines/senate-oks-ovp-2027-budget-one-minute/
+- https://www.manilatimes.net/2026/11/26/news/senate-okays-p7852m-ovp-budget-for-2027-in-one-minute/2478479
+- https://www.pna.gov.ph/article/senate-skips-questions-on-ovps-p7852-m-2027-budget
+- https://malaya.com.ph/news/national-news/opv-budget-cleared-in-just-over-a-minute-at-senate/

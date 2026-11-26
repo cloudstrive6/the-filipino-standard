@@ -6973,3 +6973,16 @@ Per the hard rule (max one retry, then stop), publishing nothing this run rather
 - https://www.philstar.com/headlines/2026/11/23/2572090/douglas-michael-mallillin-confirmed-new-coa-chair
 - https://newsinfo.inquirer.net/2345644/ca-confirms-douglas-michael-mallillin-as-coa-chairperson
 - https://www.gmanetwork.com/news/topstories/nation/1010491/mallillin-confirmed-as-coa-chairperson-by-commission-on-appointments/story/
+
+## 2026-11-26 12:04 PHT | threads | romualdez-suspension-lift-motion-flood-control-plunder — PUBLISHED LIVE
+
+**Topic:** Former House Speaker Martin Romualdez, detained since the P7.44-billion flood control plunder case (Ombudsman filed Sept 7, 2026), has asked the Sandiganbayan to lift the 90-day preventive suspension it ordered against him on Nov 10, 2026. His lawyers argue the suspension serves no purpose because his detention at New Quezon City Jail already strips him of the ability to perform official duties. Governance Comparison / Constitutional Awareness pillar. Distinct from all recently logged topics (OCTA survey, Cayetano foreign-loan oversight, Lacson's duplicate-appropriations flag, Marcoleta disclosure, Visayas grid, BARMM audit, DPWH budget cut, various COA findings, Meralco rate reset, Moody's forecast, SSS pension, GDP/inflation, COA chairman Mallillin confirmation).
+**Angle:** The preventive-suspension mechanism, meant to insulate a public office from an active plunder case, is being argued away as redundant paperwork using the same detention that proves the underlying case is serious. Critiques the accountability system/incentive (a guardrail that can be waived on a technicality) rather than the individual's character.
+**Hook (opening line, Tagalog, opening_hook placement per planner):** "Nasa likod ng rehas, pero ayaw bitawan ang puwesto." (Behind bars, but still won't let go of the seat.)
+**Tagalog beat used (fresh, composed for this post):** same as hook above. Placement: opening_hook (per `threads_tagalog_planner.py`, history depth was 1 with last entry mid_pivot).
+**Fact-check:** First publish attempt hit a transient Gemini 503 (service overloaded) after 3 internal retries and failed closed (no publish). Retried the same caption once (infrastructure issue, not a content problem); second attempt's independent Gemini + Google Search verifier PASSED all three claims (suspension-lift motion, P7.44B plunder case, detention-based argument).
+**Published live:** post_id=17910299208604787, url=https://www.threads.com/@thefilipinostandard/post/DgMNF9IllZW, 499 chars.
+**Sources (verified via WebSearch, 2+ reputable sources):**
+- https://www.manilatimes.net/2026/11/26/news/national/romualdez-asks-court-to-lift-his-suspension/2477723
+- https://www.philstar.com/headlines/2026/11/25/2572580/romualdez-asks-sandiganbayan-reconsider-90-day-suspension
+- https://businessmirror.com.ph/2026/11/26/romualdez-asks-sandiganbayan-to-lift-his-suspension/

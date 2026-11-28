@@ -7036,3 +7036,16 @@ Per the hard rule (max one retry, then stop), publishing nothing this run rather
 - https://bworldonline.com/economy/2026/11/26/797155/phl-exports-hit-record-in-oct-topping-10-billion-for-first-time/
 - https://tribune.net.ph/2026/11/27/ph-exports-hit-record-1057b-in-october
 - https://www.manilatimes.net/2026/11/28/business/top-business/ph-trade-deficit-hits-69b-in-oct/2479208
+
+## 2026-11-28 19:03 PHT | threads | erc-meralco-refund-vs-nz-entrust-dividend — PUBLISHED LIVE
+
+**Topic:** The ERC ordered Meralco to refund approximately P1.99 billion to its 8+ million customers (over three months starting December 2026), after a Supreme Court ruling (NASECORE v. ERC) directed the ERC to reassess Meralco's regulatory asset base and disallow P89.82 million in pension/employee-benefit expenses Meralco had not sufficiently justified. Economic & Utility Reform / Governance Comparison pillar. Distinct from all recently logged topics (OCTA survey, Cayetano foreign-loan oversight, Lacson duplicate-appropriations flag, Marcoleta disclosure, Visayas grid, BARMM audit, DPWH budget cut/restored, COA findings, Mallillin COA confirmation, prior Meralco rate-reset post, Moody's forecast, SSS pension, GDP/inflation, Romualdez suspension-lift, LandBank graft indictment, VP accepts-verdict impeachment post, export/trade-deficit post) — first post using this specific ERC refund order as its subject.
+**Angle:** Meralco only returns money to customers when a court forces a regulatory recalculation after it tried to charge for unproven costs; contrasts with Auckland's Entrust, which returns dividends to households every year automatically because the network is community owned. Critiques the ownership/incentive structure, not any individual.
+**Tagalog beat (fresh, composed for this post):** "Bumalik lang ang pera dahil may utos ng korte." (The money only came back because there was a court order.) Placement: mid_pivot, right after the hook, before the NZ comparison. Breaks the recent run of opening_hook/closing_line placements (last four posts: opening_hook, opening_hook, inline_woven, opening_hook, closing_line); mid_pivot last used 2026-11-24 19:03 (OCTA post).
+**Fact-check:** PASSED on first attempt. All four claims (P1.99B refund order, 8M+ customers, Supreme Court-mandated pension-cost disallowance, Entrust's automatic yearly Auckland dividend) independently verified by the Gemini + Google Search fact-checker.
+**Published live:** post_id=18118976933330867, url=https://www.threads.com/@thefilipinostandard/post/DgSGkiiHL7C, 497 chars.
+**Sources (verified via WebSearch, 2+ reputable sources):**
+- https://www.philstar.com/headlines/2026/11/28/2573120/erc-orders-p199-billion-meralco-refund
+- https://powerphilippines.com/erc-orders-php-1-99-billion-meralco-refund-after-asset-review/
+- https://mb.com.ph/2026/11/27/meralco-ordered-to-refund-2-billion-to-customers-starting-in-december
+- https://business.inquirer.net/623086/meralco-ordered-to-refund-p1-99b-to-consumers

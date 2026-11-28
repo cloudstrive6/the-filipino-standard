@@ -7024,3 +7024,15 @@ Per the hard rule (max one retry, then stop), publishing nothing this run rather
 - https://www.philstar.com/headlines/2026/11/27/2573060/vp-sara-duterte-we-will-accept-whatever-impeachment-verdict
 - https://www.manilatimes.net/2026/11/25/news/impeachment-verdict-expected-next-month/2477352
 - https://www.manilatimes.net/2026/11/21/news/national/december-verdict-a-moving-target-as-senate-prioritizes-2027-budget/2475044
+
+## 2026-11-28 12:03 PHT | threads | ph-exports-record-trade-deficit-widens — PUBLISHED LIVE
+
+**Topic:** Philippine merchandise exports hit a record $10.57 billion in October 2026 (PSA preliminary data), up 41.8% YoY, the 22nd straight month of YoY growth, driven by semiconductors more than doubling to $6.3 billion on AI-chip demand. Same month, the trade deficit widened to a record $6.95 billion, the highest since PSA began tracking trade in 1991. Economic & Utility Reform / Governance Comparison pillar. Distinct from all recently logged topics (OCTA survey, Cayetano foreign-loan oversight, Lacson duplicate-appropriations flag, Marcoleta disclosure, Visayas grid, BARMM audit, DPWH budget cut/restored, COA findings, Mallillin COA confirmation, Meralco rate reset, Moody's forecast, SSS pension, GDP/inflation, Romualdez suspension-lift, LandBank graft indictment, VP accepts-verdict impeachment post) — first post using the export/trade-deficit data release as its subject.
+**Angle:** A record headline number (exports) and a record bad number (deficit) landing in the same month, same release. Critiques the growth model/incentive structure (semiconductor-assembly-driven export volume vs. a system built to keep value inside the country), not any individual or party.
+**Tagalog beat (fresh, composed for this post):** "Laki ng kinita, mas laki ang nawala." (Big earnings, but what was lost is bigger.) Placement: closing_line (verdict beat). Chosen to break the two-post streak of opening_hook (VP-verdict post) then inline_woven (flood-control post) before that; avoids the stale planner-recommended "opening_hook" since the actual last post already used it. Note: `scripts/threads_tagalog_planner.py` state (`config/threads_tagalog_history.json`) is stale (last commit June 7, 2026) and out of sync with this log's actual placement history; placement here was chosen manually against this log's tail instead.
+**Fact-check:** PASSED on first attempt. All five claims (record $10.57B, +41.8% YoY, 22nd straight month, semiconductors to $6.3B, $6.95B deficit) independently verified by the Gemini + Google Search fact-checker against PSA data.
+**Published live:** post_id=18121242260157677, url=https://www.threads.com/@thefilipinostandard/post/DgRWjeSlYhJ, 465 chars.
+**Sources (verified via WebSearch, 2+ reputable sources):**
+- https://bworldonline.com/economy/2026/11/26/797155/phl-exports-hit-record-in-oct-topping-10-billion-for-first-time/
+- https://tribune.net.ph/2026/11/27/ph-exports-hit-record-1057b-in-october
+- https://www.manilatimes.net/2026/11/28/business/top-business/ph-trade-deficit-hits-69b-in-oct/2479208
